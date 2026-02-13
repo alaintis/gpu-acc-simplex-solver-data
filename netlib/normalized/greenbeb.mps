@@ -1,0 +1,20153 @@
+NAME          GREENBEB
+ROWS
+ E  AAG.....
+ E  AAH.....
+ E  AAL.....
+ E  AAM.....
+ E  AAW.....
+ E  AAX.....
+ E  ABA.....
+ E  ABQ.....
+ E  ABR.....
+ E  ACA.....
+ E  ADA.....
+ E  AD2.....
+ E  AEL.....
+ E  AEO.....
+ E  AES.....
+ E  AGL.....
+ E  AIH.....
+ E  AIL.....
+ E  AIS.....
+ E  AKK.....
+ E  AKU.....
+ E  AMI.....
+ E  AMU.....
+ E  ANF.....
+ E  ANL.....
+ E  ANM.....
+ E  AN5.....
+ E  AOM.....
+ E  AON.....
+ E  AQA.....
+ E  ASA.....
+ E  ASE.....
+ E  AS1.....
+ E  ATL.....
+ E  ATM.....
+ E  ATR.....
+ E  AUH.....
+ E  AUL.....
+ E  AW3.....
+ E  AYA.....
+ E  AYC.....
+ E  AYS.....
+ E  AYV.....
+ E  AZA.....
+ E  KTC.....
+ E  KWC.....
+ E  KWC.AF..
+ E  BDH...AN
+ E  BDK...AN
+ E  BDP...AN
+ E  BFP...AN
+ E  BFT...AN
+ E  BFY...AN
+ E  BNE...AN
+ E  BNI...AN
+ E  BNL...AN
+ E  BNP...AN
+ E  CTF.D.AN
+ E  BDH...AW
+ E  BDK...AW
+ E  BDP...AW
+ E  BFP...AW
+ E  BFY...AW
+ E  BLG...AW
+ E  BNE...AW
+ E  BNI...AW
+ E  BNL...AW
+ E  BNP...AW
+ E  CTF.D.AW
+ E  B/A...BA
+ E  BAC...BA
+ E  BAH...BA
+ E  BAL...BA
+ E  BAM...BA
+ E  BAS...BA
+ E  BAW...BA
+ E  BAX...BA
+ E  BAZ...BA
+ E  BBA...BA
+ E  BBB...BA
+ E  BBC...BA
+ E  BBD...BA
+ E  BBE...BA
+ E  BBK...BA
+ E  BBL...BA
+ E  BBM...BA
+ E  BBN...BA
+ E  BBO...BA
+ E  BBP...BA
+ E  BBR...BA
+ E  BBS...BA
+ E  BBT...BA
+ E  BBU...BA
+ E  BBV...BA
+ E  BBW...BA
+ E  BBX...BA
+ E  BBY...BA
+ E  BB4...BA
+ E  BB5...BA
+ E  BCA...BA
+ E  BCV...BA
+ E  BDH...BA
+ E  BDK...BA
+ E  BDM...BA
+ E  BES...BA
+ E  BFJ...BA
+ E  BFP...BA
+ E  BFR...BA
+ E  BFS...BA
+ E  BFT...BA
+ E  BFW...BA
+ E  BFY...BA
+ E  BGP...BA
+ E  BGU...BA
+ E  BHA...BA
+ E  BHH...BA
+ E  BHI...BA
+ E  BHL...BA
+ E  BHM...BA
+ E  BHN...BA
+ E  BHV...BA
+ E  BHY...BA
+ E  BIB...BA
+ E  BIG...BA
+ E  BIH...BA
+ E  BIL...BA
+ E  BIN...BA
+ E  BIP...BA
+ E  BI5...BA
+ E  BJL...BA
+ E  BKE...BA
+ E  BKH...BA
+ E  BKU...BA
+ E  BLA...BA
+ E  BLB...BA
+ E  BLG...BA
+ E  BLI...BA
+ E  BLJ...BA
+ E  BLN...BA
+ E  BLS...BA
+ E  BLT...BA
+ E  BMA...BA
+ E  BMD...BA
+ E  BMF...BA
+ E  BMT...BA
+ E  BMU...BA
+ E  BNI...BA
+ E  BNJ...BA
+ E  BNL...BA
+ E  BNP...BA
+ E  BN4...BA
+ E  BOA...BA
+ E  BOL...BA
+ E  BON...BA
+ E  BQA...BA
+ E  BQB...BA
+ E  BQH...BA
+ E  BQJ...BA
+ E  BQW...BA
+ E  BRB...BA
+ E  BRG...BA
+ E  BRT...BA
+ E  BSA...BA
+ E  BSB...BA
+ E  BSE...BA
+ E  BSH...BA
+ E  BSJ...BA
+ E  BSW...BA
+ E  BTD...BA
+ E  BTL...BA
+ E  BTM...BA
+ E  BTR...BA
+ E  BUK...BA
+ E  BUM...BA
+ E  BVH...BA
+ E  BVY...BA
+ E  BWA...BA
+ E  BXA...BA
+ E  BYH...BA
+ E  BYV...BA
+ E  BZA...BA
+ E  B0A...BA
+ E  B0B...BA
+ E  B0J...BA
+ E  B1A...BA
+ E  B1G...BA
+ E  B1H...BA
+ E  B1I...BA
+ E  B1K...BA
+ E  B1W...BA
+ E  B2A...BA
+ E  B2G...BA
+ E  B2H...BA
+ E  B2I...BA
+ E  B2K...BA
+ E  B2W...BA
+ E  B4A...BA
+ E  B4C...BA
+ E  B4E...BA
+ E  B4F...BA
+ E  B4G...BA
+ E  B4H...BA
+ E  B4J...BA
+ E  B4L...BA
+ E  B4M...BA
+ E  B4N...BA
+ E  B4O...BA
+ E  B4Q...BA
+ E  B4S...BA
+ E  B5A...BA
+ E  B5B...BA
+ E  B5C...BA
+ E  B5D...BA
+ E  B5E...BA
+ E  B5F...BA
+ E  B5G...BA
+ E  B5H...BA
+ E  B5M...BA
+ E  B5N...BA
+ E  B5O...BA
+ E  B5P...BA
+ E  B5T...BA
+ E  B7B...BA
+ E  B7J...BA
+ E  B7Q...BA
+ E  B7T...BA
+ E  B8A...BA
+ E  B8B...BA
+ E  B8H...BA
+ E  B8J...BA
+ E  B8W...BA
+ E  B9A...BA
+ E  B9C...BA
+ E  B9E...BA
+ E  B9F...BA
+ E  B9G...BA
+ E  B9H...BA
+ E  B9J...BA
+ E  B9L...BA
+ E  B9M...BA
+ E  B9N...BA
+ E  B9O...BA
+ E  B9Q...BA
+ E  B9S...BA
+ E  BDH.VOBA
+ E  BFP.VOBA
+ E  BFS.VOBA
+ E  BFW.VOBA
+ E  BFY.VOBA
+ E  BGP.VOBA
+ E  BGU.VOBA
+ E  BFP.WTBA
+ E  BFS.WTBA
+ E  BFW.WTBA
+ E  BFY.WTBA
+ E  CF..B.BA
+ E  CFT.C.BA
+ E  CTF.D.BA
+ E  CF..F.BA
+ E  CF..G.BA
+ E  CF..P.BA
+ E  CF..Q.BA
+ E  CF..R.BA
+ E  COH.V.BA
+ E  KVE...BA
+ E  KMC.IMBA
+ E  NVI.FPBA
+ E  NVI.FSBA
+ E  NVI.FWBA
+ E  NVI.FYBA
+ E  ND2.GPBA
+ E  NRN.GPBA
+ E  ND2.GUBA
+ E  NRN.GUBA
+ E  WD8.GPBA
+ E  WVP.GPBA
+ E  WD8.GUBA
+ E  WVP.GUBA
+ E  XCI.DHBA
+ E  XSU.DHBA
+ E  XSU.FPBA
+ E  XVI.FPBA
+ E  XSU.FSBA
+ E  XVI.FSBA
+ E  XSU.FWBA
+ E  XVI.FWBA
+ E  XSU.FYBA
+ E  XVI.FYBA
+ E  XVL.GPBA
+ E  XVL.GUBA
+ E  BGP...CA
+ E  BGP...CM
+ E  KMC.EXE.
+ E  KMC.IME.
+ E  KTX.PRE.
+ E  B/A...EH
+ E  BAC...EH
+ E  BAF...EH
+ E  BAG...EH
+ E  BAH...EH
+ E  BAJ...EH
+ E  BAK...EH
+ E  BAL...EH
+ E  BAM...EH
+ E  BAP...EH
+ E  BAS...EH
+ E  BAW...EH
+ E  BAX...EH
+ E  BAZ...EH
+ E  BBA...EH
+ E  BBB...EH
+ E  BBC...EH
+ E  BBD...EH
+ E  BBE...EH
+ E  BBK...EH
+ E  BBL...EH
+ E  BBM...EH
+ E  BBN...EH
+ E  BBO...EH
+ E  BBP...EH
+ E  BBU...EH
+ E  BBV...EH
+ E  BBW...EH
+ E  BBY...EH
+ E  BCA...EH
+ E  BCR...EH
+ E  BCV...EH
+ E  BDH...EH
+ E  BDK...EH
+ E  BEL...EH
+ E  BES...EH
+ E  BFE...EH
+ E  BFG...EH
+ E  BFI...EH
+ E  BFJ...EH
+ E  BFR...EH
+ E  BFT...EH
+ E  BFV...EH
+ E  BFX...EH
+ E  BFY...EH
+ E  BGP...EH
+ E  BHA...EH
+ E  BHH...EH
+ E  BHI...EH
+ E  BHL...EH
+ E  BHM...EH
+ E  BHN...EH
+ E  BHU...EH
+ E  BHY...EH
+ E  BIB...EH
+ E  BIG...EH
+ E  BIH...EH
+ E  BIL...EH
+ E  BIN...EH
+ E  BIP...EH
+ E  BIR...EH
+ E  BI5...EH
+ E  BKA...EH
+ E  BKE...EH
+ E  BKH...EH
+ E  BKK...EH
+ E  BKQ...EH
+ E  BKU...EH
+ E  BLA...EH
+ E  BLB...EH
+ E  BLE...EH
+ E  BLG...EH
+ E  BLI...EH
+ E  BLN...EH
+ E  BLS...EH
+ E  BLT...EH
+ E  BLU...EH
+ E  BMA...EH
+ E  BMD...EH
+ E  BMF...EH
+ E  BMN...EH
+ E  BMO...EH
+ E  BMU...EH
+ E  BNE...EH
+ E  BNJ...EH
+ E  BNL...EH
+ E  BN4...EH
+ E  BOA...EH
+ E  BOL...EH
+ E  BQA...EH
+ E  BQH...EH
+ E  BQT...EH
+ E  BQW...EH
+ E  BRB...EH
+ E  BRG...EH
+ E  BRI...EH
+ E  BSA...EH
+ E  BSE...EH
+ E  BSH...EH
+ E  BSW...EH
+ E  BTL...EH
+ E  BTQ...EH
+ E  BUH...EH
+ E  BUK...EH
+ E  BUL...EH
+ E  BUM...EH
+ E  BWA...EH
+ E  BXA...EH
+ E  BYH...EH
+ E  BZA...EH
+ E  B0A...EH
+ E  B1A...EH
+ E  B1G...EH
+ E  B1H...EH
+ E  B1I...EH
+ E  B1K...EH
+ E  B1W...EH
+ E  B2A...EH
+ E  B2G...EH
+ E  B2H...EH
+ E  B2I...EH
+ E  B2K...EH
+ E  B2W...EH
+ E  B4A...EH
+ E  B4C...EH
+ E  B4E...EH
+ E  B4F...EH
+ E  B4G...EH
+ E  B4H...EH
+ E  B4J...EH
+ E  B4L...EH
+ E  B4M...EH
+ E  B4N...EH
+ E  B5A...EH
+ E  B5B...EH
+ E  B5C...EH
+ E  B5D...EH
+ E  B5E...EH
+ E  B5F...EH
+ E  B5G...EH
+ E  B5H...EH
+ E  B5T...EH
+ E  B5U...EH
+ E  B5V...EH
+ E  B5W...EH
+ E  B6A...EH
+ E  B6H...EH
+ E  B6W...EH
+ E  B7A...EH
+ E  B7G...EH
+ E  B7H...EH
+ E  B7K...EH
+ E  B7W...EH
+ E  B8A...EH
+ E  B8H...EH
+ E  B8W...EH
+ E  B9A...EH
+ E  B9B...EH
+ E  B9C...EH
+ E  B9D...EH
+ E  B9E...EH
+ E  B9F...EH
+ E  B9G...EH
+ E  B9H...EH
+ E  B9I...EH
+ E  B9J...EH
+ E  B9K...EH
+ E  B9L...EH
+ E  B9M...EH
+ E  B9N...EH
+ E  BDH.VOEH
+ E  BFT.VOEH
+ E  BFV.VOEH
+ E  BFY.VOEH
+ E  BGP.VOEH
+ E  BFT.WTEH
+ E  BFV.WTEH
+ E  BFY.WTEH
+ E  CF..B.EH
+ E  CFT.C.EH
+ E  CTF.D.EH
+ E  CF..F.EH
+ E  CF..G.EH
+ E  CF..P.EH
+ E  CF..Q.EH
+ E  CF..R.EH
+ E  COH.V.EH
+ E  KPC...EH
+ E  NVI.FTEH
+ E  NVI.FVEH
+ E  NVI.FYEH
+ E  ND2.GPEH
+ E  NRN.GPEH
+ E  WD8.GPEH
+ E  WVP.GPEH
+ E  XCI.DHEH
+ E  XSU.DHEH
+ E  XSU.FTEH
+ E  XVI.FTEH
+ E  XSU.FVEH
+ E  XVI.FVEH
+ E  XSU.FYEH
+ E  XVI.FYEH
+ E  XVL.GPEH
+ E  B/A...EM
+ E  BAC...EM
+ E  BAF...EM
+ E  BAG...EM
+ E  BAH...EM
+ E  BAJ...EM
+ E  BAK...EM
+ E  BAL...EM
+ E  BAM...EM
+ E  BAP...EM
+ E  BAS...EM
+ E  BAW...EM
+ E  BAX...EM
+ E  BAZ...EM
+ E  BBA...EM
+ E  BBB...EM
+ E  BBC...EM
+ E  BBD...EM
+ E  BBE...EM
+ E  BBK...EM
+ E  BBL...EM
+ E  BBM...EM
+ E  BBN...EM
+ E  BBO...EM
+ E  BBP...EM
+ E  BBU...EM
+ E  BBV...EM
+ E  BBW...EM
+ E  BBY...EM
+ E  BB4...EM
+ E  BCA...EM
+ E  BCR...EM
+ E  BCV...EM
+ E  BDH...EM
+ E  BDK...EM
+ E  BEL...EM
+ E  BES...EM
+ E  BFE...EM
+ E  BFG...EM
+ E  BFI...EM
+ E  BFJ...EM
+ E  BFR...EM
+ E  BFS...EM
+ E  BFT...EM
+ E  BFV...EM
+ E  BFX...EM
+ E  BFY...EM
+ E  BGP...EM
+ E  BGU...EM
+ E  BHA...EM
+ E  BHH...EM
+ E  BHI...EM
+ E  BHL...EM
+ E  BHM...EM
+ E  BHN...EM
+ E  BHU...EM
+ E  BHV...EM
+ E  BHY...EM
+ E  BIB...EM
+ E  BIG...EM
+ E  BIH...EM
+ E  BIL...EM
+ E  BIN...EM
+ E  BIP...EM
+ E  BIR...EM
+ E  BI5...EM
+ E  BKA...EM
+ E  BKE...EM
+ E  BKH...EM
+ E  BKK...EM
+ E  BKQ...EM
+ E  BKU...EM
+ E  BLA...EM
+ E  BLB...EM
+ E  BLE...EM
+ E  BLG...EM
+ E  BLI...EM
+ E  BLN...EM
+ E  BLO...EM
+ E  BLS...EM
+ E  BLT...EM
+ E  BLU...EM
+ E  BMA...EM
+ E  BMD...EM
+ E  BMF...EM
+ E  BMN...EM
+ E  BMO...EM
+ E  BMT...EM
+ E  BMU...EM
+ E  BNE...EM
+ E  BNI...EM
+ E  BNJ...EM
+ E  BNL...EM
+ E  BNP...EM
+ E  BN4...EM
+ E  BOA...EM
+ E  BOL...EM
+ E  BQA...EM
+ E  BQH...EM
+ E  BQT...EM
+ E  BQW...EM
+ E  BRB...EM
+ E  BRG...EM
+ E  BRI...EM
+ E  BSA...EM
+ E  BSE...EM
+ E  BSH...EM
+ E  BSW...EM
+ E  BTL...EM
+ E  BTM...EM
+ E  BTQ...EM
+ E  BUH...EM
+ E  BUK...EM
+ E  BUL...EM
+ E  BUM...EM
+ E  BVH...EM
+ E  BWA...EM
+ E  BXA...EM
+ E  BYH...EM
+ E  BZA...EM
+ E  B0A...EM
+ E  B1A...EM
+ E  B1G...EM
+ E  B1H...EM
+ E  B1I...EM
+ E  B1K...EM
+ E  B1W...EM
+ E  B2A...EM
+ E  B2G...EM
+ E  B2H...EM
+ E  B2I...EM
+ E  B2K...EM
+ E  B2W...EM
+ E  B4A...EM
+ E  B4C...EM
+ E  B4E...EM
+ E  B4F...EM
+ E  B4G...EM
+ E  B4H...EM
+ E  B4J...EM
+ E  B4L...EM
+ E  B4M...EM
+ E  B4N...EM
+ E  B4O...EM
+ E  B4Q...EM
+ E  B4S...EM
+ E  B5A...EM
+ E  B5B...EM
+ E  B5C...EM
+ E  B5D...EM
+ E  B5E...EM
+ E  B5F...EM
+ E  B5G...EM
+ E  B5H...EM
+ E  B5M...EM
+ E  B5N...EM
+ E  B5O...EM
+ E  B5P...EM
+ E  B5T...EM
+ E  B5U...EM
+ E  B5V...EM
+ E  B5W...EM
+ E  B6A...EM
+ E  B6H...EM
+ E  B6W...EM
+ E  B7A...EM
+ E  B7G...EM
+ E  B7H...EM
+ E  B7K...EM
+ E  B7W...EM
+ E  B8A...EM
+ E  B8H...EM
+ E  B8W...EM
+ E  B9A...EM
+ E  B9B...EM
+ E  B9C...EM
+ E  B9D...EM
+ E  B9E...EM
+ E  B9F...EM
+ E  B9G...EM
+ E  B9H...EM
+ E  B9I...EM
+ E  B9J...EM
+ E  B9K...EM
+ E  B9L...EM
+ E  B9M...EM
+ E  B9N...EM
+ E  B9O...EM
+ E  B9P...EM
+ E  B9Q...EM
+ E  B9R...EM
+ E  B9S...EM
+ E  BDH.VOEM
+ E  BFT.VOEM
+ E  BFV.VOEM
+ E  BFY.VOEM
+ E  BGP.VOEM
+ E  BFT.WTEM
+ E  BFV.WTEM
+ E  BFY.WTEM
+ E  CF..B.EM
+ E  CFT.C.EM
+ E  CTF.D.EM
+ E  CF..F.EM
+ E  CF..G.EM
+ E  CF..P.EM
+ E  CF..Q.EM
+ E  CF..R.EM
+ E  COH.V.EM
+ E  KPC...EM
+ E  KTF.C5EM
+ E  NVI.FTEM
+ E  NVI.FVEM
+ E  NVI.FYEM
+ E  ND2.GPEM
+ E  NRN.GPEM
+ E  WD8.GPEM
+ E  WVP.GPEM
+ E  XCI.DHEM
+ E  XSU.DHEM
+ E  XSU.FTEM
+ E  XVI.FTEM
+ E  XSU.FVEM
+ E  XVI.FVEM
+ E  XSU.FYEM
+ E  XVI.FYEM
+ E  XVL.GPEM
+ E  B/A...EZ
+ E  BAC...EZ
+ E  BAF...EZ
+ E  BAG...EZ
+ E  BAH...EZ
+ E  BAJ...EZ
+ E  BAK...EZ
+ E  BAL...EZ
+ E  BAM...EZ
+ E  BAP...EZ
+ E  BAS...EZ
+ E  BAW...EZ
+ E  BAX...EZ
+ E  BAZ...EZ
+ E  BBA...EZ
+ E  BBB...EZ
+ E  BBC...EZ
+ E  BBD...EZ
+ E  BBE...EZ
+ E  BBK...EZ
+ E  BBL...EZ
+ E  BBM...EZ
+ E  BBN...EZ
+ E  BBO...EZ
+ E  BBP...EZ
+ E  BBU...EZ
+ E  BBV...EZ
+ E  BBW...EZ
+ E  BBY...EZ
+ E  BB4...EZ
+ E  BCA...EZ
+ E  BCR...EZ
+ E  BCV...EZ
+ E  BDH...EZ
+ E  BDK...EZ
+ E  BEL...EZ
+ E  BES...EZ
+ E  BFE...EZ
+ E  BFG...EZ
+ E  BFI...EZ
+ E  BFJ...EZ
+ E  BFR...EZ
+ E  BFS...EZ
+ E  BFT...EZ
+ E  BFV...EZ
+ E  BFX...EZ
+ E  BFY...EZ
+ E  BGP...EZ
+ E  BGU...EZ
+ E  BHA...EZ
+ E  BHH...EZ
+ E  BHI...EZ
+ E  BHL...EZ
+ E  BHM...EZ
+ E  BHN...EZ
+ E  BHU...EZ
+ E  BHV...EZ
+ E  BHY...EZ
+ E  BIB...EZ
+ E  BIG...EZ
+ E  BIH...EZ
+ E  BIL...EZ
+ E  BIN...EZ
+ E  BIP...EZ
+ E  BIR...EZ
+ E  BI5...EZ
+ E  BKA...EZ
+ E  BKE...EZ
+ E  BKH...EZ
+ E  BKK...EZ
+ E  BKQ...EZ
+ E  BKU...EZ
+ E  BLA...EZ
+ E  BLB...EZ
+ E  BLE...EZ
+ E  BLG...EZ
+ E  BLI...EZ
+ E  BLN...EZ
+ E  BLS...EZ
+ E  BLT...EZ
+ E  BLU...EZ
+ E  BMA...EZ
+ E  BMD...EZ
+ E  BMF...EZ
+ E  BMN...EZ
+ E  BMO...EZ
+ E  BMT...EZ
+ E  BMU...EZ
+ E  BNE...EZ
+ E  BNI...EZ
+ E  BNJ...EZ
+ E  BNL...EZ
+ E  BNP...EZ
+ E  BN4...EZ
+ E  BOA...EZ
+ E  BOL...EZ
+ E  BQA...EZ
+ E  BQH...EZ
+ E  BQT...EZ
+ E  BQW...EZ
+ E  BRB...EZ
+ E  BRG...EZ
+ E  BRI...EZ
+ E  BSA...EZ
+ E  BSE...EZ
+ E  BSH...EZ
+ E  BSW...EZ
+ E  BTL...EZ
+ E  BTM...EZ
+ E  BTQ...EZ
+ E  BUH...EZ
+ E  BUK...EZ
+ E  BUL...EZ
+ E  BUM...EZ
+ E  BVH...EZ
+ E  BWA...EZ
+ E  BXA...EZ
+ E  BYH...EZ
+ E  BZA...EZ
+ E  B0A...EZ
+ E  B1A...EZ
+ E  B1G...EZ
+ E  B1H...EZ
+ E  B1I...EZ
+ E  B1K...EZ
+ E  B1W...EZ
+ E  B2A...EZ
+ E  B2G...EZ
+ E  B2H...EZ
+ E  B2I...EZ
+ E  B2K...EZ
+ E  B2W...EZ
+ E  B4A...EZ
+ E  B4C...EZ
+ E  B4E...EZ
+ E  B4F...EZ
+ E  B4G...EZ
+ E  B4H...EZ
+ E  B4J...EZ
+ E  B4L...EZ
+ E  B4M...EZ
+ E  B4N...EZ
+ E  B4O...EZ
+ E  B4Q...EZ
+ E  B4S...EZ
+ E  B5A...EZ
+ E  B5B...EZ
+ E  B5C...EZ
+ E  B5D...EZ
+ E  B5E...EZ
+ E  B5F...EZ
+ E  B5G...EZ
+ E  B5H...EZ
+ E  B5M...EZ
+ E  B5N...EZ
+ E  B5O...EZ
+ E  B5P...EZ
+ E  B5T...EZ
+ E  B5U...EZ
+ E  B5V...EZ
+ E  B5W...EZ
+ E  B6A...EZ
+ E  B6H...EZ
+ E  B6W...EZ
+ E  B7A...EZ
+ E  B7G...EZ
+ E  B7H...EZ
+ E  B7K...EZ
+ E  B7L...EZ
+ E  B7U...EZ
+ E  B7W...EZ
+ E  B8A...EZ
+ E  B8H...EZ
+ E  B8W...EZ
+ E  B9A...EZ
+ E  B9B...EZ
+ E  B9C...EZ
+ E  B9D...EZ
+ E  B9E...EZ
+ E  B9F...EZ
+ E  B9G...EZ
+ E  B9H...EZ
+ E  B9I...EZ
+ E  B9J...EZ
+ E  B9K...EZ
+ E  B9L...EZ
+ E  B9M...EZ
+ E  B9N...EZ
+ E  B9O...EZ
+ E  B9P...EZ
+ E  B9Q...EZ
+ E  B9R...EZ
+ E  B9S...EZ
+ E  B9V...EZ
+ E  BDH.VOEZ
+ E  BFT.VOEZ
+ E  BFV.VOEZ
+ E  BFY.VOEZ
+ E  BGP.VOEZ
+ E  BFT.WTEZ
+ E  BFV.WTEZ
+ E  BFY.WTEZ
+ E  CF..B.EZ
+ E  CFT.C.EZ
+ E  CTF.D.EZ
+ E  CF..F.EZ
+ E  CF..G.EZ
+ E  CF..H.EZ
+ E  CF..P.EZ
+ E  CF..Q.EZ
+ E  CF..R.EZ
+ E  COH.V.EZ
+ E  KPC...EZ
+ E  KTF.C5EZ
+ E  NVI.FTEZ
+ E  NVI.FVEZ
+ E  NVI.FYEZ
+ E  ND2.GPEZ
+ E  NRN.GPEZ
+ E  WD8.GPEZ
+ E  WVP.GPEZ
+ E  XCI.DHEZ
+ E  XSU.DHEZ
+ E  XSU.FTEZ
+ E  XVI.FTEZ
+ E  XSU.FVEZ
+ E  XVI.FVEZ
+ E  XSU.FYEZ
+ E  XVI.FYEZ
+ E  XVL.GPEZ
+ E  B/A...JP
+ E  BAH...JP
+ E  BAJ...JP
+ E  BAK...JP
+ E  BAL...JP
+ E  BAM...JP
+ E  BAX...JP
+ E  BA5...JP
+ E  BBA...JP
+ E  BBB...JP
+ E  BBC...JP
+ E  BBD...JP
+ E  BBE...JP
+ E  BBK...JP
+ E  BBL...JP
+ E  BBM...JP
+ E  BBN...JP
+ E  BBO...JP
+ E  BBP...JP
+ E  BBU...JP
+ E  BBV...JP
+ E  BBW...JP
+ E  BBY...JP
+ E  BCR...JP
+ E  BCV...JP
+ E  BDH...JP
+ E  BDK...JP
+ E  BEO...JP
+ E  BFJ...JP
+ E  BFO...JP
+ E  BFQ...JP
+ E  BFR...JP
+ E  BFU...JP
+ E  BFW...JP
+ E  BFY...JP
+ E  BGP...JP
+ E  BHA...JP
+ E  BHH...JP
+ E  BHI...JP
+ E  BHL...JP
+ E  BHM...JP
+ E  BHN...JP
+ E  BIB...JP
+ E  BIG...JP
+ E  BIH...JP
+ E  BIL...JP
+ E  BIM...JP
+ E  BIN...JP
+ E  BIP...JP
+ E  BIR...JP
+ E  BI5...JP
+ E  BKA...JP
+ E  BKE...JP
+ E  BKH...JP
+ E  BKU...JP
+ E  BLA...JP
+ E  BLG...JP
+ E  BLI...JP
+ E  BLN...JP
+ E  BMA...JP
+ E  BMI...JP
+ E  BMN...JP
+ E  BMO...JP
+ E  BMU...JP
+ E  BNJ...JP
+ E  BNL...JP
+ E  BNP...JP
+ E  BN4...JP
+ E  BOA...JP
+ E  BOL...JP
+ E  BQA...JP
+ E  BQH...JP
+ E  BQT...JP
+ E  BQW...JP
+ E  BRG...JP
+ E  BRI...JP
+ E  BRS...JP
+ E  BSA...JP
+ E  BSH...JP
+ E  BSR...JP
+ E  BSW...JP
+ E  BTQ...JP
+ E  BUK...JP
+ E  BUM...JP
+ E  BXA...JP
+ E  BZN...JP
+ E  B1A...JP
+ E  B1G...JP
+ E  B1H...JP
+ E  B1I...JP
+ E  B1K...JP
+ E  B1W...JP
+ E  B2A...JP
+ E  B2G...JP
+ E  B2H...JP
+ E  B2I...JP
+ E  B2K...JP
+ E  B2W...JP
+ E  B4A...JP
+ E  B4C...JP
+ E  B4E...JP
+ E  B4F...JP
+ E  B4H...JP
+ E  B4J...JP
+ E  B4L...JP
+ E  B4M...JP
+ E  B4O...JP
+ E  B4Q...JP
+ E  B4S...JP
+ E  B5A...JP
+ E  B5B...JP
+ E  B5C...JP
+ E  B5D...JP
+ E  B5E...JP
+ E  B5F...JP
+ E  B5G...JP
+ E  B5H...JP
+ E  B5M...JP
+ E  B5N...JP
+ E  B5O...JP
+ E  B5P...JP
+ E  B5T...JP
+ E  B5U...JP
+ E  B5V...JP
+ E  B5W...JP
+ E  B50...JP
+ E  B6A...JP
+ E  B6H...JP
+ E  B6W...JP
+ E  B8A...JP
+ E  B8H...JP
+ E  B8W...JP
+ E  B9A...JP
+ E  B9B...JP
+ E  B9C...JP
+ E  B9D...JP
+ E  B9E...JP
+ E  B9F...JP
+ E  B9G...JP
+ E  B9H...JP
+ E  B9I...JP
+ E  B9J...JP
+ E  B9K...JP
+ E  B9L...JP
+ E  B9M...JP
+ E  B9N...JP
+ E  B9O...JP
+ E  B9P...JP
+ E  B9Q...JP
+ E  B9R...JP
+ E  B9S...JP
+ E  BDH.VOJP
+ E  BFO.VOJP
+ E  BFQ.VOJP
+ E  BFY.VOJP
+ E  BGP.VOJP
+ E  BFO.WTJP
+ E  BFQ.WTJP
+ E  BFY.WTJP
+ E  CFT.C.JP
+ E  CTF.D.JP
+ E  CF..F.JP
+ E  CF..G.JP
+ E  CF..P.JP
+ E  CF..Q.JP
+ E  CF..R.JP
+ E  COH.V.JP
+ E  KPC...JP
+ E  KMC.FYJP
+ E  KMC.IMJP
+ E  NVI.FOJP
+ E  NVI.FQJP
+ E  NVI.FYJP
+ E  ND2.GPJP
+ E  NRN.GPJP
+ E  WD8.GPJP
+ E  WVP.GPJP
+ E  XCI.DHJP
+ E  XSU.DHJP
+ E  XSU.FOJP
+ E  XVI.FOJP
+ E  XSU.FQJP
+ E  XVI.FQJP
+ E  XSU.FYJP
+ E  XVI.FYJP
+ E  XVL.GPJP
+ E  BCR...LA
+ E  BDH...LA
+ E  BFY...LA
+ E  BGP...LA
+ E  BCR...OF
+ E  BDH...OF
+ E  BDP...OF
+ E  BFY...OF
+ E  BCR...OS
+ E  B/A...PG
+ E  BAH...PG
+ E  BAL...PG
+ E  BAM...PG
+ E  BAX...PG
+ E  BBA...PG
+ E  BBB...PG
+ E  BBC...PG
+ E  BBD...PG
+ E  BBE...PG
+ E  BBK...PG
+ E  BBL...PG
+ E  BBM...PG
+ E  BBN...PG
+ E  BBO...PG
+ E  BBP...PG
+ E  BBU...PG
+ E  BBV...PG
+ E  BBW...PG
+ E  BBY...PG
+ E  BB4...PG
+ E  BB5...PG
+ E  BCR...PG
+ E  BCV...PG
+ E  BDH...PG
+ E  BDK...PG
+ E  BDL...PG
+ E  BDP...PG
+ E  BFJ...PG
+ E  BFO...PG
+ E  BFP...PG
+ E  BFQ...PG
+ E  BFR...PG
+ E  BFS...PG
+ E  BFT...PG
+ E  BFY...PG
+ E  BFZ...PG
+ E  BGE...PG
+ E  BGJ...PG
+ E  BGP...PG
+ E  BGS...PG
+ E  BGU...PG
+ E  BHA...PG
+ E  BHH...PG
+ E  BHI...PG
+ E  BHL...PG
+ E  BHM...PG
+ E  BHN...PG
+ E  BIB...PG
+ E  BIG...PG
+ E  BIH...PG
+ E  BIL...PG
+ E  BIN...PG
+ E  BIP...PG
+ E  BI5...PG
+ E  BKE...PG
+ E  BKH...PG
+ E  BKU...PG
+ E  BLA...PG
+ E  BLG...PG
+ E  BLI...PG
+ E  BLN...PG
+ E  BLP...PG
+ E  BMA...PG
+ E  BMU...PG
+ E  BNJ...PG
+ E  BNL...PG
+ E  BNP...PG
+ E  BN4...PG
+ E  BOA...PG
+ E  BOL...PG
+ E  BQA...PG
+ E  BQH...PG
+ E  BQW...PG
+ E  BRG...PG
+ E  BSA...PG
+ E  BSH...PG
+ E  BSW...PG
+ E  BUK...PG
+ E  BUM...PG
+ E  BXA...PG
+ E  B0A...PG
+ E  B1A...PG
+ E  B1G...PG
+ E  B1H...PG
+ E  B1I...PG
+ E  B1K...PG
+ E  B1W...PG
+ E  B2A...PG
+ E  B2G...PG
+ E  B2H...PG
+ E  B2I...PG
+ E  B2K...PG
+ E  B2W...PG
+ E  B4A...PG
+ E  B4C...PG
+ E  B4E...PG
+ E  B4F...PG
+ E  B4G...PG
+ E  B4H...PG
+ E  B4J...PG
+ E  B4L...PG
+ E  B4M...PG
+ E  B4N...PG
+ E  B4O...PG
+ E  B4Q...PG
+ E  B4S...PG
+ E  B5A...PG
+ E  B5B...PG
+ E  B5C...PG
+ E  B5D...PG
+ E  B5E...PG
+ E  B5F...PG
+ E  B5G...PG
+ E  B5H...PG
+ E  B5T...PG
+ E  B9A...PG
+ E  B9C...PG
+ E  B9E...PG
+ E  B9F...PG
+ E  B9G...PG
+ E  B9H...PG
+ E  B9J...PG
+ E  B9L...PG
+ E  B9M...PG
+ E  B9N...PG
+ E  B9O...PG
+ E  B9Q...PG
+ E  B9S...PG
+ E  B9V...PG
+ E  BDH.VOPG
+ E  BFO.VOPG
+ E  BFQ.VOPG
+ E  BFY.VOPG
+ E  BFZ.VOPG
+ E  BGP.VOPG
+ E  BFO.WTPG
+ E  BFQ.WTPG
+ E  BFY.WTPG
+ E  CFT.C.PG
+ E  CTF.D.PG
+ E  CF..F.PG
+ E  CF..G.PG
+ E  CF..H.PG
+ E  CF..P.PG
+ E  CF..Q.PG
+ E  CF..R.PG
+ E  COH.V.PG
+ E  KAR...PG
+ E  KIR...PG
+ E  NVI.FOPG
+ E  NVI.FQPG
+ E  NVI.FYPG
+ E  ND2.GPPG
+ E  NRN.GPPG
+ E  WD8.GPPG
+ E  WVP.GPPG
+ E  XCI.DHPG
+ E  XSU.DHPG
+ E  XSU.FOPG
+ E  XVI.FOPG
+ E  XSU.FQPG
+ E  XVI.FQPG
+ E  XSU.FYPG
+ E  XVI.FYPG
+ E  XVI.FZPG
+ E  XVL.GPPG
+ E  B/A...SG
+ E  BAH...SG
+ E  BAK...SG
+ E  BAL...SG
+ E  BAM...SG
+ E  BAX...SG
+ E  BBA...SG
+ E  BBB...SG
+ E  BBC...SG
+ E  BBD...SG
+ E  BBE...SG
+ E  BBK...SG
+ E  BBL...SG
+ E  BBM...SG
+ E  BBN...SG
+ E  BBO...SG
+ E  BBP...SG
+ E  BBU...SG
+ E  BBV...SG
+ E  BBW...SG
+ E  BBY...SG
+ E  BCV...SG
+ E  BDH...SG
+ E  BDK...SG
+ E  BEO...SG
+ E  BFJ...SG
+ E  BFO...SG
+ E  BFP...SG
+ E  BFQ...SG
+ E  BFR...SG
+ E  BFS...SG
+ E  BFU...SG
+ E  BFW...SG
+ E  BFY...SG
+ E  BGJ...SG
+ E  BGP...SG
+ E  BGU...SG
+ E  BHA...SG
+ E  BHH...SG
+ E  BHI...SG
+ E  BHL...SG
+ E  BHM...SG
+ E  BHN...SG
+ E  BIB...SG
+ E  BIG...SG
+ E  BIH...SG
+ E  BIL...SG
+ E  BIM...SG
+ E  BIN...SG
+ E  BIP...SG
+ E  BIR...SG
+ E  BI5...SG
+ E  BKA...SG
+ E  BKE...SG
+ E  BKH...SG
+ E  BKU...SG
+ E  BLA...SG
+ E  BLG...SG
+ E  BLI...SG
+ E  BLN...SG
+ E  BMA...SG
+ E  BMI...SG
+ E  BMN...SG
+ E  BMO...SG
+ E  BMU...SG
+ E  BNJ...SG
+ E  BNL...SG
+ E  BNP...SG
+ E  BN4...SG
+ E  BOA...SG
+ E  BOL...SG
+ E  BQA...SG
+ E  BQH...SG
+ E  BQT...SG
+ E  BQW...SG
+ E  BRG...SG
+ E  BRI...SG
+ E  BRS...SG
+ E  BSA...SG
+ E  BSH...SG
+ E  BSR...SG
+ E  BSW...SG
+ E  BTQ...SG
+ E  BUK...SG
+ E  BUM...SG
+ E  BXA...SG
+ E  BZN...SG
+ E  B0A...SG
+ E  B1A...SG
+ E  B1G...SG
+ E  B1H...SG
+ E  B1I...SG
+ E  B1K...SG
+ E  B1W...SG
+ E  B2A...SG
+ E  B2G...SG
+ E  B2H...SG
+ E  B2I...SG
+ E  B2K...SG
+ E  B2W...SG
+ E  B4A...SG
+ E  B4C...SG
+ E  B4E...SG
+ E  B4F...SG
+ E  B4G...SG
+ E  B4H...SG
+ E  B4J...SG
+ E  B4L...SG
+ E  B4M...SG
+ E  B4N...SG
+ E  B4O...SG
+ E  B4Q...SG
+ E  B4S...SG
+ E  B5A...SG
+ E  B5B...SG
+ E  B5C...SG
+ E  B5D...SG
+ E  B5E...SG
+ E  B5F...SG
+ E  B5G...SG
+ E  B5H...SG
+ E  B5T...SG
+ E  B8A...SG
+ E  B8H...SG
+ E  B8W...SG
+ E  B9A...SG
+ E  B9C...SG
+ E  B9E...SG
+ E  B9F...SG
+ E  B9G...SG
+ E  B9H...SG
+ E  B9J...SG
+ E  B9L...SG
+ E  B9M...SG
+ E  B9N...SG
+ E  B9O...SG
+ E  B9Q...SG
+ E  B9S...SG
+ E  BDH.VOSG
+ E  BFO.VOSG
+ E  BFQ.VOSG
+ E  BFY.VOSG
+ E  BGP.VOSG
+ E  BFO.WTSG
+ E  BFQ.WTSG
+ E  BFY.WTSG
+ E  CFT.C.SG
+ E  CTF.D.SG
+ E  CF..F.SG
+ E  CF..G.SG
+ E  CF..P.SG
+ E  CF..Q.SG
+ E  CF..R.SG
+ E  COH.V.SG
+ E  KMC.IMSG
+ E  NVI.FOSG
+ E  NVI.FQSG
+ E  NVI.FYSG
+ E  ND2.GPSG
+ E  NRN.GPSG
+ E  WD8.GPSG
+ E  WVP.GPSG
+ E  XCI.DHSG
+ E  XSU.DHSG
+ E  XSU.FOSG
+ E  XVI.FOSG
+ E  XSU.FQSG
+ E  XVI.FQSG
+ E  XSU.FYSG
+ E  XVI.FYSG
+ E  XVL.GPSG
+ E  KLM.VGU 
+ E  KTX.CPU.
+ E  KTX.FOU.
+ E  KMC.IMU.
+ E  KMC.NMU.
+ E  KLM.VGU.
+ E  B/A...U1
+ E  B/B...U1
+ E  B/H...U1
+ E  B/J...U1
+ E  B/W...U1
+ E  B/2...U1
+ E  BAC...U1
+ E  BAF...U1
+ E  BAG...U1
+ E  BAH...U1
+ E  BAJ...U1
+ E  BAL...U1
+ E  BAM...U1
+ E  BAP...U1
+ E  BAS...U1
+ E  BAW...U1
+ E  BAX...U1
+ E  BAZ...U1
+ E  BBF...U1
+ E  BBG...U1
+ E  BBH...U1
+ E  BBI...U1
+ E  BBJ...U1
+ E  BBK...U1
+ E  BBL...U1
+ E  BBO...U1
+ E  BBP...U1
+ E  BBQ...U1
+ E  BBU...U1
+ E  BBV...U1
+ E  BBW...U1
+ E  BBY...U1
+ E  BB4...U1
+ E  BB5...U1
+ E  BCA...U1
+ E  BCD...U1
+ E  BCV...U1
+ E  BDH...U1
+ E  BDK...U1
+ E  BES...U1
+ E  BFP...U1
+ E  BFR...U1
+ E  BFS...U1
+ E  BFW...U1
+ E  BFY...U1
+ E  BF2...U1
+ E  BGP...U1
+ E  BHA...U1
+ E  BHI...U1
+ E  BHL...U1
+ E  BHU...U1
+ E  BHV...U1
+ E  BHY...U1
+ E  BIB...U1
+ E  BID...U1
+ E  BIG...U1
+ E  BIH...U1
+ E  BII...U1
+ E  BIK...U1
+ E  BIL...U1
+ E  BIN...U1
+ E  BIP...U1
+ E  BIQ...U1
+ E  BI4...U1
+ E  BI5...U1
+ E  BJL...U1
+ E  BKB...U1
+ E  BKG...U1
+ E  BKU...U1
+ E  BLA...U1
+ E  BLB...U1
+ E  BLG...U1
+ E  BLI...U1
+ E  BLJ...U1
+ E  BLN...U1
+ E  BLR...U1
+ E  BLS...U1
+ E  BLT...U1
+ E  BLU...U1
+ E  BMA...U1
+ E  BMD...U1
+ E  BMF...U1
+ E  BMS...U1
+ E  BMT...U1
+ E  BMU...U1
+ E  BNI...U1
+ E  BNJ...U1
+ E  BNL...U1
+ E  BNN...U1
+ E  BNP...U1
+ E  BN4...U1
+ E  BOA...U1
+ E  BOL...U1
+ E  BON...U1
+ E  BQA...U1
+ E  BQB...U1
+ E  BQH...U1
+ E  BQJ...U1
+ E  BQM...U1
+ E  BQS...U1
+ E  BQT...U1
+ E  BQW...U1
+ E  BQ2...U1
+ E  BRB...U1
+ E  BRG...U1
+ E  BRT...U1
+ E  BSA...U1
+ E  BSB...U1
+ E  BSE...U1
+ E  BSH...U1
+ E  BSJ...U1
+ E  BSM...U1
+ E  BSS...U1
+ E  BSW...U1
+ E  BS1...U1
+ E  BTL...U1
+ E  BTM...U1
+ E  BTQ...U1
+ E  BUH...U1
+ E  BUK...U1
+ E  BUL...U1
+ E  BUM...U1
+ E  BU3...U1
+ E  BU4...U1
+ E  BVH...U1
+ E  BVY...U1
+ E  BWA...U1
+ E  BWT...U1
+ E  BW3...U1
+ E  BXA...U1
+ E  BYH...U1
+ E  BYV...U1
+ E  BZA...U1
+ E  B0A...U1
+ E  B0B...U1
+ E  B0J...U1
+ E  B0M...U1
+ E  B0S...U1
+ E  B1A...U1
+ E  B1G...U1
+ E  B1H...U1
+ E  B1I...U1
+ E  B1K...U1
+ E  B1S...U1
+ E  B1W...U1
+ E  B2A...U1
+ E  B2G...U1
+ E  B2H...U1
+ E  B2I...U1
+ E  B2K...U1
+ E  B2W...U1
+ E  B4A...U1
+ E  B4B...U1
+ E  B4C...U1
+ E  B4D...U1
+ E  B4E...U1
+ E  B4I...U1
+ E  B4K...U1
+ E  B4O...U1
+ E  B4P...U1
+ E  B4Q...U1
+ E  B4R...U1
+ E  B4S...U1
+ E  B4T...U1
+ E  B4V...U1
+ E  B5I...U1
+ E  B5J...U1
+ E  B5K...U1
+ E  B5L...U1
+ E  B5M...U1
+ E  B5N...U1
+ E  B5O...U1
+ E  B5P...U1
+ E  B5Q...U1
+ E  B5T...U1
+ E  B5U...U1
+ E  B5V...U1
+ E  B5W...U1
+ E  B5X...U1
+ E  B53...U1
+ E  B54...U1
+ E  B55...U1
+ E  B6A...U1
+ E  B6B...U1
+ E  B6H...U1
+ E  B6J...U1
+ E  B6W...U1
+ E  B8A...U1
+ E  B8B...U1
+ E  B8H...U1
+ E  B8J...U1
+ E  B8L...U1
+ E  B8M...U1
+ E  B8W...U1
+ E  B82...U1
+ E  B9A...U1
+ E  B9B...U1
+ E  B9C...U1
+ E  B9D...U1
+ E  B9E...U1
+ E  B9O...U1
+ E  B9P...U1
+ E  B9Q...U1
+ E  B9R...U1
+ E  B9S...U1
+ E  B9V...U1
+ E  B9W...U1
+ E  BDH.VOU1
+ E  BDK.VOU1
+ E  BFP.VOU1
+ E  BFS.VOU1
+ E  BFW.VOU1
+ E  BFY.VOU1
+ E  BGP.VOU1
+ E  BFP.WTU1
+ E  BFS.WTU1
+ E  BFW.WTU1
+ E  BFY.WTU1
+ E  COF.A.U1
+ E  CFT.C.U1
+ E  CTF.D.U1
+ E  CF..F.U1
+ E  CF..G.U1
+ E  CF..H.U1
+ E  CF..I.U1
+ E  CF..K.U1
+ E  CF..P.U1
+ E  CF..Q.U1
+ E  CF..R.U1
+ E  COH.V.U1
+ E  GB1...U1
+ E  GB2...U1
+ E  GB3...U1
+ E  GU5...U1
+ E  GV1...U1
+ E  GV2...U1
+ E  GV3...U1
+ E  KDK...U1
+ E  KHS...U1
+ E  KPC...U1
+ E  KFF.C.U1
+ E  KMC.IMU1
+ E  KLM.PLU1
+ E  LFF.C.U1
+ E  NLI.DKU1
+ E  NVI.FPU1
+ E  NVI.FSU1
+ E  NVI.FWU1
+ E  NVI.FYU1
+ E  ND2.GPU1
+ E  NRN.GPU1
+ E  WD8.GPU1
+ E  WVP.GPU1
+ E  XSU.DHU1
+ E  XSU.FPU1
+ E  XVI.FPU1
+ E  XSU.FSU1
+ E  XVI.FSU1
+ E  XSU.FWU1
+ E  XVI.FWU1
+ E  XSU.FYU1
+ E  XVI.FYU1
+ E  XVU.GPU1
+ E  B/A...U3
+ E  B/B...U3
+ E  B/H...U3
+ E  B/J...U3
+ E  B/W...U3
+ E  B/2...U3
+ E  BAC...U3
+ E  BAF...U3
+ E  BAG...U3
+ E  BAH...U3
+ E  BAJ...U3
+ E  BAL...U3
+ E  BAM...U3
+ E  BAP...U3
+ E  BAS...U3
+ E  BAW...U3
+ E  BAX...U3
+ E  BAZ...U3
+ E  BA5...U3
+ E  BBF...U3
+ E  BBG...U3
+ E  BBH...U3
+ E  BBI...U3
+ E  BBJ...U3
+ E  BBK...U3
+ E  BBL...U3
+ E  BBO...U3
+ E  BBP...U3
+ E  BBQ...U3
+ E  BBU...U3
+ E  BBV...U3
+ E  BBW...U3
+ E  BBY...U3
+ E  BB4...U3
+ E  BB5...U3
+ E  BCA...U3
+ E  BCD...U3
+ E  BCR...U3
+ E  BCV...U3
+ E  BDH...U3
+ E  BDK...U3
+ E  BES...U3
+ E  BFP...U3
+ E  BFR...U3
+ E  BFS...U3
+ E  BFY...U3
+ E  BF2...U3
+ E  BGP...U3
+ E  BHA...U3
+ E  BHI...U3
+ E  BHL...U3
+ E  BHV...U3
+ E  BHY...U3
+ E  BIB...U3
+ E  BID...U3
+ E  BIG...U3
+ E  BIH...U3
+ E  BII...U3
+ E  BIK...U3
+ E  BIL...U3
+ E  BIN...U3
+ E  BIP...U3
+ E  BIQ...U3
+ E  BIS...U3
+ E  BI4...U3
+ E  BI5...U3
+ E  BJL...U3
+ E  BKB...U3
+ E  BKG...U3
+ E  BKU...U3
+ E  BLA...U3
+ E  BLB...U3
+ E  BLG...U3
+ E  BLI...U3
+ E  BLJ...U3
+ E  BLN...U3
+ E  BLR...U3
+ E  BLS...U3
+ E  BLT...U3
+ E  BMA...U3
+ E  BMD...U3
+ E  BMF...U3
+ E  BMS...U3
+ E  BMT...U3
+ E  BMU...U3
+ E  BNI...U3
+ E  BNJ...U3
+ E  BNL...U3
+ E  BNN...U3
+ E  BNP...U3
+ E  BN4...U3
+ E  BOA...U3
+ E  BOL...U3
+ E  BON...U3
+ E  BQA...U3
+ E  BQB...U3
+ E  BQH...U3
+ E  BQJ...U3
+ E  BQM...U3
+ E  BQS...U3
+ E  BQT...U3
+ E  BQW...U3
+ E  BQ2...U3
+ E  BQ5...U3
+ E  BRB...U3
+ E  BRG...U3
+ E  BRT...U3
+ E  BSA...U3
+ E  BSB...U3
+ E  BSE...U3
+ E  BSH...U3
+ E  BSJ...U3
+ E  BSM...U3
+ E  BSS...U3
+ E  BSW...U3
+ E  BSY...U3
+ E  BS1...U3
+ E  BS2...U3
+ E  BS5...U3
+ E  BTH...U3
+ E  BTL...U3
+ E  BTM...U3
+ E  BTQ...U3
+ E  BUK...U3
+ E  BUM...U3
+ E  BU3...U3
+ E  BU4...U3
+ E  BVH...U3
+ E  BVY...U3
+ E  BWA...U3
+ E  BWT...U3
+ E  BW3...U3
+ E  BXA...U3
+ E  BYC...U3
+ E  BYH...U3
+ E  BYS...U3
+ E  BYV...U3
+ E  BZA...U3
+ E  B0A...U3
+ E  B0B...U3
+ E  B0J...U3
+ E  B0M...U3
+ E  B0S...U3
+ E  B1A...U3
+ E  B1G...U3
+ E  B1H...U3
+ E  B1I...U3
+ E  B1K...U3
+ E  B1S...U3
+ E  B1W...U3
+ E  B2A...U3
+ E  B2G...U3
+ E  B2H...U3
+ E  B2I...U3
+ E  B2K...U3
+ E  B2L...U3
+ E  B2W...U3
+ E  B4A...U3
+ E  B4B...U3
+ E  B4C...U3
+ E  B4D...U3
+ E  B4E...U3
+ E  B4I...U3
+ E  B4K...U3
+ E  B4O...U3
+ E  B4P...U3
+ E  B4Q...U3
+ E  B4R...U3
+ E  B4S...U3
+ E  B4T...U3
+ E  B4V...U3
+ E  B5I...U3
+ E  B5J...U3
+ E  B5K...U3
+ E  B5L...U3
+ E  B5M...U3
+ E  B5N...U3
+ E  B5O...U3
+ E  B5P...U3
+ E  B5Q...U3
+ E  B5T...U3
+ E  B5U...U3
+ E  B5V...U3
+ E  B5W...U3
+ E  B5X...U3
+ E  B5Y...U3
+ E  B5Z...U3
+ E  B50...U3
+ E  B53...U3
+ E  B54...U3
+ E  B55...U3
+ E  B6A...U3
+ E  B6B...U3
+ E  B6H...U3
+ E  B6J...U3
+ E  B6W...U3
+ E  B8A...U3
+ E  B8B...U3
+ E  B8H...U3
+ E  B8J...U3
+ E  B8L...U3
+ E  B8M...U3
+ E  B8W...U3
+ E  B82...U3
+ E  B9A...U3
+ E  B9B...U3
+ E  B9C...U3
+ E  B9D...U3
+ E  B9E...U3
+ E  B9O...U3
+ E  B9P...U3
+ E  B9Q...U3
+ E  B9R...U3
+ E  B9S...U3
+ E  B9V...U3
+ E  B9W...U3
+ E  BDH.VOU3
+ E  BDK.VOU3
+ E  BFP.VOU3
+ E  BFS.VOU3
+ E  BFY.VOU3
+ E  BGP.VOU3
+ E  BFP.WTU3
+ E  BFS.WTU3
+ E  BFY.WTU3
+ E  COF.A.U3
+ E  CFT.C.U3
+ E  CTF.D.U3
+ E  CF..F.U3
+ E  CF..G.U3
+ E  CF..H.U3
+ E  CF..I.U3
+ E  CF..K.U3
+ E  CF..P.U3
+ E  CF..Q.U3
+ E  CF..R.U3
+ E  COH.V.U3
+ E  GB1...U3
+ E  GB2...U3
+ E  GB3...U3
+ E  GU5...U3
+ E  GV1...U3
+ E  GV2...U3
+ E  GV3...U3
+ E  KHS...U3
+ E  KLX...U3
+ E  KPC...U3
+ E  KFF.C.U3
+ E  LFF.C.U3
+ E  NLI.DKU3
+ E  NVI.FPU3
+ E  NVI.FSU3
+ E  NVI.FYU3
+ E  ND2.GPU3
+ E  NRN.GPU3
+ E  WD8.GPU3
+ E  WVP.GPU3
+ E  XSU.DHU3
+ E  XSU.FPU3
+ E  XVI.FPU3
+ E  XSU.FSU3
+ E  XVI.FSU3
+ E  XSU.FYU3
+ E  XVI.FYU3
+ E  XVU.GPU3
+ E  B/A...U5
+ E  B/B...U5
+ E  B/H...U5
+ E  B/J...U5
+ E  B/W...U5
+ E  B/2...U5
+ E  BAF...U5
+ E  BAH...U5
+ E  BAJ...U5
+ E  BAL...U5
+ E  BAM...U5
+ E  BAX...U5
+ E  BA5...U5
+ E  BBF...U5
+ E  BBG...U5
+ E  BBH...U5
+ E  BBI...U5
+ E  BBJ...U5
+ E  BBK...U5
+ E  BBL...U5
+ E  BBO...U5
+ E  BBP...U5
+ E  BBQ...U5
+ E  BBU...U5
+ E  BBV...U5
+ E  BBW...U5
+ E  BBY...U5
+ E  BB4...U5
+ E  BB5...U5
+ E  BCD...U5
+ E  BCV...U5
+ E  BDH...U5
+ E  BDK...U5
+ E  BFP...U5
+ E  BFR...U5
+ E  BFS...U5
+ E  BFY...U5
+ E  BF2...U5
+ E  BGP...U5
+ E  BHA...U5
+ E  BHI...U5
+ E  BHL...U5
+ E  BIB...U5
+ E  BID...U5
+ E  BIG...U5
+ E  BIH...U5
+ E  BII...U5
+ E  BIK...U5
+ E  BIL...U5
+ E  BIM...U5
+ E  BIN...U5
+ E  BIP...U5
+ E  BIQ...U5
+ E  BI4...U5
+ E  BI5...U5
+ E  BKB...U5
+ E  BKG...U5
+ E  BKU...U5
+ E  BLA...U5
+ E  BLG...U5
+ E  BLI...U5
+ E  BLN...U5
+ E  BLR...U5
+ E  BLS...U5
+ E  BMA...U5
+ E  BMI...U5
+ E  BMS...U5
+ E  BMU...U5
+ E  BNI...U5
+ E  BNJ...U5
+ E  BNL...U5
+ E  BNN...U5
+ E  BNP...U5
+ E  BN4...U5
+ E  BOA...U5
+ E  BOL...U5
+ E  BON...U5
+ E  BQA...U5
+ E  BQH...U5
+ E  BQM...U5
+ E  BQS...U5
+ E  BQT...U5
+ E  BQW...U5
+ E  BQ2...U5
+ E  BQ5...U5
+ E  BRG...U5
+ E  BRS...U5
+ E  BRT...U5
+ E  BSA...U5
+ E  BSH...U5
+ E  BSM...U5
+ E  BSR...U5
+ E  BSS...U5
+ E  BSW...U5
+ E  BS1...U5
+ E  BS2...U5
+ E  BS5...U5
+ E  BTQ...U5
+ E  BUK...U5
+ E  BUM...U5
+ E  BU3...U5
+ E  BU4...U5
+ E  BXA...U5
+ E  B0A...U5
+ E  B0B...U5
+ E  B0J...U5
+ E  B0M...U5
+ E  B0S...U5
+ E  B1A...U5
+ E  B1G...U5
+ E  B1H...U5
+ E  B1I...U5
+ E  B1K...U5
+ E  B1P...U5
+ E  B1S...U5
+ E  B1W...U5
+ E  B2A...U5
+ E  B2G...U5
+ E  B2H...U5
+ E  B2I...U5
+ E  B2K...U5
+ E  B2L...U5
+ E  B2P...U5
+ E  B2W...U5
+ E  B4A...U5
+ E  B4B...U5
+ E  B4C...U5
+ E  B4D...U5
+ E  B4E...U5
+ E  B4I...U5
+ E  B4K...U5
+ E  B4O...U5
+ E  B4P...U5
+ E  B4Q...U5
+ E  B4R...U5
+ E  B4S...U5
+ E  B4T...U5
+ E  B4V...U5
+ E  B5I...U5
+ E  B5J...U5
+ E  B5K...U5
+ E  B5L...U5
+ E  B5M...U5
+ E  B5N...U5
+ E  B5O...U5
+ E  B5P...U5
+ E  B5Q...U5
+ E  B5T...U5
+ E  B5U...U5
+ E  B5V...U5
+ E  B5W...U5
+ E  B5X...U5
+ E  B5Y...U5
+ E  B5Z...U5
+ E  B50...U5
+ E  B53...U5
+ E  B54...U5
+ E  B55...U5
+ E  B6A...U5
+ E  B6H...U5
+ E  B6W...U5
+ E  B8A...U5
+ E  B8H...U5
+ E  B8L...U5
+ E  B8M...U5
+ E  B8W...U5
+ E  B82...U5
+ E  B9A...U5
+ E  B9B...U5
+ E  B9C...U5
+ E  B9D...U5
+ E  B9E...U5
+ E  B9O...U5
+ E  B9P...U5
+ E  B9Q...U5
+ E  B9R...U5
+ E  B9S...U5
+ E  B9V...U5
+ E  B9W...U5
+ E  BDH.VOU5
+ E  BDK.VOU5
+ E  BFP.VOU5
+ E  BFS.VOU5
+ E  BFY.VOU5
+ E  BGP.VOU5
+ E  BFP.WTU5
+ E  BFS.WTU5
+ E  BFY.WTU5
+ E  COF.A.U5
+ E  CFT.C.U5
+ E  CTF.D.U5
+ E  CF..F.U5
+ E  CF..G.U5
+ E  CF..H.U5
+ E  CF..I.U5
+ E  CF..K.U5
+ E  CF..P.U5
+ E  CF..Q.U5
+ E  CF..R.U5
+ E  COH.V.U5
+ E  GB1...U5
+ E  GB2...U5
+ E  GB3...U5
+ E  GU5...U5
+ E  GV1...U5
+ E  GV2...U5
+ E  GV3...U5
+ E  KDK...U5
+ E  KHS...U5
+ E  KPC...U5
+ E  KFF.C.U5
+ E  LFF.C.U5
+ E  NLI.DKU5
+ E  NVI.FPU5
+ E  NVI.FSU5
+ E  NVI.FYU5
+ E  ND2.GPU5
+ E  NRN.GPU5
+ E  WD8.GPU5
+ E  WVP.GPU5
+ E  XSU.DHU5
+ E  XSU.FPU5
+ E  XVI.FPU5
+ E  XSU.FSU5
+ E  XVI.FSU5
+ E  XSU.FYU5
+ E  XVI.FYU5
+ E  XVU.GPU5
+ E  B/A...VE
+ E  BBA...VE
+ E  BBB...VE
+ E  BBC...VE
+ E  BBD...VE
+ E  BBE...VE
+ E  BBK...VE
+ E  BBL...VE
+ E  BBM...VE
+ E  BBN...VE
+ E  BBO...VE
+ E  BBP...VE
+ E  BBU...VE
+ E  BBV...VE
+ E  BBW...VE
+ E  BBY...VE
+ E  BB4...VE
+ E  BB5...VE
+ E  BCV...VE
+ E  BDH...VE
+ E  BDK...VE
+ E  BDM...VE
+ E  BFJ...VE
+ E  BFP...VE
+ E  BFR...VE
+ E  BFS...VE
+ E  BFT...VE
+ E  BFW...VE
+ E  BFY...VE
+ E  BGP...VE
+ E  BGU...VE
+ E  BHH...VE
+ E  BHL...VE
+ E  BHM...VE
+ E  BHN...VE
+ E  BHV...VE
+ E  BIB...VE
+ E  BIG...VE
+ E  BIN...VE
+ E  BIP...VE
+ E  BI5...VE
+ E  BJL...VE
+ E  BKE...VE
+ E  BKH...VE
+ E  BLG...VE
+ E  BLJ...VE
+ E  BLN...VE
+ E  BMT...VE
+ E  BNI...VE
+ E  BNJ...VE
+ E  BNL...VE
+ E  BN4...VE
+ E  BOA...VE
+ E  BOL...VE
+ E  BQB...VE
+ E  BQJ...VE
+ E  BRG...VE
+ E  BSB...VE
+ E  BSJ...VE
+ E  BTM...VE
+ E  BVH...VE
+ E  BVY...VE
+ E  BYV...VE
+ E  B0A...VE
+ E  B0B...VE
+ E  B0J...VE
+ E  B4A...VE
+ E  B4C...VE
+ E  B4E...VE
+ E  B4F...VE
+ E  B4G...VE
+ E  B4H...VE
+ E  B4J...VE
+ E  B4L...VE
+ E  B4M...VE
+ E  B4N...VE
+ E  B4O...VE
+ E  B4Q...VE
+ E  B4S...VE
+ E  B5A...VE
+ E  B5B...VE
+ E  B5C...VE
+ E  B5D...VE
+ E  B5E...VE
+ E  B5F...VE
+ E  B5G...VE
+ E  B5H...VE
+ E  B5T...VE
+ E  B8B...VE
+ E  B8J...VE
+ E  B9A...VE
+ E  B9C...VE
+ E  B9E...VE
+ E  B9F...VE
+ E  B9G...VE
+ E  B9H...VE
+ E  B9J...VE
+ E  B9L...VE
+ E  B9M...VE
+ E  B9N...VE
+ E  B9O...VE
+ E  B9Q...VE
+ E  B9S...VE
+ E  BDH.VOVE
+ E  BFP.VOVE
+ E  BFS.VOVE
+ E  BFW.VOVE
+ E  BFY.VOVE
+ E  BGP.VOVE
+ E  BFP.WTVE
+ E  BFS.WTVE
+ E  BFW.WTVE
+ E  BFY.WTVE
+ E  CFT.C.VE
+ E  CTF.D.VE
+ E  CF..F.VE
+ E  CF..G.VE
+ E  CF..P.VE
+ E  CF..Q.VE
+ E  COH.V.VE
+ E  NVI.FPVE
+ E  NVI.FSVE
+ E  NVI.FWVE
+ E  NVI.FYVE
+ E  ND2.GPVE
+ E  NRN.GPVE
+ E  WD8.GPVE
+ E  WVP.GPVE
+ E  XCI.DHVE
+ E  XSU.DHVE
+ E  XSU.FPVE
+ E  XVI.FPVE
+ E  XSU.FSVE
+ E  XVI.FSVE
+ E  XSU.FWVE
+ E  XVI.FWVE
+ E  XSU.FYVE
+ E  XVI.FYVE
+ E  XVL.GPVE
+ E  KMC0....
+ N  FAT0..J.
+ E  KMC5....
+ E  UPBROW27684
+ E  UPBROW27685
+ E  UPBROW27686
+ E  UPBROW27687
+ E  UPBROW27688
+ E  UPBROW27689
+ E  UPBROW27690
+ E  UPBROW27691
+ E  UPBROW27692
+ E  UPBROW27693
+ E  UPBROW27694
+ E  UPBROW27695
+ E  UPBROW27696
+ E  UPBROW27697
+ E  UPBROW27698
+ E  UPBROW27699
+ E  UPBROW27700
+ E  UPBROW27701
+ E  UPBROW27702
+ E  UPBROW27703
+ E  UPBROW27704
+ E  UPBROW27705
+ E  UPBROW27706
+ E  UPBROW27707
+ E  UPBROW27708
+ E  UPBROW27709
+ E  LOBROW27710
+ E  LOBROW27711
+ E  LOBROW27712
+ E  UPBROW27713
+ E  UPBROW27714
+ E  UPBROW27715
+ E  UPBROW27716
+ E  UPBROW27717
+ E  UPBROW27718
+ E  UPBROW27719
+ E  UPBROW27720
+ E  UPBROW27721
+ E  UPBROW27722
+ E  UPBROW27723
+ E  UPBROW27724
+ E  UPBROW27725
+ E  UPBROW27726
+ E  UPBROW27727
+ E  UPBROW27728
+ E  UPBROW27729
+ E  UPBROW27730
+ E  UPBROW27731
+ E  LOBROW27732
+ E  UPBROW27733
+ E  UPBROW27734
+ E  UPBROW27735
+ E  LOBROW27736
+ E  LOBROW27737
+ E  UPBROW27738
+ E  UPBROW27739
+ E  UPBROW27740
+ E  UPBROW27741
+ E  UPBROW27742
+ E  UPBROW27743
+ E  UPBROW27744
+ E  UPBROW27745
+ E  UPBROW27746
+ E  UPBROW27747
+ E  UPBROW27748
+ E  UPBROW27749
+ E  UPBROW27750
+ E  UPBROW27751
+ E  UPBROW27752
+ E  UPBROW27753
+ E  LOBROW27754
+ E  UPBROW27755
+ E  UPBROW27756
+ E  UPBROW27757
+ E  UPBROW27758
+ E  UPBROW27759
+ E  UPBROW27760
+ E  UPBROW27761
+ E  UPBROW27762
+ E  UPBROW27763
+ E  UPBROW27764
+ E  UPBROW27765
+ E  LOBROW27766
+ E  LOBROW27767
+ E  UPBROW27768
+ E  UPBROW27769
+ E  UPBROW27770
+ E  UPBROW27771
+ E  UPBROW27772
+ E  UPBROW27773
+ E  UPBROW27774
+ E  UPBROW27775
+ E  UPBROW27776
+ E  UPBROW27777
+ E  UPBROW27778
+ E  UPBROW27779
+ E  UPBROW27780
+ E  UPBROW27781
+ E  UPBROW27782
+ E  UPBROW27783
+ E  UPBROW27784
+ E  UPBROW27785
+ E  UPBROW27786
+ E  UPBROW27787
+ E  UPBROW27788
+ E  UPBROW27789
+ E  UPBROW27790
+ E  UPBROW27791
+ E  UPBROW27792
+ E  UPBROW27793
+ E  UPBROW27794
+ E  UPBROW27795
+ E  UPBROW27796
+ E  UPBROW27797
+ E  UPBROW27798
+ E  UPBROW27799
+ E  LOBROW27800
+ E  LOBROW27801
+ E  UPBROW27802
+ E  UPBROW27803
+ E  UPBROW27804
+ E  UPBROW27805
+ E  UPBROW27806
+ E  UPBROW27807
+ E  UPBROW27808
+ E  UPBROW27809
+ E  UPBROW27810
+ E  UPBROW27811
+ E  UPBROW27812
+ E  UPBROW27813
+ E  UPBROW27814
+ E  UPBROW27815
+ E  UPBROW27816
+ E  UPBROW27817
+ E  UPBROW27818
+ E  UPBROW27819
+ E  UPBROW27820
+ E  UPBROW27821
+ E  UPBROW27822
+ E  UPBROW27823
+ E  UPBROW27824
+ E  UPBROW27825
+ E  LOBROW27826
+ E  LOBROW27827
+ E  UPBROW27828
+ E  UPBROW27829
+ E  UPBROW27830
+ E  UPBROW27831
+ E  UPBROW27832
+ E  UPBROW27833
+ E  UPBROW27834
+ E  UPBROW27835
+ E  UPBROW27836
+ E  UPBROW27837
+ E  UPBROW27838
+ E  UPBROW27839
+ E  UPBROW27840
+ E  UPBROW27841
+ E  UPBROW27842
+ E  UPBROW27843
+ E  UPBROW27844
+ E  UPBROW27845
+ E  UPBROW27846
+ E  UPBROW27847
+ E  UPBROW27848
+ E  UPBROW27849
+ E  UPBROW27850
+ E  UPBROW27851
+ E  UPBROW27852
+ E  UPBROW27853
+ E  UPBROW27854
+ E  LOBROW27855
+ E  LOBROW27856
+ E  LOBROW27857
+ E  LOBROW27858
+ E  UPBROW27859
+ E  UPBROW27860
+ E  UPBROW27861
+ E  UPBROW27862
+ E  UPBROW27863
+ E  UPBROW27864
+ E  UPBROW27865
+ E  UPBROW27866
+ E  UPBROW27867
+ E  UPBROW27868
+ E  UPBROW27869
+ E  LOBROW27870
+ E  UPBROW27871
+ E  UPBROW27872
+ E  UPBROW27873
+ E  UPBROW27874
+ E  UPBROW27875
+ E  UPBROW27876
+ E  UPBROW27877
+ E  UPBROW27878
+ E  UPBROW27879
+ E  UPBROW27880
+ E  UPBROW27881
+ E  UPBROW27882
+ E  UPBROW27883
+ E  UPBROW27884
+ E  UPBROW27885
+ E  UPBROW27886
+ E  UPBROW27887
+ E  UPBROW27888
+ E  UPBROW27889
+ E  UPBROW27890
+ E  UPBROW27891
+ E  UPBROW27892
+ E  UPBROW27893
+ E  UPBROW27894
+ E  UPBROW27895
+ E  UPBROW27896
+ E  UPBROW27897
+ E  UPBROW27898
+ E  UPBROW27899
+ E  UPBROW27900
+ E  UPBROW27901
+ E  UPBROW27902
+ E  UPBROW27903
+ E  UPBROW27904
+ E  UPBROW27905
+ E  UPBROW27906
+ E  UPBROW27907
+ E  UPBROW27908
+ E  LOBROW27909
+ E  LOBROW27910
+ E  LOBROW27911
+ E  LOBROW27912
+ E  UPBROW27913
+ E  UPBROW27914
+ E  UPBROW27915
+ E  UPBROW27916
+ E  UPBROW27917
+ E  UPBROW27918
+ E  UPBROW27919
+ E  UPBROW27920
+ E  UPBROW27921
+ E  UPBROW27922
+ E  UPBROW27923
+ E  UPBROW27924
+ E  UPBROW27925
+ E  UPBROW27926
+ E  UPBROW27927
+ E  UPBROW27928
+ E  UPBROW27929
+ E  UPBROW27930
+ E  UPBROW27931
+ E  UPBROW27932
+ E  UPBROW27933
+ E  UPBROW27934
+ E  UPBROW27935
+ E  UPBROW27936
+ E  UPBROW27937
+ E  UPBROW27938
+ E  UPBROW27939
+ E  UPBROW27940
+ E  UPBROW27941
+ E  UPBROW27942
+ E  UPBROW27943
+ E  UPBROW27944
+ E  UPBROW27945
+ E  UPBROW27946
+ E  UPBROW27947
+ E  UPBROW27948
+ E  UPBROW27949
+ E  UPBROW27950
+ E  UPBROW27951
+ E  UPBROW27952
+ E  UPBROW27953
+ E  UPBROW27954
+ E  UPBROW27955
+ E  UPBROW27956
+ E  UPBROW27957
+ E  UPBROW27958
+ E  UPBROW27959
+ E  UPBROW27960
+ E  UPBROW27961
+ E  UPBROW27962
+ E  UPBROW27963
+ E  UPBROW27964
+ E  UPBROW27965
+ E  UPBROW27966
+ E  UPBROW27967
+ E  UPBROW27968
+ E  UPBROW27969
+ E  UPBROW27970
+ E  UPBROW27971
+ E  UPBROW27972
+ E  UPBROW27973
+ E  UPBROW27974
+ E  UPBROW27975
+ E  UPBROW27976
+ E  UPBROW27977
+ E  UPBROW27978
+ E  UPBROW27979
+ E  UPBROW27980
+ E  UPBROW27981
+ E  UPBROW27982
+ E  UPBROW27983
+ E  UPBROW27984
+ E  UPBROW27985
+ E  UPBROW27986
+ E  LOBROW27987
+ E  UPBROW27988
+ E  UPBROW27989
+ E  UPBROW27990
+ E  UPBROW27991
+ E  UPBROW27992
+ E  UPBROW27993
+ E  UPBROW27994
+ E  UPBROW27995
+ E  UPBROW27996
+ E  UPBROW27997
+ E  LOBROW27998
+ E  LOBROW27999
+ E  LOBROW28000
+COLUMNS
+    WVP5GPVE WVP.GPVE -0.100000   XVL.GPVE 0.100000
+    WD85GPVE WD8.GPVE -0.010000   XVL.GPVE 0.020000
+    AAL..... AAL..... 1.000000   FAT0..J. 15.700000
+    AAL..... KWC..... -0.288000   KWC.AF.. 0.384000
+    QVO5GUVE BGP.VOVE -1.000000   BGU...VE 0.985000
+    QVO5GUVE NRN.GPVE -0.668000   ND2.GPVE -0.500000
+    QVO5GUVE XVL.GPVE -1.850000
+    QVO5GPVE BGP...VE 0.985000   BGP.VOVE -1.000000
+    QVO5GPVE NRN.GPVE -0.597000   ND2.GPVE -0.450000
+    QVO5GPVE XVL.GPVE -1.700000
+    QWT5FYVE BFY.WTVE -1.000000   XSU.FYVE -3.400000
+    QVO5FYVE BFY...VE 1.000000   BFY.VOVE -1.000000
+    QVO5FYVE XVI.FYVE -1.152000   NVI.FYVE -1.095000
+    QWT5FWVE BFW.WTVE -1.000000   XSU.FWVE -2.250000
+    QVO5FWVE BFW...VE 1.000000   BFW.VOVE -1.000000
+    QVO5FWVE XVI.FWVE -1.152000   NVI.FWVE -1.095000
+    QWT5FSVE BFS.WTVE -1.000000   XSU.FSVE -0.810000
+    QVO5FSVE BFS...VE 1.000000   BFS.VOVE -1.000000
+    QVO5FSVE XVI.FSVE -1.152000   NVI.FSVE -0.860000
+    QWT5FPVE BFP.WTVE -1.000000   XSU.FPVE -0.360000
+    QVO5FPVE BFP...VE 1.000000   BFP.VOVE -1.000000
+    QVO5FPVE XVI.FPVE -1.152000   NVI.FPVE -0.860000
+    AD2..... AD2..... 1.000000
+    QVO5DMVE BDH.VOVE -1.000000   BDM...VE 0.995000
+    QVO5DMVE XSU.DHVE -1.160000   XCI.DHVE -2.830000
+    QVO5DHVE BDH...VE 0.995000   BDH.VOVE -1.000000
+    QVO5DHVE XSU.DHVE -0.300000   XCI.DHVE -0.830000
+    WVP5GPU5 WVP.GPU5 -0.100000   XVU.GPU5 0.100000
+    AGL..... AGL..... 1.000000
+    WD85GPU5 WD8.GPU5 -0.010000   XVU.GPU5 0.013000
+    QVO5GPU5 BGP...U5 0.985000   BGP.VOU5 -1.000000
+    QVO5GPU5 NRN.GPU5 -0.668000   ND2.GPU5 -0.500000
+    QVO5GPU5 XVU.GPU5 -1.550000
+    AIS..... AIS..... 1.000000
+    QWT5FYU5 BFY.WTU5 -1.000000   XSU.FYU5 -3.400000
+    QVO5FYU5 BFY...U5 1.000000   BFY.VOU5 -1.000000
+    QVO5FYU5 XVI.FYU5 -1.152000   NVI.FYU5 -1.095000
+    QWT5FSU5 BFS.WTU5 -1.000000   XSU.FSU5 -0.810000
+    QVO5FSU5 BFS...U5 1.000000   BFS.VOU5 -1.000000
+    QVO5FSU5 XVI.FSU5 -1.152000   NVI.FSU5 -0.860000
+    QWT5FPU5 BFP.WTU5 -1.000000   XSU.FPU5 -0.360000
+    QVO5FPU5 BFP...U5 1.000000   BFP.VOU5 -1.000000
+    QVO5FPU5 XVI.FPU5 -1.152000   NVI.FPU5 -0.860000
+    QVO5DKU5 BDK...U5 0.995000   BDK.VOU5 -1.000000
+    QVO5DKU5 NLI.DKU5 -0.460000
+    QVO5DHU5 BDH...U5 0.995000   BDH.VOU5 -1.000000
+    QVO5DHU5 XSU.DHU5 -0.300000
+    KLS5PRU5 LFF.C.U5 -0.140000   KFF.C.U5 -1.000000
+    WVP5GPU3 WVP.GPU3 -0.100000   XVU.GPU3 0.100000
+    WD85GPU3 WD8.GPU3 -0.010000   XVU.GPU3 0.013000
+    QVO5GPU3 BGP...U3 0.985000   BGP.VOU3 -1.000000
+    QVO5GPU3 NRN.GPU3 -0.668000   ND2.GPU3 -0.500000
+    QVO5GPU3 XVU.GPU3 -1.550000
+    QWT5FYU3 BFY.WTU3 -1.000000   XSU.FYU3 -3.400000
+    QVO5FYU3 BFY...U3 1.000000   BFY.VOU3 -1.000000
+    QVO5FYU3 XVI.FYU3 -1.152000   NVI.FYU3 -1.095000
+    QWT5FSU3 BFS.WTU3 -1.000000   XSU.FSU3 -0.810000
+    QVO5FSU3 BFS...U3 1.000000   BFS.VOU3 -1.000000
+    QVO5FSU3 XVI.FSU3 -1.152000   NVI.FSU3 -0.860000
+    QWT5FPU3 BFP.WTU3 -1.000000   XSU.FPU3 -0.360000
+    QVO5FPU3 BFP...U3 1.000000   BFP.VOU3 -1.000000
+    QVO5FPU3 XVI.FPU3 -1.152000   NVI.FPU3 -0.860000
+    QVO5DKU3 BDK...U3 0.995000   BDK.VOU3 -1.000000
+    QVO5DKU3 NLI.DKU3 -0.510000
+    QVO5DHU3 BDH...U3 0.995000   BDH.VOU3 -1.000000
+    QVO5DHU3 XSU.DHU3 -0.300000
+    KLS5PRU3 LFF.C.U3 -0.260000   KFF.C.U3 -1.000000
+    WVP5GPU1 WVP.GPU1 -0.100000   XVU.GPU1 0.100000
+    WD85GPU1 WD8.GPU1 -0.010000   XVU.GPU1 0.013000
+    QVO5GPU1 BGP...U1 0.985000   BGP.VOU1 -1.000000
+    QVO5GPU1 NRN.GPU1 -0.668000   ND2.GPU1 -0.500000
+    QVO5GPU1 XVU.GPU1 -1.550000
+    QWT5FYU1 BFY.WTU1 -1.000000   XSU.FYU1 -3.400000
+    QVO5FYU1 BFY...U1 1.000000   BFY.VOU1 -1.000000
+    QVO5FYU1 XVI.FYU1 -1.152000   NVI.FYU1 -1.095000
+    AW3..... AW3..... 1.000000
+    AYA..... AYA..... 1.000000
+    AYC..... AYC..... 1.000000
+    AYS..... AYS..... 1.000000
+    QWT5FWU1 BFW.WTU1 -1.000000   XSU.FWU1 -2.250000
+    QVO5FWU1 BFW...U1 1.000000   BFW.VOU1 -1.000000
+    QVO5FWU1 XVI.FWU1 -1.152000   NVI.FWU1 -1.095000
+    KMC.CA.. FAT0..J. 1.000000   KMC0.... -1.000000
+    KMC.CA.. KMC5.... -1.000000
+    KNM.CA.. FAT0..J. 2.100000   KMC.NMU. -1.000000
+    KP1.CA.. KWC..... 0.211000   FAT0..J. 0.665000
+    KP1.CA.. KLM.PLU1 -1.000000   UPBROW27684 1.000000
+    KP2.CA.. KWC..... 0.211000   FAT0..J. 0.753000
+    KP2.CA.. KLM.PLU1 -1.000000
+    KTC.CA.. KTC..... -1.000000
+    KVG.CA.. KLM.VGU. -1.000000   UPBROW27685 1.000000
+    KWC.CA.. KWC..... -100.000000   FAT0..J. 15.700000
+    KWF.CA.. KWC.AF.. -100.000000   FAT0..J. 15.700000
+    CTF.D.AN CTF.D.AN 1.000000   UPBROW27686 1.000000
+    MDK.DPAN BDK...AN -0.750000   BDH...AN -0.250000
+    MDK.DPAN BDP...AN 1.000000
+    MNI.NPAN BNP...AN 1.000000   BNI...AN -1.000000
+    PAG.D3AN AAG..... -1.000000   BNL...AN 0.036300
+    PAG.D3AN BNI...AN -0.017200   BNP...AN 0.124600
+    PAG.D3AN BDH...AN 0.271800   BFP...AN 0.569800
+    PAG.D3AN CTF.D.AN -1.000000
+    PAW.D3AN BNL...AN 0.074800   BNI...AN 0.036700
+    PAW.D3AN BNP...AN 0.143600   BDH...AN 0.410600
+    PAW.D3AN BFP...AN 0.287300   CTF.D.AN -1.000000
+    PAW.D3AN AAW..... -1.000000
+    PBR.D3AN BNL...AN 0.065900   BNI...AN 0.094100
+    PBR.D3AN BNP...AN 0.077300   BDH...AN 0.325100
+    PBR.D3AN BFP...AN 0.408300   CTF.D.AN -1.000000
+    PBR.D3AN ABR..... -1.000000
+    PES.D3AN BNL...AN 0.052700   BNI...AN 0.080100
+    PES.D3AN BNP...AN 0.063700   BDH...AN 0.313300
+    PES.D3AN BFP...AN 0.466100   CTF.D.AN -1.000000
+    PES.D3AN AES..... -1.000000
+    POE.D3AN BNL...AN 0.052500   BNI...AN -0.010100
+    POE.D3AN BNP...AN 0.137200   BDH...AN 0.214900
+    POE.D3AN BDK...AN 0.171100   BFY...AN 0.413000
+    POE.D3AN CTF.D.AN -1.000000   UPBROW27687 1.000000
+    PSA.D3AN BNL...AN 0.054400   BNI...AN 0.061700
+    PSA.D3AN BNP...AN 0.056500   BDH...AN 0.262500
+    PSA.D3AN BFP...AN 0.538200   CTF.D.AN -1.000000
+    PSA.D3AN ASA..... -1.000000
+    PZA.D3AN BNL...AN 0.066400   BNI...AN 0.090400
+    PZA.D3AN BNP...AN 0.080000   BDH...AN 0.373600
+    PZA.D3AN BFP...AN 0.353500   CTF.D.AN -1.000000
+    PZA.D3AN AZA..... -1.000000
+    CTF.D.AW CTF.D.AW 1.000000   UPBROW27688 1.000000
+    MDK.DPAW BDK...AW -0.750000   BDH...AW -0.250000
+    MDK.DPAW BDP...AW 1.000000
+    MNI.NPAW BNP...AW 1.000000   BNI...AW -1.000000
+    PNF.D3AW ANF..... -1.000000   BNL...AW 0.036800
+    PNF.D3AW BNI...AW 0.225500   BNP...AW -0.093500
+    PNF.D3AW BDK...AW 0.202000   BDH...AW 0.283600
+    PNF.D3AW BFP...AW 0.317000   CTF.D.AW -1.000000
+    PNL.D3AW ANL..... -1.000000   BNL...AW 0.059700
+    PNL.D3AW BNI...AW 0.266000   BNP...AW -0.083800
+    PNL.D3AW BDH...AW 0.381200   BFP...AW 0.342900
+    PNL.D3AW CTF.D.AW -1.000000
+    PNM.D3AW ANM..... -1.000000   BNL...AW 0.012300
+    PNM.D3AW BNI...AW 0.114500   BNP...AW -0.055300
+    PNM.D3AW BDK...AW 0.185100   BDH...AW 0.329400
+    PNM.D3AW BFP...AW 0.403000   CTF.D.AW -1.000000
+    BBK.DHBA BBK...BA -1.000000   BDH.VOBA 1.000000
+    BBK.DHBA XSU.DHBA 0.100000   XCI.DHBA 1.000000
+    BBL.DHBA BBL...BA -1.000000   BDH.VOBA 1.000000
+    BBL.DHBA XSU.DHBA 3.000000   XCI.DHBA 1.000000
+    BBM.DHBA BBM...BA -1.000000   BDH.VOBA 1.000000
+    BBM.DHBA XSU.DHBA 0.100000   XCI.DHBA 1.500000
+    BBN.DHBA BBN...BA -1.000000   BDH.VOBA 1.000000
+    BBN.DHBA XSU.DHBA 3.000000   XCI.DHBA 1.500000
+    BBU.DHBA BBU...BA -1.000000   BDH.VOBA 1.000000
+    BBU.DHBA XSU.DHBA 0.200000   XCI.DHBA 7.560000
+    BBV.DHBA BBV...BA -1.000000   BDH.VOBA 1.000000
+    BBV.DHBA XSU.DHBA 2.500000   XCI.DHBA 7.070000
+    BHH.DHBA BHH...BA -1.000000   BDH.VOBA 1.000000
+    BHH.DHBA XSU.DHBA 1.600000   XCI.DHBA 0.870000
+    BHL.DHBA BHL...BA -1.000000   BDH.VOBA 1.000000
+    BHL.DHBA XSU.DHBA 0.100000   XCI.DHBA 0.870000
+    BKE.DHBA BKE...BA -1.000000   BDH.VOBA 1.000000
+    BKE.DHBA XSU.DHBA 0.150000   XCI.DHBA 0.120000
+    BKH.DHBA BKH...BA -1.000000   BDH.VOBA 1.000000
+    BKH.DHBA XSU.DHBA 0.150000   XCI.DHBA 0.160000
+    BAC.FPBA BAC...BA -1.000000   BFP.VOBA 1.000000
+    BAC.FPBA BFP.WTBA 0.954030   XSU.FPBA 0.238740
+    BAC.FPBA XVI.FPBA 1.342000   NVI.FPBA 1.342000
+    BAS.FPBA BAS...BA -1.000000   BFP.VOBA 1.000000
+    BAS.FPBA BFP.WTBA 0.995250   XSU.FPBA 0.498860
+    BAS.FPBA XVI.FPBA 1.435000   NVI.FPBA 1.435000
+    BAW.FPBA BAW...BA -1.000000   BFP.VOBA 1.000000
+    BAW.FPBA BFP.WTBA 0.908700   XSU.FPBA 0.313780
+    BAW.FPBA XVI.FPBA 1.076000   NVI.FPBA 1.076000
+    BBB.FPBA BBB...BA -1.000000   BFP.VOBA 1.000000
+    BBB.FPBA BFP.WTBA 0.893700   XSU.FPBA 0.178740
+    BBB.FPBA XVI.FPBA 0.977000   NVI.FPBA 0.977000
+    BBD.FPBA BBD...BA -1.000000   BFP.VOBA 1.000000
+    BBD.FPBA BFP.WTBA 0.893100   XSU.FPBA 0.178620
+    BBD.FPBA XVI.FPBA 0.990000   NVI.FPBA 0.990000
+    BBO.FPBA BBO...BA -1.000000   BFP.VOBA 1.000000
+    BBO.FPBA BFP.WTBA 0.820000   XSU.FPBA 0.246000
+    BBO.FPBA XVI.FPBA 0.720000   NVI.FPBA 0.720000
+    BBP.FPBA BBP...BA -1.000000   BFP.VOBA 1.000000
+    BBP.FPBA BFP.WTBA 0.820000   XSU.FPBA 1.230000
+    BBP.FPBA XVI.FPBA 0.720000   NVI.FPBA 0.720000
+    BBR.FPBA BBR...BA -1.000000   BFP.VOBA 1.000000
+    BBR.FPBA BFP.WTBA 0.937100   XSU.FPBA 0.271760
+    BBR.FPBA XVI.FPBA 1.050000   NVI.FPBA 1.050000
+    BBS.FPBA BBS...BA -1.000000   BFP.VOBA 1.000000
+    BBS.FPBA BFP.WTBA 0.927500   XSU.FPBA 0.166950
+    BBS.FPBA XVI.FPBA 1.033000   NVI.FPBA 1.033000
+    BBW.FPBA BBW...BA -1.000000   BFP.VOBA 1.000000
+    BBW.FPBA BFP.WTBA 0.870000   XSU.FPBA 0.435000
+    BBW.FPBA XVI.FPBA 0.870000   NVI.FPBA 0.870000
+    BBY.FPBA BBY...BA -1.000000   BFP.VOBA 1.000000
+    BBY.FPBA BFP.WTBA 0.870000   XSU.FPBA 1.305000
+    BBY.FPBA XVI.FPBA 0.870000   NVI.FPBA 0.870000
+    BCA.FPBA BCA...BA -1.000000   BFP.VOBA 1.000000
+    BCA.FPBA BFP.WTBA 0.911890   XSU.FPBA 0.155900
+    BCA.FPBA XVI.FPBA 1.118000   NVI.FPBA 1.118000
+    BES.FPBA BES...BA -1.000000   BFP.VOBA 1.000000
+    BES.FPBA BFP.WTBA 0.929480   XSU.FPBA 0.677090
+    BES.FPBA XVI.FPBA 1.112000   NVI.FPBA 1.112000
+    BHM.FPBA BHM...BA -1.000000   BFP.VOBA 1.000000
+    BHM.FPBA BFP.WTBA 0.820000   XSU.FPBA 0.246000
+    BHM.FPBA XVI.FPBA 0.720000   NVI.FPBA 0.720000
+    BHN.FPBA BHN...BA -1.000000   BFP.VOBA 1.000000
+    BHN.FPBA BFP.WTBA 0.820000   XSU.FPBA 1.066000
+    BHN.FPBA XVI.FPBA 0.720000   NVI.FPBA 0.720000
+    BHY.FPBA BHY...BA -1.000000   BFP.VOBA 1.000000
+    BHY.FPBA BFP.WTBA 0.961860   XSU.FPBA 0.342240
+    BHY.FPBA XVI.FPBA 1.169000   NVI.FPBA 1.169000
+    BJL.FPBA BJL...BA -1.000000   BFP.VOBA 1.000000
+    BJL.FPBA BFP.WTBA 0.955560   XSU.FPBA 1.910920
+    BJL.FPBA XVI.FPBA 1.177000   NVI.FPBA 1.177000
+    BLB.FPBA BLB...BA -1.000000   BFP.VOBA 1.000000
+    BLB.FPBA BFP.WTBA 0.915120   XSU.FPBA 0.383760
+    BLB.FPBA XVI.FPBA 1.078000   NVI.FPBA 1.078000
+    BLJ.FPBA BLJ...BA -1.000000   BFP.VOBA 1.000000
+    BLJ.FPBA BFP.WTBA 1.013610   XSU.FPBA 2.784670
+    BLJ.FPBA XVI.FPBA 1.430000   NVI.FPBA 1.430000
+    BLS.FPBA BLS...BA -1.000000   BFP.VOBA 1.000000
+    BLS.FPBA BFP.WTBA 0.913480   XSU.FPBA 0.299600
+    BLS.FPBA XVI.FPBA 1.108000   NVI.FPBA 1.108000
+    BLT.FPBA BLT...BA -1.000000   BFP.VOBA 1.000000
+    BLT.FPBA BFP.WTBA 0.923810   XSU.FPBA 0.241200
+    BLT.FPBA XVI.FPBA 1.065000   NVI.FPBA 1.065000
+    BMD.FPBA BMD...BA -1.000000   BFP.VOBA 1.000000
+    BMD.FPBA BFP.WTBA 0.954190   XSU.FPBA 0.370030
+    BMD.FPBA XVI.FPBA 1.143000   NVI.FPBA 1.143000
+    BMF.FPBA BMF...BA -1.000000   BFP.VOBA 1.000000
+    BMF.FPBA BFP.WTBA 1.017900   XSU.FPBA 0.796850
+    BMF.FPBA XVI.FPBA 1.415000   NVI.FPBA 1.415000
+    BMT.FPBA BMT...BA -1.000000   BFP.VOBA 1.000000
+    BMT.FPBA BFP.WTBA 1.039070   XSU.FPBA 3.268510
+    BMT.FPBA XVI.FPBA 1.460000   NVI.FPBA 1.460000
+    BON.FPBA BON...BA -1.000000   BFP.VOBA 1.000000
+    BON.FPBA BFP.WTBA 0.958830   XSU.FPBA 1.461240
+    BON.FPBA XVI.FPBA 1.162000   NVI.FPBA 1.162000
+    BRB.FPBA BRB...BA -1.000000   BFP.VOBA 1.000000
+    BRB.FPBA BFP.WTBA 0.983160   XSU.FPBA 0.680810
+    BRB.FPBA XVI.FPBA 1.339000   NVI.FPBA 1.339000
+    BSA.FPBA BSA...BA -1.000000   BFP.VOBA 1.000000
+    BSA.FPBA BFP.WTBA 0.963200   XSU.FPBA 0.597180
+    BSA.FPBA XVI.FPBA 1.145000   NVI.FPBA 1.145000
+    BSB.FPBA BSB...BA -1.000000   BFP.VOBA 1.000000
+    BSB.FPBA BFP.WTBA 0.993000   XSU.FPBA 0.566010
+    BSB.FPBA XVI.FPBA 1.145000   NVI.FPBA 1.145000
+    BSE.FPBA BSE...BA -1.000000   BFP.VOBA 1.000000
+    BSE.FPBA BFP.WTBA 1.004360   XSU.FPBA 1.209020
+    BSE.FPBA XVI.FPBA 1.382000   NVI.FPBA 1.382000
+    BSH.FPBA BSH...BA -1.000000   BFP.VOBA 1.000000
+    BSH.FPBA BFP.WTBA 0.979200   XSU.FPBA 0.802940
+    BSH.FPBA XVI.FPBA 1.145000   NVI.FPBA 1.145000
+    BSJ.FPBA BSJ...BA -1.000000   BFP.VOBA 1.000000
+    BSJ.FPBA BFP.WTBA 0.979200   XSU.FPBA 0.479810
+    BSJ.FPBA XVI.FPBA 1.145000   NVI.FPBA 1.145000
+    BSW.FPBA BSW...BA -1.000000   BFP.VOBA 1.000000
+    BSW.FPBA BFP.WTBA 0.972500   XSU.FPBA 0.836350
+    BSW.FPBA XVI.FPBA 1.145000   NVI.FPBA 1.145000
+    BTD.FPBA BTD...BA -1.000000   BFP.VOBA 1.000000
+    BTD.FPBA BFP.WTBA 0.987740   XSU.FPBA 1.301610
+    BTD.FPBA XVI.FPBA 1.350000   NVI.FPBA 1.350000
+    BTL.FPBA BTL...BA -1.000000   BFP.VOBA 1.000000
+    BTL.FPBA BFP.WTBA 1.023110   XSU.FPBA 0.553770
+    BTL.FPBA XVI.FPBA 1.388000   NVI.FPBA 1.388000
+    BTM.FPBA BTM...BA -1.000000   BFP.VOBA 1.000000
+    BTM.FPBA BFP.WTBA 0.982600   XSU.FPBA 2.416310
+    BTM.FPBA XVI.FPBA 1.251000   NVI.FPBA 1.251000
+    BTR.FPBA BTR...BA -1.000000   BFP.VOBA 1.000000
+    BTR.FPBA BFP.WTBA 0.906660   XSU.FPBA 0.546230
+    BTR.FPBA XVI.FPBA 1.042000   NVI.FPBA 1.042000
+    BVY.FPBA BVY...BA -1.000000   BFP.VOBA 1.000000
+    BVY.FPBA BFP.WTBA 1.015800   XSU.FPBA 1.117380
+    BVY.FPBA XVI.FPBA 1.385000   NVI.FPBA 1.385000
+    BWA.FPBA BWA...BA -1.000000   BFP.VOBA 1.000000
+    BWA.FPBA BFP.WTBA 0.969370   XSU.FPBA 0.602190
+    BWA.FPBA XVI.FPBA 1.340000   NVI.FPBA 1.340000
+    BYH.FPBA BYH...BA -1.000000   BFP.VOBA 1.000000
+    BYH.FPBA BFP.WTBA 1.023810   XSU.FPBA 0.666860
+    BYH.FPBA XVI.FPBA 1.455000   NVI.FPBA 1.455000
+    BYV.FPBA BYV...BA -1.000000   BFP.VOBA 1.000000
+    BYV.FPBA BFP.WTBA 0.969800   XSU.FPBA 0.649770
+    BYV.FPBA XVI.FPBA 1.168000   NVI.FPBA 1.168000
+    BZA.FPBA BZA...BA -1.000000   BFP.VOBA 1.000000
+    BZA.FPBA BFP.WTBA 0.902850   XSU.FPBA 0.149900
+    BZA.FPBA XVI.FPBA 1.074000   NVI.FPBA 1.074000
+    B1A.FPBA B1A...BA -1.000000   BFP.VOBA 1.000000
+    B1A.FPBA BFP.WTBA 0.932600   XSU.FPBA 0.792710
+    B1A.FPBA XVI.FPBA 1.118000   NVI.FPBA 1.118000
+    B1G.FPBA B1G...BA -1.000000   BFP.VOBA 1.000000
+    B1G.FPBA BFP.WTBA 0.953100   XSU.FPBA 0.695760
+    B1G.FPBA XVI.FPBA 1.200000   NVI.FPBA 1.200000
+    B1H.FPBA B1H...BA -1.000000   BFP.VOBA 1.000000
+    B1H.FPBA BFP.WTBA 0.949200   XSU.FPBA 1.195990
+    B1H.FPBA XVI.FPBA 1.244000   NVI.FPBA 1.244000
+    B1I.FPBA B1I...BA -1.000000   BFP.VOBA 1.000000
+    B1I.FPBA BFP.WTBA 0.939400   XSU.FPBA 0.666970
+    B1I.FPBA XVI.FPBA 1.139000   NVI.FPBA 1.139000
+    B1K.FPBA B1K...BA -1.000000   BFP.VOBA 1.000000
+    B1K.FPBA BFP.WTBA 0.940000   XSU.FPBA 1.081000
+    B1K.FPBA XVI.FPBA 1.138000   NVI.FPBA 1.138000
+    B1W.FPBA B1W...BA -1.000000   BFP.VOBA 1.000000
+    B1W.FPBA BFP.WTBA 0.937200   XSU.FPBA 1.124640
+    B1W.FPBA XVI.FPBA 1.174000   NVI.FPBA 1.174000
+    B2A.FPBA B2A...BA -1.000000   BFP.VOBA 1.000000
+    B2A.FPBA BFP.WTBA 0.921400   XSU.FPBA 0.313280
+    B2A.FPBA XVI.FPBA 1.078000   NVI.FPBA 1.078000
+    B2G.FPBA B2G...BA -1.000000   BFP.VOBA 1.000000
+    B2G.FPBA BFP.WTBA 0.942200   XSU.FPBA 0.282660
+    B2G.FPBA XVI.FPBA 1.152000   NVI.FPBA 1.152000
+    B2H.FPBA B2H...BA -1.000000   BFP.VOBA 1.000000
+    B2H.FPBA BFP.WTBA 0.933600   XSU.FPBA 0.494810
+    B2H.FPBA XVI.FPBA 1.188000   NVI.FPBA 1.188000
+    B2I.FPBA B2I...BA -1.000000   BFP.VOBA 1.000000
+    B2I.FPBA BFP.WTBA 0.929300   XSU.FPBA 0.269500
+    B2I.FPBA XVI.FPBA 1.090000   NVI.FPBA 1.090000
+    B2K.FPBA B2K...BA -1.000000   BFP.VOBA 1.000000
+    B2K.FPBA BFP.WTBA 0.926600   XSU.FPBA 0.435500
+    B2K.FPBA XVI.FPBA 1.092000   NVI.FPBA 1.092000
+    B2W.FPBA B2W...BA -1.000000   BFP.VOBA 1.000000
+    B2W.FPBA BFP.WTBA 0.922600   XSU.FPBA 0.461300
+    B2W.FPBA XVI.FPBA 1.122000   NVI.FPBA 1.122000
+    B9E.FPBA B9E...BA -1.000000   BFP.VOBA 1.000000
+    B9E.FPBA BFP.WTBA 1.012200   XSU.FPBA 0.415000
+    B9E.FPBA XVI.FPBA 1.152000   NVI.FPBA 1.152000
+    B9F.FPBA B9F...BA -1.000000   BFP.VOBA 1.000000
+    B9F.FPBA BFP.WTBA 0.923600   XSU.FPBA 0.240140
+    B9F.FPBA XVI.FPBA 1.169000   NVI.FPBA 1.169000
+    B9L.FPBA B9L...BA -1.000000   BFP.VOBA 1.000000
+    B9L.FPBA BFP.WTBA 1.034400   XSU.FPBA 0.475820
+    B9L.FPBA XVI.FPBA 1.212000   NVI.FPBA 1.212000
+    B9M.FPBA B9M...BA -1.000000   BFP.VOBA 1.000000
+    B9M.FPBA BFP.WTBA 0.944000   XSU.FPBA 0.368160
+    B9M.FPBA XVI.FPBA 1.188000   NVI.FPBA 1.188000
+    B9S.FPBA B9S...BA -1.000000   BFP.VOBA 1.000000
+    B9S.FPBA BFP.WTBA 1.072800   XSU.FPBA 0.354020
+    B9S.FPBA XVI.FPBA 1.035000   NVI.FPBA 1.035000
+    BAC.FSBA BAC...BA -1.000000   BFS.VOBA 1.000000
+    BAC.FSBA BFS.WTBA 0.954030   XSU.FSBA 0.238740
+    BAC.FSBA XVI.FSBA 1.342000   NVI.FSBA 1.342000
+    BAH.FSBA BAH...BA -1.000000   BFS.VOBA 1.000000
+    BAH.FSBA BFS.WTBA 0.989360   XSU.FSBA 4.444220
+    BAH.FSBA XVI.FSBA 1.246000   NVI.FSBA 1.246000
+    BAL.FSBA BAL...BA -1.000000   BFS.VOBA 1.000000
+    BAL.FSBA BFS.WTBA 0.958370   XSU.FSBA 3.064560
+    BAL.FSBA XVI.FSBA 1.144000   NVI.FSBA 1.144000
+    BAM.FSBA BAM...BA -1.000000   BFS.VOBA 1.000000
+    BAM.FSBA BFS.WTBA 0.969970   XSU.FSBA 3.855710
+    BAM.FSBA XVI.FSBA 1.161000   NVI.FSBA 1.161000
+    BAS.FSBA BAS...BA -1.000000   BFS.VOBA 1.000000
+    BAS.FSBA BFS.WTBA 0.995250   XSU.FSBA 0.498860
+    BAS.FSBA XVI.FSBA 1.435000   NVI.FSBA 1.435000
+    BAW.FSBA BAW...BA -1.000000   BFS.VOBA 1.000000
+    BAW.FSBA BFS.WTBA 0.908700   XSU.FSBA 0.313780
+    BAW.FSBA XVI.FSBA 1.076000   NVI.FSBA 1.076000
+    BAX.FSBA BAX...BA -1.000000   BFS.VOBA 1.000000
+    BAX.FSBA BFS.WTBA 0.930250   XSU.FSBA 1.991310
+    BAX.FSBA XVI.FSBA 1.081000   NVI.FSBA 1.081000
+    BBB.FSBA BBB...BA -1.000000   BFS.VOBA 1.000000
+    BBB.FSBA BFS.WTBA 0.893700   XSU.FSBA 0.178740
+    BBB.FSBA XVI.FSBA 0.977000   NVI.FSBA 0.977000
+    BBD.FSBA BBD...BA -1.000000   BFS.VOBA 1.000000
+    BBD.FSBA BFS.WTBA 0.893100   XSU.FSBA 0.178620
+    BBD.FSBA XVI.FSBA 0.990000   NVI.FSBA 0.990000
+    BBO.FSBA BBO...BA -1.000000   BFS.VOBA 1.000000
+    BBO.FSBA BFS.WTBA 0.820000   XSU.FSBA 0.246000
+    BBO.FSBA XVI.FSBA 0.720000   NVI.FSBA 0.720000
+    BBP.FSBA BBP...BA -1.000000   BFS.VOBA 1.000000
+    BBP.FSBA BFS.WTBA 0.820000   XSU.FSBA 1.230000
+    BBP.FSBA XVI.FSBA 0.720000   NVI.FSBA 0.720000
+    BBR.FSBA BBR...BA -1.000000   BFS.VOBA 1.000000
+    BBR.FSBA BFS.WTBA 0.937100   XSU.FSBA 0.271760
+    BBR.FSBA XVI.FSBA 1.050000   NVI.FSBA 1.050000
+    BBS.FSBA BBS...BA -1.000000   BFS.VOBA 1.000000
+    BBS.FSBA BFS.WTBA 0.927500   XSU.FSBA 0.166950
+    BBS.FSBA XVI.FSBA 1.033000   NVI.FSBA 1.033000
+    BBW.FSBA BBW...BA -1.000000   BFS.VOBA 1.000000
+    BBW.FSBA BFS.WTBA 0.870000   XSU.FSBA 0.435000
+    BBW.FSBA XVI.FSBA 0.870000   NVI.FSBA 0.870000
+    BBY.FSBA BBY...BA -1.000000   BFS.VOBA 1.000000
+    BBY.FSBA BFS.WTBA 0.870000   XSU.FSBA 1.305000
+    BBY.FSBA XVI.FSBA 0.870000   NVI.FSBA 0.870000
+    BCA.FSBA BCA...BA -1.000000   BFS.VOBA 1.000000
+    BCA.FSBA BFS.WTBA 0.911890   XSU.FSBA 0.155900
+    BCA.FSBA XVI.FSBA 1.118000   NVI.FSBA 1.118000
+    BES.FSBA BES...BA -1.000000   BFS.VOBA 1.000000
+    BES.FSBA BFS.WTBA 0.929480   XSU.FSBA 0.677090
+    BES.FSBA XVI.FSBA 1.112000   NVI.FSBA 1.112000
+    BHA.FSBA BHA...BA -1.000000   BFS.VOBA 1.000000
+    BHA.FSBA BFS.WTBA 1.051520   XSU.FSBA 6.325920
+    BHA.FSBA XVI.FSBA 1.460000   NVI.FSBA 1.460000
+    BHI.FSBA BHI...BA -1.000000   BFS.VOBA 1.000000
+    BHI.FSBA BFS.WTBA 1.035270   XSU.FSBA 3.560070
+    BHI.FSBA XVI.FSBA 1.460000   NVI.FSBA 1.460000
+    BHM.FSBA BHM...BA -1.000000   BFS.VOBA 1.000000
+    BHM.FSBA BFS.WTBA 0.820000   XSU.FSBA 0.246000
+    BHM.FSBA XVI.FSBA 0.720000   NVI.FSBA 0.720000
+    BHN.FSBA BHN...BA -1.000000   BFS.VOBA 1.000000
+    BHN.FSBA BFS.WTBA 0.820000   XSU.FSBA 1.066000
+    BHN.FSBA XVI.FSBA 0.720000   NVI.FSBA 0.720000
+    BHV.FSBA BHV...BA -1.000000   BFS.VOBA 1.000000
+    BHV.FSBA BFS.WTBA 1.054570   XSU.FSBA 3.887300
+    BHV.FSBA XVI.FSBA 1.460000   NVI.FSBA 1.460000
+    BHY.FSBA BHY...BA -1.000000   BFS.VOBA 1.000000
+    BHY.FSBA BFS.WTBA 0.961860   XSU.FSBA 0.342240
+    BHY.FSBA XVI.FSBA 1.169000   NVI.FSBA 1.169000
+    BIH.FSBA BIH...BA -1.000000   BFS.VOBA 1.000000
+    BIH.FSBA BFS.WTBA 0.971950   XSU.FSBA 2.489180
+    BIH.FSBA XVI.FSBA 1.206000   NVI.FSBA 1.206000
+    BIL.FSBA BIL...BA -1.000000   BFS.VOBA 1.000000
+    BIL.FSBA BFS.WTBA 0.955070   XSU.FSBA 2.400240
+    BIL.FSBA XVI.FSBA 1.149000   NVI.FSBA 1.149000
+    BJL.FSBA BJL...BA -1.000000   BFS.VOBA 1.000000
+    BJL.FSBA BFS.WTBA 0.955560   XSU.FSBA 1.910920
+    BJL.FSBA XVI.FSBA 1.177000   NVI.FSBA 1.177000
+    BKU.FSBA BKU...BA -1.000000   BFS.VOBA 1.000000
+    BKU.FSBA BFS.WTBA 0.973400   XSU.FSBA 4.132130
+    BKU.FSBA XVI.FSBA 1.190000   NVI.FSBA 1.190000
+    BLA.FSBA BLA...BA -1.000000   BFS.VOBA 1.000000
+    BLA.FSBA BFS.WTBA 1.021730   XSU.FSBA 4.444390
+    BLA.FSBA XVI.FSBA 1.381000   NVI.FSBA 1.381000
+    BLB.FSBA BLB...BA -1.000000   BFS.VOBA 1.000000
+    BLB.FSBA BFS.WTBA 0.915120   XSU.FSBA 0.383760
+    BLB.FSBA XVI.FSBA 1.078000   NVI.FSBA 1.078000
+    BLI.FSBA BLI...BA -1.000000   BFS.VOBA 1.000000
+    BLI.FSBA BFS.WTBA 1.028430   XSU.FSBA 3.784260
+    BLI.FSBA XVI.FSBA 1.434000   NVI.FSBA 1.434000
+    BLJ.FSBA BLJ...BA -1.000000   BFS.VOBA 1.000000
+    BLJ.FSBA BFS.WTBA 1.013610   XSU.FSBA 2.784670
+    BLJ.FSBA XVI.FSBA 1.430000   NVI.FSBA 1.430000
+    BLS.FSBA BLS...BA -1.000000   BFS.VOBA 1.000000
+    BLS.FSBA BFS.WTBA 0.913480   XSU.FSBA 0.299600
+    BLS.FSBA XVI.FSBA 1.108000   NVI.FSBA 1.108000
+    BLT.FSBA BLT...BA -1.000000   BFS.VOBA 1.000000
+    BLT.FSBA BFS.WTBA 0.923810   XSU.FSBA 0.241200
+    BLT.FSBA XVI.FSBA 1.065000   NVI.FSBA 1.065000
+    BMA.FSBA BMA...BA -1.000000   BFS.VOBA 1.000000
+    BMA.FSBA BFS.WTBA 1.036740   XSU.FSBA 5.561150
+    BMA.FSBA XVI.FSBA 1.405000   NVI.FSBA 1.405000
+    BMD.FSBA BMD...BA -1.000000   BFS.VOBA 1.000000
+    BMD.FSBA BFS.WTBA 0.954190   XSU.FSBA 0.370030
+    BMD.FSBA XVI.FSBA 1.143000   NVI.FSBA 1.143000
+    BMF.FSBA BMF...BA -1.000000   BFS.VOBA 1.000000
+    BMF.FSBA BFS.WTBA 1.017900   XSU.FSBA 0.796850
+    BMF.FSBA XVI.FSBA 1.415000   NVI.FSBA 1.415000
+    BMT.FSBA BMT...BA -1.000000   BFS.VOBA 1.000000
+    BMT.FSBA BFS.WTBA 1.039070   XSU.FSBA 3.268510
+    BMT.FSBA XVI.FSBA 1.460000   NVI.FSBA 1.460000
+    BMU.FSBA BMU...BA -1.000000   BFS.VOBA 1.000000
+    BMU.FSBA BFS.WTBA 0.922450   XSU.FSBA 1.622720
+    BMU.FSBA XVI.FSBA 1.067000   NVI.FSBA 1.067000
+    BON.FSBA BON...BA -1.000000   BFS.VOBA 1.000000
+    BON.FSBA BFS.WTBA 0.958830   XSU.FSBA 1.461240
+    BON.FSBA XVI.FSBA 1.162000   NVI.FSBA 1.162000
+    BQA.FSBA BQA...BA -1.000000   BFS.VOBA 1.000000
+    BQA.FSBA BFS.WTBA 0.997000   XSU.FSBA 4.147520
+    BQA.FSBA XVI.FSBA 1.175000   NVI.FSBA 1.175000
+    BQB.FSBA BQB...BA -1.000000   BFS.VOBA 1.000000
+    BQB.FSBA BFS.WTBA 1.014000   XSU.FSBA 3.315780
+    BQB.FSBA XVI.FSBA 1.175000   NVI.FSBA 1.175000
+    BQH.FSBA BQH...BA -1.000000   BFS.VOBA 1.000000
+    BQH.FSBA BFS.WTBA 1.014000   XSU.FSBA 5.536440
+    BQH.FSBA XVI.FSBA 1.175000   NVI.FSBA 1.175000
+    BQJ.FSBA BQJ...BA -1.000000   BFS.VOBA 1.000000
+    BQJ.FSBA BFS.WTBA 1.029000   XSU.FSBA 3.920490
+    BQJ.FSBA XVI.FSBA 1.175000   NVI.FSBA 1.175000
+    BQW.FSBA BQW...BA -1.000000   BFS.VOBA 1.000000
+    BQW.FSBA BFS.WTBA 1.007000   XSU.FSBA 5.810390
+    BQW.FSBA XVI.FSBA 1.175000   NVI.FSBA 1.175000
+    BRB.FSBA BRB...BA -1.000000   BFS.VOBA 1.000000
+    BRB.FSBA BFS.WTBA 0.983160   XSU.FSBA 0.680810
+    BRB.FSBA XVI.FSBA 1.339000   NVI.FSBA 1.339000
+    BSA.FSBA BSA...BA -1.000000   BFS.VOBA 1.000000
+    BSA.FSBA BFS.WTBA 0.963200   XSU.FSBA 0.597180
+    BSA.FSBA XVI.FSBA 1.145000   NVI.FSBA 1.145000
+    BSB.FSBA BSB...BA -1.000000   BFS.VOBA 1.000000
+    BSB.FSBA BFS.WTBA 0.993000   XSU.FSBA 0.566010
+    BSB.FSBA XVI.FSBA 1.145000   NVI.FSBA 1.145000
+    BSE.FSBA BSE...BA -1.000000   BFS.VOBA 1.000000
+    BSE.FSBA BFS.WTBA 1.004360   XSU.FSBA 1.209020
+    BSE.FSBA XVI.FSBA 1.382000   NVI.FSBA 1.382000
+    BSH.FSBA BSH...BA -1.000000   BFS.VOBA 1.000000
+    BSH.FSBA BFS.WTBA 0.979200   XSU.FSBA 0.802940
+    BSH.FSBA XVI.FSBA 1.145000   NVI.FSBA 1.145000
+    BSJ.FSBA BSJ...BA -1.000000   BFS.VOBA 1.000000
+    BSJ.FSBA BFS.WTBA 0.979200   XSU.FSBA 0.479810
+    BSJ.FSBA XVI.FSBA 1.145000   NVI.FSBA 1.145000
+    BSW.FSBA BSW...BA -1.000000   BFS.VOBA 1.000000
+    BSW.FSBA BFS.WTBA 0.972500   XSU.FSBA 0.836350
+    BSW.FSBA XVI.FSBA 1.145000   NVI.FSBA 1.145000
+    BTD.FSBA BTD...BA -1.000000   BFS.VOBA 1.000000
+    BTD.FSBA BFS.WTBA 0.987740   XSU.FSBA 1.301610
+    BTD.FSBA XVI.FSBA 1.350000   NVI.FSBA 1.350000
+    BTL.FSBA BTL...BA -1.000000   BFS.VOBA 1.000000
+    BTL.FSBA BFS.WTBA 1.023110   XSU.FSBA 0.553770
+    BTL.FSBA XVI.FSBA 1.388000   NVI.FSBA 1.388000
+    BTM.FSBA BTM...BA -1.000000   BFS.VOBA 1.000000
+    BTM.FSBA BFS.WTBA 0.982600   XSU.FSBA 2.416310
+    BTM.FSBA XVI.FSBA 1.251000   NVI.FSBA 1.251000
+    BTR.FSBA BTR...BA -1.000000   BFS.VOBA 1.000000
+    BTR.FSBA BFS.WTBA 0.906660   XSU.FSBA 0.546230
+    BTR.FSBA XVI.FSBA 1.042000   NVI.FSBA 1.042000
+    BUK.FSBA BUK...BA -1.000000   BFS.VOBA 1.000000
+    BUK.FSBA BFS.WTBA 1.037550   XSU.FSBA 5.791860
+    BUK.FSBA XVI.FSBA 1.440000   NVI.FSBA 1.440000
+    BUM.FSBA BUM...BA -1.000000   BFS.VOBA 1.000000
+    BUM.FSBA BFS.WTBA 0.989990   XSU.FSBA 2.897960
+    BUM.FSBA XVI.FSBA 1.344000   NVI.FSBA 1.344000
+    BVH.FSBA BVH...BA -1.000000   BFS.VOBA 1.000000
+    BVH.FSBA BFS.WTBA 1.005950   XSU.FSBA 3.100870
+    BVH.FSBA XVI.FSBA 1.297000   NVI.FSBA 1.297000
+    BVY.FSBA BVY...BA -1.000000   BFS.VOBA 1.000000
+    BVY.FSBA BFS.WTBA 1.015800   XSU.FSBA 1.117380
+    BVY.FSBA XVI.FSBA 1.385000   NVI.FSBA 1.385000
+    BWA.FSBA BWA...BA -1.000000   BFS.VOBA 1.000000
+    BWA.FSBA BFS.WTBA 0.969370   XSU.FSBA 0.602190
+    BWA.FSBA XVI.FSBA 1.340000   NVI.FSBA 1.340000
+    BXA.FSBA BXA...BA -1.000000   BFS.VOBA 1.000000
+    BXA.FSBA BFS.WTBA 0.991990   XSU.FSBA 2.861130
+    BXA.FSBA XVI.FSBA 1.300000   NVI.FSBA 1.300000
+    BYH.FSBA BYH...BA -1.000000   BFS.VOBA 1.000000
+    BYH.FSBA BFS.WTBA 1.023810   XSU.FSBA 0.666860
+    BYH.FSBA XVI.FSBA 1.455000   NVI.FSBA 1.455000
+    BYV.FSBA BYV...BA -1.000000   BFS.VOBA 1.000000
+    BYV.FSBA BFS.WTBA 0.969800   XSU.FSBA 0.649770
+    BYV.FSBA XVI.FSBA 1.168000   NVI.FSBA 1.168000
+    BZA.FSBA BZA...BA -1.000000   BFS.VOBA 1.000000
+    BZA.FSBA BFS.WTBA 0.902850   XSU.FSBA 0.149900
+    BZA.FSBA XVI.FSBA 1.074000   NVI.FSBA 1.074000
+    B1A.FSBA B1A...BA -1.000000   BFS.VOBA 1.000000
+    B1A.FSBA BFS.WTBA 0.932600   XSU.FSBA 0.792710
+    B1A.FSBA XVI.FSBA 1.118000   NVI.FSBA 1.118000
+    B1G.FSBA B1G...BA -1.000000   BFS.VOBA 1.000000
+    B1G.FSBA BFS.WTBA 0.953100   XSU.FSBA 0.695760
+    B1G.FSBA XVI.FSBA 1.200000   NVI.FSBA 1.200000
+    B1H.FSBA B1H...BA -1.000000   BFS.VOBA 1.000000
+    B1H.FSBA BFS.WTBA 0.949200   XSU.FSBA 1.195990
+    B1H.FSBA XVI.FSBA 1.244000   NVI.FSBA 1.244000
+    B1I.FSBA B1I...BA -1.000000   BFS.VOBA 1.000000
+    B1I.FSBA BFS.WTBA 0.939400   XSU.FSBA 0.666970
+    B1I.FSBA XVI.FSBA 1.139000   NVI.FSBA 1.139000
+    B1K.FSBA B1K...BA -1.000000   BFS.VOBA 1.000000
+    B1K.FSBA BFS.WTBA 0.940000   XSU.FSBA 1.081000
+    B1K.FSBA XVI.FSBA 1.138000   NVI.FSBA 1.138000
+    B1W.FSBA B1W...BA -1.000000   BFS.VOBA 1.000000
+    B1W.FSBA BFS.WTBA 0.937200   XSU.FSBA 1.124640
+    B1W.FSBA XVI.FSBA 1.174000   NVI.FSBA 1.174000
+    B2A.FSBA B2A...BA -1.000000   BFS.VOBA 1.000000
+    B2A.FSBA BFS.WTBA 0.921400   XSU.FSBA 0.313280
+    B2A.FSBA XVI.FSBA 1.078000   NVI.FSBA 1.078000
+    B2G.FSBA B2G...BA -1.000000   BFS.VOBA 1.000000
+    B2G.FSBA BFS.WTBA 0.942200   XSU.FSBA 0.282660
+    B2G.FSBA XVI.FSBA 1.152000   NVI.FSBA 1.152000
+    B2H.FSBA B2H...BA -1.000000   BFS.VOBA 1.000000
+    B2H.FSBA BFS.WTBA 0.933600   XSU.FSBA 0.494810
+    B2H.FSBA XVI.FSBA 1.188000   NVI.FSBA 1.188000
+    B2I.FSBA B2I...BA -1.000000   BFS.VOBA 1.000000
+    B2I.FSBA BFS.WTBA 0.929300   XSU.FSBA 0.269500
+    B2I.FSBA XVI.FSBA 1.090000   NVI.FSBA 1.090000
+    B2K.FSBA B2K...BA -1.000000   BFS.VOBA 1.000000
+    B2K.FSBA BFS.WTBA 0.926600   XSU.FSBA 0.435500
+    B2K.FSBA XVI.FSBA 1.092000   NVI.FSBA 1.092000
+    B2W.FSBA B2W...BA -1.000000   BFS.VOBA 1.000000
+    B2W.FSBA BFS.WTBA 0.922600   XSU.FSBA 0.461300
+    B2W.FSBA XVI.FSBA 1.122000   NVI.FSBA 1.122000
+    B7B.FSBA B7B...BA -1.000000   BFS.VOBA 1.000000
+    B7B.FSBA BFS.WTBA 1.020400   XSU.FSBA 3.357120
+    B7B.FSBA XVI.FSBA 1.295000   NVI.FSBA 1.295000
+    B7J.FSBA B7J...BA -1.000000   BFS.VOBA 1.000000
+    B7J.FSBA BFS.WTBA 0.989300   XSU.FSBA 2.483140
+    B7J.FSBA XVI.FSBA 1.234000   NVI.FSBA 1.234000
+    B7Q.FSBA B7Q...BA -1.000000   BFS.VOBA 1.000000
+    B7Q.FSBA BFS.WTBA 1.057400   XSU.FSBA 3.965250
+    B7Q.FSBA XVI.FSBA 1.542000   NVI.FSBA 1.542000
+    B7T.FSBA B7T...BA -1.000000   BFS.VOBA 1.000000
+    B7T.FSBA BFS.WTBA 1.045300   XSU.FSBA 3.407680
+    B7T.FSBA XVI.FSBA 1.471000   NVI.FSBA 1.471000
+    B8A.FSBA B8A...BA -1.000000   BFS.VOBA 1.000000
+    B8A.FSBA BFS.WTBA 1.107000   XSU.FSBA 7.859700
+    B8A.FSBA XVI.FSBA 1.113000   NVI.FSBA 1.113000
+    B8B.FSBA B8B...BA -1.000000   BFS.VOBA 1.000000
+    B8B.FSBA BFS.WTBA 1.107000   XSU.FSBA 4.317300
+    B8B.FSBA XVI.FSBA 1.116000   NVI.FSBA 1.116000
+    B8H.FSBA B8H...BA -1.000000   BFS.VOBA 1.000000
+    B8H.FSBA BFS.WTBA 1.107000   XSU.FSBA 6.475950
+    B8H.FSBA XVI.FSBA 1.113000   NVI.FSBA 1.113000
+    B8J.FSBA B8J...BA -1.000000   BFS.VOBA 1.000000
+    B8J.FSBA BFS.WTBA 1.107000   XSU.FSBA 3.708450
+    B8J.FSBA XVI.FSBA 1.114000   NVI.FSBA 1.114000
+    B8W.FSBA B8W...BA -1.000000   BFS.VOBA 1.000000
+    B8W.FSBA BFS.WTBA 1.107000   XSU.FSBA 8.202870
+    B8W.FSBA XVI.FSBA 1.113000   NVI.FSBA 1.113000
+    B9A.FSBA B9A...BA -1.000000   BFS.VOBA 1.000000
+    B9A.FSBA BFS.WTBA 1.086800   XSU.FSBA 6.520800
+    B9A.FSBA XVI.FSBA 1.228000   NVI.FSBA 1.228000
+    B9C.FSBA B9C...BA -1.000000   BFS.VOBA 1.000000
+    B9C.FSBA BFS.WTBA 1.080600   XSU.FSBA 3.241800
+    B9C.FSBA XVI.FSBA 1.221000   NVI.FSBA 1.221000
+    B9E.FSBA B9E...BA -1.000000   BFS.VOBA 1.000000
+    B9E.FSBA BFS.WTBA 1.012200   XSU.FSBA 0.415000
+    B9E.FSBA XVI.FSBA 1.152000   NVI.FSBA 1.152000
+    B9F.FSBA B9F...BA -1.000000   BFS.VOBA 1.000000
+    B9F.FSBA BFS.WTBA 0.923600   XSU.FSBA 0.240140
+    B9F.FSBA XVI.FSBA 1.169000   NVI.FSBA 1.169000
+    B9G.FSBA B9G...BA -1.000000   BFS.VOBA 1.000000
+    B9G.FSBA BFS.WTBA 0.979200   XSU.FSBA 3.427200
+    B9G.FSBA XVI.FSBA 1.230000   NVI.FSBA 1.230000
+    B9H.FSBA B9H...BA -1.000000   BFS.VOBA 1.000000
+    B9H.FSBA BFS.WTBA 1.140500   XSU.FSBA 7.869450
+    B9H.FSBA XVI.FSBA 1.275000   NVI.FSBA 1.275000
+    B9J.FSBA B9J...BA -1.000000   BFS.VOBA 1.000000
+    B9J.FSBA BFS.WTBA 1.132800   XSU.FSBA 3.964800
+    B9J.FSBA XVI.FSBA 1.281000   NVI.FSBA 1.281000
+    B9L.FSBA B9L...BA -1.000000   BFS.VOBA 1.000000
+    B9L.FSBA BFS.WTBA 1.034400   XSU.FSBA 0.475820
+    B9L.FSBA XVI.FSBA 1.212000   NVI.FSBA 1.212000
+    B9M.FSBA B9M...BA -1.000000   BFS.VOBA 1.000000
+    B9M.FSBA BFS.WTBA 0.944000   XSU.FSBA 0.368160
+    B9M.FSBA XVI.FSBA 1.188000   NVI.FSBA 1.188000
+    B9N.FSBA B9N...BA -1.000000   BFS.VOBA 1.000000
+    B9N.FSBA BFS.WTBA 1.031300   XSU.FSBA 5.259630
+    B9N.FSBA XVI.FSBA 1.276000   NVI.FSBA 1.276000
+    B9O.FSBA B9O...BA -1.000000   BFS.VOBA 1.000000
+    B9O.FSBA BFS.WTBA 1.119500   XSU.FSBA 5.463160
+    B9O.FSBA XVI.FSBA 1.070000   NVI.FSBA 1.070000
+    B9Q.FSBA B9Q...BA -1.000000   BFS.VOBA 1.000000
+    B9Q.FSBA BFS.WTBA 1.114200   XSU.FSBA 2.629510
+    B9Q.FSBA XVI.FSBA 1.060000   NVI.FSBA 1.060000
+    B9S.FSBA B9S...BA -1.000000   BFS.VOBA 1.000000
+    B9S.FSBA BFS.WTBA 1.072800   XSU.FSBA 0.354020
+    B9S.FSBA XVI.FSBA 1.035000   NVI.FSBA 1.035000
+    BAH.FWBA BAH...BA -1.000000   BFW.VOBA 1.000000
+    BAH.FWBA BFW.WTBA 0.989360   XSU.FWBA 4.444220
+    BAH.FWBA XVI.FWBA 1.246000   NVI.FWBA 1.246000
+    BAL.FWBA BAL...BA -1.000000   BFW.VOBA 1.000000
+    BAL.FWBA BFW.WTBA 0.958370   XSU.FWBA 3.064560
+    BAL.FWBA XVI.FWBA 1.144000   NVI.FWBA 1.144000
+    BAM.FWBA BAM...BA -1.000000   BFW.VOBA 1.000000
+    BAM.FWBA BFW.WTBA 0.969970   XSU.FWBA 3.855710
+    BAM.FWBA XVI.FWBA 1.161000   NVI.FWBA 1.161000
+    BAX.FWBA BAX...BA -1.000000   BFW.VOBA 1.000000
+    BAX.FWBA BFW.WTBA 0.930250   XSU.FWBA 1.991310
+    BAX.FWBA XVI.FWBA 1.081000   NVI.FWBA 1.081000
+    BBO.FWBA BBO...BA -1.000000   BFW.VOBA 1.000000
+    BBO.FWBA BFW.WTBA 0.820000   XSU.FWBA 0.246000
+    BBO.FWBA XVI.FWBA 0.720000   NVI.FWBA 0.720000
+    BBP.FWBA BBP...BA -1.000000   BFW.VOBA 1.000000
+    BBP.FWBA BFW.WTBA 0.820000   XSU.FWBA 1.230000
+    BBP.FWBA XVI.FWBA 0.720000   NVI.FWBA 0.720000
+    BBW.FWBA BBW...BA -1.000000   BFW.VOBA 1.000000
+    BBW.FWBA BFW.WTBA 0.870000   XSU.FWBA 0.435000
+    BBW.FWBA XVI.FWBA 0.870000   NVI.FWBA 0.870000
+    BBY.FWBA BBY...BA -1.000000   BFW.VOBA 1.000000
+    BBY.FWBA BFW.WTBA 0.870000   XSU.FWBA 1.305000
+    BBY.FWBA XVI.FWBA 0.870000   NVI.FWBA 0.870000
+    BHA.FWBA BHA...BA -1.000000   BFW.VOBA 1.000000
+    BHA.FWBA BFW.WTBA 1.051520   XSU.FWBA 6.325920
+    BHA.FWBA XVI.FWBA 1.460000   NVI.FWBA 1.460000
+    BHI.FWBA BHI...BA -1.000000   BFW.VOBA 1.000000
+    BHI.FWBA BFW.WTBA 1.035270   XSU.FWBA 3.560070
+    BHI.FWBA XVI.FWBA 1.460000   NVI.FWBA 1.460000
+    BHM.FWBA BHM...BA -1.000000   BFW.VOBA 1.000000
+    BHM.FWBA BFW.WTBA 0.820000   XSU.FWBA 0.246000
+    BHM.FWBA XVI.FWBA 0.720000   NVI.FWBA 0.720000
+    BHN.FWBA BHN...BA -1.000000   BFW.VOBA 1.000000
+    BHN.FWBA BFW.WTBA 0.820000   XSU.FWBA 1.066000
+    BHN.FWBA XVI.FWBA 0.720000   NVI.FWBA 0.720000
+    BHV.FWBA BHV...BA -1.000000   BFW.VOBA 1.000000
+    BHV.FWBA BFW.WTBA 1.054570   XSU.FWBA 3.887300
+    BHV.FWBA XVI.FWBA 1.460000   NVI.FWBA 1.460000
+    BIH.FWBA BIH...BA -1.000000   BFW.VOBA 1.000000
+    BIH.FWBA BFW.WTBA 0.971950   XSU.FWBA 2.489180
+    BIH.FWBA XVI.FWBA 1.206000   NVI.FWBA 1.206000
+    BIL.FWBA BIL...BA -1.000000   BFW.VOBA 1.000000
+    BIL.FWBA BFW.WTBA 0.955070   XSU.FWBA 2.400240
+    BIL.FWBA XVI.FWBA 1.149000   NVI.FWBA 1.149000
+    BJL.FWBA BJL...BA -1.000000   BFW.VOBA 1.000000
+    BJL.FWBA BFW.WTBA 0.955560   XSU.FWBA 1.910920
+    BJL.FWBA XVI.FWBA 1.177000   NVI.FWBA 1.177000
+    BKU.FWBA BKU...BA -1.000000   BFW.VOBA 1.000000
+    BKU.FWBA BFW.WTBA 0.973400   XSU.FWBA 4.132130
+    BKU.FWBA XVI.FWBA 1.190000   NVI.FWBA 1.190000
+    BLA.FWBA BLA...BA -1.000000   BFW.VOBA 1.000000
+    BLA.FWBA BFW.WTBA 1.021730   XSU.FWBA 4.444390
+    BLA.FWBA XVI.FWBA 1.381000   NVI.FWBA 1.381000
+    BLI.FWBA BLI...BA -1.000000   BFW.VOBA 1.000000
+    BLI.FWBA BFW.WTBA 1.028430   XSU.FWBA 3.784260
+    BLI.FWBA XVI.FWBA 1.434000   NVI.FWBA 1.434000
+    BLJ.FWBA BLJ...BA -1.000000   BFW.VOBA 1.000000
+    BLJ.FWBA BFW.WTBA 1.013610   XSU.FWBA 2.784670
+    BLJ.FWBA XVI.FWBA 1.430000   NVI.FWBA 1.430000
+    BMA.FWBA BMA...BA -1.000000   BFW.VOBA 1.000000
+    BMA.FWBA BFW.WTBA 1.036740   XSU.FWBA 5.561150
+    BMA.FWBA XVI.FWBA 1.405000   NVI.FWBA 1.405000
+    BMT.FWBA BMT...BA -1.000000   BFW.VOBA 1.000000
+    BMT.FWBA BFW.WTBA 1.039070   XSU.FWBA 3.268510
+    BMT.FWBA XVI.FWBA 1.460000   NVI.FWBA 1.460000
+    BMU.FWBA BMU...BA -1.000000   BFW.VOBA 1.000000
+    BMU.FWBA BFW.WTBA 0.922450   XSU.FWBA 1.622720
+    BMU.FWBA XVI.FWBA 1.067000   NVI.FWBA 1.067000
+    BON.FWBA BON...BA -1.000000   BFW.VOBA 1.000000
+    BON.FWBA BFW.WTBA 0.958830   XSU.FWBA 1.461240
+    BON.FWBA XVI.FWBA 1.162000   NVI.FWBA 1.162000
+    BQA.FWBA BQA...BA -1.000000   BFW.VOBA 1.000000
+    BQA.FWBA BFW.WTBA 0.997000   XSU.FWBA 4.147520
+    BQA.FWBA XVI.FWBA 1.175000   NVI.FWBA 1.175000
+    BQB.FWBA BQB...BA -1.000000   BFW.VOBA 1.000000
+    BQB.FWBA BFW.WTBA 1.014000   XSU.FWBA 3.315780
+    BQB.FWBA XVI.FWBA 1.175000   NVI.FWBA 1.175000
+    BQH.FWBA BQH...BA -1.000000   BFW.VOBA 1.000000
+    BQH.FWBA BFW.WTBA 1.014000   XSU.FWBA 5.536440
+    BQH.FWBA XVI.FWBA 1.175000   NVI.FWBA 1.175000
+    BQJ.FWBA BQJ...BA -1.000000   BFW.VOBA 1.000000
+    BQJ.FWBA BFW.WTBA 1.029000   XSU.FWBA 3.920490
+    BQJ.FWBA XVI.FWBA 1.175000   NVI.FWBA 1.175000
+    BQW.FWBA BQW...BA -1.000000   BFW.VOBA 1.000000
+    BQW.FWBA BFW.WTBA 1.007000   XSU.FWBA 5.810390
+    BQW.FWBA XVI.FWBA 1.175000   NVI.FWBA 1.175000
+    BTD.FWBA BTD...BA -1.000000   BFW.VOBA 1.000000
+    BTD.FWBA BFW.WTBA 0.987740   XSU.FWBA 1.301610
+    BTD.FWBA XVI.FWBA 1.350000   NVI.FWBA 1.350000
+    BTM.FWBA BTM...BA -1.000000   BFW.VOBA 1.000000
+    BTM.FWBA BFW.WTBA 0.982600   XSU.FWBA 2.416310
+    BTM.FWBA XVI.FWBA 1.251000   NVI.FWBA 1.251000
+    BTR.FWBA BTR...BA -1.000000   BFW.VOBA 1.000000
+    BTR.FWBA BFW.WTBA 0.906660   XSU.FWBA 0.546230
+    BTR.FWBA XVI.FWBA 1.042000   NVI.FWBA 1.042000
+    BUK.FWBA BUK...BA -1.000000   BFW.VOBA 1.000000
+    BUK.FWBA BFW.WTBA 1.037550   XSU.FWBA 5.791860
+    BUK.FWBA XVI.FWBA 1.440000   NVI.FWBA 1.440000
+    BUM.FWBA BUM...BA -1.000000   BFW.VOBA 1.000000
+    BUM.FWBA BFW.WTBA 0.989990   XSU.FWBA 2.897960
+    BUM.FWBA XVI.FWBA 1.344000   NVI.FWBA 1.344000
+    BVH.FWBA BVH...BA -1.000000   BFW.VOBA 1.000000
+    BVH.FWBA BFW.WTBA 1.005950   XSU.FWBA 3.100870
+    BVH.FWBA XVI.FWBA 1.297000   NVI.FWBA 1.297000
+    BVY.FWBA BVY...BA -1.000000   BFW.VOBA 1.000000
+    BVY.FWBA BFW.WTBA 1.015800   XSU.FWBA 1.117380
+    BVY.FWBA XVI.FWBA 1.385000   NVI.FWBA 1.385000
+    BXA.FWBA BXA...BA -1.000000   BFW.VOBA 1.000000
+    BXA.FWBA BFW.WTBA 0.991990   XSU.FWBA 2.861130
+    BXA.FWBA XVI.FWBA 1.300000   NVI.FWBA 1.300000
+    BYV.FWBA BYV...BA -1.000000   BFW.VOBA 1.000000
+    BYV.FWBA BFW.WTBA 0.969800   XSU.FWBA 0.649770
+    BYV.FWBA XVI.FWBA 1.168000   NVI.FWBA 1.168000
+    B7B.FWBA B7B...BA -1.000000   BFW.VOBA 1.000000
+    B7B.FWBA BFW.WTBA 1.020400   XSU.FWBA 3.357120
+    B7B.FWBA XVI.FWBA 1.295000   NVI.FWBA 1.295000
+    B7J.FWBA B7J...BA -1.000000   BFW.VOBA 1.000000
+    B7J.FWBA BFW.WTBA 0.989300   XSU.FWBA 2.483140
+    B7J.FWBA XVI.FWBA 1.234000   NVI.FWBA 1.234000
+    B7Q.FWBA B7Q...BA -1.000000   BFW.VOBA 1.000000
+    B7Q.FWBA BFW.WTBA 1.057400   XSU.FWBA 3.965250
+    B7Q.FWBA XVI.FWBA 1.542000   NVI.FWBA 1.542000
+    B7T.FWBA B7T...BA -1.000000   BFW.VOBA 1.000000
+    B7T.FWBA BFW.WTBA 1.045300   XSU.FWBA 3.407680
+    B7T.FWBA XVI.FWBA 1.471000   NVI.FWBA 1.471000
+    B8A.FWBA B8A...BA -1.000000   BFW.VOBA 1.000000
+    B8A.FWBA BFW.WTBA 1.107000   XSU.FWBA 7.859700
+    B8A.FWBA XVI.FWBA 1.113000   NVI.FWBA 1.113000
+    B8B.FWBA B8B...BA -1.000000   BFW.VOBA 1.000000
+    B8B.FWBA BFW.WTBA 1.107000   XSU.FWBA 4.317300
+    B8B.FWBA XVI.FWBA 1.116000   NVI.FWBA 1.116000
+    B8H.FWBA B8H...BA -1.000000   BFW.VOBA 1.000000
+    B8H.FWBA BFW.WTBA 1.107000   XSU.FWBA 6.475950
+    B8H.FWBA XVI.FWBA 1.113000   NVI.FWBA 1.113000
+    B8J.FWBA B8J...BA -1.000000   BFW.VOBA 1.000000
+    B8J.FWBA BFW.WTBA 1.107000   XSU.FWBA 3.708450
+    B8J.FWBA XVI.FWBA 1.114000   NVI.FWBA 1.114000
+    B8W.FWBA B8W...BA -1.000000   BFW.VOBA 1.000000
+    B8W.FWBA BFW.WTBA 1.107000   XSU.FWBA 8.202870
+    B8W.FWBA XVI.FWBA 1.113000   NVI.FWBA 1.113000
+    B9A.FWBA B9A...BA -1.000000   BFW.VOBA 1.000000
+    B9A.FWBA BFW.WTBA 1.086800   XSU.FWBA 6.520800
+    B9A.FWBA XVI.FWBA 1.228000   NVI.FWBA 1.228000
+    B9C.FWBA B9C...BA -1.000000   BFW.VOBA 1.000000
+    B9C.FWBA BFW.WTBA 1.080600   XSU.FWBA 3.241800
+    B9C.FWBA XVI.FWBA 1.221000   NVI.FWBA 1.221000
+    B9G.FWBA B9G...BA -1.000000   BFW.VOBA 1.000000
+    B9G.FWBA BFW.WTBA 0.979200   XSU.FWBA 3.427200
+    B9G.FWBA XVI.FWBA 1.230000   NVI.FWBA 1.230000
+    B9H.FWBA B9H...BA -1.000000   BFW.VOBA 1.000000
+    B9H.FWBA BFW.WTBA 1.140500   XSU.FWBA 7.869450
+    B9H.FWBA XVI.FWBA 1.275000   NVI.FWBA 1.275000
+    B9J.FWBA B9J...BA -1.000000   BFW.VOBA 1.000000
+    B9J.FWBA BFW.WTBA 1.132800   XSU.FWBA 3.964800
+    B9J.FWBA XVI.FWBA 1.281000   NVI.FWBA 1.281000
+    B9N.FWBA B9N...BA -1.000000   BFW.VOBA 1.000000
+    B9N.FWBA BFW.WTBA 1.031300   XSU.FWBA 5.259630
+    B9N.FWBA XVI.FWBA 1.276000   NVI.FWBA 1.276000
+    B9O.FWBA B9O...BA -1.000000   BFW.VOBA 1.000000
+    B9O.FWBA BFW.WTBA 1.119500   XSU.FWBA 5.463160
+    B9O.FWBA XVI.FWBA 1.070000   NVI.FWBA 1.070000
+    B9Q.FWBA B9Q...BA -1.000000   BFW.VOBA 1.000000
+    B9Q.FWBA BFW.WTBA 1.114200   XSU.FWBA 2.629510
+    B9Q.FWBA XVI.FWBA 1.060000   NVI.FWBA 1.060000
+    BAH.FYBA BAH...BA -1.000000   BFY.VOBA 1.000000
+    BAH.FYBA BFY.WTBA 0.989360   XSU.FYBA 4.444220
+    BAH.FYBA XVI.FYBA 1.246000   NVI.FYBA 1.246000
+    BAL.FYBA BAL...BA -1.000000   BFY.VOBA 1.000000
+    BAL.FYBA BFY.WTBA 0.958370   XSU.FYBA 3.064560
+    BAL.FYBA XVI.FYBA 1.144000   NVI.FYBA 1.144000
+    BAM.FYBA BAM...BA -1.000000   BFY.VOBA 1.000000
+    BAM.FYBA BFY.WTBA 0.969970   XSU.FYBA 3.855710
+    BAM.FYBA XVI.FYBA 1.161000   NVI.FYBA 1.161000
+    BAX.FYBA BAX...BA -1.000000   BFY.VOBA 1.000000
+    BAX.FYBA BFY.WTBA 0.930250   XSU.FYBA 1.991310
+    BAX.FYBA XVI.FYBA 1.081000   NVI.FYBA 1.081000
+    BBO.FYBA BBO...BA -1.000000   BFY.VOBA 1.000000
+    BBO.FYBA BFY.WTBA 0.820000   XSU.FYBA 0.246000
+    BBO.FYBA XVI.FYBA 0.720000   NVI.FYBA 0.720000
+    BBP.FYBA BBP...BA -1.000000   BFY.VOBA 1.000000
+    BBP.FYBA BFY.WTBA 0.820000   XSU.FYBA 1.230000
+    BBP.FYBA XVI.FYBA 0.720000   NVI.FYBA 0.720000
+    BBW.FYBA BBW...BA -1.000000   BFY.VOBA 1.000000
+    BBW.FYBA BFY.WTBA 0.870000   XSU.FYBA 0.435000
+    BBW.FYBA XVI.FYBA 0.870000   NVI.FYBA 0.870000
+    BBY.FYBA BBY...BA -1.000000   BFY.VOBA 1.000000
+    BBY.FYBA BFY.WTBA 0.870000   XSU.FYBA 1.305000
+    BBY.FYBA XVI.FYBA 0.870000   NVI.FYBA 0.870000
+    BHA.FYBA BHA...BA -1.000000   BFY.VOBA 1.000000
+    BHA.FYBA BFY.WTBA 1.051520   XSU.FYBA 6.325920
+    BHA.FYBA XVI.FYBA 1.460000   NVI.FYBA 1.460000
+    BHI.FYBA BHI...BA -1.000000   BFY.VOBA 1.000000
+    BHI.FYBA BFY.WTBA 1.035270   XSU.FYBA 3.560070
+    BHI.FYBA XVI.FYBA 1.460000   NVI.FYBA 1.460000
+    BHM.FYBA BHM...BA -1.000000   BFY.VOBA 1.000000
+    BHM.FYBA BFY.WTBA 0.820000   XSU.FYBA 0.246000
+    BHM.FYBA XVI.FYBA 0.720000   NVI.FYBA 0.720000
+    BHN.FYBA BHN...BA -1.000000   BFY.VOBA 1.000000
+    BHN.FYBA BFY.WTBA 0.820000   XSU.FYBA 1.066000
+    BHN.FYBA XVI.FYBA 0.720000   NVI.FYBA 0.720000
+    BHV.FYBA BHV...BA -1.000000   BFY.VOBA 1.000000
+    BHV.FYBA BFY.WTBA 1.054570   XSU.FYBA 3.887300
+    BHV.FYBA XVI.FYBA 1.460000   NVI.FYBA 1.460000
+    BIH.FYBA BIH...BA -1.000000   BFY.VOBA 1.000000
+    BIH.FYBA BFY.WTBA 0.971950   XSU.FYBA 2.489180
+    BIH.FYBA XVI.FYBA 1.206000   NVI.FYBA 1.206000
+    BIL.FYBA BIL...BA -1.000000   BFY.VOBA 1.000000
+    BIL.FYBA BFY.WTBA 0.955070   XSU.FYBA 2.400240
+    BIL.FYBA XVI.FYBA 1.149000   NVI.FYBA 1.149000
+    BJL.FYBA BJL...BA -1.000000   BFY.VOBA 1.000000
+    BJL.FYBA BFY.WTBA 0.955560   XSU.FYBA 1.910920
+    BJL.FYBA XVI.FYBA 1.177000   NVI.FYBA 1.177000
+    BKU.FYBA BKU...BA -1.000000   BFY.VOBA 1.000000
+    BKU.FYBA BFY.WTBA 0.973400   XSU.FYBA 4.132130
+    BKU.FYBA XVI.FYBA 1.190000   NVI.FYBA 1.190000
+    BLA.FYBA BLA...BA -1.000000   BFY.VOBA 1.000000
+    BLA.FYBA BFY.WTBA 1.021730   XSU.FYBA 4.444390
+    BLA.FYBA XVI.FYBA 1.381000   NVI.FYBA 1.381000
+    BLI.FYBA BLI...BA -1.000000   BFY.VOBA 1.000000
+    BLI.FYBA BFY.WTBA 1.028430   XSU.FYBA 3.784260
+    BLI.FYBA XVI.FYBA 1.434000   NVI.FYBA 1.434000
+    BLJ.FYBA BLJ...BA -1.000000   BFY.VOBA 1.000000
+    BLJ.FYBA BFY.WTBA 1.013610   XSU.FYBA 2.784670
+    BLJ.FYBA XVI.FYBA 1.430000   NVI.FYBA 1.430000
+    BMA.FYBA BMA...BA -1.000000   BFY.VOBA 1.000000
+    BMA.FYBA BFY.WTBA 1.036740   XSU.FYBA 5.561150
+    BMA.FYBA XVI.FYBA 1.405000   NVI.FYBA 1.405000
+    BMT.FYBA BMT...BA -1.000000   BFY.VOBA 1.000000
+    BMT.FYBA BFY.WTBA 1.039070   XSU.FYBA 3.268510
+    BMT.FYBA XVI.FYBA 1.460000   NVI.FYBA 1.460000
+    BMU.FYBA BMU...BA -1.000000   BFY.VOBA 1.000000
+    BMU.FYBA BFY.WTBA 0.922450   XSU.FYBA 1.622720
+    BMU.FYBA XVI.FYBA 1.067000   NVI.FYBA 1.067000
+    BON.FYBA BON...BA -1.000000   BFY.VOBA 1.000000
+    BON.FYBA BFY.WTBA 0.958830   XSU.FYBA 1.461240
+    BON.FYBA XVI.FYBA 1.162000   NVI.FYBA 1.162000
+    BQA.FYBA BQA...BA -1.000000   BFY.VOBA 1.000000
+    BQA.FYBA BFY.WTBA 0.997000   XSU.FYBA 4.147520
+    BQA.FYBA XVI.FYBA 1.175000   NVI.FYBA 1.175000
+    BQB.FYBA BQB...BA -1.000000   BFY.VOBA 1.000000
+    BQB.FYBA BFY.WTBA 1.014000   XSU.FYBA 3.315780
+    BQB.FYBA XVI.FYBA 1.175000   NVI.FYBA 1.175000
+    BQH.FYBA BQH...BA -1.000000   BFY.VOBA 1.000000
+    BQH.FYBA BFY.WTBA 1.014000   XSU.FYBA 5.536440
+    BQH.FYBA XVI.FYBA 1.175000   NVI.FYBA 1.175000
+    BQJ.FYBA BQJ...BA -1.000000   BFY.VOBA 1.000000
+    BQJ.FYBA BFY.WTBA 1.029000   XSU.FYBA 3.920490
+    BQJ.FYBA XVI.FYBA 1.175000   NVI.FYBA 1.175000
+    BQW.FYBA BQW...BA -1.000000   BFY.VOBA 1.000000
+    BQW.FYBA BFY.WTBA 1.007000   XSU.FYBA 5.810390
+    BQW.FYBA XVI.FYBA 1.175000   NVI.FYBA 1.175000
+    BTD.FYBA BTD...BA -1.000000   BFY.VOBA 1.000000
+    BTD.FYBA BFY.WTBA 0.987740   XSU.FYBA 1.301610
+    BTD.FYBA XVI.FYBA 1.350000   NVI.FYBA 1.350000
+    BTM.FYBA BTM...BA -1.000000   BFY.VOBA 1.000000
+    BTM.FYBA BFY.WTBA 0.982600   XSU.FYBA 2.416310
+    BTM.FYBA XVI.FYBA 1.251000   NVI.FYBA 1.251000
+    BTR.FYBA BTR...BA -1.000000   BFY.VOBA 1.000000
+    BTR.FYBA BFY.WTBA 0.906660   XSU.FYBA 0.546230
+    BTR.FYBA XVI.FYBA 1.042000   NVI.FYBA 1.042000
+    BUK.FYBA BUK...BA -1.000000   BFY.VOBA 1.000000
+    BUK.FYBA BFY.WTBA 1.037550   XSU.FYBA 5.791860
+    BUK.FYBA XVI.FYBA 1.440000   NVI.FYBA 1.440000
+    BUM.FYBA BUM...BA -1.000000   BFY.VOBA 1.000000
+    BUM.FYBA BFY.WTBA 0.989990   XSU.FYBA 2.897960
+    BUM.FYBA XVI.FYBA 1.344000   NVI.FYBA 1.344000
+    BVH.FYBA BVH...BA -1.000000   BFY.VOBA 1.000000
+    BVH.FYBA BFY.WTBA 1.005950   XSU.FYBA 3.100870
+    BVH.FYBA XVI.FYBA 1.297000   NVI.FYBA 1.297000
+    BVY.FYBA BVY...BA -1.000000   BFY.VOBA 1.000000
+    BVY.FYBA BFY.WTBA 1.015800   XSU.FYBA 1.117380
+    BVY.FYBA XVI.FYBA 1.385000   NVI.FYBA 1.385000
+    BXA.FYBA BXA...BA -1.000000   BFY.VOBA 1.000000
+    BXA.FYBA BFY.WTBA 0.991990   XSU.FYBA 2.861130
+    BXA.FYBA XVI.FYBA 1.300000   NVI.FYBA 1.300000
+    BYV.FYBA BYV...BA -1.000000   BFY.VOBA 1.000000
+    BYV.FYBA BFY.WTBA 0.969800   XSU.FYBA 0.649770
+    BYV.FYBA XVI.FYBA 1.168000   NVI.FYBA 1.168000
+    B7B.FYBA B7B...BA -1.000000   BFY.VOBA 1.000000
+    B7B.FYBA BFY.WTBA 1.020400   XSU.FYBA 3.357120
+    B7B.FYBA XVI.FYBA 1.295000   NVI.FYBA 1.295000
+    B7J.FYBA B7J...BA -1.000000   BFY.VOBA 1.000000
+    B7J.FYBA BFY.WTBA 0.989300   XSU.FYBA 2.483140
+    B7J.FYBA XVI.FYBA 1.234000   NVI.FYBA 1.234000
+    B7Q.FYBA B7Q...BA -1.000000   BFY.VOBA 1.000000
+    B7Q.FYBA BFY.WTBA 1.057400   XSU.FYBA 3.965250
+    B7Q.FYBA XVI.FYBA 1.542000   NVI.FYBA 1.542000
+    B7T.FYBA B7T...BA -1.000000   BFY.VOBA 1.000000
+    B7T.FYBA BFY.WTBA 1.045300   XSU.FYBA 3.407680
+    B7T.FYBA XVI.FYBA 1.471000   NVI.FYBA 1.471000
+    B8A.FYBA B8A...BA -1.000000   BFY.VOBA 1.000000
+    B8A.FYBA BFY.WTBA 1.107000   XSU.FYBA 7.859700
+    B8A.FYBA XVI.FYBA 1.113000   NVI.FYBA 1.113000
+    B8B.FYBA B8B...BA -1.000000   BFY.VOBA 1.000000
+    B8B.FYBA BFY.WTBA 1.107000   XSU.FYBA 4.317300
+    B8B.FYBA XVI.FYBA 1.116000   NVI.FYBA 1.116000
+    B8H.FYBA B8H...BA -1.000000   BFY.VOBA 1.000000
+    B8H.FYBA BFY.WTBA 1.107000   XSU.FYBA 6.475950
+    B8H.FYBA XVI.FYBA 1.113000   NVI.FYBA 1.113000
+    B8J.FYBA B8J...BA -1.000000   BFY.VOBA 1.000000
+    B8J.FYBA BFY.WTBA 1.107000   XSU.FYBA 3.708450
+    B8J.FYBA XVI.FYBA 1.114000   NVI.FYBA 1.114000
+    B8W.FYBA B8W...BA -1.000000   BFY.VOBA 1.000000
+    B8W.FYBA BFY.WTBA 1.107000   XSU.FYBA 8.202870
+    B8W.FYBA XVI.FYBA 1.113000   NVI.FYBA 1.113000
+    B9A.FYBA B9A...BA -1.000000   BFY.VOBA 1.000000
+    B9A.FYBA BFY.WTBA 1.086800   XSU.FYBA 6.520800
+    B9A.FYBA XVI.FYBA 1.228000   NVI.FYBA 1.228000
+    B9C.FYBA B9C...BA -1.000000   BFY.VOBA 1.000000
+    B9C.FYBA BFY.WTBA 1.080600   XSU.FYBA 3.241800
+    B9C.FYBA XVI.FYBA 1.221000   NVI.FYBA 1.221000
+    B9G.FYBA B9G...BA -1.000000   BFY.VOBA 1.000000
+    B9G.FYBA BFY.WTBA 0.979200   XSU.FYBA 3.427200
+    B9G.FYBA XVI.FYBA 1.230000   NVI.FYBA 1.230000
+    B9H.FYBA B9H...BA -1.000000   BFY.VOBA 1.000000
+    B9H.FYBA BFY.WTBA 1.140500   XSU.FYBA 7.869450
+    B9H.FYBA XVI.FYBA 1.275000   NVI.FYBA 1.275000
+    B9J.FYBA B9J...BA -1.000000   BFY.VOBA 1.000000
+    B9J.FYBA BFY.WTBA 1.132800   XSU.FYBA 3.964800
+    B9J.FYBA XVI.FYBA 1.281000   NVI.FYBA 1.281000
+    B9N.FYBA B9N...BA -1.000000   BFY.VOBA 1.000000
+    B9N.FYBA BFY.WTBA 1.031300   XSU.FYBA 5.259630
+    B9N.FYBA XVI.FYBA 1.276000   NVI.FYBA 1.276000
+    B9O.FYBA B9O...BA -1.000000   BFY.VOBA 1.000000
+    B9O.FYBA BFY.WTBA 1.119500   XSU.FYBA 5.463160
+    B9O.FYBA XVI.FYBA 1.070000   NVI.FYBA 1.070000
+    B9Q.FYBA B9Q...BA -1.000000   BFY.VOBA 1.000000
+    B9Q.FYBA BFY.WTBA 1.114200   XSU.FYBA 2.629510
+    B9Q.FYBA XVI.FYBA 1.060000   NVI.FYBA 1.060000
+    B/A.GPBA B/A...BA -1.000000   BGP.VOBA 1.000000
+    B/A.GPBA NRN.GPBA 0.639000   ND2.GPBA 0.281000
+    B/A.GPBA WVP.GPBA 0.380000   WD8.GPBA 0.085000
+    BIP.GPBA BIP...BA -1.000000   BGP.VOBA 1.000000
+    BIP.GPBA NRN.GPBA 0.486000   ND2.GPBA 0.137000
+    BIP.GPBA WVP.GPBA 0.110000   WD8.GPBA -0.016000
+    BLN.GPBA BLN...BA -1.000000   BGP.VOBA 1.000000
+    BLN.GPBA NRN.GPBA 0.555000   ND2.GPBA 1.080000
+    BLN.GPBA WVP.GPBA 1.040000   WD8.GPBA 0.580000
+    BN4.GPBA BN4...BA -1.000000   BGP.VOBA 1.000000
+    BN4.GPBA NRN.GPBA 0.668000   ND2.GPBA 1.000000
+    BN4.GPBA WVP.GPBA 6.500000   WD8.GPBA 1.040000
+    B0A.GPBA B0A...BA -1.000000   BGP.VOBA 1.000000
+    B0A.GPBA NRN.GPBA 0.639000   ND2.GPBA 0.281000
+    B0A.GPBA WVP.GPBA 0.380000   WD8.GPBA 0.085000
+    B4A.GPBA B4A...BA -1.000000   BGP.VOBA 1.000000
+    B4A.GPBA NRN.GPBA 0.643200   ND2.GPBA 0.486000
+    B4A.GPBA WVP.GPBA 0.700000   WD8.GPBA 0.187000
+    B4C.GPBA B4C...BA -1.000000   BGP.VOBA 1.000000
+    B4C.GPBA NRN.GPBA 0.645700   ND2.GPBA 0.551000
+    B4C.GPBA WVP.GPBA 0.790000   WD8.GPBA 0.235000
+    B4E.GPBA B4E...BA -1.000000   BGP.VOBA 1.000000
+    B4E.GPBA NRN.GPBA 0.645200   ND2.GPBA 0.569000
+    B4E.GPBA WVP.GPBA 0.780000   WD8.GPBA 0.226000
+    B4F.GPBA B4F...BA -1.000000   BGP.VOBA 1.000000
+    B4F.GPBA NRN.GPBA 0.644800   ND2.GPBA 0.527000
+    B4F.GPBA WVP.GPBA 0.760000   WD8.GPBA 0.217000
+    B4G.GPBA B4G...BA -1.000000   BGP.VOBA 1.000000
+    B4G.GPBA NRN.GPBA 0.643400   ND2.GPBA 0.492000
+    B4G.GPBA WVP.GPBA 0.710000   WD8.GPBA 0.192000
+    B4H.GPBA B4H...BA -1.000000   BGP.VOBA 1.000000
+    B4H.GPBA NRN.GPBA 0.647500   ND2.GPBA 0.600000
+    B4H.GPBA WVP.GPBA 0.860000   WD8.GPBA 0.271000
+    B4J.GPBA B4J...BA -1.000000   BGP.VOBA 1.000000
+    B4J.GPBA NRN.GPBA 0.640600   ND2.GPBA 0.682000
+    B4J.GPBA WVP.GPBA 0.980000   WD8.GPBA 0.331000
+    B4L.GPBA B4L...BA -1.000000   BGP.VOBA 1.000000
+    B4L.GPBA NRN.GPBA 0.649500   ND2.GPBA 0.654000
+    B4L.GPBA WVP.GPBA 0.940000   WD8.GPBA 0.311000
+    B4M.GPBA B4M...BA -1.000000   BGP.VOBA 1.000000
+    B4M.GPBA NRN.GPBA 0.648900   ND2.GPBA 0.638000
+    B4M.GPBA WVP.GPBA 0.920000   WD8.GPBA 0.299000
+    B4N.GPBA B4N...BA -1.000000   BGP.VOBA 1.000000
+    B4N.GPBA NRN.GPBA 0.647900   ND2.GPBA 0.612000
+    B4N.GPBA WVP.GPBA 0.880000   WD8.GPBA 0.280000
+    B4O.GPBA B4O...BA -1.000000   BGP.VOBA 1.000000
+    B4O.GPBA NRN.GPBA 0.650000   ND2.GPBA 0.462000
+    B4O.GPBA WVP.GPBA 0.580000   WD8.GPBA 0.222000
+    B4Q.GPBA B4Q...BA -1.000000   BGP.VOBA 1.000000
+    B4Q.GPBA NRN.GPBA 0.650000   ND2.GPBA 0.464000
+    B4Q.GPBA WVP.GPBA 0.580000   WD8.GPBA 0.224000
+    B4S.GPBA B4S...BA -1.000000   BGP.VOBA 1.000000
+    B4S.GPBA NRN.GPBA 0.648000   ND2.GPBA 0.489000
+    B4S.GPBA WVP.GPBA 0.600000   WD8.GPBA 0.253000
+    B5A.GPBA B5A...BA -1.000000   BGP.VOBA 1.000000
+    B5A.GPBA NRN.GPBA 0.668000   ND2.GPBA 0.239000
+    B5A.GPBA WVP.GPBA 0.230000   WD8.GPBA -0.040000
+    B5B.GPBA B5B...BA -1.000000   BGP.VOBA 1.000000
+    B5B.GPBA NRN.GPBA 0.672000   ND2.GPBA 0.334000
+    B5B.GPBA WVP.GPBA 0.370000   WD8.GPBA 0.049000
+    B5C.GPBA B5C...BA -1.000000   BGP.VOBA 1.000000
+    B5C.GPBA NRN.GPBA 0.667000   ND2.GPBA 0.191000
+    B5C.GPBA WVP.GPBA 0.220000   WD8.GPBA -0.049000
+    B5D.GPBA B5D...BA -1.000000   BGP.VOBA 1.000000
+    B5D.GPBA NRN.GPBA 0.671000   ND2.GPBA 0.286000
+    B5D.GPBA WVP.GPBA 0.360000   WD8.GPBA 0.040000
+    B5E.GPBA B5E...BA -1.000000   BGP.VOBA 1.000000
+    B5E.GPBA NRN.GPBA 0.701000   ND2.GPBA 0.241000
+    B5E.GPBA WVP.GPBA 0.250000   WD8.GPBA -0.024000
+    B5F.GPBA B5F...BA -1.000000   BGP.VOBA 1.000000
+    B5F.GPBA NRN.GPBA 0.705000   ND2.GPBA 0.336000
+    B5F.GPBA WVP.GPBA 0.390000   WD8.GPBA 0.065000
+    B5G.GPBA B5G...BA -1.000000   BGP.VOBA 1.000000
+    B5G.GPBA NRN.GPBA 0.700000   ND2.GPBA 0.193000
+    B5G.GPBA WVP.GPBA 0.240000   WD8.GPBA -0.033000
+    B5H.GPBA B5H...BA -1.000000   BGP.VOBA 1.000000
+    B5H.GPBA NRN.GPBA 0.704000   ND2.GPBA 0.288000
+    B5H.GPBA WVP.GPBA 0.380000   WD8.GPBA 0.056000
+    B5M.GPBA B5M...BA -1.000000   BGP.VOBA 1.000000
+    B5M.GPBA NRN.GPBA 0.729000   ND2.GPBA 0.200000
+    B5M.GPBA WVP.GPBA 0.250000   WD8.GPBA -0.015000
+    B5N.GPBA B5N...BA -1.000000   BGP.VOBA 1.000000
+    B5N.GPBA NRN.GPBA 0.729000   ND2.GPBA 0.147000
+    B5N.GPBA WVP.GPBA 0.240000   WD8.GPBA -0.028000
+    B5O.GPBA B5O...BA -1.000000   BGP.VOBA 1.000000
+    B5O.GPBA NRN.GPBA 0.731000   ND2.GPBA 0.253000
+    B5O.GPBA WVP.GPBA 0.360000   WD8.GPBA 0.050000
+    B5P.GPBA B5P...BA -1.000000   BGP.VOBA 1.000000
+    B5P.GPBA NRN.GPBA 0.731000   ND2.GPBA 0.200000
+    B5P.GPBA WVP.GPBA 0.350000   WD8.GPBA 0.037000
+    B/A.GUBA B/A...BA -1.000000   BGU.VOBA 1.000000
+    B/A.GUBA NRN.GUBA 0.639000   ND2.GUBA 0.281000
+    B/A.GUBA WVP.GUBA 0.380000   WD8.GUBA 0.085000
+    BIP.GUBA BIP...BA -1.000000   BGU.VOBA 1.000000
+    BIP.GUBA NRN.GUBA 0.486000   ND2.GUBA 0.137000
+    BIP.GUBA WVP.GUBA 0.110000   WD8.GUBA -0.016000
+    BLN.GUBA BLN...BA -1.000000   BGU.VOBA 1.000000
+    BLN.GUBA NRN.GUBA 0.555000   ND2.GUBA 1.080000
+    BLN.GUBA WVP.GUBA 1.040000   WD8.GUBA 0.580000
+    BN4.GUBA BN4...BA -1.000000   BGU.VOBA 1.000000
+    BN4.GUBA NRN.GUBA 0.668000   ND2.GUBA 1.000000
+    BN4.GUBA WVP.GUBA 6.500000   WD8.GUBA 1.040000
+    B4E.GUBA B4E...BA -1.000000   BGU.VOBA 1.000000
+    B4E.GUBA NRN.GUBA 0.645200   ND2.GUBA 0.569000
+    B4E.GUBA WVP.GUBA 0.780000   WD8.GUBA 0.226000
+    B4F.GUBA B4F...BA -1.000000   BGU.VOBA 1.000000
+    B4F.GUBA NRN.GUBA 0.644800   ND2.GUBA 0.527000
+    B4F.GUBA WVP.GUBA 0.760000   WD8.GUBA 0.217000
+    B4L.GUBA B4L...BA -1.000000   BGU.VOBA 1.000000
+    B4L.GUBA NRN.GUBA 0.649500   ND2.GUBA 0.654000
+    B4L.GUBA WVP.GUBA 0.940000   WD8.GUBA 0.311000
+    B4M.GUBA B4M...BA -1.000000   BGU.VOBA 1.000000
+    B4M.GUBA NRN.GUBA 0.648900   ND2.GUBA 0.638000
+    B4M.GUBA WVP.GUBA 0.920000   WD8.GUBA 0.299000
+    B4S.GUBA B4S...BA -1.000000   BGU.VOBA 1.000000
+    B4S.GUBA NRN.GUBA 0.648000   ND2.GUBA 0.489000
+    B4S.GUBA WVP.GUBA 0.600000   WD8.GUBA 0.253000
+    B5A.GUBA B5A...BA -1.000000   BGU.VOBA 1.000000
+    B5A.GUBA NRN.GUBA 0.668000   ND2.GUBA 0.239000
+    B5A.GUBA WVP.GUBA 0.230000   WD8.GUBA -0.040000
+    B5B.GUBA B5B...BA -1.000000   BGU.VOBA 1.000000
+    B5B.GUBA NRN.GUBA 0.672000   ND2.GUBA 0.334000
+    B5B.GUBA WVP.GUBA 0.370000   WD8.GUBA 0.049000
+    B5C.GUBA B5C...BA -1.000000   BGU.VOBA 1.000000
+    B5C.GUBA NRN.GUBA 0.667000   ND2.GUBA 0.191000
+    B5C.GUBA WVP.GUBA 0.220000   WD8.GUBA -0.049000
+    B5D.GUBA B5D...BA -1.000000   BGU.VOBA 1.000000
+    B5D.GUBA NRN.GUBA 0.671000   ND2.GUBA 0.286000
+    B5D.GUBA WVP.GUBA 0.360000   WD8.GUBA 0.040000
+    B5E.GUBA B5E...BA -1.000000   BGU.VOBA 1.000000
+    B5E.GUBA NRN.GUBA 0.701000   ND2.GUBA 0.241000
+    B5E.GUBA WVP.GUBA 0.250000   WD8.GUBA -0.024000
+    B5F.GUBA B5F...BA -1.000000   BGU.VOBA 1.000000
+    B5F.GUBA NRN.GUBA 0.705000   ND2.GUBA 0.336000
+    B5F.GUBA WVP.GUBA 0.390000   WD8.GUBA 0.065000
+    B5G.GUBA B5G...BA -1.000000   BGU.VOBA 1.000000
+    B5G.GUBA NRN.GUBA 0.700000   ND2.GUBA 0.193000
+    B5G.GUBA WVP.GUBA 0.240000   WD8.GUBA -0.033000
+    B5H.GUBA B5H...BA -1.000000   BGU.VOBA 1.000000
+    B5H.GUBA NRN.GUBA 0.704000   ND2.GUBA 0.288000
+    B5H.GUBA WVP.GUBA 0.380000   WD8.GUBA 0.056000
+    B5M.GUBA B5M...BA -1.000000   BGU.VOBA 1.000000
+    B5M.GUBA NRN.GUBA 0.729000   ND2.GUBA 0.200000
+    B5M.GUBA WVP.GUBA 0.250000   WD8.GUBA -0.015000
+    B5N.GUBA B5N...BA -1.000000   BGU.VOBA 1.000000
+    B5N.GUBA NRN.GUBA 0.729000   ND2.GUBA 0.147000
+    B5N.GUBA WVP.GUBA 0.240000   WD8.GUBA -0.028000
+    B5O.GUBA B5O...BA -1.000000   BGU.VOBA 1.000000
+    B5O.GUBA NRN.GUBA 0.731000   ND2.GUBA 0.253000
+    B5O.GUBA WVP.GUBA 0.360000   WD8.GUBA 0.050000
+    B5P.GUBA B5P...BA -1.000000   BGU.VOBA 1.000000
+    B5P.GUBA NRN.GUBA 0.731000   ND2.GUBA 0.200000
+    B5P.GUBA WVP.GUBA 0.350000   WD8.GUBA 0.037000
+    CF..B.BA CF..B.BA 1.000000   UPBROW27689 1.000000
+    CFT.C.BA CFT.C.BA 1.000000   BFR...BA -0.012000
+    CFT.C.BA UPBROW27690 1.000000
+    CTF.D.BA CTF.D.BA 1.000000   KWC..... 1.266000
+    CTF.D.BA FAT0..J. 0.070000   BFR...BA -0.025000
+    CTF.D.BA UPBROW27691 1.000000
+    CF..F.BA CF..F.BA 1.000000   FAT0..J. 0.104000
+    CF..F.BA BFR...BA -0.015000   BRG...BA -0.006000
+    CF..F.BA UPBROW27692 1.000000
+    CF..G.BA CF..G.BA 1.000000   FAT0..J. 0.212000
+    CF..G.BA BFR...BA -0.024000   BNL...BA -0.022100
+    CF..G.BA UPBROW27693 1.000000
+    CF..P.BA CF..P.BA 1.000000   FAT0..J. 0.341000
+    CF..P.BA BFR...BA -0.044000   UPBROW27694 1.000000
+    NEGKWF.CA..36939 KWC.AF.. 100.000000   FAT0..J. -15.700000
+    COH.V.BA COH.V.BA 1.000000   FAT0..J. 0.141000
+    COH.V.BA BFR...BA -0.014000   UPBROW27695 1.000000
+    DDH...BA BDH...BA -1.000000   FAT0..J. -100.000000
+    DDH...BA UPBROW27696 1.000000
+    DDK...BA BDK...BA -1.000000   FAT0..J. -100.000000
+    DDK...BA UPBROW27697 1.000000
+    DDM...BA BDM...BA -1.000000   FAT0..J. -100.000000
+    DDM...BA UPBROW27698 1.000000
+    DFS...BA BFS...BA -1.000000   FAT0..J. -100.000000
+    DFS...BA UPBROW27699 1.000000
+    DFW...BA BFW...BA -1.000000   FAT0..J. -100.000000
+    DFW...BA UPBROW27700 1.000000
+    DFY...BA BFY...BA -1.000000   FAT0..J. -100.000000
+    DFY...BA UPBROW27701 1.000000
+    DGP...BA BGP...BA -1.000000   FAT0..J. -100.000000
+    DGP...BA UPBROW27702 1.000000
+    DLG...BA BLG...BA -1.000000   FAT0..J. -100.000000
+    DLG...BA UPBROW27703 1.000000
+    DNI...BA BNI...BA -1.000000   FAT0..J. -100.000000
+    DNI...BA UPBROW27704 1.000000
+    DNJ...BA BNJ...BA -1.000000   FAT0..J. -100.000000
+    DNJ...BA UPBROW27705 1.000000
+    DNL...BA BNL...BA -1.000000   FAT0..J. -100.000000
+    DNL...BA UPBROW27706 1.000000
+    DNP...BA BNP...BA -1.000000   FAT0..J. -100.000000
+    DNP...BA UPBROW27707 1.000000
+    DOA...BA BOA...BA -1.000000   FAT0..J. -100.000000
+    DOA...BA UPBROW27708 1.000000
+    IFT.C.BA CFT.C.BA 1.000000   FAT0..J. 1.278000
+    IFT.C.BA BFR...BA -0.012000
+    ITF.D.BA CTF.D.BA 1.000000   KWC..... 1.266000
+    ITF.D.BA FAT0..J. 1.310000   BFR...BA -0.025000
+    IF..F.BA CF..F.BA 1.000000   FAT0..J. 0.511000
+    IF..F.BA BFR...BA -0.015000   BRG...BA -0.006000
+    IF..G.BA CF..G.BA 1.000000   FAT0..J. 1.580000
+    IF..G.BA BFR...BA -0.024000   BNL...BA -0.022100
+    IF..P.BA CF..P.BA 1.000000   FAT0..J. 1.200000
+    IF..P.BA BFR...BA -0.044000
+    IF..Q.BA CF..Q.BA 1.000000   FAT0..J. 4.540000
+    IF..Q.BA BFR...BA -0.032000   UPBROW27709 1.000000
+    IF..R.BA CF..R.BA 1.000000   FAT0..J. 3.755000
+    IF..R.BA BFR...BA -0.051000   BNL...BA -0.044200
+    IOH.V.BA COH.V.BA 1.000000   FAT0..J. 0.732000
+    IOH.V.BA BFR...BA -0.014000
+    KVE.PSBA KVE...BA -1.000000   FAT0..J. -0.337000
+    KVE.PSBA LOBROW27710 1.000000
+    MBK.BLBA BBL...BA 1.000000   BBK...BA -1.000000
+    MBK.BMBA BBM...BA 1.000000   BBK...BA -1.000000
+    MBL.BNBA BBN...BA 1.000000   BBL...BA -1.000000
+    MBM.BOBA BBL...BA -0.034500   BBN...BA -0.034500
+    MBM.BOBA BBK...BA -0.465500   BBM...BA -0.465500
+    MBM.BOBA BBO...BA 1.000000
+    MBN.BPBA BBL...BA -0.241400   BBN...BA -0.241400
+    MBN.BPBA BBK...BA -0.258600   BBM...BA -0.258600
+    MBN.BPBA BBP...BA 1.000000
+    MBU.BVBA BBV...BA 1.000000   BBU...BA -1.000000
+    MBU.BWBA BBV...BA -0.130400   BBU...BA -0.869600
+    MBU.BWBA BBW...BA 1.000000
+    MBV.BYBA BBV...BA -0.565200   BBU...BA -0.434800
+    MBV.BYBA BBY...BA 1.000000
+    MBC.B4BA BB4...BA 1.000000   BBC...BA -0.576500
+    MBC.B4BA BBA...BA -0.423500
+    MBD.B5BA BB5...BA 1.000000   BBD...BA -0.576500
+    MBD.B5BA BBB...BA -0.423500
+    MKE.DKBA BDK...BA 1.000000   BKE...BA -1.005000
+    MFY.FJBA BFJ...BA 1.000000   BFY...BA -1.000000
+    MFY.FJBA XVI.FYBA 0.034000
+    MFY.FRBA BFR...BA 1.000000   BFY...BA -1.000000
+    MRG.FRBA BFR...BA 1.000000   BRG...BA -1.000000
+    MFS.FTBA BFT...BA 1.000000   BFS...BA -0.937500
+    MFS.FTBA BFW...BA -0.062500
+    MHL.HHBA BHH...BA 1.000000   BHL...BA -1.000000
+    MHL.HMBA BHH...BA -0.133300   BHL...BA -0.866700
+    MHL.HMBA BHM...BA 1.000000
+    MHH.HNBA BHH...BA -0.800000   BHL...BA -0.200000
+    MHH.HNBA BHN...BA 1.000000
+    MIP.IBBA BIP...BA -0.780000   BKE...BA -1.066200
+    MIP.IBBA BIB...BA 1.000000   BKH...BA 0.846200
+    MIN.IGBA BIN...BA -0.780000   BKE...BA -1.066200
+    MIN.IGBA BIG...BA 1.000000   BKH...BA 0.846200
+    MIP.INBA BIN...BA 1.000000   BIP...BA -1.000000
+    MIP.INBA FAT0..J. 3.000000
+    MIN.IPBA BIP...BA 1.000000   BIN...BA -1.000000
+    MRG.LGBA BRG...BA -0.657500   BLG...BA 1.000000
+    MIN.NIBA BIN...BA -0.572500   BIP...BA -0.442500
+    MIN.NIBA BNI...BA 1.000000
+    MDK.NJBA BLN...BA -0.111100   BIN...BA -0.175000
+    MDK.NJBA BIP...BA -0.238900   BDK...BA -0.482400
+    MDK.NJBA BNJ...BA 1.000000
+    MI5.NLBA BI5...BA -1.052000   BNL...BA 1.000000
+    MLN.NLBA BNL...BA 1.000000   BLN...BA -1.015000
+    MIP.NPBA BIN...BA -0.050800   BIP...BA -0.964200
+    MIP.NPBA BNP...BA 1.000000
+    MRG.N4BA BRG...BA -1.000000   BN4...BA 1.414600
+    MFY.OABA BOA...BA 1.000000   BFY...BA -1.000000
+    MFY.OABA XVI.FYBA -0.213000   XSU.FYBA -2.490000
+    MBC.OLBA BOL...BA 1.000000   BBC...BA -1.000000
+    MCV.RGBA BRG...BA 0.645000   BCV...BA -1.000000
+    PTM.B1BA BRG...BA 0.012100   BIP...BA 0.031000
+    PTM.B1BA BBK...BA 0.123200   BBL...BA 0.119800
+    PTM.B1BA BBM...BA -0.025400   BBN...BA -0.024700
+    PTM.B1BA BFR...BA -0.016000   CF..B.BA -1.000000
+    PTM.B1BA B7J...BA 0.786000   BTM...BA -1.000000
+    PVH.B1BA BRG...BA 0.016900   BIP...BA 0.040500
+    PVH.B1BA BBK...BA 0.061900   BBL...BA 0.079400
+    PVH.B1BA BBM...BA -0.012800   BBN...BA -0.016400
+    PVH.B1BA BFR...BA -0.016000   CF..B.BA -1.000000
+    PVH.B1BA B7B...BA 0.850000   BVH...BA -1.000000
+    PBA.C1BA BRG...BA 0.129900   B4A...BA 0.498800
+    PBA.C1BA BBK...BA 0.068800   BBL...BA 0.169900
+    PBA.C1BA BBM...BA 0.036100   BBN...BA 0.089100
+    PBA.C1BA B9A...BA 0.038500   CFT.C.BA -1.756000
+    PBA.C1BA BBA...BA -1.000000
+    PBC.C1BA BRG...BA 0.143700   B4C...BA 0.496400
+    PBC.C1BA BBK...BA 0.151600   BBL...BA 0.075400
+    PBC.C1BA BBM...BA 0.083100   BBN...BA 0.041300
+    PBC.C1BA B9C...BA 0.033900   CFT.C.BA -1.719000
+    PBC.C1BA BBC...BA -1.000000
+    PBE.C1BA BRG...BA 0.141400   BBK...BA 0.130900
+    PBE.C1BA BBL...BA 0.001400   BBM...BA 0.196300
+    PBE.C1BA BBN...BA 0.002000   CFT.C.BA -1.566000
+    PBE.C1BA B4E...BA 0.561300   B9E...BA 0.027500
+    PBE.C1BA BBE...BA -1.000000
+    PBU.C1BA BRG...BA 0.079900   B4F...BA 0.240900
+    PBU.C1BA BBK...BA 0.393300   BBL...BA 0.000900
+    PBU.C1BA BBM...BA 0.289400   BBN...BA 0.000700
+    PBU.C1BA B9F...BA 0.008400   CFT.C.BA -1.330000
+    PBU.C1BA BBU...BA -1.000000
+    PBV.C1BA BBV...BA -1.000000   BRG...BA 0.081200
+    PBV.C1BA B4G...BA 0.265400   BBK...BA -0.004000
+    PBV.C1BA BBL...BA -0.026500   BBM...BA 0.089800
+    PBV.C1BA BBN...BA 0.602900   B9G...BA 0.008600
+    PBV.C1BA CFT.C.BA -1.370000
+    PBA.C3BA BRG...BA 0.217000   BBK...BA 0.049700
+    PBA.C3BA BBL...BA 0.146900   BBM...BA 0.020500
+    PBA.C3BA BBN...BA 0.060600   CFT.C.BA -2.170000
+    PBA.C3BA B4H...BA 0.465000   B9H...BA 0.014000
+    PBA.C3BA BBA...BA -1.000000
+    PBC.C3BA BRG...BA 0.239700   BBK...BA 0.116700
+    PBC.C3BA BBL...BA 0.067800   BBM...BA 0.050900
+    PBC.C3BA BBN...BA 0.029600   CFT.C.BA -2.062000
+    PBC.C3BA B4J...BA 0.458000   B9J...BA 0.012300
+    PBC.C3BA BBC...BA -1.000000
+    PBE.C3BA BRG...BA 0.240700   BBK...BA 0.114300
+    PBE.C3BA BBL...BA 0.001600   BBM...BA 0.131000
+    PBE.C3BA BBN...BA 0.001800   CFT.C.BA -1.506000
+    PBE.C3BA B4L...BA 0.529900   B9L...BA 0.010200
+    PBE.C3BA BBE...BA -1.000000
+    PBU.C3BA BRG...BA 0.161400   BBK...BA 0.356200
+    PBU.C3BA BBL...BA 0.009700   BBM...BA 0.148400
+    PBU.C3BA BBN...BA 0.004100   CFT.C.BA -1.334000
+    PBU.C3BA B4M...BA 0.305400   B9M...BA 0.009600
+    PBU.C3BA BBU...BA -1.000000
+    PBV.C3BA BBV...BA -1.000000   BRG...BA 0.162100
+    PBV.C3BA BBK...BA 0.007300   BBL...BA 0.050700
+    PBV.C3BA BBM...BA 0.056000   BBN...BA 0.386000
+    PBV.C3BA CFT.C.BA -1.368000   B4N...BA 0.334800
+    PBV.C3BA B9N...BA 0.009600
+    PBA.C5BA BRG...BA 0.162300   BBK...BA -0.011800
+    PBA.C5BA BBL...BA 0.125800   BBM...BA -0.001600
+    PBA.C5BA BBN...BA 0.017100   CFT.C.BA -1.521000
+    PBA.C5BA BBA...BA -1.000000   B4O...BA 0.669100
+    PBA.C5BA B9O...BA 0.070500
+    PBC.C5BA BRG...BA 0.160300   BBK...BA 0.054100
+    PBC.C5BA BBL...BA 0.057900   BBM...BA 0.007400
+    PBC.C5BA BBN...BA 0.007900   CFT.C.BA -1.506000
+    PBC.C5BA B4Q...BA 0.672300   B9Q...BA 0.072700
+    PBC.C5BA BBC...BA -1.000000
+    PBE.C5BA BRG...BA 0.146100   BBK...BA 0.050500
+    PBE.C5BA BBL...BA 0.001800   BBM...BA 0.075700
+    PBE.C5BA BBN...BA 0.002700   CFT.C.BA -1.413000
+    PBE.C5BA B4S...BA 0.697200   B9S...BA 0.069300
+    PBE.C5BA BBE...BA -1.000000
+    PQA.C7BA BRG...BA 0.097300   BBL...BA 0.282700
+    PQA.C7BA BBN...BA -0.016000   CFT.C.BA -1.931000
+    PQA.C7BA BQA...BA -1.000000   B0A...BA 0.489600
+    PQA.C7BA B8A...BA 0.119800
+    PQB.C7BA BRG...BA 0.165800   BBK...BA 0.023500
+    PQB.C7BA BBL...BA 0.272300   BBM...BA -0.001300
+    PQB.C7BA BBN...BA -0.015400   CFT.C.BA -2.555000
+    PQB.C7BA BQB...BA -1.000000   B0B...BA 0.345100
+    PQB.C7BA B8B...BA 0.183100
+    PQH.C7BA BRG...BA 0.097300   BBK...BA -0.062400
+    PQH.C7BA BBL...BA 0.345100   BBM...BA 0.003500
+    PQH.C7BA BBN...BA -0.019500   CFT.C.BA -1.931000
+    PQH.C7BA BQH...BA -1.000000   B0A...BA 0.489600
+    PQH.C7BA B8H...BA 0.119800
+    PQJ.C7BA BRG...BA 0.120100   BBK...BA 0.061400
+    PQJ.C7BA BBL...BA 0.225700   BBM...BA -0.003500
+    PQJ.C7BA BBN...BA -0.012800   CFT.C.BA -2.139000
+    PQJ.C7BA BQJ...BA -1.000000   B0J...BA 0.441400
+    PQJ.C7BA B8J...BA 0.140900
+    PQW.C7BA BRG...BA 0.097300   BBK...BA -0.078000
+    PQW.C7BA BBL...BA 0.360700   BBM...BA 0.004400
+    PQW.C7BA BBN...BA -0.020400   CFT.C.BA -1.931000
+    PQW.C7BA BQW...BA -1.000000   B0A...BA 0.489600
+    PQW.C7BA B8W...BA 0.119800
+    PAH.DVBA CTF.D.BA -1.000000   COH.V.BA -0.263830
+    PAH.DVBA AAH..... -1.000000   BCV...BA 0.025790
+    PAH.DVBA BI5...BA 0.008120   BLN...BA 0.039600
+    PAH.DVBA BIN...BA -0.007860   BIP...BA 0.111920
+    PAH.DVBA BKE...BA 0.130620   BHL...BA 0.029870
+    PAH.DVBA BHH...BA 0.091860   BBU...BA 0.003600
+    PAH.DVBA BBV...BA 0.071830   BBC...BA 0.047640
+    PAH.DVBA BBA...BA 0.216190   BHA...BA 0.230820
+    PAL.DVBA CTF.D.BA -1.000000   COH.V.BA -0.253090
+    PAL.DVBA BCV...BA 0.018350   BI5...BA 0.008650
+    PAL.DVBA BLN...BA 0.043700   BIN...BA 0.004910
+    PAL.DVBA BIP...BA 0.124890   BKE...BA 0.178950
+    PAL.DVBA BHL...BA 0.060480   BHH...BA 0.072710
+    PAL.DVBA BBU...BA 0.021080   BBV...BA 0.065990
+    PAL.DVBA BBC...BA 0.125810   BBA...BA 0.127280
+    PAL.DVBA BLA...BA 0.147180   AAL..... -1.000000
+    PAM.DVBA CTF.D.BA -1.000000   COH.V.BA -0.281070
+    PAM.DVBA BCV...BA 0.012720   BI5...BA 0.007550
+    PAM.DVBA BLN...BA 0.042710   BIN...BA 0.003590
+    PAM.DVBA BIP...BA 0.117680   BKE...BA 0.144210
+    PAM.DVBA BHL...BA 0.046940   BHH...BA 0.075380
+    PAM.DVBA BBU...BA 0.015520   BBV...BA 0.066500
+    PAM.DVBA BBC...BA 0.058490   BBA...BA 0.222580
+    PAM.DVBA BMA...BA 0.186130   AAM..... -1.000000
+    PAW.DVBA CTF.D.BA -1.000000   COH.V.BA -0.194660
+    PAW.DVBA AAW..... -1.000000   BCV...BA 0.040840
+    PAW.DVBA BI5...BA 0.014750   BLN...BA 0.065660
+    PAW.DVBA BIN...BA 0.027490   BIP...BA 0.150780
+    PAW.DVBA BKE...BA 0.223800   BHL...BA 0.149740
+    PAW.DVBA BHH...BA -0.002840   BBU...BA 0.090510
+    PAW.DVBA BBV...BA 0.000810   BBE...BA 0.183900
+    PAW.DVBA BBC...BA 0.010760   BWA...BA 0.043810
+    PAX.DVBA CTF.D.BA -1.000000   COH.V.BA -0.255260
+    PAX.DVBA BCV...BA 0.020370   BI5...BA 0.009350
+    PAX.DVBA BLN...BA 0.052270   BIN...BA 0.010770
+    PAX.DVBA BIP...BA 0.125670   BKE...BA 0.204490
+    PAX.DVBA BHL...BA 0.077920   BHH...BA 0.040930
+    PAX.DVBA BBU...BA 0.050490   BBV...BA 0.062960
+    PAX.DVBA BBC...BA 0.217020   BBA...BA 0.038240
+    PAX.DVBA BXA...BA 0.089520   AAX..... -1.000000
+    PBQ.DVBA CTF.D.BA -1.000000   COH.V.BA -0.324520
+    PBQ.DVBA BCV...BA 0.007590   BI5...BA 0.003180
+    PBQ.DVBA BLN...BA 0.014330   BIN...BA 0.036100
+    PBQ.DVBA BIP...BA 0.005260   BKE...BA 0.100560
+    PBQ.DVBA BHL...BA 0.020970   BHH...BA 0.159280
+    PBQ.DVBA BBU...BA 0.000320   BBV...BA 0.001460
+    PBQ.DVBA BBC...BA 0.168940   BBA...BA 0.155570
+    PBQ.DVBA BHV...BA 0.326430   ABQ..... -1.000000
+    PBQ.DVBA KVE...BA 1.000000
+    PBR.DVBA CTF.D.BA -1.000000   COH.V.BA -0.255810
+    PBR.DVBA ABR..... -1.000000   BCV...BA 0.024040
+    PBR.DVBA BI5...BA 0.012810   BLN...BA 0.054100
+    PBR.DVBA BIN...BA 0.058540   BIP...BA 0.114350
+    PBR.DVBA BKE...BA 0.171410   BHL...BA 0.127230
+    PBR.DVBA BHH...BA -0.002130   BBU...BA 0.095890
+    PBR.DVBA BBV...BA -0.001620   BBE...BA 0.234850
+    PBR.DVBA BBC...BA 0.020960   BRB...BA 0.089570
+    PCA.DVBA CTF.D.BA -1.000000   COH.V.BA -0.349050
+    PCA.DVBA ACA..... -1.000000   BCV...BA 0.022390
+    PCA.DVBA BI5...BA 0.006880   BLN...BA 0.028570
+    PCA.DVBA BIN...BA 0.043090   BIP...BA 0.058170
+    PCA.DVBA BKE...BA 0.091930   BHL...BA 0.127570
+    PCA.DVBA BHH...BA -0.003910   BBU...BA 0.057720
+    PCA.DVBA BBV...BA -0.003330   BBE...BA 0.369860
+    PCA.DVBA BBC...BA -0.020820   BAC...BA 0.221880
+    PES.DVBA CTF.D.BA -1.000000   COH.V.BA -0.272190
+    PES.DVBA BCV...BA 0.019260   BI5...BA 0.012160
+    PES.DVBA BLN...BA 0.041200   BIN...BA 0.050610
+    PES.DVBA BIP...BA 0.094450   BKE...BA 0.157620
+    PES.DVBA BHL...BA 0.131740   BHH...BA 0.009590
+    PES.DVBA BBU...BA 0.085320   BBV...BA 0.005410
+    PES.DVBA BBE...BA 0.215170   BBC...BA 0.057030
+    PES.DVBA BSE...BA 0.120440   AES..... -1.000000
+    PIH.DVBA CTF.D.BA -1.000000   COH.V.BA -0.248210
+    PIH.DVBA BCV...BA 0.027600   BI5...BA 0.010720
+    PIH.DVBA BLN...BA 0.041710   BIN...BA 0.052270
+    PIH.DVBA BIP...BA 0.081290   BKE...BA 0.151300
+    PIH.DVBA BHL...BA 0.053680   BHH...BA 0.068650
+    PIH.DVBA BBU...BA 0.035650   BBV...BA 0.042830
+    PIH.DVBA BBC...BA 0.215240   BBA...BA 0.032970
+    PIH.DVBA BHI...BA 0.186090   AIH..... -1.000000
+    PIL.DVBA CTF.D.BA -1.000000   COH.V.BA -0.271680
+    PIL.DVBA BCV...BA 0.023430   BI5...BA 0.009760
+    PIL.DVBA BLN...BA 0.043810   BIN...BA 0.046670
+    PIL.DVBA BIP...BA 0.091200   BKE...BA 0.162000
+    PIL.DVBA BHL...BA 0.078750   BHH...BA 0.057420
+    PIL.DVBA BBU...BA 0.043960   BBV...BA 0.041920
+    PIL.DVBA BBC...BA 0.225030   BBA...BA 0.046650
+    PIL.DVBA BLI...BA 0.129410   AIL..... -1.000000
+    PKU.DVBA CTF.D.BA -1.000000   COH.V.BA -0.257810
+    PKU.DVBA BCV...BA 0.026680   BI5...BA 0.008720
+    PKU.DVBA BLN...BA 0.053840   BIN...BA 0.000250
+    PKU.DVBA BIP...BA 0.121660   BKE...BA 0.141740
+    PKU.DVBA BHL...BA 0.040980   BHH...BA 0.080340
+    PKU.DVBA BBU...BA 0.012730   BBV...BA 0.071090
+    PKU.DVBA BBC...BA 0.018870   BBA...BA 0.238940
+    PKU.DVBA BUK...BA 0.184140   AKU..... -1.000000
+    PMU.DVBA CTF.D.BA -1.000000   COH.V.BA -0.249190
+    PMU.DVBA BCV...BA 0.019830   BI5...BA 0.010950
+    PMU.DVBA BLN...BA 0.052370   BIN...BA 0.026140
+    PMU.DVBA BIP...BA 0.134930   BKE...BA 0.193130
+    PMU.DVBA BHL...BA 0.123210   BHH...BA 0.026600
+    PMU.DVBA BBU...BA 0.053960   BBV...BA 0.041020
+    PMU.DVBA BBE...BA 0.034520   BBC...BA 0.214670
+    PMU.DVBA BUM...BA 0.068660   AMU..... -1.000000
+    PNF.DVBA CTF.D.BA -1.000000   COH.V.BA -0.260140
+    PNF.DVBA BCV...BA 0.023190   BI5...BA 0.009250
+    PNF.DVBA BLN...BA 0.028930   BIN...BA 0.123190
+    PNF.DVBA BIP...BA 0.008450   BKE...BA 0.204470
+    PNF.DVBA BHL...BA 0.227760   BHH...BA 0.006920
+    PNF.DVBA BBU...BA 0.048730   BBV...BA 0.000220
+    PNF.DVBA BBE...BA 0.243280   BBC...BA 0.016860
+    PNF.DVBA BMF...BA 0.058740   ANF..... -1.000000
+    PNL.DVBA CTF.D.BA -1.000000   COH.V.BA -0.260920
+    PNL.DVBA ANL..... -1.000000   BCV...BA 0.028250
+    PNL.DVBA BI5...BA 0.013210   BLN...BA 0.043820
+    PNL.DVBA BIN...BA 0.150420   BIP...BA 0.037110
+    PNL.DVBA BKE...BA 0.209630   BHL...BA 0.133140
+    PNL.DVBA BHH...BA -0.001290   BBU...BA 0.098390
+    PNL.DVBA BBV...BA -0.002470   BBE...BA 0.255920
+    PNL.DVBA BBC...BA 0.005000   BTL...BA 0.028860
+    PNM.DVBA CTF.D.BA -1.000000   COH.V.BA -0.327560
+    PNM.DVBA ANM..... -1.000000   BCV...BA 0.007060
+    PNM.DVBA BI5...BA 0.002850   BLN...BA 0.009350
+    PNM.DVBA BIN...BA 0.064220   BIP...BA -0.003460
+    PNM.DVBA BKE...BA 0.184800   BHL...BA 0.307580
+    PNM.DVBA BHH...BA 0.011610   BBU...BA 0.009720
+    PNM.DVBA BBV...BA 0.000060   BBE...BA 0.309030
+    PNM.DVBA BBC...BA 0.018540   BYH...BA 0.078650
+    PON.DVBA CTF.D.BA -1.000000   COH.V.BA -0.314130
+    PON.DVBA BCV...BA 0.016520   BI5...BA 0.006970
+    PON.DVBA BLN...BA 0.026300   BIN...BA 0.043910
+    PON.DVBA BIP...BA 0.054770   BKE...BA 0.158440
+    PON.DVBA BHL...BA 0.080360   BHH...BA 0.039520
+    PON.DVBA BBU...BA 0.058900   BBV...BA 0.028000
+    PON.DVBA BBE...BA 0.077080   BBC...BA 0.237050
+    PON.DVBA BRT...BA 0.172170   AON..... -1.000000
+    PSA.DVBA CTF.D.BA -1.000000   COH.V.BA -0.318470
+    PSA.DVBA ASA..... -1.000000   BCV...BA 0.022670
+    PSA.DVBA BI5...BA 0.010190   BLN...BA 0.045180
+    PSA.DVBA BIN...BA 0.042030   BIP...BA 0.076000
+    PSA.DVBA BKE...BA 0.125620   BHL...BA 0.105030
+    PSA.DVBA BHH...BA -0.003850   BBU...BA 0.106680
+    PSA.DVBA BBV...BA -0.004260   BBE...BA 0.311500
+    PSA.DVBA BBC...BA 0.006970   BAS...BA 0.156260
+    PTL.DVBA CTF.D.BA -1.000000   COH.V.BA -0.257700
+    PTL.DVBA BCV...BA 0.022570   BI5...BA 0.006830
+    PTL.DVBA BLN...BA 0.032450   BIN...BA 0.037750
+    PTL.DVBA BIP...BA 0.091360   BKE...BA 0.170680
+    PTL.DVBA BHL...BA 0.090380   BHH...BA 0.023370
+    PTL.DVBA BBU...BA 0.052830   BBV...BA 0.027800
+    PTL.DVBA BBE...BA 0.036490   BBC...BA 0.221210
+    PTL.DVBA BLJ...BA 0.186280   ATL..... -1.000000
+    PTL.DVBA KVE...BA 1.000000
+    PTM.DVBA CTF.D.BA -1.000000   COH.V.BA -0.287020
+    PTM.DVBA BCV...BA 0.013540   BI5...BA 0.005480
+    PTM.DVBA BLN...BA 0.026370   BIN...BA 0.050130
+    PTM.DVBA BIP...BA 0.040830   BKE...BA 0.149310
+    PTM.DVBA BHL...BA 0.065320   BHH...BA 0.095220
+    PTM.DVBA BBU...BA 0.013200   BBV...BA 0.017680
+    PTM.DVBA BBC...BA 0.247960   BBA...BA 0.039060
+    PTM.DVBA BMT...BA 0.235890   ATM..... -1.000000
+    PTM.DVBA KVE...BA 1.000000
+    PTR.DVBA CTF.D.BA -1.000000   COH.V.BA -0.245070
+    PTR.DVBA BCV...BA 0.011140   BI5...BA 0.003590
+    PTR.DVBA BLN...BA 0.010900   BIN...BA 0.097650
+    PTR.DVBA BIP...BA 0.005970   BKE...BA 0.262100
+    PTR.DVBA BHL...BA 0.237610   BHH...BA 0.000700
+    PTR.DVBA BBU...BA 0.096340   BBV...BA 0.005030
+    PTR.DVBA BBE...BA 0.188210   BBC...BA 0.056860
+    PTR.DVBA BTD...BA 0.023910   ATR..... -1.000000
+    PZA.DVBA CTF.D.BA -1.000000   COH.V.BA -0.224270
+    PZA.DVBA AZA..... -1.000000   BCV...BA 0.029840
+    PZA.DVBA BI5...BA 0.011120   BLN...BA 0.063150
+    PZA.DVBA BIN...BA 0.054620   BIP...BA 0.110300
+    PZA.DVBA BKE...BA 0.198240   BHL...BA 0.132890
+    PZA.DVBA BHH...BA -0.007110   BBU...BA 0.098530
+    PZA.DVBA BBV...BA -0.005460   BBE...BA 0.236850
+    PZA.DVBA BBC...BA -0.012580   BAZ...BA 0.089620
+    PAH.D1BA CTF.D.BA -1.000000   AAH..... -1.000000
+    PAH.D1BA BCV...BA 0.025790   BI5...BA 0.008120
+    PAH.D1BA BLN...BA 0.039600   BIN...BA -0.007860
+    PAH.D1BA BIP...BA 0.111910   BKE...BA 0.130620
+    PAH.D1BA BHL...BA 0.029870   BHH...BA 0.091860
+    PAH.D1BA BBU...BA 0.003600   BBV...BA 0.071830
+    PAH.D1BA BAH...BA 0.494650
+    PAL.D1BA CTF.D.BA -1.000000   BCV...BA 0.018350
+    PAL.D1BA BI5...BA 0.008650   BLN...BA 0.043700
+    PAL.D1BA BIN...BA 0.004910   BIP...BA 0.124890
+    PAL.D1BA BKE...BA 0.178950   BHL...BA 0.060480
+    PAL.D1BA BHH...BA 0.072710   BBU...BA 0.021080
+    PAL.D1BA BBV...BA 0.065990   BAL...BA 0.400280
+    PAL.D1BA AAL..... -1.000000
+    PAM.D1BA CTF.D.BA -1.000000   BCV...BA 0.012720
+    PAM.D1BA BI5...BA 0.007550   BLN...BA 0.042710
+    PAM.D1BA BIN...BA 0.003590   BIP...BA 0.117680
+    PAM.D1BA BKE...BA 0.144200   BHL...BA 0.046940
+    PAM.D1BA BHH...BA 0.075380   BBU...BA 0.015520
+    PAM.D1BA BBV...BA 0.066500   BAM...BA 0.467210
+    PAM.D1BA AAM..... -1.000000
+    PAW.D1BA CTF.D.BA -1.000000   AAW..... -1.000000
+    PAW.D1BA BCV...BA 0.040830   BI5...BA 0.014750
+    PAW.D1BA BLN...BA 0.065660   BIN...BA 0.027490
+    PAW.D1BA BIP...BA 0.150780   BKE...BA 0.223790
+    PAW.D1BA BHL...BA 0.149740   BHH...BA -0.002840
+    PAW.D1BA BBU...BA 0.090500   BBV...BA 0.000810
+    PAW.D1BA BAW...BA 0.238480
+    PAX.D1BA CTF.D.BA -1.000000   BCV...BA 0.020370
+    PAX.D1BA BI5...BA 0.009350   BLN...BA 0.052270
+    PAX.D1BA BIN...BA 0.010770   BIP...BA 0.125670
+    PAX.D1BA BKE...BA 0.204480   BHL...BA 0.077910
+    PAX.D1BA BHH...BA 0.040930   BBU...BA 0.050490
+    PAX.D1BA BBV...BA 0.062960   BAX...BA 0.344790
+    PAX.D1BA AAX..... -1.000000
+    PBQ.D1BA CTF.D.BA -1.000000   BCV...BA 0.007590
+    PBQ.D1BA BI5...BA 0.003180   BLN...BA 0.014330
+    PBQ.D1BA BIN...BA 0.036100   BIP...BA 0.005260
+    PBQ.D1BA BKE...BA 0.100560   BHL...BA 0.020970
+    PBQ.D1BA BHH...BA 0.159270   BBU...BA 0.000320
+    PBQ.D1BA BBV...BA 0.001460   BVH...BA 0.650950
+    PBQ.D1BA ABQ..... -1.000000   KVE...BA 1.000000
+    PBR.D1BA CTF.D.BA -1.000000   ABR..... -1.000000
+    PBR.D1BA BCV...BA 0.024040   BI5...BA 0.012810
+    PBR.D1BA BLN...BA 0.054100   BIN...BA 0.058540
+    PBR.D1BA BIP...BA 0.114350   BKE...BA 0.171400
+    PBR.D1BA BHL...BA 0.127230   BHH...BA -0.002130
+    PBR.D1BA BBU...BA 0.095890   BBV...BA -0.001620
+    PBR.D1BA BLB...BA 0.345390
+    PCA.D1BA CTF.D.BA -1.000000   ACA..... -1.000000
+    PCA.D1BA BCV...BA 0.022390   BI5...BA 0.006880
+    PCA.D1BA BLN...BA 0.028560   BIN...BA 0.043090
+    PCA.D1BA BIP...BA 0.058170   BKE...BA 0.091930
+    PCA.D1BA BHL...BA 0.127570   BHH...BA -0.003910
+    PCA.D1BA BBU...BA 0.057710   BBV...BA -0.003330
+    PCA.D1BA BCA...BA 0.570930
+    PES.D1BA CTF.D.BA -1.000000   BCV...BA 0.019260
+    PES.D1BA BI5...BA 0.012160   BLN...BA 0.041200
+    PES.D1BA BIN...BA 0.050610   BIP...BA 0.094450
+    PES.D1BA BKE...BA 0.157620   BHL...BA 0.131740
+    PES.D1BA BHH...BA 0.009590   BBU...BA 0.085320
+    PES.D1BA BBV...BA 0.005410   BES...BA 0.392640
+    PES.D1BA AES..... -1.000000
+    PIH.D1BA CTF.D.BA -1.000000   BCV...BA 0.027600
+    PIH.D1BA BI5...BA 0.010720   BLN...BA 0.041710
+    PIH.D1BA BIN...BA 0.052270   BIP...BA 0.081290
+    PIH.D1BA BKE...BA 0.151290   BHL...BA 0.053670
+    PIH.D1BA BHH...BA 0.068650   BBU...BA 0.035640
+    PIH.D1BA BBV...BA 0.042830   BIH...BA 0.434310
+    PIH.D1BA AIH..... -1.000000
+    PIL.D1BA CTF.D.BA -1.000000   BCV...BA 0.023430
+    PIL.D1BA BI5...BA 0.009760   BLN...BA 0.043810
+    PIL.D1BA BIN...BA 0.046670   BIP...BA 0.091200
+    PIL.D1BA BKE...BA 0.161990   BHL...BA 0.078750
+    PIL.D1BA BHH...BA 0.057420   BBU...BA 0.043960
+    PIL.D1BA BBV...BA 0.041920   BIL...BA 0.401100
+    PIL.D1BA AIL..... -1.000000
+    PKU.D1BA CTF.D.BA -1.000000   BCV...BA 0.026680
+    PKU.D1BA BI5...BA 0.008720   BLN...BA 0.053840
+    PKU.D1BA BIN...BA 0.000250   BIP...BA 0.121660
+    PKU.D1BA BKE...BA 0.141740   BHL...BA 0.040980
+    PKU.D1BA BHH...BA 0.080340   BBU...BA 0.012730
+    PKU.D1BA BBV...BA 0.071090   BKU...BA 0.441950
+    PKU.D1BA AKU..... -1.000000
+    PMU.D1BA CTF.D.BA -1.000000   BCV...BA 0.019830
+    PMU.D1BA BI5...BA 0.010950   BLN...BA 0.052370
+    PMU.D1BA BIN...BA 0.026140   BIP...BA 0.134930
+    PMU.D1BA BKE...BA 0.193130   BHL...BA 0.123210
+    PMU.D1BA BHH...BA 0.026600   BBU...BA 0.053960
+    PMU.D1BA BBV...BA 0.041020   BMU...BA 0.317850
+    PMU.D1BA AMU..... -1.000000
+    PNF.D1BA CTF.D.BA -1.000000   BCV...BA 0.023190
+    PNF.D1BA BI5...BA 0.009250   BLN...BA 0.028930
+    PNF.D1BA BIN...BA 0.123190   BIP...BA 0.008450
+    PNF.D1BA BKE...BA 0.204470   BHL...BA 0.227760
+    PNF.D1BA BHH...BA 0.006920   BBU...BA 0.048730
+    PNF.D1BA BBV...BA 0.000220   BMD...BA 0.318890
+    PNF.D1BA ANF..... -1.000000
+    PNL.D1BA CTF.D.BA -1.000000   ANL..... -1.000000
+    PNL.D1BA BCV...BA 0.028250   BI5...BA 0.013210
+    PNL.D1BA BLN...BA 0.043820   BIN...BA 0.150420
+    PNL.D1BA BIP...BA 0.037110   BKE...BA 0.209630
+    PNL.D1BA BHL...BA 0.133140   BHH...BA -0.001290
+    PNL.D1BA BBU...BA 0.098390   BBV...BA -0.002470
+    PNL.D1BA BLT...BA 0.289790
+    PNM.D1BA CTF.D.BA -1.000000   ANM..... -1.000000
+    PNM.D1BA BCV...BA 0.007060   BI5...BA 0.002850
+    PNM.D1BA BLN...BA 0.009350   BIN...BA 0.064220
+    PNM.D1BA BIP...BA -0.003460   BKE...BA 0.184800
+    PNM.D1BA BHL...BA 0.307570   BHH...BA 0.011610
+    PNM.D1BA BBU...BA 0.009720   BBV...BA 0.000060
+    PNM.D1BA BHY...BA 0.406210
+    PON.D1BA CTF.D.BA -1.000000   BCV...BA 0.016520
+    PON.D1BA BI5...BA 0.006970   BLN...BA 0.026300
+    PON.D1BA BIN...BA 0.043910   BIP...BA 0.054770
+    PON.D1BA BKE...BA 0.158440   BHL...BA 0.080360
+    PON.D1BA BHH...BA 0.039520   BBU...BA 0.058900
+    PON.D1BA BBV...BA 0.028000   BON...BA 0.486300
+    PON.D1BA AON..... -1.000000
+    PSA.D1BA CTF.D.BA -1.000000   ASA..... -1.000000
+    PSA.D1BA BCV...BA 0.022670   BI5...BA 0.010190
+    PSA.D1BA BLN...BA 0.045180   BIN...BA 0.042030
+    PSA.D1BA BIP...BA 0.076000   BKE...BA 0.125610
+    PSA.D1BA BHL...BA 0.105030   BHH...BA -0.003850
+    PSA.D1BA BBU...BA 0.106680   BBV...BA -0.004260
+    PSA.D1BA BLS...BA 0.474740
+    PTL.D1BA CTF.D.BA -1.000000   BCV...BA 0.022570
+    PTL.D1BA BI5...BA 0.006830   BLN...BA 0.032450
+    PTL.D1BA BIN...BA 0.037750   BIP...BA 0.091350
+    PTL.D1BA BKE...BA 0.170680   BHL...BA 0.090380
+    PTL.D1BA BHH...BA 0.023370   BBU...BA 0.052830
+    PTL.D1BA BBV...BA 0.027800   BJL...BA 0.443980
+    PTL.D1BA ATL..... -1.000000   KVE...BA 1.000000
+    PTM.D1BA CTF.D.BA -1.000000   BCV...BA 0.013540
+    PTM.D1BA BI5...BA 0.005480   BLN...BA 0.026370
+    PTM.D1BA BIN...BA 0.050130   BIP...BA 0.040830
+    PTM.D1BA BKE...BA 0.149310   BHL...BA 0.065320
+    PTM.D1BA BHH...BA 0.095220   BBU...BA 0.013200
+    PTM.D1BA BBV...BA 0.017680   BTM...BA 0.522920
+    PTM.D1BA ATM..... -1.000000   KVE...BA 1.000000
+    PTR.D1BA CTF.D.BA -1.000000   BCV...BA 0.011140
+    PTR.D1BA BI5...BA 0.003590   BLN...BA 0.010900
+    PTR.D1BA BIN...BA 0.097650   BIP...BA 0.005970
+    PTR.D1BA BKE...BA 0.262100   BHL...BA 0.237610
+    PTR.D1BA BHH...BA 0.000700   BBU...BA 0.096330
+    PTR.D1BA BBV...BA 0.005030   BTR...BA 0.268980
+    PTR.D1BA ATR..... -1.000000
+    PZA.D1BA CTF.D.BA -1.000000   AZA..... -1.000000
+    PZA.D1BA BCV...BA 0.029840   BI5...BA 0.011120
+    PZA.D1BA BLN...BA 0.063150   BIN...BA 0.054620
+    PZA.D1BA BIP...BA 0.110300   BKE...BA 0.198240
+    PZA.D1BA BHL...BA 0.132880   BHH...BA -0.007110
+    PZA.D1BA BBU...BA 0.098530   BBV...BA -0.005460
+    PZA.D1BA BZA...BA 0.313900
+    PYV.D4BA CTF.D.BA -1.000000   BIN...BA 0.006000
+    PYV.D4BA BHL...BA 0.241700   BHH...BA 0.017300
+    PYV.D4BA BYV...BA 0.735000   AYV..... -1.000000
+    PYV.D4BA KVE...BA 1.000000
+    PBL.F1BA BBK...BA 1.000000   CF..F.BA -2.900000
+    PBL.F1BA BBL...BA -1.000000
+    PBN.F1BA BBM...BA 1.000000   CF..F.BA -2.900000
+    PBN.F1BA BBN...BA -1.000000
+    PBV.F1BA BBU...BA 1.000000   CF..F.BA -2.300000
+    PBV.F1BA BBV...BA -1.000000
+    PHH.F1BA BHL...BA 1.000000   CF..F.BA -1.500000
+    PHH.F1BA BHH...BA -1.000000
+    PBA.G2BA BRG...BA 0.003700   BIP...BA 0.003600
+    PBA.G2BA BBB...BA 1.004800   CF..G.BA -1.088400
+    PBA.G2BA BBA...BA -1.000000
+    PBC.G2BA BRG...BA 0.001600   BIP...BA 0.001600
+    PBC.G2BA BBD...BA 1.005500   CF..G.BA -0.933800
+    PBC.G2BA BBC...BA -1.000000
+    PBT.G2BA BRG...BA 0.005300   BIP...BA 0.007400
+    PBT.G2BA BHL...BA 0.050000   BBS...BA 0.952000
+    PBT.G2BA CF..G.BA -1.134000   BBT...BA -1.000000
+    PBX.G2BA BRG...BA 0.008700   BIP...BA 0.011500
+    PBX.G2BA BHL...BA 0.070000   BBR...BA 0.929600
+    PBX.G2BA CF..G.BA -1.581000   BBX...BA -1.000000
+    PQA.G2BA BSA...BA 1.000000   CF..G.BA -1.184000
+    PQA.G2BA BQA...BA -1.000000
+    PQB.G2BA CF..G.BA -1.150000   BSB...BA 1.000000
+    PQB.G2BA BQB...BA -1.000000
+    PQH.G2BA BSH...BA 1.000000   CF..G.BA -1.309000
+    PQH.G2BA BQH...BA -1.000000
+    PQJ.G2BA CF..G.BA -1.098000   BSJ...BA 1.000000
+    PQJ.G2BA BQJ...BA -1.000000
+    PQW.G2BA CF..G.BA -1.339000   BSW...BA 1.000000
+    PQW.G2BA BQW...BA -1.000000
+    PIB.P2BA BRG...BA 0.180200   B5D...BA 0.770000
+    PIB.P2BA CF..P.BA -0.990000   BIB...BA -1.000000
+    PIG.P2BA BRG...BA 0.106800   B5C...BA 0.893000
+    PIG.P2BA CF..P.BA -0.948700   BIG...BA -1.000000
+    PIN.P2BA BRG...BA 0.109800   B5A...BA 0.883000
+    PIN.P2BA CF..P.BA -0.942000   BIN...BA -1.000000
+    PIP.P2BA BRG...BA 0.189000   B5B...BA 0.760000
+    PIP.P2BA CF..P.BA -0.983300   BIP...BA -1.000000
+    PIB.P3BA BRG...BA 0.206200   B5H...BA 0.739000
+    PIB.P3BA CF..P.BA -1.014700   BIB...BA -1.000000
+    PIG.P3BA BRG...BA 0.133800   B5G...BA 0.862000
+    PIG.P3BA CF..P.BA -0.973300   BIG...BA -1.000000
+    PIN.P3BA BRG...BA 0.144400   B5E...BA 0.852000
+    PIN.P3BA CF..P.BA -0.967700   BIN...BA -1.000000
+    PIP.P3BA BRG...BA 0.214800   B5F...BA 0.729000
+    PIP.P3BA CF..P.BA -1.008000   BIP...BA -1.000000
+    PIB.P7BA BRG...BA 0.219000   B5P...BA 0.721000
+    PIB.P7BA CF..P.BA -1.579800   BIB...BA -1.000000
+    PIG.P7BA BRG...BA 0.146800   B5N...BA 0.840000
+    PIG.P7BA CF..P.BA -1.369100   BIG...BA -1.000000
+    PIN.P7BA BRG...BA 0.149100   B5M...BA 0.829000
+    PIN.P7BA CF..P.BA -1.350700   BIN...BA -1.000000
+    PIP.P7BA BRG...BA 0.228800   B5O...BA 0.710000
+    PIP.P7BA CF..P.BA -1.561300   BIP...BA -1.000000
+    PHA.Q1BA BRG...BA 0.326000   B5T...BA 0.140000
+    PHA.Q1BA BBK...BA -0.031000   BBL...BA 0.260000
+    PHA.Q1BA BQH...BA 0.256000   CF..Q.BA -1.066000
+    PHA.Q1BA BHA...BA -1.000000
+    PHV.Q1BA BRG...BA 0.358000   B5T...BA 0.131000
+    PHV.Q1BA BBK...BA 0.047000   BBL...BA 0.166000
+    PHV.Q1BA BQB...BA 0.239000   CF..Q.BA -1.108000
+    PHV.Q1BA BHV...BA -1.000000
+    PLA.Q1BA BRG...BA 0.280000   B5T...BA 0.152000
+    PLA.Q1BA BBK...BA 0.036000   BBL...BA 0.213000
+    PLA.Q1BA BQA...BA 0.279000   CF..Q.BA -1.000000
+    PLA.Q1BA BLA...BA -1.000000
+    PMT.Q1BA BRG...BA 0.358000   B5T...BA 0.132000
+    PMT.Q1BA BBK...BA 0.069000   BBL...BA 0.143000
+    PMT.Q1BA BQJ...BA 0.241000   CF..Q.BA -1.112000
+    PMT.Q1BA BMT...BA -1.000000
+    PUK.Q1BA BRG...BA 0.294000   B5T...BA 0.148000
+    PUK.Q1BA BBK...BA -0.048000   BBL...BA 0.290000
+    PUK.Q1BA BQW...BA 0.272000   CF..Q.BA -1.014000
+    PUK.Q1BA BUK...BA -1.000000
+    PAH.R1BA BRG...BA 0.010700   BIP...BA 0.037500
+    PAH.R1BA BHL...BA 0.100000   B1H...BA 0.885000
+    PAH.R1BA CF..R.BA -1.113300   BAH...BA -1.000000
+    PAL.R1BA BRG...BA 0.004200   BIP...BA 0.015400
+    PAL.R1BA BHL...BA 0.100000   B1A...BA 0.896000
+    PAL.R1BA CF..R.BA -0.883600   BAL...BA -1.000000
+    PAM.R1BA BRG...BA 0.006500   BIP...BA 0.023000
+    PAM.R1BA BHL...BA 0.100000   B1K...BA 0.892000
+    PAM.R1BA CF..R.BA -1.003900   BAM...BA -1.000000
+    PIH.R1BA BRG...BA 0.006400   BIP...BA 0.022800
+    PIH.R1BA BHL...BA 0.100000   B1G...BA 0.892000
+    PIH.R1BA CF..R.BA -0.948700   BIH...BA -1.000000
+    PIL.R1BA BRG...BA 0.004800   BIP...BA 0.017200
+    PIL.R1BA BHL...BA 0.100000   B1I...BA 0.894000
+    PIL.R1BA CF..R.BA -0.879900   BIL...BA -1.000000
+    PKU.R1BA BRG...BA 0.006200   BIP...BA 0.021900
+    PKU.R1BA BHL...BA 0.100000   B1W...BA 0.895000
+    PKU.R1BA CF..R.BA -0.995100   BKU...BA -1.000000
+    PAH.R2BA BRG...BA 0.024600   BIP...BA 0.086900
+    PAH.R2BA BHL...BA 0.100000   CF..R.BA -1.484600
+    PAH.R2BA B2H...BA 0.843000   BAH...BA -1.000000
+    PAL.R2BA BRG...BA 0.010900   BIP...BA 0.038900
+    PAL.R2BA BHL...BA 0.100000   CF..R.BA -1.109400
+    PAL.R2BA B2A...BA 0.879000   BAL...BA -1.000000
+    PAM.R2BA BRG...BA 0.015400   BIP...BA 0.055000
+    PAM.R2BA BHL...BA 0.100000   CF..R.BA -1.279000
+    PAM.R2BA B2K...BA 0.869000   BAM...BA -1.000000
+    PIH.R2BA BRG...BA 0.014700   BIP...BA 0.052800
+    PIH.R2BA BHL...BA 0.100000   CF..R.BA -1.204500
+    PIH.R2BA B2G...BA 0.869000   BIH...BA -1.000000
+    PIL.R2BA BRG...BA 0.011100   BIP...BA 0.040500
+    PIL.R2BA BHL...BA 0.100000   CF..R.BA -1.094000
+    PIL.R2BA B2I...BA 0.877000   BIL...BA -1.000000
+    PKU.R2BA BRG...BA 0.015100   BIP...BA 0.053300
+    PKU.R2BA BHL...BA 0.100000   CF..R.BA -1.285700
+    PKU.R2BA B2W...BA 0.872000   BKU...BA -1.000000
+    PBQ.VBBA B7B...BA -1.000000   BBK...BA 0.045200
+    PBQ.VBBA BBL...BA 0.020300   BBM...BA -0.009300
+    PBQ.VBBA BBN...BA -0.004200   BBX...BA 0.442000
+    PBQ.VBBA B7Q...BA 0.506000   COH.V.BA -0.494000
+    PTM.VBBA B7J...BA -1.000000   BBK...BA 0.035700
+    PTM.VBBA BBL...BA 0.016100   BBM...BA -0.007400
+    PTM.VBBA BBN...BA -0.003300   BBT...BA 0.514900
+    PTM.VBBA B7T...BA 0.444000   COH.V.BA -0.556000
+    PYV.V1BA COH.V.BA -0.651700   BYV...BA -1.000000
+    PYV.V1BA BBE...BA 0.554000   BBC...BA 0.097700
+    PYV.V1BA BVY...BA 0.348300
+    TNI.ANBA BNI...BA 1.000000   BNI...AN -1.000000
+    TNI.ANBA FAT0..J. 1.452000   KMC.IMBA 1.000000
+    TNI.ANBA KWC..... 1.277000
+    TNL.ANBA BNL...BA 1.000000   BNL...AN -1.000000
+    TNL.ANBA FAT0..J. 1.438000   KMC.IMBA 1.000000
+    TNL.ANBA KWC..... 1.111000
+    TNP.ANBA BNP...BA 1.000000   BNP...AN -1.000000
+    TNP.ANBA FAT0..J. 1.452000   KMC.IMBA 1.000000
+    TNP.ANBA KWC..... 1.210000
+    TFY.VEBA BFY...BA 1.000000   BFY...VE -1.000000
+    TFY.VEBA FAT0..J. 0.535000   KMC.IMBA 1.000000
+    TFY.VEBA KWC..... 0.594000
+    TNI.VEBA BNI...BA 1.000000   BNI...VE -1.000000
+    TNI.VEBA FAT0..J. 0.438000   KMC.IMBA 1.000000
+    TNI.VEBA KWC..... 0.744000
+    TNL.VEBA BNL...BA 1.000000   BNL...VE -1.000000
+    TNL.VEBA FAT0..J. 0.434000   KMC.IMBA 1.000000
+    TNL.VEBA KWC..... 0.686000
+    TTM.VEBA BTM...BA 1.000000   BTM...VE -1.000000
+    TTM.VEBA FAT0..J. 0.535000   KMC.IMBA 1.000000
+    TTM.VEBA KWC..... 0.594000
+    TVH.VEBA BVH...BA 1.000000   BVH...VE -1.000000
+    TVH.VEBA FAT0..J. 0.535000   KMC.IMBA 1.000000
+    TVH.VEBA KWC..... 0.594000
+    DGP...CA BGP...CA -1.000000   FAT0..J. -100.000000
+    DGP...CA LOBROW27711 1.000000
+    NEGKWC.CA..36938 KWC..... 100.000000   FAT0..J. -15.700000
+    NEGKTC.CA..36937 KTC..... 1.000000
+    NEGKMC.CA..36936 FAT0..J. -1.000000   KMC0.... 1.000000
+    NEGKMC.CA..36936 KMC5.... 1.000000
+    QWT5FSU1 BFS.WTU1 -1.000000   XSU.FSU1 -0.810000
+    DGP...CM BGP...CM -1.000000   FAT0..J. -100.000000
+    DGP...CM LOBROW27712 1.000000
+    QVO5FSU1 BFS...U1 1.000000   BFS.VOU1 -1.000000
+    QVO5FSU1 XVI.FSU1 -1.152000   NVI.FSU1 -0.860000
+    BBK.DHEH BBK...EH -1.000000   BDH.VOEH 1.000000
+    BBK.DHEH XSU.DHEH 0.100000   XCI.DHEH 1.000000
+    BBL.DHEH BBL...EH -1.000000   BDH.VOEH 1.000000
+    BBL.DHEH XSU.DHEH 3.000000   XCI.DHEH 1.000000
+    BBM.DHEH BBM...EH -1.000000   BDH.VOEH 1.000000
+    BBM.DHEH XSU.DHEH 0.100000   XCI.DHEH 1.500000
+    BBN.DHEH BBN...EH -1.000000   BDH.VOEH 1.000000
+    BBN.DHEH XSU.DHEH 3.000000   XCI.DHEH 1.500000
+    BBU.DHEH BBU...EH -1.000000   BDH.VOEH 1.000000
+    BBU.DHEH XSU.DHEH 0.200000   XCI.DHEH 7.560000
+    BBV.DHEH BBV...EH -1.000000   BDH.VOEH 1.000000
+    BBV.DHEH XSU.DHEH 2.500000   XCI.DHEH 7.070000
+    BHH.DHEH BHH...EH -1.000000   BDH.VOEH 1.000000
+    BHH.DHEH XSU.DHEH 1.600000   XCI.DHEH 0.870000
+    BHL.DHEH BHL...EH -1.000000   BDH.VOEH 1.000000
+    BHL.DHEH XSU.DHEH 0.100000   XCI.DHEH 0.870000
+    BKE.DHEH BKE...EH -1.000000   BDH.VOEH 1.000000
+    BKE.DHEH XSU.DHEH 0.150000   XCI.DHEH 0.120000
+    BKH.DHEH BKH...EH -1.000000   BDH.VOEH 1.000000
+    BKH.DHEH XSU.DHEH 0.150000   XCI.DHEH 0.160000
+    BAC.FTEH BAC...EH -1.000000   BFT.VOEH 1.000000
+    BAC.FTEH BFT.WTEH 0.954030   XSU.FTEH 0.238740
+    BAC.FTEH XVI.FTEH 1.342000   NVI.FTEH 1.342000
+    BAG.FTEH BAG...EH -1.000000   BFT.VOEH 1.000000
+    BAG.FTEH BFT.WTEH 0.842650   XSU.FTEH 0.015020
+    BAG.FTEH XVI.FTEH 0.968000   NVI.FTEH 0.968000
+    BAP.FTEH BAP...EH -1.000000   BFT.VOEH 1.000000
+    BAP.FTEH BFT.WTEH 0.886270   XSU.FTEH 0.030780
+    BAP.FTEH XVI.FTEH 1.215000   NVI.FTEH 1.215000
+    BAS.FTEH BAS...EH -1.000000   BFT.VOEH 1.000000
+    BAS.FTEH BFT.WTEH 0.995250   XSU.FTEH 0.498860
+    BAS.FTEH XVI.FTEH 1.435000   NVI.FTEH 1.435000
+    BAW.FTEH BAW...EH -1.000000   BFT.VOEH 1.000000
+    BAW.FTEH BFT.WTEH 0.908700   XSU.FTEH 0.313780
+    BAW.FTEH XVI.FTEH 1.076000   NVI.FTEH 1.076000
+    BBB.FTEH BBB...EH -1.000000   BFT.VOEH 1.000000
+    BBB.FTEH BFT.WTEH 0.893700   XSU.FTEH 0.178740
+    BBB.FTEH XVI.FTEH 0.977000   NVI.FTEH 0.977000
+    BBD.FTEH BBD...EH -1.000000   BFT.VOEH 1.000000
+    BBD.FTEH BFT.WTEH 0.893100   XSU.FTEH 0.178620
+    BBD.FTEH XVI.FTEH 0.990000   NVI.FTEH 0.990000
+    BBO.FTEH BBO...EH -1.000000   BFT.VOEH 1.000000
+    BBO.FTEH BFT.WTEH 0.820000   XSU.FTEH 0.246000
+    BBO.FTEH XVI.FTEH 0.720000   NVI.FTEH 0.720000
+    BBP.FTEH BBP...EH -1.000000   BFT.VOEH 1.000000
+    BBP.FTEH BFT.WTEH 0.820000   XSU.FTEH 1.230000
+    BBP.FTEH XVI.FTEH 0.720000   NVI.FTEH 0.720000
+    BBW.FTEH BBW...EH -1.000000   BFT.VOEH 1.000000
+    BBW.FTEH BFT.WTEH 0.870000   XSU.FTEH 0.435000
+    BBW.FTEH XVI.FTEH 0.870000   NVI.FTEH 0.870000
+    BBY.FTEH BBY...EH -1.000000   BFT.VOEH 1.000000
+    BBY.FTEH BFT.WTEH 0.870000   XSU.FTEH 1.305000
+    BBY.FTEH XVI.FTEH 0.870000   NVI.FTEH 0.870000
+    BCA.FTEH BCA...EH -1.000000   BFT.VOEH 1.000000
+    BCA.FTEH BFT.WTEH 0.911890   XSU.FTEH 0.155900
+    BCA.FTEH XVI.FTEH 1.118000   NVI.FTEH 1.118000
+    BEL.FTEH BEL...EH -1.000000   BFT.VOEH 1.000000
+    BEL.FTEH BFT.WTEH 0.958700   XSU.FTEH 0.690260
+    BEL.FTEH XVI.FTEH 1.125000   NVI.FTEH 1.125000
+    BES.FTEH BES...EH -1.000000   BFT.VOEH 1.000000
+    BES.FTEH BFT.WTEH 0.929480   XSU.FTEH 0.677090
+    BES.FTEH XVI.FTEH 1.112000   NVI.FTEH 1.112000
+    BHM.FTEH BHM...EH -1.000000   BFT.VOEH 1.000000
+    BHM.FTEH BFT.WTEH 0.820000   XSU.FTEH 0.246000
+    BHM.FTEH XVI.FTEH 0.720000   NVI.FTEH 0.720000
+    BHN.FTEH BHN...EH -1.000000   BFT.VOEH 1.000000
+    BHN.FTEH BFT.WTEH 0.820000   XSU.FTEH 1.066000
+    BHN.FTEH XVI.FTEH 0.720000   NVI.FTEH 0.720000
+    BHY.FTEH BHY...EH -1.000000   BFT.VOEH 1.000000
+    BHY.FTEH BFT.WTEH 0.961860   XSU.FTEH 0.342240
+    BHY.FTEH XVI.FTEH 1.169000   NVI.FTEH 1.169000
+    BLB.FTEH BLB...EH -1.000000   BFT.VOEH 1.000000
+    BLB.FTEH BFT.WTEH 0.915120   XSU.FTEH 0.383760
+    BLB.FTEH XVI.FTEH 1.078000   NVI.FTEH 1.078000
+    BLE.FTEH BLE...EH -1.000000   BFT.VOEH 1.000000
+    BLE.FTEH BFT.WTEH 1.027600   XSU.FTEH 1.171460
+    BLE.FTEH XVI.FTEH 1.460000   NVI.FTEH 1.460000
+    BLS.FTEH BLS...EH -1.000000   BFT.VOEH 1.000000
+    BLS.FTEH BFT.WTEH 0.913480   XSU.FTEH 0.299600
+    BLS.FTEH XVI.FTEH 1.108000   NVI.FTEH 1.108000
+    BLT.FTEH BLT...EH -1.000000   BFT.VOEH 1.000000
+    BLT.FTEH BFT.WTEH 0.923810   XSU.FTEH 0.241200
+    BLT.FTEH XVI.FTEH 1.065000   NVI.FTEH 1.065000
+    BLU.FTEH BLU...EH -1.000000   BFT.VOEH 1.000000
+    BLU.FTEH BFT.WTEH 0.987000   XSU.FTEH 0.770460
+    BLU.FTEH XVI.FTEH 1.346000   NVI.FTEH 1.346000
+    BMD.FTEH BMD...EH -1.000000   BFT.VOEH 1.000000
+    BMD.FTEH BFT.WTEH 0.954190   XSU.FTEH 0.370030
+    BMD.FTEH XVI.FTEH 1.143000   NVI.FTEH 1.143000
+    BMF.FTEH BMF...EH -1.000000   BFT.VOEH 1.000000
+    BMF.FTEH BFT.WTEH 1.017900   XSU.FTEH 0.796850
+    BMF.FTEH XVI.FTEH 1.415000   NVI.FTEH 1.415000
+    BRB.FTEH BRB...EH -1.000000   BFT.VOEH 1.000000
+    BRB.FTEH BFT.WTEH 0.983160   XSU.FTEH 0.680810
+    BRB.FTEH XVI.FTEH 1.339000   NVI.FTEH 1.339000
+    BSA.FTEH BSA...EH -1.000000   BFT.VOEH 1.000000
+    BSA.FTEH BFT.WTEH 0.963200   XSU.FTEH 0.597180
+    BSA.FTEH XVI.FTEH 1.145000   NVI.FTEH 1.145000
+    BSE.FTEH BSE...EH -1.000000   BFT.VOEH 1.000000
+    BSE.FTEH BFT.WTEH 1.004360   XSU.FTEH 1.209020
+    BSE.FTEH XVI.FTEH 1.382000   NVI.FTEH 1.382000
+    BSH.FTEH BSH...EH -1.000000   BFT.VOEH 1.000000
+    BSH.FTEH BFT.WTEH 0.979200   XSU.FTEH 0.802940
+    BSH.FTEH XVI.FTEH 1.145000   NVI.FTEH 1.145000
+    BSW.FTEH BSW...EH -1.000000   BFT.VOEH 1.000000
+    BSW.FTEH BFT.WTEH 0.972500   XSU.FTEH 0.836350
+    BSW.FTEH XVI.FTEH 1.145000   NVI.FTEH 1.145000
+    BTL.FTEH BTL...EH -1.000000   BFT.VOEH 1.000000
+    BTL.FTEH BFT.WTEH 1.023110   XSU.FTEH 0.553770
+    BTL.FTEH XVI.FTEH 1.388000   NVI.FTEH 1.388000
+    BUL.FTEH BUL...EH -1.000000   BFT.VOEH 1.000000
+    BUL.FTEH BFT.WTEH 0.925930   XSU.FTEH 0.481170
+    BUL.FTEH XVI.FTEH 1.109000   NVI.FTEH 1.109000
+    BWA.FTEH BWA...EH -1.000000   BFT.VOEH 1.000000
+    BWA.FTEH BFT.WTEH 0.969370   XSU.FTEH 0.602190
+    BWA.FTEH XVI.FTEH 1.340000   NVI.FTEH 1.340000
+    BYH.FTEH BYH...EH -1.000000   BFT.VOEH 1.000000
+    BYH.FTEH BFT.WTEH 1.023810   XSU.FTEH 0.666860
+    BYH.FTEH XVI.FTEH 1.455000   NVI.FTEH 1.455000
+    BZA.FTEH BZA...EH -1.000000   BFT.VOEH 1.000000
+    BZA.FTEH BFT.WTEH 0.902850   XSU.FTEH 0.149900
+    BZA.FTEH XVI.FTEH 1.074000   NVI.FTEH 1.074000
+    B1A.FTEH B1A...EH -1.000000   BFT.VOEH 1.000000
+    B1A.FTEH BFT.WTEH 0.932600   XSU.FTEH 0.792710
+    B1A.FTEH XVI.FTEH 1.118000   NVI.FTEH 1.118000
+    B1G.FTEH B1G...EH -1.000000   BFT.VOEH 1.000000
+    B1G.FTEH BFT.WTEH 0.953100   XSU.FTEH 0.695760
+    B1G.FTEH XVI.FTEH 1.200000   NVI.FTEH 1.200000
+    B1H.FTEH B1H...EH -1.000000   BFT.VOEH 1.000000
+    B1H.FTEH BFT.WTEH 0.949200   XSU.FTEH 1.195990
+    B1H.FTEH XVI.FTEH 1.244000   NVI.FTEH 1.244000
+    B1I.FTEH B1I...EH -1.000000   BFT.VOEH 1.000000
+    B1I.FTEH BFT.WTEH 0.939400   XSU.FTEH 0.666970
+    B1I.FTEH XVI.FTEH 1.139000   NVI.FTEH 1.139000
+    B1K.FTEH B1K...EH -1.000000   BFT.VOEH 1.000000
+    B1K.FTEH BFT.WTEH 0.940000   XSU.FTEH 1.081000
+    B1K.FTEH XVI.FTEH 1.138000   NVI.FTEH 1.138000
+    B1W.FTEH B1W...EH -1.000000   BFT.VOEH 1.000000
+    B1W.FTEH BFT.WTEH 0.937200   XSU.FTEH 1.124640
+    B1W.FTEH XVI.FTEH 1.174000   NVI.FTEH 1.174000
+    B2A.FTEH B2A...EH -1.000000   BFT.VOEH 1.000000
+    B2A.FTEH BFT.WTEH 0.921400   XSU.FTEH 0.313280
+    B2A.FTEH XVI.FTEH 1.078000   NVI.FTEH 1.078000
+    B2G.FTEH B2G...EH -1.000000   BFT.VOEH 1.000000
+    B2G.FTEH BFT.WTEH 0.942200   XSU.FTEH 0.282660
+    B2G.FTEH XVI.FTEH 1.152000   NVI.FTEH 1.152000
+    B2H.FTEH B2H...EH -1.000000   BFT.VOEH 1.000000
+    B2H.FTEH BFT.WTEH 0.933600   XSU.FTEH 0.494810
+    B2H.FTEH XVI.FTEH 1.188000   NVI.FTEH 1.188000
+    B2I.FTEH B2I...EH -1.000000   BFT.VOEH 1.000000
+    B2I.FTEH BFT.WTEH 0.929300   XSU.FTEH 0.269500
+    B2I.FTEH XVI.FTEH 1.090000   NVI.FTEH 1.090000
+    B2K.FTEH B2K...EH -1.000000   BFT.VOEH 1.000000
+    B2K.FTEH BFT.WTEH 0.926600   XSU.FTEH 0.435500
+    B2K.FTEH XVI.FTEH 1.092000   NVI.FTEH 1.092000
+    B2W.FTEH B2W...EH -1.000000   BFT.VOEH 1.000000
+    B2W.FTEH BFT.WTEH 0.922600   XSU.FTEH 0.461300
+    B2W.FTEH XVI.FTEH 1.122000   NVI.FTEH 1.122000
+    B6A.FTEH B6A...EH -1.000000   BFT.VOEH 1.000000
+    B6A.FTEH BFT.WTEH 1.108000   XSU.FTEH 0.675880
+    B6A.FTEH XVI.FTEH 1.113000   NVI.FTEH 1.113000
+    B6H.FTEH B6H...EH -1.000000   BFT.VOEH 1.000000
+    B6H.FTEH BFT.WTEH 1.108000   XSU.FTEH 0.565080
+    B6H.FTEH XVI.FTEH 1.113000   NVI.FTEH 1.113000
+    B6W.FTEH B6W...EH -1.000000   BFT.VOEH 1.000000
+    B6W.FTEH BFT.WTEH 1.108000   XSU.FTEH 0.709120
+    B6W.FTEH XVI.FTEH 1.113000   NVI.FTEH 1.113000
+    B9B.FTEH B9B...EH -1.000000   BFT.VOEH 1.000000
+    B9B.FTEH BFT.WTEH 1.086800   XSU.FTEH 0.434720
+    B9B.FTEH XVI.FTEH 1.228000   NVI.FTEH 1.228000
+    B9D.FTEH B9D...EH -1.000000   BFT.VOEH 1.000000
+    B9D.FTEH BFT.WTEH 1.080600   XSU.FTEH 0.432240
+    B9D.FTEH XVI.FTEH 1.221000   NVI.FTEH 1.221000
+    B9E.FTEH B9E...EH -1.000000   BFT.VOEH 1.000000
+    B9E.FTEH BFT.WTEH 1.012200   XSU.FTEH 0.415000
+    B9E.FTEH XVI.FTEH 1.152000   NVI.FTEH 1.152000
+    B9F.FTEH B9F...EH -1.000000   BFT.VOEH 1.000000
+    B9F.FTEH BFT.WTEH 0.923600   XSU.FTEH 0.240140
+    B9F.FTEH XVI.FTEH 1.169000   NVI.FTEH 1.169000
+    B9I.FTEH B9I...EH -1.000000   BFT.VOEH 1.000000
+    B9I.FTEH BFT.WTEH 1.140500   XSU.FTEH 0.547440
+    B9I.FTEH XVI.FTEH 1.275000   NVI.FTEH 1.275000
+    B9K.FTEH B9K...EH -1.000000   BFT.VOEH 1.000000
+    B9K.FTEH BFT.WTEH 1.132800   XSU.FTEH 0.566400
+    B9K.FTEH XVI.FTEH 1.281000   NVI.FTEH 1.281000
+    B9L.FTEH B9L...EH -1.000000   BFT.VOEH 1.000000
+    B9L.FTEH BFT.WTEH 1.034400   XSU.FTEH 0.475820
+    B9L.FTEH XVI.FTEH 1.212000   NVI.FTEH 1.212000
+    B9M.FTEH B9M...EH -1.000000   BFT.VOEH 1.000000
+    B9M.FTEH BFT.WTEH 0.944000   XSU.FTEH 0.368160
+    B9M.FTEH XVI.FTEH 1.188000   NVI.FTEH 1.188000
+    BAC.FVEH BAC...EH -1.000000   BFV.VOEH 1.000000
+    BAC.FVEH BFV.WTEH 0.954030   XSU.FVEH 0.238740
+    BAC.FVEH XVI.FVEH 1.342000   NVI.FVEH 1.342000
+    BAG.FVEH BAG...EH -1.000000   BFV.VOEH 1.000000
+    BAG.FVEH BFV.WTEH 0.842650   XSU.FVEH 0.015020
+    BAG.FVEH XVI.FVEH 0.968000   NVI.FVEH 0.968000
+    BAH.FVEH BAH...EH -1.000000   BFV.VOEH 1.000000
+    BAH.FVEH BFV.WTEH 0.989360   XSU.FVEH 4.444220
+    BAH.FVEH XVI.FVEH 1.246000   NVI.FVEH 1.246000
+    BAK.FVEH BAK...EH -1.000000   BFV.VOEH 1.000000
+    BAK.FVEH BFV.WTEH 1.026940   XSU.FVEH 4.681760
+    BAK.FVEH XVI.FVEH 1.423000   NVI.FVEH 1.423000
+    BAL.FVEH BAL...EH -1.000000   BFV.VOEH 1.000000
+    BAL.FVEH BFV.WTEH 0.958370   XSU.FVEH 3.064560
+    BAL.FVEH XVI.FVEH 1.144000   NVI.FVEH 1.144000
+    BAM.FVEH BAM...EH -1.000000   BFV.VOEH 1.000000
+    BAM.FVEH BFV.WTEH 0.969970   XSU.FVEH 3.855710
+    BAM.FVEH XVI.FVEH 1.161000   NVI.FVEH 1.161000
+    BAP.FVEH BAP...EH -1.000000   BFV.VOEH 1.000000
+    BAP.FVEH BFV.WTEH 0.886270   XSU.FVEH 0.030780
+    BAP.FVEH XVI.FVEH 1.215000   NVI.FVEH 1.215000
+    BAS.FVEH BAS...EH -1.000000   BFV.VOEH 1.000000
+    BAS.FVEH BFV.WTEH 0.995250   XSU.FVEH 0.498860
+    BAS.FVEH XVI.FVEH 1.435000   NVI.FVEH 1.435000
+    BAW.FVEH BAW...EH -1.000000   BFV.VOEH 1.000000
+    BAW.FVEH BFV.WTEH 0.908700   XSU.FVEH 0.313780
+    BAW.FVEH XVI.FVEH 1.076000   NVI.FVEH 1.076000
+    BAX.FVEH BAX...EH -1.000000   BFV.VOEH 1.000000
+    BAX.FVEH BFV.WTEH 0.930250   XSU.FVEH 1.991310
+    BAX.FVEH XVI.FVEH 1.081000   NVI.FVEH 1.081000
+    BBB.FVEH BBB...EH -1.000000   BFV.VOEH 1.000000
+    BBB.FVEH BFV.WTEH 0.893700   XSU.FVEH 0.178740
+    BBB.FVEH XVI.FVEH 0.977000   NVI.FVEH 0.977000
+    BBD.FVEH BBD...EH -1.000000   BFV.VOEH 1.000000
+    BBD.FVEH BFV.WTEH 0.893100   XSU.FVEH 0.178620
+    BBD.FVEH XVI.FVEH 0.990000   NVI.FVEH 0.990000
+    BBO.FVEH BBO...EH -1.000000   BFV.VOEH 1.000000
+    BBO.FVEH BFV.WTEH 0.820000   XSU.FVEH 0.246000
+    BBO.FVEH XVI.FVEH 0.720000   NVI.FVEH 0.720000
+    BBP.FVEH BBP...EH -1.000000   BFV.VOEH 1.000000
+    BBP.FVEH BFV.WTEH 0.820000   XSU.FVEH 1.230000
+    BBP.FVEH XVI.FVEH 0.720000   NVI.FVEH 0.720000
+    BBW.FVEH BBW...EH -1.000000   BFV.VOEH 1.000000
+    BBW.FVEH BFV.WTEH 0.870000   XSU.FVEH 0.435000
+    BBW.FVEH XVI.FVEH 0.870000   NVI.FVEH 0.870000
+    BBY.FVEH BBY...EH -1.000000   BFV.VOEH 1.000000
+    BBY.FVEH BFV.WTEH 0.870000   XSU.FVEH 1.305000
+    BBY.FVEH XVI.FVEH 0.870000   NVI.FVEH 0.870000
+    BCA.FVEH BCA...EH -1.000000   BFV.VOEH 1.000000
+    BCA.FVEH BFV.WTEH 0.911890   XSU.FVEH 0.155900
+    BCA.FVEH XVI.FVEH 1.118000   NVI.FVEH 1.118000
+    BEL.FVEH BEL...EH -1.000000   BFV.VOEH 1.000000
+    BEL.FVEH BFV.WTEH 0.958700   XSU.FVEH 0.690260
+    BEL.FVEH XVI.FVEH 1.125000   NVI.FVEH 1.125000
+    BES.FVEH BES...EH -1.000000   BFV.VOEH 1.000000
+    BES.FVEH BFV.WTEH 0.929480   XSU.FVEH 0.677090
+    BES.FVEH XVI.FVEH 1.112000   NVI.FVEH 1.112000
+    BHA.FVEH BHA...EH -1.000000   BFV.VOEH 1.000000
+    BHA.FVEH BFV.WTEH 1.051520   XSU.FVEH 6.325920
+    BHA.FVEH XVI.FVEH 1.460000   NVI.FVEH 1.460000
+    BHI.FVEH BHI...EH -1.000000   BFV.VOEH 1.000000
+    BHI.FVEH BFV.WTEH 1.035270   XSU.FVEH 3.560070
+    BHI.FVEH XVI.FVEH 1.460000   NVI.FVEH 1.460000
+    BHM.FVEH BHM...EH -1.000000   BFV.VOEH 1.000000
+    BHM.FVEH BFV.WTEH 0.820000   XSU.FVEH 0.246000
+    BHM.FVEH XVI.FVEH 0.720000   NVI.FVEH 0.720000
+    BHN.FVEH BHN...EH -1.000000   BFV.VOEH 1.000000
+    BHN.FVEH BFV.WTEH 0.820000   XSU.FVEH 1.066000
+    BHN.FVEH XVI.FVEH 0.720000   NVI.FVEH 0.720000
+    BHU.FVEH BHU...EH -1.000000   BFV.VOEH 1.000000
+    BHU.FVEH BFV.WTEH 1.000260   XSU.FVEH 2.569830
+    BHU.FVEH XVI.FVEH 1.371000   NVI.FVEH 1.371000
+    BHY.FVEH BHY...EH -1.000000   BFV.VOEH 1.000000
+    BHY.FVEH BFV.WTEH 0.961860   XSU.FVEH 0.342240
+    BHY.FVEH XVI.FVEH 1.169000   NVI.FVEH 1.169000
+    BIH.FVEH BIH...EH -1.000000   BFV.VOEH 1.000000
+    BIH.FVEH BFV.WTEH 0.971950   XSU.FVEH 2.489180
+    BIH.FVEH XVI.FVEH 1.206000   NVI.FVEH 1.206000
+    BIL.FVEH BIL...EH -1.000000   BFV.VOEH 1.000000
+    BIL.FVEH BFV.WTEH 0.955070   XSU.FVEH 2.400240
+    BIL.FVEH XVI.FVEH 1.149000   NVI.FVEH 1.149000
+    BKA.FVEH BKA...EH -1.000000   BFV.VOEH 1.000000
+    BKA.FVEH BFV.WTEH 0.961630   XSU.FVEH 3.349490
+    BKA.FVEH XVI.FVEH 1.162000   NVI.FVEH 1.162000
+    BKK.FVEH BKK...EH -1.000000   BFV.VOEH 1.000000
+    BKK.FVEH BFV.WTEH 0.963930   XSU.FVEH 3.853160
+    BKK.FVEH XVI.FVEH 1.159000   NVI.FVEH 1.159000
+    BKQ.FVEH BKQ...EH -1.000000   BFV.VOEH 1.000000
+    BKQ.FVEH BFV.WTEH 1.045330   XSU.FVEH 6.504400
+    BKQ.FVEH XVI.FVEH 1.430000   NVI.FVEH 1.430000
+    BKU.FVEH BKU...EH -1.000000   BFV.VOEH 1.000000
+    BKU.FVEH BFV.WTEH 0.973400   XSU.FVEH 4.132130
+    BKU.FVEH XVI.FVEH 1.190000   NVI.FVEH 1.190000
+    BLA.FVEH BLA...EH -1.000000   BFV.VOEH 1.000000
+    BLA.FVEH BFV.WTEH 1.021730   XSU.FVEH 4.444390
+    BLA.FVEH XVI.FVEH 1.381000   NVI.FVEH 1.381000
+    BLB.FVEH BLB...EH -1.000000   BFV.VOEH 1.000000
+    BLB.FVEH BFV.WTEH 0.915120   XSU.FVEH 0.383760
+    BLB.FVEH XVI.FVEH 1.078000   NVI.FVEH 1.078000
+    BLE.FVEH BLE...EH -1.000000   BFV.VOEH 1.000000
+    BLE.FVEH BFV.WTEH 1.027600   XSU.FVEH 1.171460
+    BLE.FVEH XVI.FVEH 1.460000   NVI.FVEH 1.460000
+    BLI.FVEH BLI...EH -1.000000   BFV.VOEH 1.000000
+    BLI.FVEH BFV.WTEH 1.028430   XSU.FVEH 3.784260
+    BLI.FVEH XVI.FVEH 1.434000   NVI.FVEH 1.434000
+    BLS.FVEH BLS...EH -1.000000   BFV.VOEH 1.000000
+    BLS.FVEH BFV.WTEH 0.913480   XSU.FVEH 0.299600
+    BLS.FVEH XVI.FVEH 1.108000   NVI.FVEH 1.108000
+    BLT.FVEH BLT...EH -1.000000   BFV.VOEH 1.000000
+    BLT.FVEH BFV.WTEH 0.923810   XSU.FVEH 0.241200
+    BLT.FVEH XVI.FVEH 1.065000   NVI.FVEH 1.065000
+    BLU.FVEH BLU...EH -1.000000   BFV.VOEH 1.000000
+    BLU.FVEH BFV.WTEH 0.987000   XSU.FVEH 0.770460
+    BLU.FVEH XVI.FVEH 1.346000   NVI.FVEH 1.346000
+    BMA.FVEH BMA...EH -1.000000   BFV.VOEH 1.000000
+    BMA.FVEH BFV.WTEH 1.036740   XSU.FVEH 5.561150
+    BMA.FVEH XVI.FVEH 1.405000   NVI.FVEH 1.405000
+    BMD.FVEH BMD...EH -1.000000   BFV.VOEH 1.000000
+    BMD.FVEH BFV.WTEH 0.954190   XSU.FVEH 0.370030
+    BMD.FVEH XVI.FVEH 1.143000   NVI.FVEH 1.143000
+    BMF.FVEH BMF...EH -1.000000   BFV.VOEH 1.000000
+    BMF.FVEH BFV.WTEH 1.017900   XSU.FVEH 0.796850
+    BMF.FVEH XVI.FVEH 1.415000   NVI.FVEH 1.415000
+    BMN.FVEH BMN...EH -1.000000   BFV.VOEH 1.000000
+    BMN.FVEH BFV.WTEH 0.944950   XSU.FVEH 1.778980
+    BMN.FVEH XVI.FVEH 1.152000   NVI.FVEH 1.152000
+    BMO.FVEH BMO...EH -1.000000   BFV.VOEH 1.000000
+    BMO.FVEH BFV.WTEH 1.000830   XSU.FVEH 2.555180
+    BMO.FVEH XVI.FVEH 1.384000   NVI.FVEH 1.384000
+    BMU.FVEH BMU...EH -1.000000   BFV.VOEH 1.000000
+    BMU.FVEH BFV.WTEH 0.922450   XSU.FVEH 1.622720
+    BMU.FVEH XVI.FVEH 1.067000   NVI.FVEH 1.067000
+    BQA.FVEH BQA...EH -1.000000   BFV.VOEH 1.000000
+    BQA.FVEH BFV.WTEH 0.997000   XSU.FVEH 4.147520
+    BQA.FVEH XVI.FVEH 1.175000   NVI.FVEH 1.175000
+    BQH.FVEH BQH...EH -1.000000   BFV.VOEH 1.000000
+    BQH.FVEH BFV.WTEH 1.014000   XSU.FVEH 5.536440
+    BQH.FVEH XVI.FVEH 1.175000   NVI.FVEH 1.175000
+    BQT.FVEH BQT...EH -1.000000   BFV.VOEH 1.000000
+    BQT.FVEH BFV.WTEH 0.933200   XSU.FVEH 2.347740
+    BQT.FVEH XVI.FVEH 1.090000   NVI.FVEH 1.090000
+    BQW.FVEH BQW...EH -1.000000   BFV.VOEH 1.000000
+    BQW.FVEH BFV.WTEH 1.007000   XSU.FVEH 5.810390
+    BQW.FVEH XVI.FVEH 1.175000   NVI.FVEH 1.175000
+    BRB.FVEH BRB...EH -1.000000   BFV.VOEH 1.000000
+    BRB.FVEH BFV.WTEH 0.983160   XSU.FVEH 0.680810
+    BRB.FVEH XVI.FVEH 1.339000   NVI.FVEH 1.339000
+    BSA.FVEH BSA...EH -1.000000   BFV.VOEH 1.000000
+    BSA.FVEH BFV.WTEH 0.963200   XSU.FVEH 0.597180
+    BSA.FVEH XVI.FVEH 1.145000   NVI.FVEH 1.145000
+    BSE.FVEH BSE...EH -1.000000   BFV.VOEH 1.000000
+    BSE.FVEH BFV.WTEH 1.004360   XSU.FVEH 1.209020
+    BSE.FVEH XVI.FVEH 1.382000   NVI.FVEH 1.382000
+    BSH.FVEH BSH...EH -1.000000   BFV.VOEH 1.000000
+    BSH.FVEH BFV.WTEH 0.979200   XSU.FVEH 0.802940
+    BSH.FVEH XVI.FVEH 1.145000   NVI.FVEH 1.145000
+    BSW.FVEH BSW...EH -1.000000   BFV.VOEH 1.000000
+    BSW.FVEH BFV.WTEH 0.972500   XSU.FVEH 0.836350
+    BSW.FVEH XVI.FVEH 1.145000   NVI.FVEH 1.145000
+    BTL.FVEH BTL...EH -1.000000   BFV.VOEH 1.000000
+    BTL.FVEH BFV.WTEH 1.023110   XSU.FVEH 0.553770
+    BTL.FVEH XVI.FVEH 1.388000   NVI.FVEH 1.388000
+    BTQ.FVEH BTQ...EH -1.000000   BFV.VOEH 1.000000
+    BTQ.FVEH BFV.WTEH 0.999180   XSU.FVEH 3.936200
+    BTQ.FVEH XVI.FVEH 1.395000   NVI.FVEH 1.395000
+    BUH.FVEH BUH...EH -1.000000   BFV.VOEH 1.000000
+    BUH.FVEH BFV.WTEH 0.936840   XSU.FVEH 1.445090
+    BUH.FVEH XVI.FVEH 1.122000   NVI.FVEH 1.122000
+    BUK.FVEH BUK...EH -1.000000   BFV.VOEH 1.000000
+    BUK.FVEH BFV.WTEH 1.037550   XSU.FVEH 5.791860
+    BUK.FVEH XVI.FVEH 1.440000   NVI.FVEH 1.440000
+    BUL.FVEH BUL...EH -1.000000   BFV.VOEH 1.000000
+    BUL.FVEH BFV.WTEH 0.925930   XSU.FVEH 0.481170
+    BUL.FVEH XVI.FVEH 1.109000   NVI.FVEH 1.109000
+    BUM.FVEH BUM...EH -1.000000   BFV.VOEH 1.000000
+    BUM.FVEH BFV.WTEH 0.989990   XSU.FVEH 2.897960
+    BUM.FVEH XVI.FVEH 1.344000   NVI.FVEH 1.344000
+    BWA.FVEH BWA...EH -1.000000   BFV.VOEH 1.000000
+    BWA.FVEH BFV.WTEH 0.969370   XSU.FVEH 0.602190
+    BWA.FVEH XVI.FVEH 1.340000   NVI.FVEH 1.340000
+    BXA.FVEH BXA...EH -1.000000   BFV.VOEH 1.000000
+    BXA.FVEH BFV.WTEH 0.991990   XSU.FVEH 2.861130
+    BXA.FVEH XVI.FVEH 1.300000   NVI.FVEH 1.300000
+    BYH.FVEH BYH...EH -1.000000   BFV.VOEH 1.000000
+    BYH.FVEH BFV.WTEH 1.023810   XSU.FVEH 0.666860
+    BYH.FVEH XVI.FVEH 1.455000   NVI.FVEH 1.455000
+    BZA.FVEH BZA...EH -1.000000   BFV.VOEH 1.000000
+    BZA.FVEH BFV.WTEH 0.902850   XSU.FVEH 0.149900
+    BZA.FVEH XVI.FVEH 1.074000   NVI.FVEH 1.074000
+    B1A.FVEH B1A...EH -1.000000   BFV.VOEH 1.000000
+    B1A.FVEH BFV.WTEH 0.932600   XSU.FVEH 0.792710
+    B1A.FVEH XVI.FVEH 1.118000   NVI.FVEH 1.118000
+    B1G.FVEH B1G...EH -1.000000   BFV.VOEH 1.000000
+    B1G.FVEH BFV.WTEH 0.953100   XSU.FVEH 0.695760
+    B1G.FVEH XVI.FVEH 1.200000   NVI.FVEH 1.200000
+    B1H.FVEH B1H...EH -1.000000   BFV.VOEH 1.000000
+    B1H.FVEH BFV.WTEH 0.949200   XSU.FVEH 1.195990
+    B1H.FVEH XVI.FVEH 1.244000   NVI.FVEH 1.244000
+    B1I.FVEH B1I...EH -1.000000   BFV.VOEH 1.000000
+    B1I.FVEH BFV.WTEH 0.939400   XSU.FVEH 0.666970
+    B1I.FVEH XVI.FVEH 1.139000   NVI.FVEH 1.139000
+    B1K.FVEH B1K...EH -1.000000   BFV.VOEH 1.000000
+    B1K.FVEH BFV.WTEH 0.940000   XSU.FVEH 1.081000
+    B1K.FVEH XVI.FVEH 1.138000   NVI.FVEH 1.138000
+    B1W.FVEH B1W...EH -1.000000   BFV.VOEH 1.000000
+    B1W.FVEH BFV.WTEH 0.937200   XSU.FVEH 1.124640
+    B1W.FVEH XVI.FVEH 1.174000   NVI.FVEH 1.174000
+    B2A.FVEH B2A...EH -1.000000   BFV.VOEH 1.000000
+    B2A.FVEH BFV.WTEH 0.921400   XSU.FVEH 0.313280
+    B2A.FVEH XVI.FVEH 1.078000   NVI.FVEH 1.078000
+    B2G.FVEH B2G...EH -1.000000   BFV.VOEH 1.000000
+    B2G.FVEH BFV.WTEH 0.942200   XSU.FVEH 0.282660
+    B2G.FVEH XVI.FVEH 1.152000   NVI.FVEH 1.152000
+    B2H.FVEH B2H...EH -1.000000   BFV.VOEH 1.000000
+    B2H.FVEH BFV.WTEH 0.933600   XSU.FVEH 0.494810
+    B2H.FVEH XVI.FVEH 1.188000   NVI.FVEH 1.188000
+    B2I.FVEH B2I...EH -1.000000   BFV.VOEH 1.000000
+    B2I.FVEH BFV.WTEH 0.929300   XSU.FVEH 0.269500
+    B2I.FVEH XVI.FVEH 1.090000   NVI.FVEH 1.090000
+    B2K.FVEH B2K...EH -1.000000   BFV.VOEH 1.000000
+    B2K.FVEH BFV.WTEH 0.926600   XSU.FVEH 0.435500
+    B2K.FVEH XVI.FVEH 1.092000   NVI.FVEH 1.092000
+    B2W.FVEH B2W...EH -1.000000   BFV.VOEH 1.000000
+    B2W.FVEH BFV.WTEH 0.922600   XSU.FVEH 0.461300
+    B2W.FVEH XVI.FVEH 1.122000   NVI.FVEH 1.122000
+    B6A.FVEH B6A...EH -1.000000   BFV.VOEH 1.000000
+    B6A.FVEH BFV.WTEH 1.108000   XSU.FVEH 0.675880
+    B6A.FVEH XVI.FVEH 1.113000   NVI.FVEH 1.113000
+    B6H.FVEH B6H...EH -1.000000   BFV.VOEH 1.000000
+    B6H.FVEH BFV.WTEH 1.108000   XSU.FVEH 0.565080
+    B6H.FVEH XVI.FVEH 1.113000   NVI.FVEH 1.113000
+    B6W.FVEH B6W...EH -1.000000   BFV.VOEH 1.000000
+    B6W.FVEH BFV.WTEH 1.108000   XSU.FVEH 0.709120
+    B6W.FVEH XVI.FVEH 1.113000   NVI.FVEH 1.113000
+    B7A.FVEH B7A...EH -1.000000   BFV.VOEH 1.000000
+    B7A.FVEH BFV.WTEH 0.974500   XSU.FVEH 3.420490
+    B7A.FVEH XVI.FVEH 1.160000   NVI.FVEH 1.160000
+    B7G.FVEH B7G...EH -1.000000   BFV.VOEH 1.000000
+    B7G.FVEH BFV.WTEH 0.991600   XSU.FVEH 2.835980
+    B7G.FVEH XVI.FVEH 1.233000   NVI.FVEH 1.233000
+    B7H.FVEH B7H...EH -1.000000   BFV.VOEH 1.000000
+    B7H.FVEH BFV.WTEH 1.009200   XSU.FVEH 4.803790
+    B7H.FVEH XVI.FVEH 1.261000   NVI.FVEH 1.261000
+    B7K.FVEH B7K...EH -1.000000   BFV.VOEH 1.000000
+    B7K.FVEH BFV.WTEH 0.988800   XSU.FVEH 4.370500
+    B7K.FVEH XVI.FVEH 1.187000   NVI.FVEH 1.187000
+    B7W.FVEH B7W...EH -1.000000   BFV.VOEH 1.000000
+    B7W.FVEH BFV.WTEH 0.992700   XSU.FVEH 4.675620
+    B7W.FVEH XVI.FVEH 1.220000   NVI.FVEH 1.220000
+    B8A.FVEH B8A...EH -1.000000   BFV.VOEH 1.000000
+    B8A.FVEH BFV.WTEH 1.107000   XSU.FVEH 7.859700
+    B8A.FVEH XVI.FVEH 1.113000   NVI.FVEH 1.113000
+    B8H.FVEH B8H...EH -1.000000   BFV.VOEH 1.000000
+    B8H.FVEH BFV.WTEH 1.107000   XSU.FVEH 6.475950
+    B8H.FVEH XVI.FVEH 1.113000   NVI.FVEH 1.113000
+    B8W.FVEH B8W...EH -1.000000   BFV.VOEH 1.000000
+    B8W.FVEH BFV.WTEH 1.107000   XSU.FVEH 8.202870
+    B8W.FVEH XVI.FVEH 1.113000   NVI.FVEH 1.113000
+    B9A.FVEH B9A...EH -1.000000   BFV.VOEH 1.000000
+    B9A.FVEH BFV.WTEH 1.086800   XSU.FVEH 6.520800
+    B9A.FVEH XVI.FVEH 1.228000   NVI.FVEH 1.228000
+    B9B.FVEH B9B...EH -1.000000   BFV.VOEH 1.000000
+    B9B.FVEH BFV.WTEH 1.086800   XSU.FVEH 0.434720
+    B9B.FVEH XVI.FVEH 1.228000   NVI.FVEH 1.228000
+    B9C.FVEH B9C...EH -1.000000   BFV.VOEH 1.000000
+    B9C.FVEH BFV.WTEH 1.080600   XSU.FVEH 3.241800
+    B9C.FVEH XVI.FVEH 1.221000   NVI.FVEH 1.221000
+    B9D.FVEH B9D...EH -1.000000   BFV.VOEH 1.000000
+    B9D.FVEH BFV.WTEH 1.080600   XSU.FVEH 0.432240
+    B9D.FVEH XVI.FVEH 1.221000   NVI.FVEH 1.221000
+    B9E.FVEH B9E...EH -1.000000   BFV.VOEH 1.000000
+    B9E.FVEH BFV.WTEH 1.012200   XSU.FVEH 0.415000
+    B9E.FVEH XVI.FVEH 1.152000   NVI.FVEH 1.152000
+    B9F.FVEH B9F...EH -1.000000   BFV.VOEH 1.000000
+    B9F.FVEH BFV.WTEH 0.923600   XSU.FVEH 0.240140
+    B9F.FVEH XVI.FVEH 1.169000   NVI.FVEH 1.169000
+    B9G.FVEH B9G...EH -1.000000   BFV.VOEH 1.000000
+    B9G.FVEH BFV.WTEH 0.979200   XSU.FVEH 3.427200
+    B9G.FVEH XVI.FVEH 1.230000   NVI.FVEH 1.230000
+    B9H.FVEH B9H...EH -1.000000   BFV.VOEH 1.000000
+    B9H.FVEH BFV.WTEH 1.140500   XSU.FVEH 7.869450
+    B9H.FVEH XVI.FVEH 1.275000   NVI.FVEH 1.275000
+    B9I.FVEH B9I...EH -1.000000   BFV.VOEH 1.000000
+    B9I.FVEH BFV.WTEH 1.140500   XSU.FVEH 0.547440
+    B9I.FVEH XVI.FVEH 1.275000   NVI.FVEH 1.275000
+    B9J.FVEH B9J...EH -1.000000   BFV.VOEH 1.000000
+    B9J.FVEH BFV.WTEH 1.132800   XSU.FVEH 3.964800
+    B9J.FVEH XVI.FVEH 1.281000   NVI.FVEH 1.281000
+    B9K.FVEH B9K...EH -1.000000   BFV.VOEH 1.000000
+    B9K.FVEH BFV.WTEH 1.132800   XSU.FVEH 0.566400
+    B9K.FVEH XVI.FVEH 1.281000   NVI.FVEH 1.281000
+    B9L.FVEH B9L...EH -1.000000   BFV.VOEH 1.000000
+    B9L.FVEH BFV.WTEH 1.034400   XSU.FVEH 0.475820
+    B9L.FVEH XVI.FVEH 1.212000   NVI.FVEH 1.212000
+    B9M.FVEH B9M...EH -1.000000   BFV.VOEH 1.000000
+    B9M.FVEH BFV.WTEH 0.944000   XSU.FVEH 0.368160
+    B9M.FVEH XVI.FVEH 1.188000   NVI.FVEH 1.188000
+    B9N.FVEH B9N...EH -1.000000   BFV.VOEH 1.000000
+    B9N.FVEH BFV.WTEH 1.031300   XSU.FVEH 5.259630
+    B9N.FVEH XVI.FVEH 1.276000   NVI.FVEH 1.276000
+    BAH.FYEH BAH...EH -1.000000   BFY.VOEH 1.000000
+    BAH.FYEH BFY.WTEH 0.989360   XSU.FYEH 4.444220
+    BAH.FYEH XVI.FYEH 1.246000   NVI.FYEH 1.246000
+    BAK.FYEH BAK...EH -1.000000   BFY.VOEH 1.000000
+    BAK.FYEH BFY.WTEH 1.026940   XSU.FYEH 4.681760
+    BAK.FYEH XVI.FYEH 1.423000   NVI.FYEH 1.423000
+    BAL.FYEH BAL...EH -1.000000   BFY.VOEH 1.000000
+    BAL.FYEH BFY.WTEH 0.958370   XSU.FYEH 3.064560
+    BAL.FYEH XVI.FYEH 1.144000   NVI.FYEH 1.144000
+    BAM.FYEH BAM...EH -1.000000   BFY.VOEH 1.000000
+    BAM.FYEH BFY.WTEH 0.969970   XSU.FYEH 3.855710
+    BAM.FYEH XVI.FYEH 1.161000   NVI.FYEH 1.161000
+    BAX.FYEH BAX...EH -1.000000   BFY.VOEH 1.000000
+    BAX.FYEH BFY.WTEH 0.930250   XSU.FYEH 1.991310
+    BAX.FYEH XVI.FYEH 1.081000   NVI.FYEH 1.081000
+    BBO.FYEH BBO...EH -1.000000   BFY.VOEH 1.000000
+    BBO.FYEH BFY.WTEH 0.820000   XSU.FYEH 0.246000
+    BBO.FYEH XVI.FYEH 0.720000   NVI.FYEH 0.720000
+    BBP.FYEH BBP...EH -1.000000   BFY.VOEH 1.000000
+    BBP.FYEH BFY.WTEH 0.820000   XSU.FYEH 1.230000
+    BBP.FYEH XVI.FYEH 0.720000   NVI.FYEH 0.720000
+    BBW.FYEH BBW...EH -1.000000   BFY.VOEH 1.000000
+    BBW.FYEH BFY.WTEH 0.870000   XSU.FYEH 0.435000
+    BBW.FYEH XVI.FYEH 0.870000   NVI.FYEH 0.870000
+    BBY.FYEH BBY...EH -1.000000   BFY.VOEH 1.000000
+    BBY.FYEH BFY.WTEH 0.870000   XSU.FYEH 1.305000
+    BBY.FYEH XVI.FYEH 0.870000   NVI.FYEH 0.870000
+    BHA.FYEH BHA...EH -1.000000   BFY.VOEH 1.000000
+    BHA.FYEH BFY.WTEH 1.051520   XSU.FYEH 6.325920
+    BHA.FYEH XVI.FYEH 1.460000   NVI.FYEH 1.460000
+    BHI.FYEH BHI...EH -1.000000   BFY.VOEH 1.000000
+    BHI.FYEH BFY.WTEH 1.035270   XSU.FYEH 3.560070
+    BHI.FYEH XVI.FYEH 1.460000   NVI.FYEH 1.460000
+    BHM.FYEH BHM...EH -1.000000   BFY.VOEH 1.000000
+    BHM.FYEH BFY.WTEH 0.820000   XSU.FYEH 0.246000
+    BHM.FYEH XVI.FYEH 0.720000   NVI.FYEH 0.720000
+    BHN.FYEH BHN...EH -1.000000   BFY.VOEH 1.000000
+    BHN.FYEH BFY.WTEH 0.820000   XSU.FYEH 1.066000
+    BHN.FYEH XVI.FYEH 0.720000   NVI.FYEH 0.720000
+    BHU.FYEH BHU...EH -1.000000   BFY.VOEH 1.000000
+    BHU.FYEH BFY.WTEH 1.000260   XSU.FYEH 2.569830
+    BHU.FYEH XVI.FYEH 1.371000   NVI.FYEH 1.371000
+    BIH.FYEH BIH...EH -1.000000   BFY.VOEH 1.000000
+    BIH.FYEH BFY.WTEH 0.971950   XSU.FYEH 2.489180
+    BIH.FYEH XVI.FYEH 1.206000   NVI.FYEH 1.206000
+    BIL.FYEH BIL...EH -1.000000   BFY.VOEH 1.000000
+    BIL.FYEH BFY.WTEH 0.955070   XSU.FYEH 2.400240
+    BIL.FYEH XVI.FYEH 1.149000   NVI.FYEH 1.149000
+    BIR.FYEH BIR...EH -1.000000   BFY.VOEH 1.000000
+    BIR.FYEH BFY.WTEH 0.967590   XSU.FYEH 4.163000
+    BIR.FYEH XVI.FYEH 1.165000   NVI.FYEH 1.165000
+    BKA.FYEH BKA...EH -1.000000   BFY.VOEH 1.000000
+    BKA.FYEH BFY.WTEH 0.961630   XSU.FYEH 3.349490
+    BKA.FYEH XVI.FYEH 1.162000   NVI.FYEH 1.162000
+    BKK.FYEH BKK...EH -1.000000   BFY.VOEH 1.000000
+    BKK.FYEH BFY.WTEH 0.963930   XSU.FYEH 3.853160
+    BKK.FYEH XVI.FYEH 1.159000   NVI.FYEH 1.159000
+    BKQ.FYEH BKQ...EH -1.000000   BFY.VOEH 1.000000
+    BKQ.FYEH BFY.WTEH 1.045330   XSU.FYEH 6.504400
+    BKQ.FYEH XVI.FYEH 1.430000   NVI.FYEH 1.430000
+    BKU.FYEH BKU...EH -1.000000   BFY.VOEH 1.000000
+    BKU.FYEH BFY.WTEH 0.973400   XSU.FYEH 4.132130
+    BKU.FYEH XVI.FYEH 1.190000   NVI.FYEH 1.190000
+    BLA.FYEH BLA...EH -1.000000   BFY.VOEH 1.000000
+    BLA.FYEH BFY.WTEH 1.021730   XSU.FYEH 4.444390
+    BLA.FYEH XVI.FYEH 1.381000   NVI.FYEH 1.381000
+    BLI.FYEH BLI...EH -1.000000   BFY.VOEH 1.000000
+    BLI.FYEH BFY.WTEH 1.028430   XSU.FYEH 3.784260
+    BLI.FYEH XVI.FYEH 1.434000   NVI.FYEH 1.434000
+    BMA.FYEH BMA...EH -1.000000   BFY.VOEH 1.000000
+    BMA.FYEH BFY.WTEH 1.036740   XSU.FYEH 5.561150
+    BMA.FYEH XVI.FYEH 1.405000   NVI.FYEH 1.405000
+    BMN.FYEH BMN...EH -1.000000   BFY.VOEH 1.000000
+    BMN.FYEH BFY.WTEH 0.944950   XSU.FYEH 1.778980
+    BMN.FYEH XVI.FYEH 1.152000   NVI.FYEH 1.152000
+    BMO.FYEH BMO...EH -1.000000   BFY.VOEH 1.000000
+    BMO.FYEH BFY.WTEH 1.000830   XSU.FYEH 2.555180
+    BMO.FYEH XVI.FYEH 1.384000   NVI.FYEH 1.384000
+    BMU.FYEH BMU...EH -1.000000   BFY.VOEH 1.000000
+    BMU.FYEH BFY.WTEH 0.922450   XSU.FYEH 1.622720
+    BMU.FYEH XVI.FYEH 1.067000   NVI.FYEH 1.067000
+    BQA.FYEH BQA...EH -1.000000   BFY.VOEH 1.000000
+    BQA.FYEH BFY.WTEH 0.997000   XSU.FYEH 4.147520
+    BQA.FYEH XVI.FYEH 1.175000   NVI.FYEH 1.175000
+    BQH.FYEH BQH...EH -1.000000   BFY.VOEH 1.000000
+    BQH.FYEH BFY.WTEH 1.014000   XSU.FYEH 5.536440
+    BQH.FYEH XVI.FYEH 1.175000   NVI.FYEH 1.175000
+    BQT.FYEH BQT...EH -1.000000   BFY.VOEH 1.000000
+    BQT.FYEH BFY.WTEH 0.933200   XSU.FYEH 2.347740
+    BQT.FYEH XVI.FYEH 1.090000   NVI.FYEH 1.090000
+    BQW.FYEH BQW...EH -1.000000   BFY.VOEH 1.000000
+    BQW.FYEH BFY.WTEH 1.007000   XSU.FYEH 5.810390
+    BQW.FYEH XVI.FYEH 1.175000   NVI.FYEH 1.175000
+    BRI.FYEH BRI...EH -1.000000   BFY.VOEH 1.000000
+    BRI.FYEH BFY.WTEH 1.031500   XSU.FYEH 6.043990
+    BRI.FYEH XVI.FYEH 1.420000   NVI.FYEH 1.420000
+    BTQ.FYEH BTQ...EH -1.000000   BFY.VOEH 1.000000
+    BTQ.FYEH BFY.WTEH 0.999180   XSU.FYEH 3.936200
+    BTQ.FYEH XVI.FYEH 1.395000   NVI.FYEH 1.395000
+    BUH.FYEH BUH...EH -1.000000   BFY.VOEH 1.000000
+    BUH.FYEH BFY.WTEH 0.936840   XSU.FYEH 1.445090
+    BUH.FYEH XVI.FYEH 1.122000   NVI.FYEH 1.122000
+    BUK.FYEH BUK...EH -1.000000   BFY.VOEH 1.000000
+    BUK.FYEH BFY.WTEH 1.037550   XSU.FYEH 5.791860
+    BUK.FYEH XVI.FYEH 1.440000   NVI.FYEH 1.440000
+    BUM.FYEH BUM...EH -1.000000   BFY.VOEH 1.000000
+    BUM.FYEH BFY.WTEH 0.989990   XSU.FYEH 2.897960
+    BUM.FYEH XVI.FYEH 1.344000   NVI.FYEH 1.344000
+    BXA.FYEH BXA...EH -1.000000   BFY.VOEH 1.000000
+    BXA.FYEH BFY.WTEH 0.991990   XSU.FYEH 2.861130
+    BXA.FYEH XVI.FYEH 1.300000   NVI.FYEH 1.300000
+    B7A.FYEH B7A...EH -1.000000   BFY.VOEH 1.000000
+    B7A.FYEH BFY.WTEH 0.974500   XSU.FYEH 3.420490
+    B7A.FYEH XVI.FYEH 1.160000   NVI.FYEH 1.160000
+    B7G.FYEH B7G...EH -1.000000   BFY.VOEH 1.000000
+    B7G.FYEH BFY.WTEH 0.991600   XSU.FYEH 2.835980
+    B7G.FYEH XVI.FYEH 1.233000   NVI.FYEH 1.233000
+    B7H.FYEH B7H...EH -1.000000   BFY.VOEH 1.000000
+    B7H.FYEH BFY.WTEH 1.009200   XSU.FYEH 4.803790
+    B7H.FYEH XVI.FYEH 1.261000   NVI.FYEH 1.261000
+    B7K.FYEH B7K...EH -1.000000   BFY.VOEH 1.000000
+    B7K.FYEH BFY.WTEH 0.988800   XSU.FYEH 4.370500
+    B7K.FYEH XVI.FYEH 1.187000   NVI.FYEH 1.187000
+    B7W.FYEH B7W...EH -1.000000   BFY.VOEH 1.000000
+    B7W.FYEH BFY.WTEH 0.992700   XSU.FYEH 4.675620
+    B7W.FYEH XVI.FYEH 1.220000   NVI.FYEH 1.220000
+    B8A.FYEH B8A...EH -1.000000   BFY.VOEH 1.000000
+    B8A.FYEH BFY.WTEH 1.107000   XSU.FYEH 7.859700
+    B8A.FYEH XVI.FYEH 1.113000   NVI.FYEH 1.113000
+    B8H.FYEH B8H...EH -1.000000   BFY.VOEH 1.000000
+    B8H.FYEH BFY.WTEH 1.107000   XSU.FYEH 6.475950
+    B8H.FYEH XVI.FYEH 1.113000   NVI.FYEH 1.113000
+    B8W.FYEH B8W...EH -1.000000   BFY.VOEH 1.000000
+    B8W.FYEH BFY.WTEH 1.107000   XSU.FYEH 8.202870
+    B8W.FYEH XVI.FYEH 1.113000   NVI.FYEH 1.113000
+    B9A.FYEH B9A...EH -1.000000   BFY.VOEH 1.000000
+    B9A.FYEH BFY.WTEH 1.086800   XSU.FYEH 6.520800
+    B9A.FYEH XVI.FYEH 1.228000   NVI.FYEH 1.228000
+    B9C.FYEH B9C...EH -1.000000   BFY.VOEH 1.000000
+    B9C.FYEH BFY.WTEH 1.080600   XSU.FYEH 3.241800
+    B9C.FYEH XVI.FYEH 1.221000   NVI.FYEH 1.221000
+    B9G.FYEH B9G...EH -1.000000   BFY.VOEH 1.000000
+    B9G.FYEH BFY.WTEH 0.979200   XSU.FYEH 3.427200
+    B9G.FYEH XVI.FYEH 1.230000   NVI.FYEH 1.230000
+    B9H.FYEH B9H...EH -1.000000   BFY.VOEH 1.000000
+    B9H.FYEH BFY.WTEH 1.140500   XSU.FYEH 7.869450
+    B9H.FYEH XVI.FYEH 1.275000   NVI.FYEH 1.275000
+    B9J.FYEH B9J...EH -1.000000   BFY.VOEH 1.000000
+    B9J.FYEH BFY.WTEH 1.132800   XSU.FYEH 3.964800
+    B9J.FYEH XVI.FYEH 1.281000   NVI.FYEH 1.281000
+    B9N.FYEH B9N...EH -1.000000   BFY.VOEH 1.000000
+    B9N.FYEH BFY.WTEH 1.031300   XSU.FYEH 5.259630
+    B9N.FYEH XVI.FYEH 1.276000   NVI.FYEH 1.276000
+    B/A.GPEH B/A...EH -1.000000   BGP.VOEH 1.000000
+    B/A.GPEH NRN.GPEH 0.639000   ND2.GPEH 0.281000
+    B/A.GPEH WVP.GPEH 0.380000   WD8.GPEH 0.085000
+    BIP.GPEH BIP...EH -1.000000   BGP.VOEH 1.000000
+    BIP.GPEH NRN.GPEH 0.486000   ND2.GPEH 0.137000
+    BIP.GPEH WVP.GPEH 0.110000   WD8.GPEH -0.016000
+    BLN.GPEH BLN...EH -1.000000   BGP.VOEH 1.000000
+    BLN.GPEH NRN.GPEH 0.555000   ND2.GPEH 1.080000
+    BLN.GPEH WVP.GPEH 1.040000   WD8.GPEH 0.580000
+    BN4.GPEH BN4...EH -1.000000   BGP.VOEH 1.000000
+    BN4.GPEH NRN.GPEH 0.668000   ND2.GPEH 1.000000
+    BN4.GPEH WVP.GPEH 6.500000   WD8.GPEH 1.040000
+    B0A.GPEH B0A...EH -1.000000   BGP.VOEH 1.000000
+    B0A.GPEH NRN.GPEH 0.639000   ND2.GPEH 0.281000
+    B0A.GPEH WVP.GPEH 0.380000   WD8.GPEH 0.085000
+    B4A.GPEH B4A...EH -1.000000   BGP.VOEH 1.000000
+    B4A.GPEH NRN.GPEH 0.643200   ND2.GPEH 0.486000
+    B4A.GPEH WVP.GPEH 0.700000   WD8.GPEH 0.187000
+    B4C.GPEH B4C...EH -1.000000   BGP.VOEH 1.000000
+    B4C.GPEH NRN.GPEH 0.645700   ND2.GPEH 0.551000
+    B4C.GPEH WVP.GPEH 0.790000   WD8.GPEH 0.235000
+    B4E.GPEH B4E...EH -1.000000   BGP.VOEH 1.000000
+    B4E.GPEH NRN.GPEH 0.645200   ND2.GPEH 0.569000
+    B4E.GPEH WVP.GPEH 0.780000   WD8.GPEH 0.226000
+    B4F.GPEH B4F...EH -1.000000   BGP.VOEH 1.000000
+    B4F.GPEH NRN.GPEH 0.644800   ND2.GPEH 0.527000
+    B4F.GPEH WVP.GPEH 0.760000   WD8.GPEH 0.217000
+    B4G.GPEH B4G...EH -1.000000   BGP.VOEH 1.000000
+    B4G.GPEH NRN.GPEH 0.643400   ND2.GPEH 0.492000
+    B4G.GPEH WVP.GPEH 0.710000   WD8.GPEH 0.192000
+    B4H.GPEH B4H...EH -1.000000   BGP.VOEH 1.000000
+    B4H.GPEH NRN.GPEH 0.647500   ND2.GPEH 0.600000
+    B4H.GPEH WVP.GPEH 0.860000   WD8.GPEH 0.271000
+    B4J.GPEH B4J...EH -1.000000   BGP.VOEH 1.000000
+    B4J.GPEH NRN.GPEH 0.640600   ND2.GPEH 0.682000
+    B4J.GPEH WVP.GPEH 0.980000   WD8.GPEH 0.331000
+    B4L.GPEH B4L...EH -1.000000   BGP.VOEH 1.000000
+    B4L.GPEH NRN.GPEH 0.649500   ND2.GPEH 0.654000
+    B4L.GPEH WVP.GPEH 0.940000   WD8.GPEH 0.311000
+    B4M.GPEH B4M...EH -1.000000   BGP.VOEH 1.000000
+    B4M.GPEH NRN.GPEH 0.648900   ND2.GPEH 0.638000
+    B4M.GPEH WVP.GPEH 0.920000   WD8.GPEH 0.299000
+    B4N.GPEH B4N...EH -1.000000   BGP.VOEH 1.000000
+    B4N.GPEH NRN.GPEH 0.647900   ND2.GPEH 0.612000
+    B4N.GPEH WVP.GPEH 0.880000   WD8.GPEH 0.280000
+    B5A.GPEH B5A...EH -1.000000   BGP.VOEH 1.000000
+    B5A.GPEH NRN.GPEH 0.668000   ND2.GPEH 0.239000
+    B5A.GPEH WVP.GPEH 0.230000   WD8.GPEH -0.040000
+    B5B.GPEH B5B...EH -1.000000   BGP.VOEH 1.000000
+    B5B.GPEH NRN.GPEH 0.672000   ND2.GPEH 0.334000
+    B5B.GPEH WVP.GPEH 0.370000   WD8.GPEH 0.049000
+    B5C.GPEH B5C...EH -1.000000   BGP.VOEH 1.000000
+    B5C.GPEH NRN.GPEH 0.667000   ND2.GPEH 0.191000
+    B5C.GPEH WVP.GPEH 0.220000   WD8.GPEH -0.049000
+    B5D.GPEH B5D...EH -1.000000   BGP.VOEH 1.000000
+    B5D.GPEH NRN.GPEH 0.671000   ND2.GPEH 0.286000
+    B5D.GPEH WVP.GPEH 0.360000   WD8.GPEH 0.040000
+    B5E.GPEH B5E...EH -1.000000   BGP.VOEH 1.000000
+    B5E.GPEH NRN.GPEH 0.701000   ND2.GPEH 0.241000
+    B5E.GPEH WVP.GPEH 0.250000   WD8.GPEH -0.024000
+    B5F.GPEH B5F...EH -1.000000   BGP.VOEH 1.000000
+    B5F.GPEH NRN.GPEH 0.705000   ND2.GPEH 0.336000
+    B5F.GPEH WVP.GPEH 0.390000   WD8.GPEH 0.065000
+    B5G.GPEH B5G...EH -1.000000   BGP.VOEH 1.000000
+    B5G.GPEH NRN.GPEH 0.700000   ND2.GPEH 0.193000
+    B5G.GPEH WVP.GPEH 0.240000   WD8.GPEH -0.033000
+    B5H.GPEH B5H...EH -1.000000   BGP.VOEH 1.000000
+    B5H.GPEH NRN.GPEH 0.704000   ND2.GPEH 0.288000
+    B5H.GPEH WVP.GPEH 0.380000   WD8.GPEH 0.056000
+    B5U.GPEH B5U...EH -1.000000   BGP.VOEH 1.000000
+    B5U.GPEH NRN.GPEH 0.777000   ND2.GPEH -0.566000
+    B5U.GPEH WVP.GPEH -0.110000   WD8.GPEH -0.528000
+    B5V.GPEH B5V...EH -1.000000   BGP.VOEH 1.000000
+    B5V.GPEH NRN.GPEH 0.728000   ND2.GPEH 0.112000
+    B5V.GPEH WVP.GPEH 0.470000   WD8.GPEH -0.045000
+    B5W.GPEH B5W...EH -1.000000   BGP.VOEH 1.000000
+    B5W.GPEH NRN.GPEH 0.684000   ND2.GPEH 0.093000
+    B5W.GPEH WVP.GPEH 0.380000   WD8.GPEH 0.031000
+    CF..B.EH CF..B.EH 1.000000   KTC..... 1.000000
+    CF..B.EH UPBROW27713 1.000000
+    CFT.C.EH CFT.C.EH 1.000000   KTC..... 1.000000
+    CFT.C.EH BFR...EH -0.009000   UPBROW27714 1.000000
+    CTF.D.EH CTF.D.EH 1.000000   KMC5.... 0.260000
+    CTF.D.EH KWC..... 3.511000   FAT0..J. 0.099000
+    CTF.D.EH BFR...EH -0.025000   KMC0.... 0.260000
+    CTF.D.EH UPBROW27715 1.000000
+    QWT5FPU1 BFP.WTU1 -1.000000   XSU.FPU1 -0.360000
+    CF..P.EH CF..P.EH 1.000000   KTC..... 1.000000
+    CF..P.EH FAT0..J. 0.458000   BFR...EH -0.044000
+    CF..P.EH UPBROW27716 1.000000
+    CF..Q.EH CF..Q.EH 1.000000   KTC..... 1.000000
+    CF..Q.EH BFR...EH -0.032000   UPBROW27717 1.000000
+    COH.V.EH COH.V.EH 1.000000   KTC..... 1.000000
+    COH.V.EH FAT0..J. 0.172000   BFR...EH -0.014000
+    COH.V.EH UPBROW27718 1.000000
+    DCR...EH BCR...EH -1.000000   FAT0..J. -100.000000
+    DCR...EH UPBROW27719 1.000000
+    DDH...EH BDH...EH -1.000000   FAT0..J. -100.000000
+    DDH...EH UPBROW27720 1.000000
+    DDK...EH BDK...EH -1.000000   FAT0..J. -100.000000
+    DDK...EH UPBROW27721 1.000000
+    DFT...EH BFT...EH -1.000000   FAT0..J. -100.000000
+    DFT...EH UPBROW27722 1.000000
+    DFV...EH BFV...EH -1.000000   FAT0..J. -100.000000
+    DFV...EH UPBROW27723 1.000000
+    DFX...EH BFX...EH -1.000000   FAT0..J. -100.000000
+    DFX...EH UPBROW27724 1.000000
+    DGP...EH BGP...EH -1.000000   FAT0..J. -100.000000
+    DGP...EH UPBROW27725 1.000000
+    DLG...EH BLG...EH -1.000000   FAT0..J. -100.000000
+    DLG...EH UPBROW27726 1.000000
+    DNE...EH BNE...EH -1.000000   FAT0..J. -100.000000
+    DNE...EH UPBROW27727 1.000000
+    DNJ...EH BNJ...EH -1.000000   FAT0..J. -100.000000
+    DNJ...EH UPBROW27728 1.000000
+    DNL...EH BNL...EH -1.000000   FAT0..J. -100.000000
+    DNL...EH UPBROW27729 1.000000
+    DOA...EH BOA...EH -1.000000   FAT0..J. -100.000000
+    DOA...EH UPBROW27730 1.000000
+    DOL...EH BOL...EH -1.000000   FAT0..J. -100.000000
+    DOL...EH UPBROW27731 1.000000
+    DRG...EH BRG...EH -1.000000   FAT0..J. -100.000000
+    DRG...EH LOBROW27732 1.000000
+    DAF.02EH BAF...EH -1.000000   FAT0..J. -100.000000
+    DAF.02EH UPBROW27733 1.000000
+    DAJ.02EH BAJ...EH -1.000000   FAT0..J. -100.000000
+    DAJ.02EH UPBROW27734 1.000000
+    QVO5FPU1 BFP...U1 1.000000   BFP.VOU1 -1.000000
+    QVO5FPU1 XVI.FPU1 -1.152000   NVI.FPU1 -0.860000
+    QVO5DKU1 BDK...U1 0.995000   BDK.VOU1 -1.000000
+    QVO5DKU1 NLI.DKU1 -0.510000
+    QVO5DHU1 BDH...U1 0.995000   BDH.VOU1 -1.000000
+    QVO5DHU1 XSU.DHU1 -0.300000
+    IF..B.EH CF..B.EH 1.000000   FAT0..J. 0.556000
+    IFT.C.EH CFT.C.EH 1.000000   FAT0..J. 1.123000
+    IFT.C.EH BFR...EH -0.009000   UPBROW27735 1.000000
+    ITF.D.EH CTF.D.EH 1.000000   KMC5.... 0.260000
+    ITF.D.EH KWC..... 3.511000   FAT0..J. 1.039000
+    ITF.D.EH BFR...EH -0.025000   KMC0.... 0.260000
+    IF..F.EH CF..F.EH 1.000000   FAT0..J. 0.536000
+    IF..F.EH BFR...EH -0.015000   BRG...EH -0.007000
+    IF..G.EH CF..G.EH 1.000000   FAT0..J. 1.507000
+    IF..G.EH BFR...EH -0.024000   BNL...EH -0.022100
+    IF..P.EH CF..P.EH 1.000000   FAT0..J. 1.068000
+    IF..P.EH BFR...EH -0.044000
+    IF..Q.EH CF..Q.EH 1.000000   FAT0..J. 3.781000
+    IF..Q.EH BFR...EH -0.032000
+    IF..R.EH CF..R.EH 1.000000   FAT0..J. 2.860000
+    IF..R.EH BFR...EH -0.050000   BNL...EH -0.044200
+    IOH.V.EH COH.V.EH 1.000000   FAT0..J. 0.560000
+    IOH.V.EH BFR...EH -0.014000
+    KPC.REEH KPC...EH -1.000000   FAT0..J. 1.276000
+    MFR.AFEH BFR...EH -1.000000   BAF...EH 1.000000
+    MLO.AJEH BGP...EH -0.274000   BDH...EH -0.478000
+    MLO.AJEH BFV...EH -0.197000   BFY...EH -0.051000
+    MLO.AJEH BAJ...EH 1.000000
+    MBK.BLEH BBL...EH 1.000000   BBK...EH -1.000000
+    MBK.BMEH BBM...EH 1.000000   BBK...EH -1.000000
+    MBL.BNEH BBN...EH 1.000000   BBL...EH -1.000000
+    MBM.BOEH BBL...EH -0.034500   BBN...EH -0.034500
+    MBM.BOEH BBK...EH -0.465500   BBM...EH -0.465500
+    MBM.BOEH BBO...EH 1.000000
+    MBN.BPEH BBL...EH -0.241400   BBN...EH -0.241400
+    MBN.BPEH BBK...EH -0.258600   BBM...EH -0.258600
+    MBN.BPEH BBP...EH 1.000000
+    MBU.BVEH BBV...EH 1.000000   BBU...EH -1.000000
+    MBU.BWEH BBV...EH -0.130400   BBU...EH -0.869600
+    MBU.BWEH BBW...EH 1.000000
+    MBV.BYEH BBV...EH -0.565200   BBU...EH -0.434800
+    MBV.BYEH BBY...EH 1.000000
+    MKE.DKEH BDK...EH 1.000000   BKE...EH -1.005000
+    MFT.FEEH BFE...EH 1.000000   BFT...EH -1.000000
+    MFT.FEEH XVI.FTEH -0.500000
+    MFV.FGEH BFG...EH 1.000000   BFV...EH -1.000000
+    MFV.FGEH XVI.FVEH -0.005000
+    MFX.FIEH XVI.FVEH -0.001700   BFX...EH -1.000000
+    MFX.FIEH XVI.FYEH -0.003300   BFI...EH 1.000000
+    MFY.FJEH BFY...EH -1.000000   XVI.FYEH -0.034000
+    MFY.FJEH BFJ...EH 1.000000
+    MFG.FREH BFR...EH 1.000000   BFG...EH -1.000000
+    MRG.FREH BFR...EH 1.000000   BRG...EH -1.000000
+    MFY.FXEH BFV...EH -0.333300   BFY...EH -0.666700
+    MFY.FXEH BFX...EH 1.000000   XVI.FYEH 0.019300
+    MFY.FXEH NVI.FYEH 0.019300
+    MHL.HMEH BHH...EH -0.133300   BHL...EH -0.866700
+    MHL.HMEH BHM...EH 1.000000
+    MHH.HNEH BHH...EH -0.800000   BHL...EH -0.200000
+    MHH.HNEH BHN...EH 1.000000
+    MIP.IBEH BIP...EH -0.780000   BKE...EH -1.066200
+    MIP.IBEH BIB...EH 1.000000   BKH...EH 0.846200
+    MIN.IGEH BIN...EH -0.780000   BKE...EH -1.066200
+    MIN.IGEH BIG...EH 1.000000   BKH...EH 0.846200
+    MIN.IPEH BIP...EH 1.000000   BIN...EH -1.000000
+    MRG.LGEH BRG...EH -0.657500   BLG...EH 1.000000
+    MDH.LNEH BLN...EH 1.015000   BRG...EH 0.072200
+    MDH.LNEH KPC...EH 1.000000   BDH...EH -1.111000
+    MDH.LNEH B5W...EH 0.072200
+    MNE.LNEH BLN...EH 1.015000   BIN...EH -0.219800
+    MNE.LNEH BIP...EH -0.796200   BRG...EH -0.020200
+    MNE.LNEH B5U...EH 0.040100   B5V...EH 0.052800
+    MNE.LNEH KPC...EH 1.500000
+    MNF.LNEH BLN...EH 1.015000   BIG...EH -0.219800
+    MNF.LNEH BIB...EH -0.796200   BRG...EH -0.020200
+    MNF.LNEH B5U...EH 0.040100   B5V...EH 0.052800
+    MNF.LNEH KPC...EH 1.500000
+    MIP.NEEH BIN...EH -0.193900   BIP...EH -0.821100
+    MIP.NEEH BNE...EH 1.000000
+    MDK.NJEH BLN...EH -0.111100   BIN...EH -0.175000
+    MDK.NJEH BIP...EH -0.238900   BDK...EH -0.482400
+    MDK.NJEH BNJ...EH 1.000000
+    MI5.NLEH BI5...EH -1.052000   BNL...EH 1.000000
+    MLN.NLEH BNL...EH 1.000000   BLN...EH -1.015000
+    MRG.N4EH BRG...EH -1.000000   BN4...EH 1.414600
+    MBC.OLEH BOL...EH 1.000000   BBC...EH -1.000000
+    MCV.RGEH BRG...EH 0.645000   BCV...EH -1.000000
+    PAH.B1EH BRG...EH 0.010000   BLN...EH 0.009000
+    PAH.B1EH BIP...EH 0.019000   BBK...EH -0.082400
+    PAH.B1EH BBL...EH -0.192200   BBM...EH 0.129200
+    PAH.B1EH BBN...EH 0.301400   B7H...EH 0.817000
+    PAH.B1EH BAH...EH -1.000000   BFR...EH -0.016000
+    PAH.B1EH CF..B.EH -1.000000
+    PAL.B1EH BRG...EH 0.010000   BLN...EH 0.009000
+    PAL.B1EH BIP...EH 0.019000   BBK...EH -0.135400
+    PAL.B1EH BBL...EH -0.139200   BBM...EH 0.212300
+    PAL.B1EH BBN...EH 0.218300   B7A...EH 0.817000
+    PAL.B1EH BAL...EH -1.000000   BFR...EH -0.016000
+    PAL.B1EH CF..B.EH -1.000000
+    PAM.B1EH BRG...EH 0.010000   BLN...EH 0.009000
+    PAM.B1EH BIP...EH 0.019000   BBK...EH -0.096600
+    PAM.B1EH BBL...EH -0.177900   BBM...EH 0.151600
+    PAM.B1EH BBN...EH 0.278900   B7K...EH 0.817000
+    PAM.B1EH BAM...EH -1.000000   BFR...EH -0.016000
+    PAM.B1EH CF..B.EH -1.000000
+    PIH.B1EH BRG...EH 0.010000   BLN...EH 0.009000
+    PIH.B1EH BIP...EH 0.019000   BBK...EH -0.162800
+    PIH.B1EH BBL...EH -0.111700   BBM...EH 0.255300
+    PIH.B1EH BBN...EH 0.175200   B7G...EH 0.817000
+    PIH.B1EH BIH...EH -1.000000   BFR...EH -0.016000
+    PIH.B1EH CF..B.EH -1.000000
+    PKU.B1EH BRG...EH 0.010000   BLN...EH 0.009000
+    PKU.B1EH BIP...EH 0.019000   BBK...EH -0.084300
+    PKU.B1EH BBL...EH -0.190300   BBM...EH 0.132200
+    PKU.B1EH BBN...EH 0.298400   B7W...EH 0.817000
+    PKU.B1EH BKU...EH -1.000000   BFR...EH -0.016000
+    PKU.B1EH CF..B.EH -1.000000
+    PBA.C1EH BRG...EH 0.129900   B4A...EH 0.498800
+    PBA.C1EH BBK...EH 0.068800   BBL...EH 0.169900
+    PBA.C1EH BBM...EH 0.036100   BBN...EH 0.089100
+    PBA.C1EH B9A...EH 0.038500   CFT.C.EH -1.756000
+    PBA.C1EH BBA...EH -1.000000
+    PBB.C1EH BRG...EH 0.129900   B4A...EH 0.498800
+    PBB.C1EH BBK...EH 0.236200   BBL...EH 0.002600
+    PBB.C1EH BBM...EH 0.123800   BBN...EH 0.001300
+    PBB.C1EH B9B...EH 0.038500   CFT.C.EH -1.756000
+    PBB.C1EH BBB...EH -1.000000
+    PBC.C1EH BRG...EH 0.143700   B4C...EH 0.496400
+    PBC.C1EH BBK...EH 0.151600   BBL...EH 0.075400
+    PBC.C1EH BBM...EH 0.083100   BBN...EH 0.041300
+    PBC.C1EH B9C...EH 0.033900   CFT.C.EH -1.719000
+    PBC.C1EH BBC...EH -1.000000
+    PBD.C1EH BRG...EH 0.143700   B4C...EH 0.496400
+    PBD.C1EH BBK...EH 0.224400   BBL...EH 0.002600
+    PBD.C1EH BBM...EH 0.123000   BBN...EH 0.001400
+    PBD.C1EH B9D...EH 0.033900   CFT.C.EH -1.719000
+    PBD.C1EH BBD...EH -1.000000
+    PBE.C1EH BRG...EH 0.141400   BBK...EH 0.130900
+    PBE.C1EH BBL...EH 0.001400   BBM...EH 0.196300
+    PBE.C1EH BBN...EH 0.002000   CFT.C.EH -1.566000
+    PBE.C1EH B4E...EH 0.561300   B9E...EH 0.027500
+    PBE.C1EH BBE...EH -1.000000
+    PBU.C1EH BRG...EH 0.079900   B4F...EH 0.240900
+    PBU.C1EH BBK...EH 0.393300   BBL...EH 0.000900
+    PBU.C1EH BBM...EH 0.289400   BBN...EH 0.000700
+    PBU.C1EH B9F...EH 0.008400   CFT.C.EH -1.330000
+    PBU.C1EH BBU...EH -1.000000
+    PBV.C1EH BBV...EH -1.000000   BRG...EH 0.081200
+    PBV.C1EH B4G...EH 0.265400   BBK...EH -0.004000
+    PBV.C1EH BBL...EH -0.026500   BBM...EH 0.089800
+    PBV.C1EH BBN...EH 0.602900   B9G...EH 0.008600
+    PBV.C1EH CFT.C.EH -1.370000
+    PBA.C3EH BRG...EH 0.217000   BBK...EH 0.049700
+    PBA.C3EH BBL...EH 0.146900   BBM...EH 0.020500
+    PBA.C3EH BBN...EH 0.060600   CFT.C.EH -2.170000
+    PBA.C3EH B4H...EH 0.465000   B9H...EH 0.014000
+    PBA.C3EH BBA...EH -1.000000
+    PBB.C3EH BRG...EH 0.217000   BBK...EH 0.194100
+    PBB.C3EH BBL...EH 0.002500   BBM...EH 0.080100
+    PBB.C3EH BBN...EH 0.001000   CFT.C.EH -2.170000
+    PBB.C3EH B4H...EH 0.465000   B9I...EH 0.014000
+    PBB.C3EH BBB...EH -1.000000
+    PBC.C3EH BRG...EH 0.239700   BBK...EH 0.116700
+    PBC.C3EH BBL...EH 0.067800   BBM...EH 0.050900
+    PBC.C3EH BBN...EH 0.029600   CFT.C.EH -2.062000
+    PBC.C3EH B4J...EH 0.458000   B9J...EH 0.012300
+    PBC.C3EH BBC...EH -1.000000
+    PBD.C3EH BRG...EH 0.239700   BBK...EH 0.181500
+    PBD.C3EH BBL...EH 0.002900   BBM...EH 0.079300
+    PBD.C3EH BBN...EH 0.001300   CFT.C.EH -2.062000
+    PBD.C3EH B4J...EH 0.458000   B9K...EH 0.012300
+    PBD.C3EH BBD...EH -1.000000
+    PBE.C3EH BRG...EH 0.240700   BBK...EH 0.114300
+    PBE.C3EH BBL...EH 0.001600   BBM...EH 0.131000
+    PBE.C3EH BBN...EH 0.001800   CFT.C.EH -1.506000
+    PBE.C3EH B4L...EH 0.529900   B9L...EH 0.010200
+    PBE.C3EH BBE...EH -1.000000
+    PBU.C3EH BRG...EH 0.161400   BBK...EH 0.356200
+    PBU.C3EH BBL...EH 0.009700   BBM...EH 0.148400
+    PBU.C3EH BBN...EH 0.004100   CFT.C.EH -1.334000
+    PBU.C3EH B4M...EH 0.305400   B9M...EH 0.009600
+    PBU.C3EH BBU...EH -1.000000
+    PBV.C3EH BBV...EH -1.000000   BRG...EH 0.162100
+    PBV.C3EH BBK...EH 0.007300   BBL...EH 0.050700
+    PBV.C3EH BBM...EH 0.056000   BBN...EH 0.386000
+    PBV.C3EH CFT.C.EH -1.368000   B4N...EH 0.334800
+    PBV.C3EH B9N...EH 0.009600
+    PQA.C7EH BRG...EH 0.097300   BBL...EH 0.282700
+    PQA.C7EH BBN...EH -0.016000   CFT.C.EH -1.931000
+    PQA.C7EH BQA...EH -1.000000   B0A...EH 0.489600
+    PQA.C7EH B8A...EH 0.119800
+    PQH.C7EH BRG...EH 0.097300   BBK...EH -0.062400
+    PQH.C7EH BBL...EH 0.345100   BBM...EH 0.003500
+    PQH.C7EH BBN...EH -0.019500   CFT.C.EH -1.931000
+    PQH.C7EH BQH...EH -1.000000   B0A...EH 0.489600
+    PQH.C7EH B8H...EH 0.119800
+    PQW.C7EH BRG...EH 0.097300   BBK...EH -0.078000
+    PQW.C7EH BBL...EH 0.360700   BBM...EH 0.004400
+    PQW.C7EH BBN...EH -0.020400   CFT.C.EH -1.931000
+    PQW.C7EH BQW...EH -1.000000   B0A...EH 0.489600
+    PQW.C7EH B8W...EH 0.119800
+    PSA.C7EH BRG...EH 0.098100   BBK...EH 0.254100
+    PSA.C7EH BBL...EH 0.027700   BBM...EH -0.014400
+    PSA.C7EH BBN...EH -0.001600   CFT.C.EH -1.922000
+    PSA.C7EH BSA...EH -1.000000   B/A...EH 0.487900
+    PSA.C7EH B6A...EH 0.119500
+    PSH.C7EH BRG...EH 0.098100   BBK...EH 0.245700
+    PSH.C7EH BBL...EH 0.036000   BBM...EH -0.013900
+    PSH.C7EH BBN...EH -0.002000   CFT.C.EH -1.922000
+    PSH.C7EH BSH...EH -1.000000   B/A...EH 0.487900
+    PSH.C7EH B6H...EH 0.119500
+    PSW.C7EH BRG...EH 0.098100   BBK...EH 0.243800
+    PSW.C7EH BBL...EH 0.037900   BBM...EH -0.013800
+    PSW.C7EH BBN...EH -0.002100   CFT.C.EH -1.922000
+    PSW.C7EH BSW...EH -1.000000   B/A...EH 0.487900
+    PSW.C7EH B6W...EH 0.119500
+    PAL.DIEH BCR...EH 1.000000   AAL..... -1.000000
+    PAG.DVEH CTF.D.EH -1.000000   COH.V.EH -0.443560
+    PAG.DVEH AAG..... -1.000000   BCV...EH 0.010920
+    PAG.DVEH BI5...EH 0.006310   BLN...EH 0.030370
+    PAG.DVEH BIN...EH -0.005620   BIP...EH 0.113550
+    PAG.DVEH BKE...EH 0.080140   BHL...EH 0.157120
+    PAG.DVEH BHH...EH -0.009730   BBU...EH 0.077980
+    PAG.DVEH BBV...EH -0.006140   BBE...EH 0.502450
+    PAG.DVEH BBC...EH -0.058890   BAP...EH 0.101540
+    PAH.DVEH CTF.D.EH -1.000000   COH.V.EH -0.263830
+    PAH.DVEH AAH..... -1.000000   BCV...EH 0.025790
+    PAH.DVEH BI5...EH 0.008120   BLN...EH 0.039600
+    PAH.DVEH BIN...EH -0.007860   BIP...EH 0.111920
+    PAH.DVEH BKE...EH 0.130620   BHL...EH 0.029870
+    PAH.DVEH BHH...EH 0.091860   BBU...EH 0.003600
+    PAH.DVEH BBV...EH 0.071830   BBC...EH 0.047640
+    PAH.DVEH BBA...EH 0.216190   BHA...EH 0.230820
+    PAL.DVEH CTF.D.EH -1.000000   COH.V.EH -0.253090
+    PAL.DVEH BCV...EH 0.018350   BI5...EH 0.008650
+    PAL.DVEH BLN...EH 0.043700   BIN...EH 0.004910
+    PAL.DVEH BIP...EH 0.124890   BKE...EH 0.178950
+    PAL.DVEH BHL...EH 0.060480   BHH...EH 0.072710
+    PAL.DVEH BBU...EH 0.021080   BBV...EH 0.065990
+    PAL.DVEH BBC...EH 0.125810   BBA...EH 0.127280
+    PAL.DVEH BLA...EH 0.147180   AAL..... -1.000000
+    PAM.DVEH CTF.D.EH -1.000000   COH.V.EH -0.281070
+    PAM.DVEH BCV...EH 0.012720   BI5...EH 0.007550
+    PAM.DVEH BLN...EH 0.042710   BIN...EH 0.003590
+    PAM.DVEH BIP...EH 0.117680   BKE...EH 0.144210
+    PAM.DVEH BHL...EH 0.046940   BHH...EH 0.075380
+    PAM.DVEH BBU...EH 0.015520   BBV...EH 0.066500
+    PAM.DVEH BBC...EH 0.058490   BBA...EH 0.222580
+    PAM.DVEH BMA...EH 0.186130   AAM..... -1.000000
+    PAW.DVEH CTF.D.EH -1.000000   COH.V.EH -0.194660
+    PAW.DVEH AAW..... -1.000000   BCV...EH 0.040840
+    PAW.DVEH BI5...EH 0.014750   BLN...EH 0.065660
+    PAW.DVEH BIN...EH 0.027490   BIP...EH 0.150780
+    PAW.DVEH BKE...EH 0.223800   BHL...EH 0.149740
+    PAW.DVEH BHH...EH -0.002840   BBU...EH 0.090510
+    PAW.DVEH BBV...EH 0.000810   BBE...EH 0.183900
+    PAW.DVEH BBC...EH 0.010760   BWA...EH 0.043810
+    PAX.DVEH CTF.D.EH -1.000000   COH.V.EH -0.255260
+    PAX.DVEH BCV...EH 0.020370   BI5...EH 0.009350
+    PAX.DVEH BLN...EH 0.052270   BIN...EH 0.010770
+    PAX.DVEH BIP...EH 0.125670   BKE...EH 0.204490
+    PAX.DVEH BHL...EH 0.077920   BHH...EH 0.040930
+    PAX.DVEH BBU...EH 0.050490   BBV...EH 0.062960
+    PAX.DVEH BBC...EH 0.217020   BBA...EH 0.038240
+    PAX.DVEH BXA...EH 0.089520   AAX..... -1.000000
+    PBA.DVEH CTF.D.EH -1.000000   COH.V.EH -0.244570
+    PBA.DVEH BCV...EH 0.022920   BI5...EH 0.009360
+    PBA.DVEH BLN...EH 0.050930   BIN...EH 0.001770
+    PBA.DVEH BIP...EH 0.128360   BKE...EH 0.174610
+    PBA.DVEH BHL...EH 0.040170   BHH...EH 0.081800
+    PBA.DVEH BBU...EH 0.025150   BBV...EH 0.058160
+    PBA.DVEH BBC...EH 0.087600   BBA...EH 0.156970
+    PBA.DVEH BAK...EH 0.162210   ABA..... -1.000000
+    PBR.DVEH CTF.D.EH -1.000000   COH.V.EH -0.255810
+    PBR.DVEH ABR..... -1.000000   BCV...EH 0.024040
+    PBR.DVEH BI5...EH 0.012810   BLN...EH 0.054100
+    PBR.DVEH BIN...EH 0.058540   BIP...EH 0.114350
+    PBR.DVEH BKE...EH 0.171410   BHL...EH 0.127230
+    PBR.DVEH BHH...EH -0.002130   BBU...EH 0.095890
+    PBR.DVEH BBV...EH -0.001620   BBE...EH 0.234850
+    PBR.DVEH BBC...EH 0.020960   BRB...EH 0.089570
+    PCA.DVEH CTF.D.EH -1.000000   COH.V.EH -0.349050
+    PCA.DVEH ACA..... -1.000000   BCV...EH 0.022390
+    PCA.DVEH BI5...EH 0.006880   BLN...EH 0.028570
+    PCA.DVEH BIN...EH 0.043090   BIP...EH 0.058170
+    PCA.DVEH BKE...EH 0.091930   BHL...EH 0.127570
+    PCA.DVEH BHH...EH -0.003910   BBU...EH 0.057720
+    PCA.DVEH BBV...EH -0.003330   BBE...EH 0.369860
+    PCA.DVEH BBC...EH -0.020820   BAC...EH 0.221880
+    PDA.DVEH CTF.D.EH -1.000000   COH.V.EH -0.233880
+    PDA.DVEH BCV...EH 0.028910   BI5...EH 0.014810
+    PDA.DVEH BLN...EH 0.058210   BIN...EH 0.011910
+    PDA.DVEH BIP...EH 0.127900   BKE...EH 0.156050
+    PDA.DVEH BHL...EH 0.016240   BHH...EH 0.113760
+    PDA.DVEH BBU...EH 0.002260   BBV...EH 0.079970
+    PDA.DVEH BBC...EH 0.022680   BBA...EH 0.211200
+    PDA.DVEH BRI...EH 0.156110   ADA..... -1.000000
+    PES.DVEH CTF.D.EH -1.000000   COH.V.EH -0.272190
+    PES.DVEH BCV...EH 0.019260   BI5...EH 0.012160
+    PES.DVEH BLN...EH 0.041200   BIN...EH 0.050610
+    PES.DVEH BIP...EH 0.094450   BKE...EH 0.157620
+    PES.DVEH BHL...EH 0.131740   BHH...EH 0.009590
+    PES.DVEH BBU...EH 0.085320   BBV...EH 0.005410
+    PES.DVEH BBE...EH 0.215170   BBC...EH 0.057030
+    PES.DVEH BSE...EH 0.120440   AES..... -1.000000
+    PIH.DVEH CTF.D.EH -1.000000   COH.V.EH -0.248210
+    PIH.DVEH BCV...EH 0.027600   BI5...EH 0.010720
+    PIH.DVEH BLN...EH 0.041710   BIN...EH 0.052270
+    PIH.DVEH BIP...EH 0.081290   BKE...EH 0.151300
+    PIH.DVEH BHL...EH 0.053680   BHH...EH 0.068650
+    PIH.DVEH BBU...EH 0.035650   BBV...EH 0.042830
+    PIH.DVEH BBC...EH 0.215240   BBA...EH 0.032970
+    PIH.DVEH BHI...EH 0.186090   AIH..... -1.000000
+    PIL.DVEH CTF.D.EH -1.000000   COH.V.EH -0.271680
+    PIL.DVEH BCV...EH 0.023430   BI5...EH 0.009760
+    PIL.DVEH BLN...EH 0.043810   BIN...EH 0.046670
+    PIL.DVEH BIP...EH 0.091200   BKE...EH 0.162000
+    PIL.DVEH BHL...EH 0.078750   BHH...EH 0.057420
+    PIL.DVEH BBU...EH 0.043960   BBV...EH 0.041920
+    PIL.DVEH BBC...EH 0.225030   BBA...EH 0.046650
+    PIL.DVEH BLI...EH 0.129410   AIL..... -1.000000
+    PKK.DVEH CTF.D.EH -1.000000   COH.V.EH -0.222260
+    PKK.DVEH BCV...EH 0.026610   BI5...EH 0.016480
+    PKK.DVEH BLN...EH 0.051660   BIN...EH 0.016170
+    PKK.DVEH BIP...EH 0.136830   BKE...EH 0.181310
+    PKK.DVEH BHL...EH 0.059020   BHH...EH 0.080820
+    PKK.DVEH BBU...EH 0.020050   BBV...EH 0.065450
+    PKK.DVEH BBC...EH 0.092730   BBA...EH 0.129530
+    PKK.DVEH BKQ...EH 0.123340   AKK..... -1.000000
+    PKU.DVEH CTF.D.EH -1.000000   COH.V.EH -0.257810
+    PKU.DVEH BCV...EH 0.026680   BI5...EH 0.008720
+    PKU.DVEH BLN...EH 0.053840   BIN...EH 0.000250
+    PKU.DVEH BIP...EH 0.121660   BKE...EH 0.141740
+    PKU.DVEH BHL...EH 0.040980   BHH...EH 0.080340
+    PKU.DVEH BBU...EH 0.012730   BBV...EH 0.071090
+    PKU.DVEH BBC...EH 0.018870   BBA...EH 0.238940
+    PKU.DVEH BUK...EH 0.184140   AKU..... -1.000000
+    PMU.DVEH CTF.D.EH -1.000000   COH.V.EH -0.249190
+    PMU.DVEH BCV...EH 0.019830   BI5...EH 0.010950
+    PMU.DVEH BLN...EH 0.052370   BIN...EH 0.026140
+    PMU.DVEH BIP...EH 0.134930   BKE...EH 0.193130
+    PMU.DVEH BHL...EH 0.123210   BHH...EH 0.026600
+    PMU.DVEH BBU...EH 0.053960   BBV...EH 0.041020
+    PMU.DVEH BBE...EH 0.034520   BBC...EH 0.214670
+    PMU.DVEH BUM...EH 0.068660   AMU..... -1.000000
+    PNF.DVEH CTF.D.EH -1.000000   COH.V.EH -0.260140
+    PNF.DVEH BCV...EH 0.023190   BI5...EH 0.009250
+    PNF.DVEH BLN...EH 0.028930   BIN...EH 0.123190
+    PNF.DVEH BIP...EH 0.008450   BKE...EH 0.204470
+    PNF.DVEH BHL...EH 0.227760   BHH...EH 0.006920
+    PNF.DVEH BBU...EH 0.048730   BBV...EH 0.000220
+    PNF.DVEH BBE...EH 0.243280   BBC...EH 0.016860
+    PNF.DVEH BMF...EH 0.058740   ANF..... -1.000000
+    PNL.DVEH CTF.D.EH -1.000000   COH.V.EH -0.260920
+    PNL.DVEH ANL..... -1.000000   BCV...EH 0.028250
+    PNL.DVEH BI5...EH 0.013210   BLN...EH 0.043820
+    PNL.DVEH BIN...EH 0.150420   BIP...EH 0.037110
+    PNL.DVEH BKE...EH 0.209630   BHL...EH 0.133140
+    PNL.DVEH BHH...EH -0.001290   BBU...EH 0.098390
+    PNL.DVEH BBV...EH -0.002470   BBE...EH 0.255920
+    PNL.DVEH BBC...EH 0.005000   BTL...EH 0.028860
+    PNM.DVEH CTF.D.EH -1.000000   COH.V.EH -0.327560
+    PNM.DVEH ANM..... -1.000000   BCV...EH 0.007060
+    PNM.DVEH BI5...EH 0.002850   BLN...EH 0.009350
+    PNM.DVEH BIN...EH 0.064220   BIP...EH -0.003460
+    PNM.DVEH BKE...EH 0.184800   BHL...EH 0.307580
+    PNM.DVEH BHH...EH 0.011610   BBU...EH 0.009720
+    PNM.DVEH BBV...EH 0.000060   BBE...EH 0.309030
+    PNM.DVEH BBC...EH 0.018540   BYH...EH 0.078650
+    POM.DVEH CTF.D.EH -1.000000   COH.V.EH -0.262750
+    POM.DVEH BCV...EH 0.012770   BI5...EH 0.007200
+    POM.DVEH BLN...EH 0.040120   BIN...EH 0.028120
+    POM.DVEH BIP...EH 0.100710   BKE...EH 0.178720
+    POM.DVEH BHL...EH 0.085450   BHH...EH 0.071800
+    POM.DVEH BBU...EH 0.038340   BBV...EH 0.024770
+    POM.DVEH BBE...EH 0.025390   BBC...EH 0.237360
+    POM.DVEH BMO...EH 0.149250   AOM..... -1.000000
+    PQA.DVEH CTF.D.EH -1.000000   COH.V.EH -0.221780
+    PQA.DVEH BCV...EH 0.039300   BI5...EH 0.014610
+    PQA.DVEH BLN...EH 0.070060   BIN...EH 0.015740
+    PQA.DVEH BIP...EH 0.149860   BKE...EH 0.188540
+    PQA.DVEH BHL...EH 0.094290   BHH...EH 0.055110
+    PQA.DVEH BBU...EH 0.030760   BBV...EH 0.058250
+    PQA.DVEH BBC...EH 0.158720   BBA...EH 0.063060
+    PQA.DVEH BTQ...EH 0.061700   AQA..... -1.000000
+    PSA.DVEH CTF.D.EH -1.000000   COH.V.EH -0.318470
+    PSA.DVEH ASA..... -1.000000   BCV...EH 0.022670
+    PSA.DVEH BI5...EH 0.010190   BLN...EH 0.045180
+    PSA.DVEH BIN...EH 0.042030   BIP...EH 0.076000
+    PSA.DVEH BKE...EH 0.125620   BHL...EH 0.105030
+    PSA.DVEH BHH...EH -0.003850   BBU...EH 0.106680
+    PSA.DVEH BBV...EH -0.004260   BBE...EH 0.311500
+    PSA.DVEH BBC...EH 0.006970   BAS...EH 0.156260
+    PUH.DVEH CTF.D.EH -1.000000   COH.V.EH -0.235280
+    PUH.DVEH BCV...EH 0.031860   BI5...EH 0.010440
+    PUH.DVEH BLN...EH 0.052400   BIN...EH 0.022450
+    PUH.DVEH BIP...EH 0.132660   BKE...EH 0.178000
+    PUH.DVEH BHL...EH 0.128660   BHH...EH 0.017470
+    PUH.DVEH BBU...EH 0.068570   BBV...EH 0.017250
+    PUH.DVEH BBE...EH 0.094510   BBC...EH 0.140770
+    PUH.DVEH BHU...EH 0.104960   AUH..... -1.000000
+    PUL.DVEH CTF.D.EH -1.000000   COH.V.EH -0.247880
+    PUL.DVEH BCV...EH 0.027870   BI5...EH 0.010900
+    PUL.DVEH BLN...EH 0.047860   BIN...EH 0.042680
+    PUL.DVEH BIP...EH 0.115160   BKE...EH 0.164040
+    PUL.DVEH BHL...EH 0.144080   BHH...EH 0.000340
+    PUL.DVEH BBU...EH 0.092070   BBV...EH 0.001840
+    PUL.DVEH BBE...EH 0.212840   BBC...EH 0.035040
+    PUL.DVEH BLU...EH 0.105290   AUL..... -1.000000
+    PZA.DVEH CTF.D.EH -1.000000   COH.V.EH -0.224270
+    PZA.DVEH AZA..... -1.000000   BCV...EH 0.029840
+    PZA.DVEH BI5...EH 0.011120   BLN...EH 0.063150
+    PZA.DVEH BIN...EH 0.054620   BIP...EH 0.110300
+    PZA.DVEH BKE...EH 0.198240   BHL...EH 0.132890
+    PZA.DVEH BHH...EH -0.007110   BBU...EH 0.098530
+    PZA.DVEH BBV...EH -0.005460   BBE...EH 0.236850
+    PZA.DVEH BBC...EH -0.012580   BAZ...EH 0.089620
+    PAG.D1EH CTF.D.EH -1.000000   AAG..... -1.000000
+    PAG.D1EH BCV...EH 0.010920   BI5...EH 0.006310
+    PAG.D1EH BLN...EH 0.030370   BIN...EH -0.005620
+    PAG.D1EH BIP...EH 0.113550   BKE...EH 0.080140
+    PAG.D1EH BHL...EH 0.157120   BHH...EH -0.009730
+    PAG.D1EH BBU...EH 0.077980   BBV...EH -0.006140
+    PAG.D1EH BAG...EH 0.545110
+    PAH.D1EH CTF.D.EH -1.000000   AAH..... -1.000000
+    PAH.D1EH BCV...EH 0.025790   BI5...EH 0.008120
+    PAH.D1EH BLN...EH 0.039600   BIN...EH -0.007860
+    PAH.D1EH BIP...EH 0.111910   BKE...EH 0.130620
+    PAH.D1EH BHL...EH 0.029870   BHH...EH 0.091860
+    PAH.D1EH BBU...EH 0.003600   BBV...EH 0.071830
+    PAH.D1EH BAH...EH 0.494650
+    PAL.D1EH CTF.D.EH -1.000000   BCV...EH 0.018350
+    PAL.D1EH BI5...EH 0.008650   BLN...EH 0.043700
+    PAL.D1EH BIN...EH 0.004910   BIP...EH 0.124890
+    PAL.D1EH BKE...EH 0.178950   BHL...EH 0.060480
+    PAL.D1EH BHH...EH 0.072710   BBU...EH 0.021080
+    PAL.D1EH BBV...EH 0.065990   BAL...EH 0.400280
+    PAL.D1EH AAL..... -1.000000
+    PAM.D1EH CTF.D.EH -1.000000   BCV...EH 0.012720
+    PAM.D1EH BI5...EH 0.007550   BLN...EH 0.042710
+    PAM.D1EH BIN...EH 0.003590   BIP...EH 0.117680
+    PAM.D1EH BKE...EH 0.144200   BHL...EH 0.046940
+    PAM.D1EH BHH...EH 0.075380   BBU...EH 0.015520
+    PAM.D1EH BBV...EH 0.066500   BAM...EH 0.467210
+    PAM.D1EH AAM..... -1.000000
+    PAW.D1EH CTF.D.EH -1.000000   AAW..... -1.000000
+    PAW.D1EH BCV...EH 0.040830   BI5...EH 0.014750
+    PAW.D1EH BLN...EH 0.065660   BIN...EH 0.027490
+    PAW.D1EH BIP...EH 0.150780   BKE...EH 0.223790
+    PAW.D1EH BHL...EH 0.149740   BHH...EH -0.002840
+    PAW.D1EH BBU...EH 0.090500   BBV...EH 0.000810
+    PAW.D1EH BAW...EH 0.238480
+    PAX.D1EH CTF.D.EH -1.000000   BCV...EH 0.020370
+    PAX.D1EH BI5...EH 0.009350   BLN...EH 0.052270
+    PAX.D1EH BIN...EH 0.010770   BIP...EH 0.125670
+    PAX.D1EH BKE...EH 0.204480   BHL...EH 0.077910
+    PAX.D1EH BHH...EH 0.040930   BBU...EH 0.050490
+    PAX.D1EH BBV...EH 0.062960   BAX...EH 0.344790
+    PAX.D1EH AAX..... -1.000000
+    PBA.D1EH CTF.D.EH -1.000000   BCV...EH 0.022920
+    PBA.D1EH BI5...EH 0.009360   BLN...EH 0.050930
+    PBA.D1EH BIN...EH 0.001770   BIP...EH 0.128350
+    PBA.D1EH BKE...EH 0.174610   BHL...EH 0.040160
+    PBA.D1EH BHH...EH 0.081800   BBU...EH 0.025150
+    PBA.D1EH BBV...EH 0.058160   BKA...EH 0.406790
+    PBA.D1EH ABA..... -1.000000
+    PBR.D1EH CTF.D.EH -1.000000   ABR..... -1.000000
+    PBR.D1EH BCV...EH 0.024040   BI5...EH 0.012810
+    PBR.D1EH BLN...EH 0.054100   BIN...EH 0.058540
+    PBR.D1EH BIP...EH 0.114350   BKE...EH 0.171400
+    PBR.D1EH BHL...EH 0.127230   BHH...EH -0.002130
+    PBR.D1EH BBU...EH 0.095890   BBV...EH -0.001620
+    PBR.D1EH BLB...EH 0.345390
+    PCA.D1EH CTF.D.EH -1.000000   ACA..... -1.000000
+    PCA.D1EH BCV...EH 0.022390   BI5...EH 0.006880
+    PCA.D1EH BLN...EH 0.028560   BIN...EH 0.043090
+    PCA.D1EH BIP...EH 0.058170   BKE...EH 0.091930
+    PCA.D1EH BHL...EH 0.127570   BHH...EH -0.003910
+    PCA.D1EH BBU...EH 0.057710   BBV...EH -0.003330
+    PCA.D1EH BCA...EH 0.570930
+    PDA.D1EH CTF.D.EH -1.000000   BCV...EH 0.028910
+    PDA.D1EH BI5...EH 0.014810   BLN...EH 0.058210
+    PDA.D1EH BIN...EH 0.011910   BIP...EH 0.127890
+    PDA.D1EH BKE...EH 0.156050   BHL...EH 0.016240
+    PDA.D1EH BHH...EH 0.113760   BBU...EH 0.002260
+    PDA.D1EH BBV...EH 0.079970   BIR...EH 0.389990
+    PDA.D1EH ADA..... -1.000000
+    PES.D1EH CTF.D.EH -1.000000   BCV...EH 0.019260
+    PES.D1EH BI5...EH 0.012160   BLN...EH 0.041200
+    PES.D1EH BIN...EH 0.050610   BIP...EH 0.094450
+    PES.D1EH BKE...EH 0.157620   BHL...EH 0.131740
+    PES.D1EH BHH...EH 0.009590   BBU...EH 0.085320
+    PES.D1EH BBV...EH 0.005410   BES...EH 0.392640
+    PES.D1EH AES..... -1.000000
+    PIH.D1EH CTF.D.EH -1.000000   BCV...EH 0.027600
+    PIH.D1EH BI5...EH 0.010720   BLN...EH 0.041710
+    PIH.D1EH BIN...EH 0.052270   BIP...EH 0.081290
+    PIH.D1EH BKE...EH 0.151290   BHL...EH 0.053670
+    PIH.D1EH BHH...EH 0.068650   BBU...EH 0.035640
+    PIH.D1EH BBV...EH 0.042830   BIH...EH 0.434310
+    PIH.D1EH AIH..... -1.000000
+    PIL.D1EH CTF.D.EH -1.000000   BCV...EH 0.023430
+    PIL.D1EH BI5...EH 0.009760   BLN...EH 0.043810
+    PIL.D1EH BIN...EH 0.046670   BIP...EH 0.091200
+    PIL.D1EH BKE...EH 0.161990   BHL...EH 0.078750
+    PIL.D1EH BHH...EH 0.057420   BBU...EH 0.043960
+    PIL.D1EH BBV...EH 0.041920   BIL...EH 0.401100
+    PIL.D1EH AIL..... -1.000000
+    PKK.D1EH CTF.D.EH -1.000000   BCV...EH 0.026610
+    PKK.D1EH BI5...EH 0.016480   BLN...EH 0.051650
+    PKK.D1EH BIN...EH 0.016170   BIP...EH 0.136830
+    PKK.D1EH BKE...EH 0.181310   BHL...EH 0.059020
+    PKK.D1EH BHH...EH 0.080820   BBU...EH 0.020050
+    PKK.D1EH BBV...EH 0.065450   BKK...EH 0.345610
+    PKK.D1EH AKK..... -1.000000
+    PKU.D1EH CTF.D.EH -1.000000   BCV...EH 0.026680
+    PKU.D1EH BI5...EH 0.008720   BLN...EH 0.053840
+    PKU.D1EH BIN...EH 0.000250   BIP...EH 0.121660
+    PKU.D1EH BKE...EH 0.141740   BHL...EH 0.040980
+    PKU.D1EH BHH...EH 0.080340   BBU...EH 0.012730
+    PKU.D1EH BBV...EH 0.071090   BKU...EH 0.441950
+    PKU.D1EH AKU..... -1.000000
+    PMU.D1EH CTF.D.EH -1.000000   BCV...EH 0.019830
+    PMU.D1EH BI5...EH 0.010950   BLN...EH 0.052370
+    PMU.D1EH BIN...EH 0.026140   BIP...EH 0.134930
+    PMU.D1EH BKE...EH 0.193130   BHL...EH 0.123210
+    PMU.D1EH BHH...EH 0.026600   BBU...EH 0.053960
+    PMU.D1EH BBV...EH 0.041020   BMU...EH 0.317850
+    PMU.D1EH AMU..... -1.000000
+    PNF.D1EH CTF.D.EH -1.000000   BCV...EH 0.023190
+    PNF.D1EH BI5...EH 0.009250   BLN...EH 0.028930
+    PNF.D1EH BIN...EH 0.123190   BIP...EH 0.008450
+    PNF.D1EH BKE...EH 0.204470   BHL...EH 0.227760
+    PNF.D1EH BHH...EH 0.006920   BBU...EH 0.048730
+    PNF.D1EH BBV...EH 0.000220   BMD...EH 0.318890
+    PNF.D1EH ANF..... -1.000000
+    PNL.D1EH CTF.D.EH -1.000000   ANL..... -1.000000
+    PNL.D1EH BCV...EH 0.028250   BI5...EH 0.013210
+    PNL.D1EH BLN...EH 0.043820   BIN...EH 0.150420
+    PNL.D1EH BIP...EH 0.037110   BKE...EH 0.209630
+    PNL.D1EH BHL...EH 0.133140   BHH...EH -0.001290
+    PNL.D1EH BBU...EH 0.098390   BBV...EH -0.002470
+    PNL.D1EH BLT...EH 0.289790
+    PNM.D1EH CTF.D.EH -1.000000   ANM..... -1.000000
+    PNM.D1EH BCV...EH 0.007060   BI5...EH 0.002850
+    PNM.D1EH BLN...EH 0.009350   BIN...EH 0.064220
+    PNM.D1EH BIP...EH -0.003460   BKE...EH 0.184800
+    PNM.D1EH BHL...EH 0.307570   BHH...EH 0.011610
+    PNM.D1EH BBU...EH 0.009720   BBV...EH 0.000060
+    PNM.D1EH BHY...EH 0.406210
+    POM.D1EH CTF.D.EH -1.000000   BCV...EH 0.012770
+    POM.D1EH BI5...EH 0.007200   BLN...EH 0.040120
+    POM.D1EH BIN...EH 0.028120   BIP...EH 0.100710
+    POM.D1EH BKE...EH 0.178720   BHL...EH 0.085450
+    POM.D1EH BHH...EH 0.071800   BBU...EH 0.038340
+    POM.D1EH BBV...EH 0.024770   BMN...EH 0.412000
+    POM.D1EH AOM..... -1.000000
+    PQA.D1EH CTF.D.EH -1.000000   BCV...EH 0.039300
+    PQA.D1EH BI5...EH 0.014610   BLN...EH 0.070060
+    PQA.D1EH BIN...EH 0.015740   BIP...EH 0.149860
+    PQA.D1EH BKE...EH 0.188540   BHL...EH 0.094290
+    PQA.D1EH BHH...EH 0.055110   BBU...EH 0.030760
+    PQA.D1EH BBV...EH 0.058250   BQT...EH 0.283480
+    PQA.D1EH AQA..... -1.000000
+    PSA.D1EH CTF.D.EH -1.000000   ASA..... -1.000000
+    PSA.D1EH BCV...EH 0.022670   BI5...EH 0.010190
+    PSA.D1EH BLN...EH 0.045180   BIN...EH 0.042030
+    PSA.D1EH BIP...EH 0.076000   BKE...EH 0.125610
+    PSA.D1EH BHL...EH 0.105030   BHH...EH -0.003850
+    PSA.D1EH BBU...EH 0.106680   BBV...EH -0.004260
+    PSA.D1EH BLS...EH 0.474740
+    PUH.D1EH CTF.D.EH -1.000000   BCV...EH 0.031860
+    PUH.D1EH BI5...EH 0.010440   BLN...EH 0.052400
+    PUH.D1EH BIN...EH 0.022450   BIP...EH 0.132660
+    PUH.D1EH BKE...EH 0.178000   BHL...EH 0.128660
+    PUH.D1EH BHH...EH 0.017470   BBU...EH 0.068570
+    PUH.D1EH BBV...EH 0.017250   BUH...EH 0.340240
+    PUH.D1EH AUH..... -1.000000
+    PUL.D1EH CTF.D.EH -1.000000   BCV...EH 0.027870
+    PUL.D1EH BI5...EH 0.010900   BLN...EH 0.047860
+    PUL.D1EH BIN...EH 0.042680   BIP...EH 0.115150
+    PUL.D1EH BKE...EH 0.164040   BHL...EH 0.144080
+    PUL.D1EH BHH...EH 0.000340   BBU...EH 0.092070
+    PUL.D1EH BBV...EH 0.001840   BUL...EH 0.353180
+    PUL.D1EH AUL..... -1.000000
+    PZA.D1EH CTF.D.EH -1.000000   AZA..... -1.000000
+    PZA.D1EH BCV...EH 0.029840   BI5...EH 0.011120
+    PZA.D1EH BLN...EH 0.063150   BIN...EH 0.054620
+    PZA.D1EH BIP...EH 0.110300   BKE...EH 0.198240
+    PZA.D1EH BHL...EH 0.132880   BHH...EH -0.007110
+    PZA.D1EH BBU...EH 0.098530   BBV...EH -0.005460
+    PZA.D1EH BZA...EH 0.313900
+    PEL.D3EH CTF.D.EH -1.000000   BRG...EH 0.017100
+    PEL.D3EH BI5...EH 0.010700   BLN...EH 0.040500
+    PEL.D3EH BIN...EH 0.040200   BIP...EH 0.093800
+    PEL.D3EH BKE...EH 0.148000   BHL...EH 0.112900
+    PEL.D3EH BHH...EH 0.003100   BBU...EH 0.067600
+    PEL.D3EH BBV...EH 0.003400   BEL...EH 0.453000
+    PEL.D3EH AEL..... -1.000000
+    PBL.F1EH BBK...EH 1.000000   CF..F.EH -2.900000
+    PBL.F1EH BBL...EH -1.000000
+    PBN.F1EH BBM...EH 1.000000   CF..F.EH -2.900000
+    PBN.F1EH BBN...EH -1.000000
+    PBV.F1EH BBU...EH 1.000000   CF..F.EH -2.300000
+    PBV.F1EH BBV...EH -1.000000
+    PHH.F1EH BHL...EH 1.000000   CF..F.EH -1.500000
+    PHH.F1EH BHH...EH -1.000000
+    PBA.G2EH BRG...EH 0.003700   BIP...EH 0.003600
+    PBA.G2EH BBB...EH 1.004800   CF..G.EH -1.088400
+    PBA.G2EH BBA...EH -1.000000
+    PBC.G2EH BRG...EH 0.001600   BIP...EH 0.001600
+    PBC.G2EH BBD...EH 1.005500   CF..G.EH -0.933800
+    PBC.G2EH BBC...EH -1.000000
+    PQA.G2EH BSA...EH 1.000000   CF..G.EH -1.184000
+    PQA.G2EH BQA...EH -1.000000
+    PQH.G2EH BSH...EH 1.000000   CF..G.EH -1.309000
+    PQH.G2EH BQH...EH -1.000000
+    PQW.G2EH CF..G.EH -1.339000   BSW...EH 1.000000
+    PQW.G2EH BQW...EH -1.000000
+    PIB.P2EH BRG...EH 0.180200   B5D...EH 0.770000
+    PIB.P2EH CF..P.EH -0.990000   BIB...EH -1.000000
+    PIG.P2EH BRG...EH 0.106800   B5C...EH 0.893000
+    PIG.P2EH CF..P.EH -0.948700   BIG...EH -1.000000
+    PIN.P2EH BRG...EH 0.109800   B5A...EH 0.883000
+    PIN.P2EH CF..P.EH -0.942000   BIN...EH -1.000000
+    PIP.P2EH BRG...EH 0.189000   B5B...EH 0.760000
+    PIP.P2EH CF..P.EH -0.983300   BIP...EH -1.000000
+    PIB.P3EH BRG...EH 0.206200   B5H...EH 0.739000
+    PIB.P3EH CF..P.EH -1.014700   BIB...EH -1.000000
+    PIG.P3EH BRG...EH 0.133800   B5G...EH 0.862000
+    PIG.P3EH CF..P.EH -0.973300   BIG...EH -1.000000
+    PIN.P3EH BRG...EH 0.144400   B5E...EH 0.852000
+    PIN.P3EH CF..P.EH -0.967700   BIN...EH -1.000000
+    PIP.P3EH BRG...EH 0.214800   B5F...EH 0.729000
+    PIP.P3EH CF..P.EH -1.008000   BIP...EH -1.000000
+    PHA.Q1EH BRG...EH 0.326000   B5T...EH 0.140000
+    PHA.Q1EH BBK...EH -0.031000   BBL...EH 0.260000
+    PHA.Q1EH BQH...EH 0.256000   CF..Q.EH -1.066000
+    PHA.Q1EH BHA...EH -1.000000
+    PLA.Q1EH BRG...EH 0.280000   B5T...EH 0.152000
+    PLA.Q1EH BBK...EH 0.036000   BBL...EH 0.213000
+    PLA.Q1EH BQA...EH 0.279000   CF..Q.EH -1.000000
+    PLA.Q1EH BLA...EH -1.000000
+    PUK.Q1EH BRG...EH 0.294000   B5T...EH 0.148000
+    PUK.Q1EH BBK...EH -0.048000   BBL...EH 0.290000
+    PUK.Q1EH BQW...EH 0.272000   CF..Q.EH -1.014000
+    PUK.Q1EH BUK...EH -1.000000
+    PAH.R1EH BRG...EH 0.010700   BIP...EH 0.037500
+    PAH.R1EH BHL...EH 0.100000   B1H...EH 0.885000
+    PAH.R1EH CF..R.EH -1.113300   BAH...EH -1.000000
+    PAL.R1EH BRG...EH 0.004200   BIP...EH 0.015400
+    PAL.R1EH BHL...EH 0.100000   B1A...EH 0.896000
+    PAL.R1EH CF..R.EH -0.883600   BAL...EH -1.000000
+    PAM.R1EH BRG...EH 0.006500   BIP...EH 0.023000
+    PAM.R1EH BHL...EH 0.100000   B1K...EH 0.892000
+    PAM.R1EH CF..R.EH -1.003900   BAM...EH -1.000000
+    PIH.R1EH BRG...EH 0.006400   BIP...EH 0.022800
+    PIH.R1EH BHL...EH 0.100000   B1G...EH 0.892000
+    PIH.R1EH CF..R.EH -0.948700   BIH...EH -1.000000
+    PIL.R1EH BRG...EH 0.004800   BIP...EH 0.017200
+    PIL.R1EH BHL...EH 0.100000   B1I...EH 0.894000
+    PIL.R1EH CF..R.EH -0.879900   BIL...EH -1.000000
+    PKU.R1EH BRG...EH 0.006200   BIP...EH 0.021900
+    PKU.R1EH BHL...EH 0.100000   B1W...EH 0.895000
+    PKU.R1EH CF..R.EH -0.995100   BKU...EH -1.000000
+    PAH.R2EH BRG...EH 0.024600   BIP...EH 0.086900
+    PAH.R2EH BHL...EH 0.100000   CF..R.EH -1.484600
+    PAH.R2EH B2H...EH 0.843000   BAH...EH -1.000000
+    PAL.R2EH BRG...EH 0.010900   BIP...EH 0.038900
+    PAL.R2EH BHL...EH 0.100000   CF..R.EH -1.109400
+    PAL.R2EH B2A...EH 0.879000   BAL...EH -1.000000
+    PAM.R2EH BRG...EH 0.015400   BIP...EH 0.055000
+    PAM.R2EH BHL...EH 0.100000   CF..R.EH -1.279000
+    PAM.R2EH B2K...EH 0.869000   BAM...EH -1.000000
+    PIH.R2EH BRG...EH 0.014700   BIP...EH 0.052800
+    PIH.R2EH BHL...EH 0.100000   CF..R.EH -1.204500
+    PIH.R2EH B2G...EH 0.869000   BIH...EH -1.000000
+    PIL.R2EH BRG...EH 0.011100   BIP...EH 0.040500
+    PIL.R2EH BHL...EH 0.100000   CF..R.EH -1.094000
+    PIL.R2EH B2I...EH 0.877000   BIL...EH -1.000000
+    PKU.R2EH BRG...EH 0.015100   BIP...EH 0.053300
+    PKU.R2EH BHL...EH 0.100000   CF..R.EH -1.285700
+    PKU.R2EH B2W...EH 0.872000   BKU...EH -1.000000
+    PAH.VAEH BAH...EH -1.000000   BOA...EH 0.686200
+    PAH.VAEH BBC...EH 0.064600   BBA...EH 0.249200
+    PAH.VAEH COH.V.EH -0.313800   LOBROW27736 1.000000
+    PKU.VAEH BKU...EH -1.000000   BOA...EH 0.520600
+    PKU.VAEH BBC...EH 0.019600   BBA...EH 0.459800
+    PKU.VAEH COH.V.EH -0.479400   LOBROW27737 1.000000
+    PEL.V1EH COH.V.EH -0.713000   BEL...EH -1.000000
+    PEL.V1EH BBE...EH 0.560300   BBC...EH 0.152700
+    PEL.V1EH BLE...EH 0.287000
+    TDH.EMEH BDH...EH 1.000000   BDH...EM -1.000000
+    TDH.EMEH FAT0..J. 0.604000   KMC.IME. 1.000000
+    TDH.EMEH KMC.EXE. 1.000000   KWC..... 0.702000
+    TNE.EMEH BNE...EH 1.000000   BNE...EM -1.000000
+    TNE.EMEH FAT0..J. 0.582000   KMC.IME. 1.000000
+    TNE.EMEH KMC.EXE. 1.000000   KWC..... 0.658000
+    TNL.EMEH BNL...EH 1.000000   BNL...EM -1.000000
+    TNL.EMEH FAT0..J. 0.579000   KMC.IME. 1.000000
+    TNL.EMEH KMC.EXE. 1.000000   KWC..... 0.598000
+    TDH.EZEH BDH...EH 1.000000   BDH...EZ -1.000000
+    TDH.EZEH FAT0..J. 0.502000   KMC.IME. 1.000000
+    TDH.EZEH KMC.EXE. 1.000000   KWC..... 0.534000
+    BBK.DHEM BBK...EM -1.000000   BDH.VOEM 1.000000
+    BBK.DHEM XSU.DHEM 0.100000   XCI.DHEM 1.000000
+    BBL.DHEM BBL...EM -1.000000   BDH.VOEM 1.000000
+    BBL.DHEM XSU.DHEM 3.000000   XCI.DHEM 1.000000
+    BBM.DHEM BBM...EM -1.000000   BDH.VOEM 1.000000
+    BBM.DHEM XSU.DHEM 0.100000   XCI.DHEM 1.500000
+    BBN.DHEM BBN...EM -1.000000   BDH.VOEM 1.000000
+    BBN.DHEM XSU.DHEM 3.000000   XCI.DHEM 1.500000
+    BBU.DHEM BBU...EM -1.000000   BDH.VOEM 1.000000
+    BBU.DHEM XSU.DHEM 0.200000   XCI.DHEM 7.560000
+    BBV.DHEM BBV...EM -1.000000   BDH.VOEM 1.000000
+    BBV.DHEM XSU.DHEM 2.500000   XCI.DHEM 7.070000
+    BHH.DHEM BHH...EM -1.000000   BDH.VOEM 1.000000
+    BHH.DHEM XSU.DHEM 1.600000   XCI.DHEM 0.870000
+    BHL.DHEM BHL...EM -1.000000   BDH.VOEM 1.000000
+    BHL.DHEM XSU.DHEM 0.100000   XCI.DHEM 0.870000
+    BKE.DHEM BKE...EM -1.000000   BDH.VOEM 1.000000
+    BKE.DHEM XSU.DHEM 0.150000   XCI.DHEM 0.120000
+    BKH.DHEM BKH...EM -1.000000   BDH.VOEM 1.000000
+    BKH.DHEM XSU.DHEM 0.150000   XCI.DHEM 0.160000
+    BAC.FTEM BAC...EM -1.000000   BFT.VOEM 1.000000
+    BAC.FTEM BFT.WTEM 0.954030   XSU.FTEM 0.238740
+    BAC.FTEM XVI.FTEM 1.342000   NVI.FTEM 1.342000
+    BAG.FTEM BAG...EM -1.000000   BFT.VOEM 1.000000
+    BAG.FTEM BFT.WTEM 0.842650   XSU.FTEM 0.015020
+    BAG.FTEM XVI.FTEM 0.968000   NVI.FTEM 0.968000
+    BAP.FTEM BAP...EM -1.000000   BFT.VOEM 1.000000
+    BAP.FTEM BFT.WTEM 0.886270   XSU.FTEM 0.030780
+    BAP.FTEM XVI.FTEM 1.215000   NVI.FTEM 1.215000
+    BAS.FTEM BAS...EM -1.000000   BFT.VOEM 1.000000
+    BAS.FTEM BFT.WTEM 0.995250   XSU.FTEM 0.498860
+    BAS.FTEM XVI.FTEM 1.435000   NVI.FTEM 1.435000
+    BAW.FTEM BAW...EM -1.000000   BFT.VOEM 1.000000
+    BAW.FTEM BFT.WTEM 0.908700   XSU.FTEM 0.313780
+    BAW.FTEM XVI.FTEM 1.076000   NVI.FTEM 1.076000
+    BBB.FTEM BBB...EM -1.000000   BFT.VOEM 1.000000
+    BBB.FTEM BFT.WTEM 0.893700   XSU.FTEM 0.178740
+    BBB.FTEM XVI.FTEM 0.977000   NVI.FTEM 0.977000
+    BBD.FTEM BBD...EM -1.000000   BFT.VOEM 1.000000
+    BBD.FTEM BFT.WTEM 0.893100   XSU.FTEM 0.178620
+    BBD.FTEM XVI.FTEM 0.990000   NVI.FTEM 0.990000
+    BBO.FTEM BBO...EM -1.000000   BFT.VOEM 1.000000
+    BBO.FTEM BFT.WTEM 0.820000   XSU.FTEM 0.246000
+    BBO.FTEM XVI.FTEM 0.720000   NVI.FTEM 0.720000
+    BBP.FTEM BBP...EM -1.000000   BFT.VOEM 1.000000
+    BBP.FTEM BFT.WTEM 0.820000   XSU.FTEM 1.230000
+    BBP.FTEM XVI.FTEM 0.720000   NVI.FTEM 0.720000
+    BBW.FTEM BBW...EM -1.000000   BFT.VOEM 1.000000
+    BBW.FTEM BFT.WTEM 0.870000   XSU.FTEM 0.435000
+    BBW.FTEM XVI.FTEM 0.870000   NVI.FTEM 0.870000
+    BBY.FTEM BBY...EM -1.000000   BFT.VOEM 1.000000
+    BBY.FTEM BFT.WTEM 0.870000   XSU.FTEM 1.305000
+    BBY.FTEM XVI.FTEM 0.870000   NVI.FTEM 0.870000
+    BCA.FTEM BCA...EM -1.000000   BFT.VOEM 1.000000
+    BCA.FTEM BFT.WTEM 0.911890   XSU.FTEM 0.155900
+    BCA.FTEM XVI.FTEM 1.118000   NVI.FTEM 1.118000
+    BEL.FTEM BEL...EM -1.000000   BFT.VOEM 1.000000
+    BEL.FTEM BFT.WTEM 0.958700   XSU.FTEM 0.690260
+    BEL.FTEM XVI.FTEM 1.125000   NVI.FTEM 1.125000
+    BES.FTEM BES...EM -1.000000   BFT.VOEM 1.000000
+    BES.FTEM BFT.WTEM 0.929480   XSU.FTEM 0.677090
+    BES.FTEM XVI.FTEM 1.112000   NVI.FTEM 1.112000
+    BHM.FTEM BHM...EM -1.000000   BFT.VOEM 1.000000
+    BHM.FTEM BFT.WTEM 0.820000   XSU.FTEM 0.246000
+    BHM.FTEM XVI.FTEM 0.720000   NVI.FTEM 0.720000
+    BHN.FTEM BHN...EM -1.000000   BFT.VOEM 1.000000
+    BHN.FTEM BFT.WTEM 0.820000   XSU.FTEM 1.066000
+    BHN.FTEM XVI.FTEM 0.720000   NVI.FTEM 0.720000
+    BHY.FTEM BHY...EM -1.000000   BFT.VOEM 1.000000
+    BHY.FTEM BFT.WTEM 0.961860   XSU.FTEM 0.342240
+    BHY.FTEM XVI.FTEM 1.169000   NVI.FTEM 1.169000
+    BLB.FTEM BLB...EM -1.000000   BFT.VOEM 1.000000
+    BLB.FTEM BFT.WTEM 0.915120   XSU.FTEM 0.383760
+    BLB.FTEM XVI.FTEM 1.078000   NVI.FTEM 1.078000
+    BLE.FTEM BLE...EM -1.000000   BFT.VOEM 1.000000
+    BLE.FTEM BFT.WTEM 1.027600   XSU.FTEM 1.171460
+    BLE.FTEM XVI.FTEM 1.460000   NVI.FTEM 1.460000
+    BLS.FTEM BLS...EM -1.000000   BFT.VOEM 1.000000
+    BLS.FTEM BFT.WTEM 0.913480   XSU.FTEM 0.299600
+    BLS.FTEM XVI.FTEM 1.108000   NVI.FTEM 1.108000
+    BLT.FTEM BLT...EM -1.000000   BFT.VOEM 1.000000
+    BLT.FTEM BFT.WTEM 0.923810   XSU.FTEM 0.241200
+    BLT.FTEM XVI.FTEM 1.065000   NVI.FTEM 1.065000
+    BLU.FTEM BLU...EM -1.000000   BFT.VOEM 1.000000
+    BLU.FTEM BFT.WTEM 0.987000   XSU.FTEM 0.770460
+    BLU.FTEM XVI.FTEM 1.346000   NVI.FTEM 1.346000
+    BMD.FTEM BMD...EM -1.000000   BFT.VOEM 1.000000
+    BMD.FTEM BFT.WTEM 0.954190   XSU.FTEM 0.370030
+    BMD.FTEM XVI.FTEM 1.143000   NVI.FTEM 1.143000
+    BMF.FTEM BMF...EM -1.000000   BFT.VOEM 1.000000
+    BMF.FTEM BFT.WTEM 1.017900   XSU.FTEM 0.796850
+    BMF.FTEM XVI.FTEM 1.415000   NVI.FTEM 1.415000
+    BRB.FTEM BRB...EM -1.000000   BFT.VOEM 1.000000
+    BRB.FTEM BFT.WTEM 0.983160   XSU.FTEM 0.680810
+    BRB.FTEM XVI.FTEM 1.339000   NVI.FTEM 1.339000
+    BSA.FTEM BSA...EM -1.000000   BFT.VOEM 1.000000
+    BSA.FTEM BFT.WTEM 0.963200   XSU.FTEM 0.597180
+    BSA.FTEM XVI.FTEM 1.145000   NVI.FTEM 1.145000
+    BSE.FTEM BSE...EM -1.000000   BFT.VOEM 1.000000
+    BSE.FTEM BFT.WTEM 1.004360   XSU.FTEM 1.209020
+    BSE.FTEM XVI.FTEM 1.382000   NVI.FTEM 1.382000
+    BSH.FTEM BSH...EM -1.000000   BFT.VOEM 1.000000
+    BSH.FTEM BFT.WTEM 0.979200   XSU.FTEM 0.802940
+    BSH.FTEM XVI.FTEM 1.145000   NVI.FTEM 1.145000
+    BSW.FTEM BSW...EM -1.000000   BFT.VOEM 1.000000
+    BSW.FTEM BFT.WTEM 0.972500   XSU.FTEM 0.836350
+    BSW.FTEM XVI.FTEM 1.145000   NVI.FTEM 1.145000
+    BTL.FTEM BTL...EM -1.000000   BFT.VOEM 1.000000
+    BTL.FTEM BFT.WTEM 1.023110   XSU.FTEM 0.553770
+    BTL.FTEM XVI.FTEM 1.388000   NVI.FTEM 1.388000
+    BUL.FTEM BUL...EM -1.000000   BFT.VOEM 1.000000
+    BUL.FTEM BFT.WTEM 0.925930   XSU.FTEM 0.481170
+    BUL.FTEM XVI.FTEM 1.109000   NVI.FTEM 1.109000
+    BWA.FTEM BWA...EM -1.000000   BFT.VOEM 1.000000
+    BWA.FTEM BFT.WTEM 0.969370   XSU.FTEM 0.602190
+    BWA.FTEM XVI.FTEM 1.340000   NVI.FTEM 1.340000
+    BYH.FTEM BYH...EM -1.000000   BFT.VOEM 1.000000
+    BYH.FTEM BFT.WTEM 1.023810   XSU.FTEM 0.666860
+    BYH.FTEM XVI.FTEM 1.455000   NVI.FTEM 1.455000
+    BZA.FTEM BZA...EM -1.000000   BFT.VOEM 1.000000
+    BZA.FTEM BFT.WTEM 0.902850   XSU.FTEM 0.149900
+    BZA.FTEM XVI.FTEM 1.074000   NVI.FTEM 1.074000
+    B1A.FTEM B1A...EM -1.000000   BFT.VOEM 1.000000
+    B1A.FTEM BFT.WTEM 0.932600   XSU.FTEM 0.792710
+    B1A.FTEM XVI.FTEM 1.118000   NVI.FTEM 1.118000
+    B1G.FTEM B1G...EM -1.000000   BFT.VOEM 1.000000
+    B1G.FTEM BFT.WTEM 0.953100   XSU.FTEM 0.695760
+    B1G.FTEM XVI.FTEM 1.200000   NVI.FTEM 1.200000
+    B1H.FTEM B1H...EM -1.000000   BFT.VOEM 1.000000
+    B1H.FTEM BFT.WTEM 0.949200   XSU.FTEM 1.195990
+    B1H.FTEM XVI.FTEM 1.244000   NVI.FTEM 1.244000
+    B1I.FTEM B1I...EM -1.000000   BFT.VOEM 1.000000
+    B1I.FTEM BFT.WTEM 0.939400   XSU.FTEM 0.666970
+    B1I.FTEM XVI.FTEM 1.139000   NVI.FTEM 1.139000
+    B1K.FTEM B1K...EM -1.000000   BFT.VOEM 1.000000
+    B1K.FTEM BFT.WTEM 0.940000   XSU.FTEM 1.081000
+    B1K.FTEM XVI.FTEM 1.138000   NVI.FTEM 1.138000
+    B1W.FTEM B1W...EM -1.000000   BFT.VOEM 1.000000
+    B1W.FTEM BFT.WTEM 0.937200   XSU.FTEM 1.124640
+    B1W.FTEM XVI.FTEM 1.174000   NVI.FTEM 1.174000
+    B2A.FTEM B2A...EM -1.000000   BFT.VOEM 1.000000
+    B2A.FTEM BFT.WTEM 0.921400   XSU.FTEM 0.313280
+    B2A.FTEM XVI.FTEM 1.078000   NVI.FTEM 1.078000
+    B2G.FTEM B2G...EM -1.000000   BFT.VOEM 1.000000
+    B2G.FTEM BFT.WTEM 0.942200   XSU.FTEM 0.282660
+    B2G.FTEM XVI.FTEM 1.152000   NVI.FTEM 1.152000
+    B2H.FTEM B2H...EM -1.000000   BFT.VOEM 1.000000
+    B2H.FTEM BFT.WTEM 0.933600   XSU.FTEM 0.494810
+    B2H.FTEM XVI.FTEM 1.188000   NVI.FTEM 1.188000
+    B2I.FTEM B2I...EM -1.000000   BFT.VOEM 1.000000
+    B2I.FTEM BFT.WTEM 0.929300   XSU.FTEM 0.269500
+    B2I.FTEM XVI.FTEM 1.090000   NVI.FTEM 1.090000
+    B2K.FTEM B2K...EM -1.000000   BFT.VOEM 1.000000
+    B2K.FTEM BFT.WTEM 0.926600   XSU.FTEM 0.435500
+    B2K.FTEM XVI.FTEM 1.092000   NVI.FTEM 1.092000
+    B2W.FTEM B2W...EM -1.000000   BFT.VOEM 1.000000
+    B2W.FTEM BFT.WTEM 0.922600   XSU.FTEM 0.461300
+    B2W.FTEM XVI.FTEM 1.122000   NVI.FTEM 1.122000
+    B6A.FTEM B6A...EM -1.000000   BFT.VOEM 1.000000
+    B6A.FTEM BFT.WTEM 1.108000   XSU.FTEM 0.675880
+    B6A.FTEM XVI.FTEM 1.113000   NVI.FTEM 1.113000
+    B6H.FTEM B6H...EM -1.000000   BFT.VOEM 1.000000
+    B6H.FTEM BFT.WTEM 1.108000   XSU.FTEM 0.565080
+    B6H.FTEM XVI.FTEM 1.113000   NVI.FTEM 1.113000
+    B6W.FTEM B6W...EM -1.000000   BFT.VOEM 1.000000
+    B6W.FTEM BFT.WTEM 1.108000   XSU.FTEM 0.709120
+    B6W.FTEM XVI.FTEM 1.113000   NVI.FTEM 1.113000
+    B9B.FTEM B9B...EM -1.000000   BFT.VOEM 1.000000
+    B9B.FTEM BFT.WTEM 1.086800   XSU.FTEM 0.434720
+    B9B.FTEM XVI.FTEM 1.228000   NVI.FTEM 1.228000
+    B9D.FTEM B9D...EM -1.000000   BFT.VOEM 1.000000
+    B9D.FTEM BFT.WTEM 1.080600   XSU.FTEM 0.432240
+    B9D.FTEM XVI.FTEM 1.221000   NVI.FTEM 1.221000
+    B9E.FTEM B9E...EM -1.000000   BFT.VOEM 1.000000
+    B9E.FTEM BFT.WTEM 1.012200   XSU.FTEM 0.415000
+    B9E.FTEM XVI.FTEM 1.152000   NVI.FTEM 1.152000
+    B9F.FTEM B9F...EM -1.000000   BFT.VOEM 1.000000
+    B9F.FTEM BFT.WTEM 0.923600   XSU.FTEM 0.240140
+    B9F.FTEM XVI.FTEM 1.169000   NVI.FTEM 1.169000
+    B9I.FTEM B9I...EM -1.000000   BFT.VOEM 1.000000
+    B9I.FTEM BFT.WTEM 1.140500   XSU.FTEM 0.547440
+    B9I.FTEM XVI.FTEM 1.275000   NVI.FTEM 1.275000
+    B9K.FTEM B9K...EM -1.000000   BFT.VOEM 1.000000
+    B9K.FTEM BFT.WTEM 1.132800   XSU.FTEM 0.566400
+    B9K.FTEM XVI.FTEM 1.281000   NVI.FTEM 1.281000
+    B9L.FTEM B9L...EM -1.000000   BFT.VOEM 1.000000
+    B9L.FTEM BFT.WTEM 1.034400   XSU.FTEM 0.475820
+    B9L.FTEM XVI.FTEM 1.212000   NVI.FTEM 1.212000
+    B9M.FTEM B9M...EM -1.000000   BFT.VOEM 1.000000
+    B9M.FTEM BFT.WTEM 0.944000   XSU.FTEM 0.368160
+    B9M.FTEM XVI.FTEM 1.188000   NVI.FTEM 1.188000
+    B9P.FTEM B9P...EM -1.000000   BFT.VOEM 1.000000
+    B9P.FTEM BFT.WTEM 1.119500   XSU.FTEM 0.369430
+    B9P.FTEM XVI.FTEM 1.070000   NVI.FTEM 1.070000
+    B9R.FTEM B9R...EM -1.000000   BFT.VOEM 1.000000
+    B9R.FTEM BFT.WTEM 1.114200   XSU.FTEM 0.367690
+    B9R.FTEM XVI.FTEM 1.060000   NVI.FTEM 1.060000
+    B9S.FTEM B9S...EM -1.000000   BFT.VOEM 1.000000
+    B9S.FTEM BFT.WTEM 1.072800   XSU.FTEM 0.354020
+    B9S.FTEM XVI.FTEM 1.035000   NVI.FTEM 1.035000
+    BAC.FVEM BAC...EM -1.000000   BFV.VOEM 1.000000
+    BAC.FVEM BFV.WTEM 0.954030   XSU.FVEM 0.238740
+    BAC.FVEM XVI.FVEM 1.342000   NVI.FVEM 1.342000
+    BAG.FVEM BAG...EM -1.000000   BFV.VOEM 1.000000
+    BAG.FVEM BFV.WTEM 0.842650   XSU.FVEM 0.015020
+    BAG.FVEM XVI.FVEM 0.968000   NVI.FVEM 0.968000
+    BAH.FVEM BAH...EM -1.000000   BFV.VOEM 1.000000
+    BAH.FVEM BFV.WTEM 0.989360   XSU.FVEM 4.444220
+    BAH.FVEM XVI.FVEM 1.246000   NVI.FVEM 1.246000
+    BAK.FVEM BAK...EM -1.000000   BFV.VOEM 1.000000
+    BAK.FVEM BFV.WTEM 1.026940   XSU.FVEM 4.681760
+    BAK.FVEM XVI.FVEM 1.423000   NVI.FVEM 1.423000
+    BAL.FVEM BAL...EM -1.000000   BFV.VOEM 1.000000
+    BAL.FVEM BFV.WTEM 0.958370   XSU.FVEM 3.064560
+    BAL.FVEM XVI.FVEM 1.144000   NVI.FVEM 1.144000
+    BAM.FVEM BAM...EM -1.000000   BFV.VOEM 1.000000
+    BAM.FVEM BFV.WTEM 0.969970   XSU.FVEM 3.855710
+    BAM.FVEM XVI.FVEM 1.161000   NVI.FVEM 1.161000
+    BAP.FVEM BAP...EM -1.000000   BFV.VOEM 1.000000
+    BAP.FVEM BFV.WTEM 0.886270   XSU.FVEM 0.030780
+    BAP.FVEM XVI.FVEM 1.215000   NVI.FVEM 1.215000
+    BAS.FVEM BAS...EM -1.000000   BFV.VOEM 1.000000
+    BAS.FVEM BFV.WTEM 0.995250   XSU.FVEM 0.498860
+    BAS.FVEM XVI.FVEM 1.435000   NVI.FVEM 1.435000
+    BAW.FVEM BAW...EM -1.000000   BFV.VOEM 1.000000
+    BAW.FVEM BFV.WTEM 0.908700   XSU.FVEM 0.313780
+    BAW.FVEM XVI.FVEM 1.076000   NVI.FVEM 1.076000
+    BAX.FVEM BAX...EM -1.000000   BFV.VOEM 1.000000
+    BAX.FVEM BFV.WTEM 0.930250   XSU.FVEM 1.991310
+    BAX.FVEM XVI.FVEM 1.081000   NVI.FVEM 1.081000
+    BBB.FVEM BBB...EM -1.000000   BFV.VOEM 1.000000
+    BBB.FVEM BFV.WTEM 0.893700   XSU.FVEM 0.178740
+    BBB.FVEM XVI.FVEM 0.977000   NVI.FVEM 0.977000
+    BBD.FVEM BBD...EM -1.000000   BFV.VOEM 1.000000
+    BBD.FVEM BFV.WTEM 0.893100   XSU.FVEM 0.178620
+    BBD.FVEM XVI.FVEM 0.990000   NVI.FVEM 0.990000
+    BBO.FVEM BBO...EM -1.000000   BFV.VOEM 1.000000
+    BBO.FVEM BFV.WTEM 0.820000   XSU.FVEM 0.246000
+    BBO.FVEM XVI.FVEM 0.720000   NVI.FVEM 0.720000
+    BBP.FVEM BBP...EM -1.000000   BFV.VOEM 1.000000
+    BBP.FVEM BFV.WTEM 0.820000   XSU.FVEM 1.230000
+    BBP.FVEM XVI.FVEM 0.720000   NVI.FVEM 0.720000
+    BBW.FVEM BBW...EM -1.000000   BFV.VOEM 1.000000
+    BBW.FVEM BFV.WTEM 0.870000   XSU.FVEM 0.435000
+    BBW.FVEM XVI.FVEM 0.870000   NVI.FVEM 0.870000
+    BBY.FVEM BBY...EM -1.000000   BFV.VOEM 1.000000
+    BBY.FVEM BFV.WTEM 0.870000   XSU.FVEM 1.305000
+    BBY.FVEM XVI.FVEM 0.870000   NVI.FVEM 0.870000
+    BCA.FVEM BCA...EM -1.000000   BFV.VOEM 1.000000
+    BCA.FVEM BFV.WTEM 0.911890   XSU.FVEM 0.155900
+    BCA.FVEM XVI.FVEM 1.118000   NVI.FVEM 1.118000
+    BEL.FVEM BEL...EM -1.000000   BFV.VOEM 1.000000
+    BEL.FVEM BFV.WTEM 0.958700   XSU.FVEM 0.690260
+    BEL.FVEM XVI.FVEM 1.125000   NVI.FVEM 1.125000
+    BES.FVEM BES...EM -1.000000   BFV.VOEM 1.000000
+    BES.FVEM BFV.WTEM 0.929480   XSU.FVEM 0.677090
+    BES.FVEM XVI.FVEM 1.112000   NVI.FVEM 1.112000
+    BHA.FVEM BHA...EM -1.000000   BFV.VOEM 1.000000
+    BHA.FVEM BFV.WTEM 1.051520   XSU.FVEM 6.325920
+    BHA.FVEM XVI.FVEM 1.460000   NVI.FVEM 1.460000
+    BHI.FVEM BHI...EM -1.000000   BFV.VOEM 1.000000
+    BHI.FVEM BFV.WTEM 1.035270   XSU.FVEM 3.560070
+    BHI.FVEM XVI.FVEM 1.460000   NVI.FVEM 1.460000
+    BHM.FVEM BHM...EM -1.000000   BFV.VOEM 1.000000
+    BHM.FVEM BFV.WTEM 0.820000   XSU.FVEM 0.246000
+    BHM.FVEM XVI.FVEM 0.720000   NVI.FVEM 0.720000
+    BHN.FVEM BHN...EM -1.000000   BFV.VOEM 1.000000
+    BHN.FVEM BFV.WTEM 0.820000   XSU.FVEM 1.066000
+    BHN.FVEM XVI.FVEM 0.720000   NVI.FVEM 0.720000
+    BHU.FVEM BHU...EM -1.000000   BFV.VOEM 1.000000
+    BHU.FVEM BFV.WTEM 1.000260   XSU.FVEM 2.569830
+    BHU.FVEM XVI.FVEM 1.371000   NVI.FVEM 1.371000
+    BHY.FVEM BHY...EM -1.000000   BFV.VOEM 1.000000
+    BHY.FVEM BFV.WTEM 0.961860   XSU.FVEM 0.342240
+    BHY.FVEM XVI.FVEM 1.169000   NVI.FVEM 1.169000
+    BIH.FVEM BIH...EM -1.000000   BFV.VOEM 1.000000
+    BIH.FVEM BFV.WTEM 0.971950   XSU.FVEM 2.489180
+    BIH.FVEM XVI.FVEM 1.206000   NVI.FVEM 1.206000
+    BIL.FVEM BIL...EM -1.000000   BFV.VOEM 1.000000
+    BIL.FVEM BFV.WTEM 0.955070   XSU.FVEM 2.400240
+    BIL.FVEM XVI.FVEM 1.149000   NVI.FVEM 1.149000
+    BKA.FVEM BKA...EM -1.000000   BFV.VOEM 1.000000
+    BKA.FVEM BFV.WTEM 0.961630   XSU.FVEM 3.349490
+    BKA.FVEM XVI.FVEM 1.162000   NVI.FVEM 1.162000
+    BKK.FVEM BKK...EM -1.000000   BFV.VOEM 1.000000
+    BKK.FVEM BFV.WTEM 0.963930   XSU.FVEM 3.853160
+    BKK.FVEM XVI.FVEM 1.159000   NVI.FVEM 1.159000
+    BKQ.FVEM BKQ...EM -1.000000   BFV.VOEM 1.000000
+    BKQ.FVEM BFV.WTEM 1.045330   XSU.FVEM 6.504400
+    BKQ.FVEM XVI.FVEM 1.430000   NVI.FVEM 1.430000
+    BKU.FVEM BKU...EM -1.000000   BFV.VOEM 1.000000
+    BKU.FVEM BFV.WTEM 0.973400   XSU.FVEM 4.132130
+    BKU.FVEM XVI.FVEM 1.190000   NVI.FVEM 1.190000
+    BLA.FVEM BLA...EM -1.000000   BFV.VOEM 1.000000
+    BLA.FVEM BFV.WTEM 1.021730   XSU.FVEM 4.444390
+    BLA.FVEM XVI.FVEM 1.381000   NVI.FVEM 1.381000
+    BLB.FVEM BLB...EM -1.000000   BFV.VOEM 1.000000
+    BLB.FVEM BFV.WTEM 0.915120   XSU.FVEM 0.383760
+    BLB.FVEM XVI.FVEM 1.078000   NVI.FVEM 1.078000
+    BLE.FVEM BLE...EM -1.000000   BFV.VOEM 1.000000
+    BLE.FVEM BFV.WTEM 1.027600   XSU.FVEM 1.171460
+    BLE.FVEM XVI.FVEM 1.460000   NVI.FVEM 1.460000
+    BLI.FVEM BLI...EM -1.000000   BFV.VOEM 1.000000
+    BLI.FVEM BFV.WTEM 1.028430   XSU.FVEM 3.784260
+    BLI.FVEM XVI.FVEM 1.434000   NVI.FVEM 1.434000
+    BLS.FVEM BLS...EM -1.000000   BFV.VOEM 1.000000
+    BLS.FVEM BFV.WTEM 0.913480   XSU.FVEM 0.299600
+    BLS.FVEM XVI.FVEM 1.108000   NVI.FVEM 1.108000
+    BLT.FVEM BLT...EM -1.000000   BFV.VOEM 1.000000
+    BLT.FVEM BFV.WTEM 0.923810   XSU.FVEM 0.241200
+    BLT.FVEM XVI.FVEM 1.065000   NVI.FVEM 1.065000
+    BLU.FVEM BLU...EM -1.000000   BFV.VOEM 1.000000
+    BLU.FVEM BFV.WTEM 0.987000   XSU.FVEM 0.770460
+    BLU.FVEM XVI.FVEM 1.346000   NVI.FVEM 1.346000
+    BMA.FVEM BMA...EM -1.000000   BFV.VOEM 1.000000
+    BMA.FVEM BFV.WTEM 1.036740   XSU.FVEM 5.561150
+    BMA.FVEM XVI.FVEM 1.405000   NVI.FVEM 1.405000
+    BMD.FVEM BMD...EM -1.000000   BFV.VOEM 1.000000
+    BMD.FVEM BFV.WTEM 0.954190   XSU.FVEM 0.370030
+    BMD.FVEM XVI.FVEM 1.143000   NVI.FVEM 1.143000
+    BMF.FVEM BMF...EM -1.000000   BFV.VOEM 1.000000
+    BMF.FVEM BFV.WTEM 1.017900   XSU.FVEM 0.796850
+    BMF.FVEM XVI.FVEM 1.415000   NVI.FVEM 1.415000
+    BMN.FVEM BMN...EM -1.000000   BFV.VOEM 1.000000
+    BMN.FVEM BFV.WTEM 0.944950   XSU.FVEM 1.778980
+    BMN.FVEM XVI.FVEM 1.152000   NVI.FVEM 1.152000
+    BMO.FVEM BMO...EM -1.000000   BFV.VOEM 1.000000
+    BMO.FVEM BFV.WTEM 1.000830   XSU.FVEM 2.555180
+    BMO.FVEM XVI.FVEM 1.384000   NVI.FVEM 1.384000
+    BMU.FVEM BMU...EM -1.000000   BFV.VOEM 1.000000
+    BMU.FVEM BFV.WTEM 0.922450   XSU.FVEM 1.622720
+    BMU.FVEM XVI.FVEM 1.067000   NVI.FVEM 1.067000
+    BQA.FVEM BQA...EM -1.000000   BFV.VOEM 1.000000
+    BQA.FVEM BFV.WTEM 0.997000   XSU.FVEM 4.147520
+    BQA.FVEM XVI.FVEM 1.175000   NVI.FVEM 1.175000
+    BQH.FVEM BQH...EM -1.000000   BFV.VOEM 1.000000
+    BQH.FVEM BFV.WTEM 1.014000   XSU.FVEM 5.536440
+    BQH.FVEM XVI.FVEM 1.175000   NVI.FVEM 1.175000
+    BQT.FVEM BQT...EM -1.000000   BFV.VOEM 1.000000
+    BQT.FVEM BFV.WTEM 0.933200   XSU.FVEM 2.347740
+    BQT.FVEM XVI.FVEM 1.090000   NVI.FVEM 1.090000
+    BQW.FVEM BQW...EM -1.000000   BFV.VOEM 1.000000
+    BQW.FVEM BFV.WTEM 1.007000   XSU.FVEM 5.810390
+    BQW.FVEM XVI.FVEM 1.175000   NVI.FVEM 1.175000
+    BRB.FVEM BRB...EM -1.000000   BFV.VOEM 1.000000
+    BRB.FVEM BFV.WTEM 0.983160   XSU.FVEM 0.680810
+    BRB.FVEM XVI.FVEM 1.339000   NVI.FVEM 1.339000
+    BSA.FVEM BSA...EM -1.000000   BFV.VOEM 1.000000
+    BSA.FVEM BFV.WTEM 0.963200   XSU.FVEM 0.597180
+    BSA.FVEM XVI.FVEM 1.145000   NVI.FVEM 1.145000
+    BSE.FVEM BSE...EM -1.000000   BFV.VOEM 1.000000
+    BSE.FVEM BFV.WTEM 1.004360   XSU.FVEM 1.209020
+    BSE.FVEM XVI.FVEM 1.382000   NVI.FVEM 1.382000
+    BSH.FVEM BSH...EM -1.000000   BFV.VOEM 1.000000
+    BSH.FVEM BFV.WTEM 0.979200   XSU.FVEM 0.802940
+    BSH.FVEM XVI.FVEM 1.145000   NVI.FVEM 1.145000
+    BSW.FVEM BSW...EM -1.000000   BFV.VOEM 1.000000
+    BSW.FVEM BFV.WTEM 0.972500   XSU.FVEM 0.836350
+    BSW.FVEM XVI.FVEM 1.145000   NVI.FVEM 1.145000
+    BTL.FVEM BTL...EM -1.000000   BFV.VOEM 1.000000
+    BTL.FVEM BFV.WTEM 1.023110   XSU.FVEM 0.553770
+    BTL.FVEM XVI.FVEM 1.388000   NVI.FVEM 1.388000
+    BTQ.FVEM BTQ...EM -1.000000   BFV.VOEM 1.000000
+    BTQ.FVEM BFV.WTEM 0.999180   XSU.FVEM 3.936200
+    BTQ.FVEM XVI.FVEM 1.395000   NVI.FVEM 1.395000
+    BUH.FVEM BUH...EM -1.000000   BFV.VOEM 1.000000
+    BUH.FVEM BFV.WTEM 0.936840   XSU.FVEM 1.445090
+    BUH.FVEM XVI.FVEM 1.122000   NVI.FVEM 1.122000
+    BUK.FVEM BUK...EM -1.000000   BFV.VOEM 1.000000
+    BUK.FVEM BFV.WTEM 1.037550   XSU.FVEM 5.791860
+    BUK.FVEM XVI.FVEM 1.440000   NVI.FVEM 1.440000
+    BUL.FVEM BUL...EM -1.000000   BFV.VOEM 1.000000
+    BUL.FVEM BFV.WTEM 0.925930   XSU.FVEM 0.481170
+    BUL.FVEM XVI.FVEM 1.109000   NVI.FVEM 1.109000
+    BUM.FVEM BUM...EM -1.000000   BFV.VOEM 1.000000
+    BUM.FVEM BFV.WTEM 0.989990   XSU.FVEM 2.897960
+    BUM.FVEM XVI.FVEM 1.344000   NVI.FVEM 1.344000
+    BWA.FVEM BWA...EM -1.000000   BFV.VOEM 1.000000
+    BWA.FVEM BFV.WTEM 0.969370   XSU.FVEM 0.602190
+    BWA.FVEM XVI.FVEM 1.340000   NVI.FVEM 1.340000
+    BXA.FVEM BXA...EM -1.000000   BFV.VOEM 1.000000
+    BXA.FVEM BFV.WTEM 0.991990   XSU.FVEM 2.861130
+    BXA.FVEM XVI.FVEM 1.300000   NVI.FVEM 1.300000
+    BYH.FVEM BYH...EM -1.000000   BFV.VOEM 1.000000
+    BYH.FVEM BFV.WTEM 1.023810   XSU.FVEM 0.666860
+    BYH.FVEM XVI.FVEM 1.455000   NVI.FVEM 1.455000
+    BZA.FVEM BZA...EM -1.000000   BFV.VOEM 1.000000
+    BZA.FVEM BFV.WTEM 0.902850   XSU.FVEM 0.149900
+    BZA.FVEM XVI.FVEM 1.074000   NVI.FVEM 1.074000
+    B1A.FVEM B1A...EM -1.000000   BFV.VOEM 1.000000
+    B1A.FVEM BFV.WTEM 0.932600   XSU.FVEM 0.792710
+    B1A.FVEM XVI.FVEM 1.118000   NVI.FVEM 1.118000
+    B1G.FVEM B1G...EM -1.000000   BFV.VOEM 1.000000
+    B1G.FVEM BFV.WTEM 0.953100   XSU.FVEM 0.695760
+    B1G.FVEM XVI.FVEM 1.200000   NVI.FVEM 1.200000
+    B1H.FVEM B1H...EM -1.000000   BFV.VOEM 1.000000
+    B1H.FVEM BFV.WTEM 0.949200   XSU.FVEM 1.195990
+    B1H.FVEM XVI.FVEM 1.244000   NVI.FVEM 1.244000
+    B1I.FVEM B1I...EM -1.000000   BFV.VOEM 1.000000
+    B1I.FVEM BFV.WTEM 0.939400   XSU.FVEM 0.666970
+    B1I.FVEM XVI.FVEM 1.139000   NVI.FVEM 1.139000
+    B1K.FVEM B1K...EM -1.000000   BFV.VOEM 1.000000
+    B1K.FVEM BFV.WTEM 0.940000   XSU.FVEM 1.081000
+    B1K.FVEM XVI.FVEM 1.138000   NVI.FVEM 1.138000
+    B1W.FVEM B1W...EM -1.000000   BFV.VOEM 1.000000
+    B1W.FVEM BFV.WTEM 0.937200   XSU.FVEM 1.124640
+    B1W.FVEM XVI.FVEM 1.174000   NVI.FVEM 1.174000
+    B2A.FVEM B2A...EM -1.000000   BFV.VOEM 1.000000
+    B2A.FVEM BFV.WTEM 0.921400   XSU.FVEM 0.313280
+    B2A.FVEM XVI.FVEM 1.078000   NVI.FVEM 1.078000
+    B2G.FVEM B2G...EM -1.000000   BFV.VOEM 1.000000
+    B2G.FVEM BFV.WTEM 0.942200   XSU.FVEM 0.282660
+    B2G.FVEM XVI.FVEM 1.152000   NVI.FVEM 1.152000
+    B2H.FVEM B2H...EM -1.000000   BFV.VOEM 1.000000
+    B2H.FVEM BFV.WTEM 0.933600   XSU.FVEM 0.494810
+    B2H.FVEM XVI.FVEM 1.188000   NVI.FVEM 1.188000
+    B2I.FVEM B2I...EM -1.000000   BFV.VOEM 1.000000
+    B2I.FVEM BFV.WTEM 0.929300   XSU.FVEM 0.269500
+    B2I.FVEM XVI.FVEM 1.090000   NVI.FVEM 1.090000
+    B2K.FVEM B2K...EM -1.000000   BFV.VOEM 1.000000
+    B2K.FVEM BFV.WTEM 0.926600   XSU.FVEM 0.435500
+    B2K.FVEM XVI.FVEM 1.092000   NVI.FVEM 1.092000
+    B2W.FVEM B2W...EM -1.000000   BFV.VOEM 1.000000
+    B2W.FVEM BFV.WTEM 0.922600   XSU.FVEM 0.461300
+    B2W.FVEM XVI.FVEM 1.122000   NVI.FVEM 1.122000
+    B6A.FVEM B6A...EM -1.000000   BFV.VOEM 1.000000
+    B6A.FVEM BFV.WTEM 1.108000   XSU.FVEM 0.675880
+    B6A.FVEM XVI.FVEM 1.113000   NVI.FVEM 1.113000
+    B6H.FVEM B6H...EM -1.000000   BFV.VOEM 1.000000
+    B6H.FVEM BFV.WTEM 1.108000   XSU.FVEM 0.565080
+    B6H.FVEM XVI.FVEM 1.113000   NVI.FVEM 1.113000
+    B6W.FVEM B6W...EM -1.000000   BFV.VOEM 1.000000
+    B6W.FVEM BFV.WTEM 1.108000   XSU.FVEM 0.709120
+    B6W.FVEM XVI.FVEM 1.113000   NVI.FVEM 1.113000
+    B7A.FVEM B7A...EM -1.000000   BFV.VOEM 1.000000
+    B7A.FVEM BFV.WTEM 0.974500   XSU.FVEM 3.420490
+    B7A.FVEM XVI.FVEM 1.160000   NVI.FVEM 1.160000
+    B7G.FVEM B7G...EM -1.000000   BFV.VOEM 1.000000
+    B7G.FVEM BFV.WTEM 0.991600   XSU.FVEM 2.835980
+    B7G.FVEM XVI.FVEM 1.233000   NVI.FVEM 1.233000
+    B7H.FVEM B7H...EM -1.000000   BFV.VOEM 1.000000
+    B7H.FVEM BFV.WTEM 1.009200   XSU.FVEM 4.803790
+    B7H.FVEM XVI.FVEM 1.261000   NVI.FVEM 1.261000
+    B7K.FVEM B7K...EM -1.000000   BFV.VOEM 1.000000
+    B7K.FVEM BFV.WTEM 0.988800   XSU.FVEM 4.370500
+    B7K.FVEM XVI.FVEM 1.187000   NVI.FVEM 1.187000
+    B7W.FVEM B7W...EM -1.000000   BFV.VOEM 1.000000
+    B7W.FVEM BFV.WTEM 0.992700   XSU.FVEM 4.675620
+    B7W.FVEM XVI.FVEM 1.220000   NVI.FVEM 1.220000
+    B8A.FVEM B8A...EM -1.000000   BFV.VOEM 1.000000
+    B8A.FVEM BFV.WTEM 1.107000   XSU.FVEM 7.859700
+    B8A.FVEM XVI.FVEM 1.113000   NVI.FVEM 1.113000
+    B8H.FVEM B8H...EM -1.000000   BFV.VOEM 1.000000
+    B8H.FVEM BFV.WTEM 1.107000   XSU.FVEM 6.475950
+    B8H.FVEM XVI.FVEM 1.113000   NVI.FVEM 1.113000
+    B8W.FVEM B8W...EM -1.000000   BFV.VOEM 1.000000
+    B8W.FVEM BFV.WTEM 1.107000   XSU.FVEM 8.202870
+    B8W.FVEM XVI.FVEM 1.113000   NVI.FVEM 1.113000
+    B9A.FVEM B9A...EM -1.000000   BFV.VOEM 1.000000
+    B9A.FVEM BFV.WTEM 1.086800   XSU.FVEM 6.520800
+    B9A.FVEM XVI.FVEM 1.228000   NVI.FVEM 1.228000
+    B9B.FVEM B9B...EM -1.000000   BFV.VOEM 1.000000
+    B9B.FVEM BFV.WTEM 1.086800   XSU.FVEM 0.434720
+    B9B.FVEM XVI.FVEM 1.228000   NVI.FVEM 1.228000
+    B9C.FVEM B9C...EM -1.000000   BFV.VOEM 1.000000
+    B9C.FVEM BFV.WTEM 1.080600   XSU.FVEM 3.241800
+    B9C.FVEM XVI.FVEM 1.221000   NVI.FVEM 1.221000
+    B9D.FVEM B9D...EM -1.000000   BFV.VOEM 1.000000
+    B9D.FVEM BFV.WTEM 1.080600   XSU.FVEM 0.432240
+    B9D.FVEM XVI.FVEM 1.221000   NVI.FVEM 1.221000
+    B9E.FVEM B9E...EM -1.000000   BFV.VOEM 1.000000
+    B9E.FVEM BFV.WTEM 1.012200   XSU.FVEM 0.415000
+    B9E.FVEM XVI.FVEM 1.152000   NVI.FVEM 1.152000
+    B9F.FVEM B9F...EM -1.000000   BFV.VOEM 1.000000
+    B9F.FVEM BFV.WTEM 0.923600   XSU.FVEM 0.240140
+    B9F.FVEM XVI.FVEM 1.169000   NVI.FVEM 1.169000
+    B9G.FVEM B9G...EM -1.000000   BFV.VOEM 1.000000
+    B9G.FVEM BFV.WTEM 0.979200   XSU.FVEM 3.427200
+    B9G.FVEM XVI.FVEM 1.230000   NVI.FVEM 1.230000
+    B9H.FVEM B9H...EM -1.000000   BFV.VOEM 1.000000
+    B9H.FVEM BFV.WTEM 1.140500   XSU.FVEM 7.869450
+    B9H.FVEM XVI.FVEM 1.275000   NVI.FVEM 1.275000
+    B9I.FVEM B9I...EM -1.000000   BFV.VOEM 1.000000
+    B9I.FVEM BFV.WTEM 1.140500   XSU.FVEM 0.547440
+    B9I.FVEM XVI.FVEM 1.275000   NVI.FVEM 1.275000
+    B9J.FVEM B9J...EM -1.000000   BFV.VOEM 1.000000
+    B9J.FVEM BFV.WTEM 1.132800   XSU.FVEM 3.964800
+    B9J.FVEM XVI.FVEM 1.281000   NVI.FVEM 1.281000
+    B9K.FVEM B9K...EM -1.000000   BFV.VOEM 1.000000
+    B9K.FVEM BFV.WTEM 1.132800   XSU.FVEM 0.566400
+    B9K.FVEM XVI.FVEM 1.281000   NVI.FVEM 1.281000
+    B9L.FVEM B9L...EM -1.000000   BFV.VOEM 1.000000
+    B9L.FVEM BFV.WTEM 1.034400   XSU.FVEM 0.475820
+    B9L.FVEM XVI.FVEM 1.212000   NVI.FVEM 1.212000
+    B9M.FVEM B9M...EM -1.000000   BFV.VOEM 1.000000
+    B9M.FVEM BFV.WTEM 0.944000   XSU.FVEM 0.368160
+    B9M.FVEM XVI.FVEM 1.188000   NVI.FVEM 1.188000
+    B9N.FVEM B9N...EM -1.000000   BFV.VOEM 1.000000
+    B9N.FVEM BFV.WTEM 1.031300   XSU.FVEM 5.259630
+    B9N.FVEM XVI.FVEM 1.276000   NVI.FVEM 1.276000
+    B9O.FVEM B9O...EM -1.000000   BFV.VOEM 1.000000
+    B9O.FVEM BFV.WTEM 1.119500   XSU.FVEM 5.463160
+    B9O.FVEM XVI.FVEM 1.070000   NVI.FVEM 1.070000
+    B9P.FVEM B9P...EM -1.000000   BFV.VOEM 1.000000
+    B9P.FVEM BFV.WTEM 1.119500   XSU.FVEM 0.369430
+    B9P.FVEM XVI.FVEM 1.070000   NVI.FVEM 1.070000
+    B9Q.FVEM B9Q...EM -1.000000   BFV.VOEM 1.000000
+    B9Q.FVEM BFV.WTEM 1.114200   XSU.FVEM 2.629510
+    B9Q.FVEM XVI.FVEM 1.060000   NVI.FVEM 1.060000
+    B9R.FVEM B9R...EM -1.000000   BFV.VOEM 1.000000
+    B9R.FVEM BFV.WTEM 1.114200   XSU.FVEM 0.367690
+    B9R.FVEM XVI.FVEM 1.060000   NVI.FVEM 1.060000
+    B9S.FVEM B9S...EM -1.000000   BFV.VOEM 1.000000
+    B9S.FVEM BFV.WTEM 1.072800   XSU.FVEM 0.354020
+    B9S.FVEM XVI.FVEM 1.035000   NVI.FVEM 1.035000
+    BAH.FYEM BAH...EM -1.000000   BFY.VOEM 1.000000
+    BAH.FYEM BFY.WTEM 0.989360   XSU.FYEM 4.444220
+    BAH.FYEM XVI.FYEM 1.246000   NVI.FYEM 1.246000
+    BAK.FYEM BAK...EM -1.000000   BFY.VOEM 1.000000
+    BAK.FYEM BFY.WTEM 1.026940   XSU.FYEM 4.681760
+    BAK.FYEM XVI.FYEM 1.423000   NVI.FYEM 1.423000
+    BAL.FYEM BAL...EM -1.000000   BFY.VOEM 1.000000
+    BAL.FYEM BFY.WTEM 0.958370   XSU.FYEM 3.064560
+    BAL.FYEM XVI.FYEM 1.144000   NVI.FYEM 1.144000
+    BAM.FYEM BAM...EM -1.000000   BFY.VOEM 1.000000
+    BAM.FYEM BFY.WTEM 0.969970   XSU.FYEM 3.855710
+    BAM.FYEM XVI.FYEM 1.161000   NVI.FYEM 1.161000
+    BAX.FYEM BAX...EM -1.000000   BFY.VOEM 1.000000
+    BAX.FYEM BFY.WTEM 0.930250   XSU.FYEM 1.991310
+    BAX.FYEM XVI.FYEM 1.081000   NVI.FYEM 1.081000
+    BBO.FYEM BBO...EM -1.000000   BFY.VOEM 1.000000
+    BBO.FYEM BFY.WTEM 0.820000   XSU.FYEM 0.246000
+    BBO.FYEM XVI.FYEM 0.720000   NVI.FYEM 0.720000
+    BBP.FYEM BBP...EM -1.000000   BFY.VOEM 1.000000
+    BBP.FYEM BFY.WTEM 0.820000   XSU.FYEM 1.230000
+    BBP.FYEM XVI.FYEM 0.720000   NVI.FYEM 0.720000
+    BBW.FYEM BBW...EM -1.000000   BFY.VOEM 1.000000
+    BBW.FYEM BFY.WTEM 0.870000   XSU.FYEM 0.435000
+    BBW.FYEM XVI.FYEM 0.870000   NVI.FYEM 0.870000
+    BBY.FYEM BBY...EM -1.000000   BFY.VOEM 1.000000
+    BBY.FYEM BFY.WTEM 0.870000   XSU.FYEM 1.305000
+    BBY.FYEM XVI.FYEM 0.870000   NVI.FYEM 0.870000
+    BHA.FYEM BHA...EM -1.000000   BFY.VOEM 1.000000
+    BHA.FYEM BFY.WTEM 1.051520   XSU.FYEM 6.325920
+    BHA.FYEM XVI.FYEM 1.460000   NVI.FYEM 1.460000
+    BHI.FYEM BHI...EM -1.000000   BFY.VOEM 1.000000
+    BHI.FYEM BFY.WTEM 1.035270   XSU.FYEM 3.560070
+    BHI.FYEM XVI.FYEM 1.460000   NVI.FYEM 1.460000
+    BHM.FYEM BHM...EM -1.000000   BFY.VOEM 1.000000
+    BHM.FYEM BFY.WTEM 0.820000   XSU.FYEM 0.246000
+    BHM.FYEM XVI.FYEM 0.720000   NVI.FYEM 0.720000
+    BHN.FYEM BHN...EM -1.000000   BFY.VOEM 1.000000
+    BHN.FYEM BFY.WTEM 0.820000   XSU.FYEM 1.066000
+    BHN.FYEM XVI.FYEM 0.720000   NVI.FYEM 0.720000
+    BHU.FYEM BHU...EM -1.000000   BFY.VOEM 1.000000
+    BHU.FYEM BFY.WTEM 1.000260   XSU.FYEM 2.569830
+    BHU.FYEM XVI.FYEM 1.371000   NVI.FYEM 1.371000
+    BHV.FYEM BHV...EM -1.000000   BFY.VOEM 1.000000
+    BHV.FYEM BFY.WTEM 1.054570   XSU.FYEM 3.887300
+    BHV.FYEM XVI.FYEM 1.460000   NVI.FYEM 1.460000
+    BIH.FYEM BIH...EM -1.000000   BFY.VOEM 1.000000
+    BIH.FYEM BFY.WTEM 0.971950   XSU.FYEM 2.489180
+    BIH.FYEM XVI.FYEM 1.206000   NVI.FYEM 1.206000
+    BIL.FYEM BIL...EM -1.000000   BFY.VOEM 1.000000
+    BIL.FYEM BFY.WTEM 0.955070   XSU.FYEM 2.400240
+    BIL.FYEM XVI.FYEM 1.149000   NVI.FYEM 1.149000
+    BIR.FYEM BIR...EM -1.000000   BFY.VOEM 1.000000
+    BIR.FYEM BFY.WTEM 0.967590   XSU.FYEM 4.163000
+    BIR.FYEM XVI.FYEM 1.165000   NVI.FYEM 1.165000
+    BKA.FYEM BKA...EM -1.000000   BFY.VOEM 1.000000
+    BKA.FYEM BFY.WTEM 0.961630   XSU.FYEM 3.349490
+    BKA.FYEM XVI.FYEM 1.162000   NVI.FYEM 1.162000
+    BKK.FYEM BKK...EM -1.000000   BFY.VOEM 1.000000
+    BKK.FYEM BFY.WTEM 0.963930   XSU.FYEM 3.853160
+    BKK.FYEM XVI.FYEM 1.159000   NVI.FYEM 1.159000
+    BKQ.FYEM BKQ...EM -1.000000   BFY.VOEM 1.000000
+    BKQ.FYEM BFY.WTEM 1.045330   XSU.FYEM 6.504400
+    BKQ.FYEM XVI.FYEM 1.430000   NVI.FYEM 1.430000
+    BKU.FYEM BKU...EM -1.000000   BFY.VOEM 1.000000
+    BKU.FYEM BFY.WTEM 0.973400   XSU.FYEM 4.132130
+    BKU.FYEM XVI.FYEM 1.190000   NVI.FYEM 1.190000
+    BLA.FYEM BLA...EM -1.000000   BFY.VOEM 1.000000
+    BLA.FYEM BFY.WTEM 1.021730   XSU.FYEM 4.444390
+    BLA.FYEM XVI.FYEM 1.381000   NVI.FYEM 1.381000
+    BLI.FYEM BLI...EM -1.000000   BFY.VOEM 1.000000
+    BLI.FYEM BFY.WTEM 1.028430   XSU.FYEM 3.784260
+    BLI.FYEM XVI.FYEM 1.434000   NVI.FYEM 1.434000
+    BMA.FYEM BMA...EM -1.000000   BFY.VOEM 1.000000
+    BMA.FYEM BFY.WTEM 1.036740   XSU.FYEM 5.561150
+    BMA.FYEM XVI.FYEM 1.405000   NVI.FYEM 1.405000
+    BMN.FYEM BMN...EM -1.000000   BFY.VOEM 1.000000
+    BMN.FYEM BFY.WTEM 0.944950   XSU.FYEM 1.778980
+    BMN.FYEM XVI.FYEM 1.152000   NVI.FYEM 1.152000
+    BMO.FYEM BMO...EM -1.000000   BFY.VOEM 1.000000
+    BMO.FYEM BFY.WTEM 1.000830   XSU.FYEM 2.555180
+    BMO.FYEM XVI.FYEM 1.384000   NVI.FYEM 1.384000
+    BMT.FYEM BMT...EM -1.000000   BFY.VOEM 1.000000
+    BMT.FYEM BFY.WTEM 1.039070   XSU.FYEM 3.268510
+    BMT.FYEM XVI.FYEM 1.460000   NVI.FYEM 1.460000
+    BMU.FYEM BMU...EM -1.000000   BFY.VOEM 1.000000
+    BMU.FYEM BFY.WTEM 0.922450   XSU.FYEM 1.622720
+    BMU.FYEM XVI.FYEM 1.067000   NVI.FYEM 1.067000
+    BQA.FYEM BQA...EM -1.000000   BFY.VOEM 1.000000
+    BQA.FYEM BFY.WTEM 0.997000   XSU.FYEM 4.147520
+    BQA.FYEM XVI.FYEM 1.175000   NVI.FYEM 1.175000
+    BQH.FYEM BQH...EM -1.000000   BFY.VOEM 1.000000
+    BQH.FYEM BFY.WTEM 1.014000   XSU.FYEM 5.536440
+    BQH.FYEM XVI.FYEM 1.175000   NVI.FYEM 1.175000
+    BQT.FYEM BQT...EM -1.000000   BFY.VOEM 1.000000
+    BQT.FYEM BFY.WTEM 0.933200   XSU.FYEM 2.347740
+    BQT.FYEM XVI.FYEM 1.090000   NVI.FYEM 1.090000
+    BQW.FYEM BQW...EM -1.000000   BFY.VOEM 1.000000
+    BQW.FYEM BFY.WTEM 1.007000   XSU.FYEM 5.810390
+    BQW.FYEM XVI.FYEM 1.175000   NVI.FYEM 1.175000
+    BRI.FYEM BRI...EM -1.000000   BFY.VOEM 1.000000
+    BRI.FYEM BFY.WTEM 1.031500   XSU.FYEM 6.043990
+    BRI.FYEM XVI.FYEM 1.420000   NVI.FYEM 1.420000
+    BTQ.FYEM BTQ...EM -1.000000   BFY.VOEM 1.000000
+    BTQ.FYEM BFY.WTEM 0.999180   XSU.FYEM 3.936200
+    BTQ.FYEM XVI.FYEM 1.395000   NVI.FYEM 1.395000
+    BUH.FYEM BUH...EM -1.000000   BFY.VOEM 1.000000
+    BUH.FYEM BFY.WTEM 0.936840   XSU.FYEM 1.445090
+    BUH.FYEM XVI.FYEM 1.122000   NVI.FYEM 1.122000
+    BUK.FYEM BUK...EM -1.000000   BFY.VOEM 1.000000
+    BUK.FYEM BFY.WTEM 1.037550   XSU.FYEM 5.791860
+    BUK.FYEM XVI.FYEM 1.440000   NVI.FYEM 1.440000
+    BUM.FYEM BUM...EM -1.000000   BFY.VOEM 1.000000
+    BUM.FYEM BFY.WTEM 0.989990   XSU.FYEM 2.897960
+    BUM.FYEM XVI.FYEM 1.344000   NVI.FYEM 1.344000
+    BXA.FYEM BXA...EM -1.000000   BFY.VOEM 1.000000
+    BXA.FYEM BFY.WTEM 0.991990   XSU.FYEM 2.861130
+    BXA.FYEM XVI.FYEM 1.300000   NVI.FYEM 1.300000
+    B7A.FYEM B7A...EM -1.000000   BFY.VOEM 1.000000
+    B7A.FYEM BFY.WTEM 0.974500   XSU.FYEM 3.420490
+    B7A.FYEM XVI.FYEM 1.160000   NVI.FYEM 1.160000
+    B7G.FYEM B7G...EM -1.000000   BFY.VOEM 1.000000
+    B7G.FYEM BFY.WTEM 0.991600   XSU.FYEM 2.835980
+    B7G.FYEM XVI.FYEM 1.233000   NVI.FYEM 1.233000
+    B7H.FYEM B7H...EM -1.000000   BFY.VOEM 1.000000
+    B7H.FYEM BFY.WTEM 1.009200   XSU.FYEM 4.803790
+    B7H.FYEM XVI.FYEM 1.261000   NVI.FYEM 1.261000
+    B7K.FYEM B7K...EM -1.000000   BFY.VOEM 1.000000
+    B7K.FYEM BFY.WTEM 0.988800   XSU.FYEM 4.370500
+    B7K.FYEM XVI.FYEM 1.187000   NVI.FYEM 1.187000
+    B7W.FYEM B7W...EM -1.000000   BFY.VOEM 1.000000
+    B7W.FYEM BFY.WTEM 0.992700   XSU.FYEM 4.675620
+    B7W.FYEM XVI.FYEM 1.220000   NVI.FYEM 1.220000
+    B8A.FYEM B8A...EM -1.000000   BFY.VOEM 1.000000
+    B8A.FYEM BFY.WTEM 1.107000   XSU.FYEM 7.859700
+    B8A.FYEM XVI.FYEM 1.113000   NVI.FYEM 1.113000
+    B8H.FYEM B8H...EM -1.000000   BFY.VOEM 1.000000
+    B8H.FYEM BFY.WTEM 1.107000   XSU.FYEM 6.475950
+    B8H.FYEM XVI.FYEM 1.113000   NVI.FYEM 1.113000
+    B8W.FYEM B8W...EM -1.000000   BFY.VOEM 1.000000
+    B8W.FYEM BFY.WTEM 1.107000   XSU.FYEM 8.202870
+    B8W.FYEM XVI.FYEM 1.113000   NVI.FYEM 1.113000
+    B9A.FYEM B9A...EM -1.000000   BFY.VOEM 1.000000
+    B9A.FYEM BFY.WTEM 1.086800   XSU.FYEM 6.520800
+    B9A.FYEM XVI.FYEM 1.228000   NVI.FYEM 1.228000
+    B9C.FYEM B9C...EM -1.000000   BFY.VOEM 1.000000
+    B9C.FYEM BFY.WTEM 1.080600   XSU.FYEM 3.241800
+    B9C.FYEM XVI.FYEM 1.221000   NVI.FYEM 1.221000
+    B9G.FYEM B9G...EM -1.000000   BFY.VOEM 1.000000
+    B9G.FYEM BFY.WTEM 0.979200   XSU.FYEM 3.427200
+    B9G.FYEM XVI.FYEM 1.230000   NVI.FYEM 1.230000
+    B9H.FYEM B9H...EM -1.000000   BFY.VOEM 1.000000
+    B9H.FYEM BFY.WTEM 1.140500   XSU.FYEM 7.869450
+    B9H.FYEM XVI.FYEM 1.275000   NVI.FYEM 1.275000
+    B9J.FYEM B9J...EM -1.000000   BFY.VOEM 1.000000
+    B9J.FYEM BFY.WTEM 1.132800   XSU.FYEM 3.964800
+    B9J.FYEM XVI.FYEM 1.281000   NVI.FYEM 1.281000
+    B9N.FYEM B9N...EM -1.000000   BFY.VOEM 1.000000
+    B9N.FYEM BFY.WTEM 1.031300   XSU.FYEM 5.259630
+    B9N.FYEM XVI.FYEM 1.276000   NVI.FYEM 1.276000
+    B9O.FYEM B9O...EM -1.000000   BFY.VOEM 1.000000
+    B9O.FYEM BFY.WTEM 1.119500   XSU.FYEM 5.463160
+    B9O.FYEM XVI.FYEM 1.070000   NVI.FYEM 1.070000
+    B9Q.FYEM B9Q...EM -1.000000   BFY.VOEM 1.000000
+    B9Q.FYEM BFY.WTEM 1.114200   XSU.FYEM 2.629510
+    B9Q.FYEM XVI.FYEM 1.060000   NVI.FYEM 1.060000
+    B/A.GPEM B/A...EM -1.000000   BGP.VOEM 1.000000
+    B/A.GPEM NRN.GPEM 0.639000   ND2.GPEM 0.281000
+    B/A.GPEM WVP.GPEM 0.380000   WD8.GPEM 0.085000
+    BIP.GPEM BIP...EM -1.000000   BGP.VOEM 1.000000
+    BIP.GPEM NRN.GPEM 0.486000   ND2.GPEM 0.137000
+    BIP.GPEM WVP.GPEM 0.110000   WD8.GPEM -0.016000
+    BLN.GPEM BLN...EM -1.000000   BGP.VOEM 1.000000
+    BLN.GPEM NRN.GPEM 0.555000   ND2.GPEM 1.080000
+    BLN.GPEM WVP.GPEM 1.040000   WD8.GPEM 0.580000
+    BN4.GPEM BN4...EM -1.000000   BGP.VOEM 1.000000
+    BN4.GPEM NRN.GPEM 0.668000   ND2.GPEM 1.000000
+    BN4.GPEM WVP.GPEM 6.500000   WD8.GPEM 1.040000
+    B0A.GPEM B0A...EM -1.000000   BGP.VOEM 1.000000
+    B0A.GPEM NRN.GPEM 0.639000   ND2.GPEM 0.281000
+    B0A.GPEM WVP.GPEM 0.380000   WD8.GPEM 0.085000
+    B4A.GPEM B4A...EM -1.000000   BGP.VOEM 1.000000
+    B4A.GPEM NRN.GPEM 0.643200   ND2.GPEM 0.486000
+    B4A.GPEM WVP.GPEM 0.700000   WD8.GPEM 0.187000
+    B4C.GPEM B4C...EM -1.000000   BGP.VOEM 1.000000
+    B4C.GPEM NRN.GPEM 0.645700   ND2.GPEM 0.551000
+    B4C.GPEM WVP.GPEM 0.790000   WD8.GPEM 0.235000
+    B4E.GPEM B4E...EM -1.000000   BGP.VOEM 1.000000
+    B4E.GPEM NRN.GPEM 0.645200   ND2.GPEM 0.569000
+    B4E.GPEM WVP.GPEM 0.780000   WD8.GPEM 0.226000
+    B4F.GPEM B4F...EM -1.000000   BGP.VOEM 1.000000
+    B4F.GPEM NRN.GPEM 0.644800   ND2.GPEM 0.527000
+    B4F.GPEM WVP.GPEM 0.760000   WD8.GPEM 0.217000
+    B4G.GPEM B4G...EM -1.000000   BGP.VOEM 1.000000
+    B4G.GPEM NRN.GPEM 0.643400   ND2.GPEM 0.492000
+    B4G.GPEM WVP.GPEM 0.710000   WD8.GPEM 0.192000
+    B4H.GPEM B4H...EM -1.000000   BGP.VOEM 1.000000
+    B4H.GPEM NRN.GPEM 0.647500   ND2.GPEM 0.600000
+    B4H.GPEM WVP.GPEM 0.860000   WD8.GPEM 0.271000
+    B4J.GPEM B4J...EM -1.000000   BGP.VOEM 1.000000
+    B4J.GPEM NRN.GPEM 0.640600   ND2.GPEM 0.682000
+    B4J.GPEM WVP.GPEM 0.980000   WD8.GPEM 0.331000
+    B4L.GPEM B4L...EM -1.000000   BGP.VOEM 1.000000
+    B4L.GPEM NRN.GPEM 0.649500   ND2.GPEM 0.654000
+    B4L.GPEM WVP.GPEM 0.940000   WD8.GPEM 0.311000
+    B4M.GPEM B4M...EM -1.000000   BGP.VOEM 1.000000
+    B4M.GPEM NRN.GPEM 0.648900   ND2.GPEM 0.638000
+    B4M.GPEM WVP.GPEM 0.920000   WD8.GPEM 0.299000
+    B4N.GPEM B4N...EM -1.000000   BGP.VOEM 1.000000
+    B4N.GPEM NRN.GPEM 0.647900   ND2.GPEM 0.612000
+    B4N.GPEM WVP.GPEM 0.880000   WD8.GPEM 0.280000
+    B4O.GPEM B4O...EM -1.000000   BGP.VOEM 1.000000
+    B4O.GPEM NRN.GPEM 0.650000   ND2.GPEM 0.462000
+    B4O.GPEM WVP.GPEM 0.580000   WD8.GPEM 0.222000
+    B4Q.GPEM B4Q...EM -1.000000   BGP.VOEM 1.000000
+    B4Q.GPEM NRN.GPEM 0.650000   ND2.GPEM 0.464000
+    B4Q.GPEM WVP.GPEM 0.580000   WD8.GPEM 0.224000
+    B4S.GPEM B4S...EM -1.000000   BGP.VOEM 1.000000
+    B4S.GPEM NRN.GPEM 0.648000   ND2.GPEM 0.489000
+    B4S.GPEM WVP.GPEM 0.600000   WD8.GPEM 0.253000
+    B5A.GPEM B5A...EM -1.000000   BGP.VOEM 1.000000
+    B5A.GPEM NRN.GPEM 0.668000   ND2.GPEM 0.239000
+    B5A.GPEM WVP.GPEM 0.230000   WD8.GPEM -0.040000
+    B5B.GPEM B5B...EM -1.000000   BGP.VOEM 1.000000
+    B5B.GPEM NRN.GPEM 0.672000   ND2.GPEM 0.334000
+    B5B.GPEM WVP.GPEM 0.370000   WD8.GPEM 0.049000
+    B5C.GPEM B5C...EM -1.000000   BGP.VOEM 1.000000
+    B5C.GPEM NRN.GPEM 0.667000   ND2.GPEM 0.191000
+    B5C.GPEM WVP.GPEM 0.220000   WD8.GPEM -0.049000
+    B5D.GPEM B5D...EM -1.000000   BGP.VOEM 1.000000
+    B5D.GPEM NRN.GPEM 0.671000   ND2.GPEM 0.286000
+    B5D.GPEM WVP.GPEM 0.360000   WD8.GPEM 0.040000
+    B5E.GPEM B5E...EM -1.000000   BGP.VOEM 1.000000
+    B5E.GPEM NRN.GPEM 0.701000   ND2.GPEM 0.241000
+    B5E.GPEM WVP.GPEM 0.250000   WD8.GPEM -0.024000
+    B5F.GPEM B5F...EM -1.000000   BGP.VOEM 1.000000
+    B5F.GPEM NRN.GPEM 0.705000   ND2.GPEM 0.336000
+    B5F.GPEM WVP.GPEM 0.390000   WD8.GPEM 0.065000
+    B5G.GPEM B5G...EM -1.000000   BGP.VOEM 1.000000
+    B5G.GPEM NRN.GPEM 0.700000   ND2.GPEM 0.193000
+    B5G.GPEM WVP.GPEM 0.240000   WD8.GPEM -0.033000
+    B5H.GPEM B5H...EM -1.000000   BGP.VOEM 1.000000
+    B5H.GPEM NRN.GPEM 0.704000   ND2.GPEM 0.288000
+    B5H.GPEM WVP.GPEM 0.380000   WD8.GPEM 0.056000
+    B5M.GPEM B5M...EM -1.000000   BGP.VOEM 1.000000
+    B5M.GPEM NRN.GPEM 0.729000   ND2.GPEM 0.200000
+    B5M.GPEM WVP.GPEM 0.250000   WD8.GPEM -0.015000
+    B5N.GPEM B5N...EM -1.000000   BGP.VOEM 1.000000
+    B5N.GPEM NRN.GPEM 0.729000   ND2.GPEM 0.147000
+    B5N.GPEM WVP.GPEM 0.240000   WD8.GPEM -0.028000
+    B5O.GPEM B5O...EM -1.000000   BGP.VOEM 1.000000
+    B5O.GPEM NRN.GPEM 0.731000   ND2.GPEM 0.253000
+    B5O.GPEM WVP.GPEM 0.360000   WD8.GPEM 0.050000
+    B5P.GPEM B5P...EM -1.000000   BGP.VOEM 1.000000
+    B5P.GPEM NRN.GPEM 0.731000   ND2.GPEM 0.200000
+    B5P.GPEM WVP.GPEM 0.350000   WD8.GPEM 0.037000
+    B5U.GPEM B5U...EM -1.000000   BGP.VOEM 1.000000
+    B5U.GPEM NRN.GPEM 0.777000   ND2.GPEM -0.566000
+    B5U.GPEM WVP.GPEM -0.110000   WD8.GPEM -0.528000
+    B5V.GPEM B5V...EM -1.000000   BGP.VOEM 1.000000
+    B5V.GPEM NRN.GPEM 0.728000   ND2.GPEM 0.112000
+    B5V.GPEM WVP.GPEM 0.470000   WD8.GPEM -0.045000
+    B5W.GPEM B5W...EM -1.000000   BGP.VOEM 1.000000
+    B5W.GPEM NRN.GPEM 0.684000   ND2.GPEM 0.093000
+    B5W.GPEM WVP.GPEM 0.380000   WD8.GPEM 0.031000
+    CF..B.EM CF..B.EM 1.000000   KTC..... 1.000000
+    CF..B.EM UPBROW27738 1.000000
+    CFT.C.EM CFT.C.EM 1.000000   KTC..... 1.000000
+    CFT.C.EM BFR...EM -0.009000   UPBROW27739 1.000000
+    CTF.D.EM CTF.D.EM 1.000000   KWC..... 3.511000
+    CTF.D.EM FAT0..J. 0.099000   BFR...EM -0.025000
+    CTF.D.EM UPBROW27740 1.000000
+    CF..G.EM CF..G.EM 1.000000   FAT0..J. 0.421000
+    CF..G.EM BFR...EM -0.024000   BNL...EM -0.022100
+    CF..G.EM UPBROW27741 1.000000
+    CF..P.EM CF..P.EM 1.000000   KTC..... 1.000000
+    CF..P.EM FAT0..J. 0.458000   BFR...EM -0.044000
+    CF..P.EM UPBROW27742 1.000000
+    CF..Q.EM CF..Q.EM 1.000000   KTC..... 1.000000
+    CF..Q.EM BFR...EM -0.032000   UPBROW27743 1.000000
+    KLS5PRU1 LFF.C.U1 -0.140000   KFF.C.U1 -1.000000
+    COH.V.EM COH.V.EM 1.000000   KTC..... 1.000000
+    COH.V.EM FAT0..J. 0.172000   BFR...EM -0.014000
+    COH.V.EM UPBROW27744 1.000000
+    DCR...EM BCR...EM -1.000000   FAT0..J. -100.000000
+    DCR...EM UPBROW27745 1.000000
+    DDH...EM BDH...EM -1.000000   FAT0..J. -100.000000
+    DDH...EM UPBROW27746 1.000000
+    DDK...EM BDK...EM -1.000000   FAT0..J. -100.000000
+    DDK...EM UPBROW27747 1.000000
+    DFT...EM BFT...EM -1.000000   FAT0..J. -100.000000
+    DFT...EM UPBROW27748 1.000000
+    DFV...EM BFV...EM -1.000000   FAT0..J. -100.000000
+    DFV...EM UPBROW27749 1.000000
+    DFX...EM BFX...EM -1.000000   FAT0..J. -100.000000
+    DFX...EM UPBROW27750 1.000000
+    DFY...EM BFY...EM -1.000000   FAT0..J. -100.000000
+    DFY...EM UPBROW27751 1.000000
+    DGP...EM BGP...EM -1.000000   FAT0..J. -100.000000
+    DGP...EM UPBROW27752 1.000000
+    DLG...EM BLG...EM -1.000000   FAT0..J. -100.000000
+    DLG...EM UPBROW27753 1.000000
+    DLO...EM BLO...EM -1.000000   FAT0..J. -100.000000
+    DLO...EM LOBROW27754 1.000000
+    DNE...EM BNE...EM -1.000000   FAT0..J. -100.000000
+    DNE...EM UPBROW27755 1.000000
+    DNI...EM BNI...EM -1.000000   FAT0..J. -100.000000
+    DNI...EM UPBROW27756 1.000000
+    DNJ...EM BNJ...EM -1.000000   FAT0..J. -100.000000
+    DNJ...EM UPBROW27757 1.000000
+    DNL...EM BNL...EM -1.000000   FAT0..J. -100.000000
+    DNL...EM UPBROW27758 1.000000
+    DNP...EM BNP...EM -1.000000   FAT0..J. -100.000000
+    DNP...EM UPBROW27759 1.000000
+    DOA...EM BOA...EM -1.000000   FAT0..J. -100.000000
+    DOA...EM UPBROW27760 1.000000
+    DOL...EM BOL...EM -1.000000   FAT0..J. -100.000000
+    DOL...EM UPBROW27761 1.000000
+    DRG...EM BRG...EM -1.000000   FAT0..J. -100.000000
+    DRG...EM UPBROW27762 1.000000
+    DAF.02EM BAF...EM -1.000000   FAT0..J. -100.000000
+    DAF.02EM UPBROW27763 1.000000
+    DAJ.02EM BAJ...EM -1.000000   FAT0..J. -100.000000
+    DAJ.02EM UPBROW27764 1.000000
+    WVP5GPSG WVP.GPSG -0.100000   XVL.GPSG 0.100000
+    WD85GPSG WD8.GPSG -0.010000   XVL.GPSG 0.020000
+    QVO5GUSG BGP.VOSG -1.000000   BGU...SG 0.985000
+    QVO5GUSG NRN.GPSG -0.668000   ND2.GPSG -0.500000
+    QVO5GUSG XVL.GPSG -1.850000
+    IF..B.EM CF..B.EM 1.000000   FAT0..J. 0.556000
+    IFT.C.EM CFT.C.EM 1.000000   FAT0..J. 1.123000
+    IFT.C.EM BFR...EM -0.009000   KTF.C5EM -1.000000
+    ITF.D.EM CTF.D.EM 1.000000   KWC..... 3.511000
+    ITF.D.EM FAT0..J. 1.039000   BFR...EM -0.025000
+    IF..F.EM CF..F.EM 1.000000   FAT0..J. 0.536000
+    IF..F.EM BFR...EM -0.015000   BRG...EM -0.007000
+    IF..G.EM CF..G.EM 1.000000   FAT0..J. 1.507000
+    IF..G.EM BFR...EM -0.024000   BNL...EM -0.022100
+    IF..P.EM CF..P.EM 1.000000   FAT0..J. 1.068000
+    IF..P.EM BFR...EM -0.044000
+    IF..Q.EM CF..Q.EM 1.000000   FAT0..J. 3.781000
+    IF..Q.EM BFR...EM -0.032000
+    IF..R.EM CF..R.EM 1.000000   FAT0..J. 2.860000
+    IF..R.EM BFR...EM -0.050000   BNL...EM -0.044200
+    IOH.V.EM COH.V.EM 1.000000   FAT0..J. 0.560000
+    IOH.V.EM BFR...EM -0.014000
+    KC5.PREM KTF.C5EM -1.000000   UPBROW27765 1.000000
+    KPC.REEM KPC...EM -1.000000   FAT0..J. 1.276000
+    MFR.AFEM BFR...EM -1.000000   BAF...EM 1.000000
+    MLO.AJEM BGP...EM -0.230000   BDH...EM -0.326000
+    MLO.AJEM BFV...EM -0.169000   BFY...EM -0.275000
+    MLO.AJEM BAJ...EM 1.000000
+    MBK.BLEM BBL...EM 1.000000   BBK...EM -1.000000
+    MBK.BMEM BBM...EM 1.000000   BBK...EM -1.000000
+    MBL.BNEM BBN...EM 1.000000   BBL...EM -1.000000
+    MBM.BOEM BBL...EM -0.034500   BBN...EM -0.034500
+    MBM.BOEM BBK...EM -0.465500   BBM...EM -0.465500
+    MBM.BOEM BBO...EM 1.000000
+    MBN.BPEM BBL...EM -0.241400   BBN...EM -0.241400
+    MBN.BPEM BBK...EM -0.258600   BBM...EM -0.258600
+    MBN.BPEM BBP...EM 1.000000
+    MBU.BVEM BBV...EM 1.000000   BBU...EM -1.000000
+    MBU.BWEM BBV...EM -0.130400   BBU...EM -0.869600
+    MBU.BWEM BBW...EM 1.000000
+    MBV.BYEM BBV...EM -0.565200   BBU...EM -0.434800
+    MBV.BYEM BBY...EM 1.000000
+    MBC.B4EM BB4...EM 1.000000   BBC...EM -0.576500
+    MBC.B4EM BBA...EM -0.423500
+    MKE.DKEM BDK...EM 1.000000   BKE...EM -1.005000
+    MFT.FEEM BFE...EM 1.000000   BFT...EM -1.000000
+    MFT.FEEM XVI.FTEM -0.038000
+    MFV.FGEM BFG...EM 1.000000   BFV...EM -1.000000
+    MFV.FGEM XVI.FVEM -0.038000
+    MFX.FIEM XVI.FVEM -0.025300   BFX...EM -1.000000
+    MFX.FIEM XVI.FYEM -0.012700   BFI...EM 1.000000
+    MFY.FJEM BFY...EM -1.000000   XVI.FYEM -0.035000
+    MFY.FJEM BFJ...EM 1.000000
+    MFG.FREM BFR...EM 1.000000   BFG...EM -1.000000
+    MRG.FREM BFR...EM 1.000000   BRG...EM -1.000000
+    MFE.FSEM BFS...EM 1.000000   BFE...EM -1.100000
+    MFE.FSEM BFG...EM 0.100000
+    MFY.FXEM BFV...EM -0.333300   BFY...EM -0.666700
+    MFY.FXEM BFX...EM 1.000000   XVI.FYEM -0.002000
+    MHL.HHEM BHH...EM 1.000000   BHL...EM -1.000000
+    MHL.HMEM BHH...EM -0.133300   BHL...EM -0.866700
+    MHL.HMEM BHM...EM 1.000000
+    MHH.HNEM BHH...EM -0.800000   BHL...EM -0.200000
+    MHH.HNEM BHN...EM 1.000000
+    MIP.IBEM BIP...EM -0.780000   BKE...EM -1.066200
+    MIP.IBEM BIB...EM 1.000000   BKH...EM 0.846200
+    MIN.IGEM BIN...EM -0.780000   BKE...EM -1.066200
+    MIN.IGEM BIG...EM 1.000000   BKH...EM 0.846200
+    MIN.IPEM BIP...EM 1.000000   BIN...EM -1.000000
+    MRG.LGEM BRG...EM -0.657500   BLG...EM 1.000000
+    MDH.LNEM BLN...EM 1.015000   BRG...EM 0.072200
+    MDH.LNEM KPC...EM 1.000000   BDH...EM -1.111000
+    MDH.LNEM B5W...EM 0.072200
+    MIB.LNEM BLN...EM 1.015000   BIG...EM -0.047400
+    MIB.LNEM BIB...EM -0.899600   BRG...EM -0.038000
+    MIB.LNEM B5U...EM 0.055300   KPC...EM 1.500000
+    MIG.LNEM BLN...EM 1.015000   BIG...EM -0.676100
+    MIG.LNEM BIB...EM -0.522600   BRG...EM 0.026900
+    MIG.LNEM B5V...EM 0.192500   KPC...EM 1.500000
+    MIN.LNEM BLN...EM 1.015000   BIN...EM -0.676100
+    MIN.LNEM BIP...EM -0.522600   BRG...EM 0.026900
+    MIN.LNEM B5V...EM 0.192500   KPC...EM 1.500000
+    MIP.LNEM BLN...EM 1.015000   BIN...EM -0.047400
+    MIP.LNEM BIP...EM -0.899600   BRG...EM -0.038000
+    MIP.LNEM B5U...EM 0.055300   KPC...EM 1.500000
+    MIP.NEEM BIN...EM -0.193900   BIP...EM -0.821100
+    MIP.NEEM BNE...EM 1.000000
+    MIN.NIEM BIN...EM -0.572500   BIP...EM -0.442500
+    MIN.NIEM BNI...EM 1.000000
+    MDK.NJEM BLN...EM -0.111100   BIN...EM -0.175000
+    MDK.NJEM BIP...EM -0.238900   BDK...EM -0.482400
+    MDK.NJEM BNJ...EM 1.000000
+    MI5.NLEM BI5...EM -1.052000   BNL...EM 1.000000
+    MLN.NLEM BNL...EM 1.000000   BLN...EM -1.015000
+    MIP.NPEM BIN...EM -0.050800   BIP...EM -0.964200
+    MIP.NPEM BNP...EM 1.000000
+    MRG.N4EM BRG...EM -1.000000   BN4...EM 1.414600
+    MBC.OLEM BOL...EM 1.000000   BBC...EM -1.000000
+    MCV.RGEM BRG...EM 0.645000   BCV...EM -1.000000
+    MLG.RGEM BRG...EM 0.657500   BLG...EM -1.000000
+    PAH.B1EM BRG...EM 0.010000   BLN...EM 0.009000
+    PAH.B1EM BIP...EM 0.019000   BBK...EM -0.082400
+    PAH.B1EM BBL...EM -0.192200   BBM...EM 0.129200
+    PAH.B1EM BBN...EM 0.301400   B7H...EM 0.817000
+    PAH.B1EM BAH...EM -1.000000   BFR...EM -0.016000
+    PAH.B1EM CF..B.EM -1.000000
+    PAL.B1EM BRG...EM 0.010000   BLN...EM 0.009000
+    PAL.B1EM BIP...EM 0.019000   BBK...EM -0.135400
+    PAL.B1EM BBL...EM -0.139200   BBM...EM 0.212300
+    PAL.B1EM BBN...EM 0.218300   B7A...EM 0.817000
+    PAL.B1EM BAL...EM -1.000000   BFR...EM -0.016000
+    PAL.B1EM CF..B.EM -1.000000
+    PAM.B1EM BRG...EM 0.010000   BLN...EM 0.009000
+    PAM.B1EM BIP...EM 0.019000   BBK...EM -0.096600
+    PAM.B1EM BBL...EM -0.177900   BBM...EM 0.151600
+    PAM.B1EM BBN...EM 0.278900   B7K...EM 0.817000
+    PAM.B1EM BAM...EM -1.000000   BFR...EM -0.016000
+    PAM.B1EM CF..B.EM -1.000000
+    PIH.B1EM BRG...EM 0.010000   BLN...EM 0.009000
+    PIH.B1EM BIP...EM 0.019000   BBK...EM -0.162800
+    PIH.B1EM BBL...EM -0.111700   BBM...EM 0.255300
+    PIH.B1EM BBN...EM 0.175200   B7G...EM 0.817000
+    PIH.B1EM BIH...EM -1.000000   BFR...EM -0.016000
+    PIH.B1EM CF..B.EM -1.000000
+    PKU.B1EM BRG...EM 0.010000   BLN...EM 0.009000
+    PKU.B1EM BIP...EM 0.019000   BBK...EM -0.084300
+    PKU.B1EM BBL...EM -0.190300   BBM...EM 0.132200
+    PKU.B1EM BBN...EM 0.298400   B7W...EM 0.817000
+    PKU.B1EM BKU...EM -1.000000   BFR...EM -0.016000
+    PKU.B1EM CF..B.EM -1.000000
+    PBA.C1EM BRG...EM 0.129900   B4A...EM 0.498800
+    PBA.C1EM BBK...EM 0.068800   BBL...EM 0.169900
+    PBA.C1EM BBM...EM 0.036100   BBN...EM 0.089100
+    PBA.C1EM B9A...EM 0.038500   CFT.C.EM -1.756000
+    PBA.C1EM BBA...EM -1.000000
+    PBB.C1EM BRG...EM 0.129900   B4A...EM 0.498800
+    PBB.C1EM BBK...EM 0.236200   BBL...EM 0.002600
+    PBB.C1EM BBM...EM 0.123800   BBN...EM 0.001300
+    PBB.C1EM B9B...EM 0.038500   CFT.C.EM -1.756000
+    PBB.C1EM BBB...EM -1.000000
+    PBC.C1EM BRG...EM 0.143700   B4C...EM 0.496400
+    PBC.C1EM BBK...EM 0.151600   BBL...EM 0.075400
+    PBC.C1EM BBM...EM 0.083100   BBN...EM 0.041300
+    PBC.C1EM B9C...EM 0.033900   CFT.C.EM -1.719000
+    PBC.C1EM BBC...EM -1.000000
+    PBD.C1EM BRG...EM 0.143700   B4C...EM 0.496400
+    PBD.C1EM BBK...EM 0.224400   BBL...EM 0.002600
+    PBD.C1EM BBM...EM 0.123000   BBN...EM 0.001400
+    PBD.C1EM B9D...EM 0.033900   CFT.C.EM -1.719000
+    PBD.C1EM BBD...EM -1.000000
+    PBE.C1EM BRG...EM 0.141400   BBK...EM 0.130900
+    PBE.C1EM BBL...EM 0.001400   BBM...EM 0.196300
+    PBE.C1EM BBN...EM 0.002000   CFT.C.EM -1.566000
+    PBE.C1EM B4E...EM 0.561300   B9E...EM 0.027500
+    PBE.C1EM BBE...EM -1.000000
+    PBU.C1EM BRG...EM 0.079900   B4F...EM 0.240900
+    PBU.C1EM BBK...EM 0.393300   BBL...EM 0.000900
+    PBU.C1EM BBM...EM 0.289400   BBN...EM 0.000700
+    PBU.C1EM B9F...EM 0.008400   CFT.C.EM -1.330000
+    PBU.C1EM BBU...EM -1.000000
+    PBV.C1EM BBV...EM -1.000000   BRG...EM 0.081200
+    PBV.C1EM B4G...EM 0.265400   BBK...EM -0.004000
+    PBV.C1EM BBL...EM -0.026500   BBM...EM 0.089800
+    PBV.C1EM BBN...EM 0.602900   B9G...EM 0.008600
+    PBV.C1EM CFT.C.EM -1.370000
+    PBA.C3EM BRG...EM 0.217000   BBK...EM 0.049700
+    PBA.C3EM BBL...EM 0.146900   BBM...EM 0.020500
+    PBA.C3EM BBN...EM 0.060600   CFT.C.EM -2.170000
+    PBA.C3EM B4H...EM 0.465000   B9H...EM 0.014000
+    PBA.C3EM BBA...EM -1.000000
+    PBB.C3EM BRG...EM 0.217000   BBK...EM 0.194100
+    PBB.C3EM BBL...EM 0.002500   BBM...EM 0.080100
+    PBB.C3EM BBN...EM 0.001000   CFT.C.EM -2.170000
+    PBB.C3EM B4H...EM 0.465000   B9I...EM 0.014000
+    PBB.C3EM BBB...EM -1.000000
+    PBC.C3EM BRG...EM 0.239700   BBK...EM 0.116700
+    PBC.C3EM BBL...EM 0.067800   BBM...EM 0.050900
+    PBC.C3EM BBN...EM 0.029600   CFT.C.EM -2.062000
+    PBC.C3EM B4J...EM 0.458000   B9J...EM 0.012300
+    PBC.C3EM BBC...EM -1.000000
+    PBD.C3EM BRG...EM 0.239700   BBK...EM 0.181500
+    PBD.C3EM BBL...EM 0.002900   BBM...EM 0.079300
+    PBD.C3EM BBN...EM 0.001300   CFT.C.EM -2.062000
+    PBD.C3EM B4J...EM 0.458000   B9K...EM 0.012300
+    PBD.C3EM BBD...EM -1.000000
+    PBE.C3EM BRG...EM 0.240700   BBK...EM 0.114300
+    PBE.C3EM BBL...EM 0.001600   BBM...EM 0.131000
+    PBE.C3EM BBN...EM 0.001800   CFT.C.EM -1.506000
+    PBE.C3EM B4L...EM 0.529900   B9L...EM 0.010200
+    PBE.C3EM BBE...EM -1.000000
+    PBU.C3EM BRG...EM 0.161400   BBK...EM 0.356200
+    PBU.C3EM BBL...EM 0.009700   BBM...EM 0.148400
+    PBU.C3EM BBN...EM 0.004100   CFT.C.EM -1.334000
+    PBU.C3EM B4M...EM 0.305400   B9M...EM 0.009600
+    PBU.C3EM BBU...EM -1.000000
+    PBV.C3EM BBV...EM -1.000000   BRG...EM 0.162100
+    PBV.C3EM BBK...EM 0.007300   BBL...EM 0.050700
+    PBV.C3EM BBM...EM 0.056000   BBN...EM 0.386000
+    PBV.C3EM CFT.C.EM -1.368000   B4N...EM 0.334800
+    PBV.C3EM B9N...EM 0.009600
+    PBA.C5EM BRG...EM 0.162300   BBK...EM -0.011800
+    PBA.C5EM BBL...EM 0.125800   BBM...EM -0.001600
+    PBA.C5EM BBN...EM 0.017100   CFT.C.EM -1.521000
+    PBA.C5EM BBA...EM -1.000000   B4O...EM 0.669100
+    PBA.C5EM B9O...EM 0.070500   KTF.C5EM 1.521000
+    PBB.C5EM BRG...EM 0.162300   BBK...EM 0.110100
+    PBB.C5EM BBL...EM 0.003900   BBM...EM 0.015000
+    PBB.C5EM BBN...EM 0.000500   CFT.C.EM -1.521000
+    PBB.C5EM B4O...EM 0.669100   B9P...EM 0.070500
+    PBB.C5EM BBB...EM -1.000000   KTF.C5EM 1.521000
+    PBC.C5EM BRG...EM 0.160300   BBK...EM 0.054100
+    PBC.C5EM BBL...EM 0.057900   BBM...EM 0.007400
+    PBC.C5EM BBN...EM 0.007900   CFT.C.EM -1.506000
+    PBC.C5EM B4Q...EM 0.672300   B9Q...EM 0.072700
+    PBC.C5EM BBC...EM -1.000000   KTF.C5EM 1.506000
+    PBD.C5EM BRG...EM 0.160300   BBK...EM 0.108200
+    PBD.C5EM BBL...EM 0.003900   BBM...EM 0.014700
+    PBD.C5EM BBN...EM 0.000500   CFT.C.EM -1.506000
+    PBD.C5EM B4Q...EM 0.672300   B9R...EM 0.072700
+    PBD.C5EM BBD...EM -1.000000   KTF.C5EM 1.506000
+    PBE.C5EM BRG...EM 0.146100   BBK...EM 0.050500
+    PBE.C5EM BBL...EM 0.001800   BBM...EM 0.075700
+    PBE.C5EM BBN...EM 0.002700   CFT.C.EM -1.413000
+    PBE.C5EM B4S...EM 0.697200   B9S...EM 0.069300
+    PBE.C5EM BBE...EM -1.000000   KTF.C5EM 1.413000
+    PQA.C7EM BRG...EM 0.097300   BBL...EM 0.282700
+    PQA.C7EM BBN...EM -0.016000   CFT.C.EM -1.931000
+    PQA.C7EM BQA...EM -1.000000   B0A...EM 0.489600
+    PQA.C7EM B8A...EM 0.119800
+    PQH.C7EM BRG...EM 0.097300   BBK...EM -0.062400
+    PQH.C7EM BBL...EM 0.345100   BBM...EM 0.003500
+    PQH.C7EM BBN...EM -0.019500   CFT.C.EM -1.931000
+    PQH.C7EM BQH...EM -1.000000   B0A...EM 0.489600
+    PQH.C7EM B8H...EM 0.119800
+    PQW.C7EM BRG...EM 0.097300   BBK...EM -0.078000
+    PQW.C7EM BBL...EM 0.360700   BBM...EM 0.004400
+    PQW.C7EM BBN...EM -0.020400   CFT.C.EM -1.931000
+    PQW.C7EM BQW...EM -1.000000   B0A...EM 0.489600
+    PQW.C7EM B8W...EM 0.119800
+    PSA.C7EM BRG...EM 0.098100   BBK...EM 0.254100
+    PSA.C7EM BBL...EM 0.027700   BBM...EM -0.014400
+    PSA.C7EM BBN...EM -0.001600   CFT.C.EM -1.922000
+    PSA.C7EM BSA...EM -1.000000   B/A...EM 0.487900
+    PSA.C7EM B6A...EM 0.119500
+    PSH.C7EM BRG...EM 0.098100   BBK...EM 0.245700
+    PSH.C7EM BBL...EM 0.036000   BBM...EM -0.013900
+    PSH.C7EM BBN...EM -0.002000   CFT.C.EM -1.922000
+    PSH.C7EM BSH...EM -1.000000   B/A...EM 0.487900
+    PSH.C7EM B6H...EM 0.119500
+    PSW.C7EM BRG...EM 0.098100   BBK...EM 0.243800
+    PSW.C7EM BBL...EM 0.037900   BBM...EM -0.013800
+    PSW.C7EM BBN...EM -0.002100   CFT.C.EM -1.922000
+    PSW.C7EM BSW...EM -1.000000   B/A...EM 0.487900
+    PSW.C7EM B6W...EM 0.119500
+    PAL.DIEM BCR...EM 1.000000   AAL..... -1.000000
+    PAG.DVEM CTF.D.EM -1.000000   COH.V.EM -0.443560
+    PAG.DVEM AAG..... -1.000000   BCV...EM 0.010920
+    PAG.DVEM BI5...EM 0.006310   BLN...EM 0.030370
+    PAG.DVEM BIN...EM -0.005620   BIP...EM 0.113550
+    PAG.DVEM BKE...EM 0.080140   BHL...EM 0.157120
+    PAG.DVEM BHH...EM -0.009730   BBU...EM 0.077980
+    PAG.DVEM BBV...EM -0.006140   BBE...EM 0.502450
+    PAG.DVEM BBC...EM -0.058890   BAP...EM 0.101540
+    PAH.DVEM CTF.D.EM -1.000000   COH.V.EM -0.263830
+    PAH.DVEM AAH..... -1.000000   BCV...EM 0.025790
+    PAH.DVEM BI5...EM 0.008120   BLN...EM 0.039600
+    PAH.DVEM BIN...EM -0.007860   BIP...EM 0.111920
+    PAH.DVEM BKE...EM 0.130620   BHL...EM 0.029870
+    PAH.DVEM BHH...EM 0.091860   BBU...EM 0.003600
+    PAH.DVEM BBV...EM 0.071830   BBC...EM 0.047640
+    PAH.DVEM BBA...EM 0.216190   BHA...EM 0.230820
+    PAL.DVEM CTF.D.EM -1.000000   COH.V.EM -0.253090
+    PAL.DVEM BCV...EM 0.018350   BI5...EM 0.008650
+    PAL.DVEM BLN...EM 0.043700   BIN...EM 0.004910
+    PAL.DVEM BIP...EM 0.124890   BKE...EM 0.178950
+    PAL.DVEM BHL...EM 0.060480   BHH...EM 0.072710
+    PAL.DVEM BBU...EM 0.021080   BBV...EM 0.065990
+    PAL.DVEM BBC...EM 0.125810   BBA...EM 0.127280
+    PAL.DVEM BLA...EM 0.147180   AAL..... -1.000000
+    PAM.DVEM CTF.D.EM -1.000000   COH.V.EM -0.281070
+    PAM.DVEM BCV...EM 0.012720   BI5...EM 0.007550
+    PAM.DVEM BLN...EM 0.042710   BIN...EM 0.003590
+    PAM.DVEM BIP...EM 0.117680   BKE...EM 0.144210
+    PAM.DVEM BHL...EM 0.046940   BHH...EM 0.075380
+    PAM.DVEM BBU...EM 0.015520   BBV...EM 0.066500
+    PAM.DVEM BBC...EM 0.058490   BBA...EM 0.222580
+    PAM.DVEM BMA...EM 0.186130   AAM..... -1.000000
+    PAW.DVEM CTF.D.EM -1.000000   COH.V.EM -0.194660
+    PAW.DVEM AAW..... -1.000000   BCV...EM 0.040840
+    PAW.DVEM BI5...EM 0.014750   BLN...EM 0.065660
+    PAW.DVEM BIN...EM 0.027490   BIP...EM 0.150780
+    PAW.DVEM BKE...EM 0.223800   BHL...EM 0.149740
+    PAW.DVEM BHH...EM -0.002840   BBU...EM 0.090510
+    PAW.DVEM BBV...EM 0.000810   BBE...EM 0.183900
+    PAW.DVEM BBC...EM 0.010760   BWA...EM 0.043810
+    PAX.DVEM CTF.D.EM -1.000000   COH.V.EM -0.255260
+    PAX.DVEM BCV...EM 0.020370   BI5...EM 0.009350
+    PAX.DVEM BLN...EM 0.052270   BIN...EM 0.010770
+    PAX.DVEM BIP...EM 0.125670   BKE...EM 0.204490
+    PAX.DVEM BHL...EM 0.077920   BHH...EM 0.040930
+    PAX.DVEM BBU...EM 0.050490   BBV...EM 0.062960
+    PAX.DVEM BBC...EM 0.217020   BBA...EM 0.038240
+    PAX.DVEM BXA...EM 0.089520   AAX..... -1.000000
+    PBA.DVEM CTF.D.EM -1.000000   COH.V.EM -0.244570
+    PBA.DVEM BCV...EM 0.022920   BI5...EM 0.009360
+    PBA.DVEM BLN...EM 0.050930   BIN...EM 0.001770
+    PBA.DVEM BIP...EM 0.128360   BKE...EM 0.174610
+    PBA.DVEM BHL...EM 0.040170   BHH...EM 0.081800
+    PBA.DVEM BBU...EM 0.025150   BBV...EM 0.058160
+    PBA.DVEM BBC...EM 0.087600   BBA...EM 0.156970
+    PBA.DVEM BAK...EM 0.162210   ABA..... -1.000000
+    PBQ.DVEM CTF.D.EM -1.000000   COH.V.EM -0.324520
+    PBQ.DVEM BCV...EM 0.007590   BI5...EM 0.003180
+    PBQ.DVEM BLN...EM 0.014330   BIN...EM 0.036100
+    PBQ.DVEM BIP...EM 0.005260   BKE...EM 0.100560
+    PBQ.DVEM BHL...EM 0.020970   BHH...EM 0.159280
+    PBQ.DVEM BBU...EM 0.000320   BBV...EM 0.001460
+    PBQ.DVEM BBC...EM 0.168940   BBA...EM 0.155570
+    PBQ.DVEM BHV...EM 0.326430   ABQ..... -1.000000
+    PBR.DVEM CTF.D.EM -1.000000   COH.V.EM -0.255810
+    PBR.DVEM ABR..... -1.000000   BCV...EM 0.024040
+    PBR.DVEM BI5...EM 0.012810   BLN...EM 0.054100
+    PBR.DVEM BIN...EM 0.058540   BIP...EM 0.114350
+    PBR.DVEM BKE...EM 0.171410   BHL...EM 0.127230
+    PBR.DVEM BHH...EM -0.002130   BBU...EM 0.095890
+    PBR.DVEM BBV...EM -0.001620   BBE...EM 0.234850
+    PBR.DVEM BBC...EM 0.020960   BRB...EM 0.089570
+    PCA.DVEM CTF.D.EM -1.000000   COH.V.EM -0.349050
+    PCA.DVEM ACA..... -1.000000   BCV...EM 0.022390
+    PCA.DVEM BI5...EM 0.006880   BLN...EM 0.028570
+    PCA.DVEM BIN...EM 0.043090   BIP...EM 0.058170
+    PCA.DVEM BKE...EM 0.091930   BHL...EM 0.127570
+    PCA.DVEM BHH...EM -0.003910   BBU...EM 0.057720
+    PCA.DVEM BBV...EM -0.003330   BBE...EM 0.369860
+    PCA.DVEM BBC...EM -0.020820   BAC...EM 0.221880
+    PDA.DVEM CTF.D.EM -1.000000   COH.V.EM -0.233880
+    PDA.DVEM BCV...EM 0.028910   BI5...EM 0.014810
+    PDA.DVEM BLN...EM 0.058210   BIN...EM 0.011910
+    PDA.DVEM BIP...EM 0.127900   BKE...EM 0.156050
+    PDA.DVEM BHL...EM 0.016240   BHH...EM 0.113760
+    PDA.DVEM BBU...EM 0.002260   BBV...EM 0.079970
+    PDA.DVEM BBC...EM 0.022680   BBA...EM 0.211200
+    PDA.DVEM BRI...EM 0.156110   ADA..... -1.000000
+    PES.DVEM CTF.D.EM -1.000000   COH.V.EM -0.272190
+    PES.DVEM BCV...EM 0.019260   BI5...EM 0.012160
+    PES.DVEM BLN...EM 0.041200   BIN...EM 0.050610
+    PES.DVEM BIP...EM 0.094450   BKE...EM 0.157620
+    PES.DVEM BHL...EM 0.131740   BHH...EM 0.009590
+    PES.DVEM BBU...EM 0.085320   BBV...EM 0.005410
+    PES.DVEM BBE...EM 0.215170   BBC...EM 0.057030
+    PES.DVEM BSE...EM 0.120440   AES..... -1.000000
+    PIH.DVEM CTF.D.EM -1.000000   COH.V.EM -0.248210
+    PIH.DVEM BCV...EM 0.027600   BI5...EM 0.010720
+    PIH.DVEM BLN...EM 0.041710   BIN...EM 0.052270
+    PIH.DVEM BIP...EM 0.081290   BKE...EM 0.151300
+    PIH.DVEM BHL...EM 0.053680   BHH...EM 0.068650
+    PIH.DVEM BBU...EM 0.035650   BBV...EM 0.042830
+    PIH.DVEM BBC...EM 0.215240   BBA...EM 0.032970
+    PIH.DVEM BHI...EM 0.186090   AIH..... -1.000000
+    PIL.DVEM CTF.D.EM -1.000000   COH.V.EM -0.271680
+    PIL.DVEM BCV...EM 0.023430   BI5...EM 0.009760
+    PIL.DVEM BLN...EM 0.043810   BIN...EM 0.046670
+    PIL.DVEM BIP...EM 0.091200   BKE...EM 0.162000
+    PIL.DVEM BHL...EM 0.078750   BHH...EM 0.057420
+    PIL.DVEM BBU...EM 0.043960   BBV...EM 0.041920
+    PIL.DVEM BBC...EM 0.225030   BBA...EM 0.046650
+    PIL.DVEM BLI...EM 0.129410   AIL..... -1.000000
+    PKK.DVEM CTF.D.EM -1.000000   COH.V.EM -0.222260
+    PKK.DVEM BCV...EM 0.026610   BI5...EM 0.016480
+    PKK.DVEM BLN...EM 0.051660   BIN...EM 0.016170
+    PKK.DVEM BIP...EM 0.136830   BKE...EM 0.181310
+    PKK.DVEM BHL...EM 0.059020   BHH...EM 0.080820
+    PKK.DVEM BBU...EM 0.020050   BBV...EM 0.065450
+    PKK.DVEM BBC...EM 0.092730   BBA...EM 0.129530
+    PKK.DVEM BKQ...EM 0.123340   AKK..... -1.000000
+    PKU.DVEM CTF.D.EM -1.000000   COH.V.EM -0.257810
+    PKU.DVEM BCV...EM 0.026680   BI5...EM 0.008720
+    PKU.DVEM BLN...EM 0.053840   BIN...EM 0.000250
+    PKU.DVEM BIP...EM 0.121660   BKE...EM 0.141740
+    PKU.DVEM BHL...EM 0.040980   BHH...EM 0.080340
+    PKU.DVEM BBU...EM 0.012730   BBV...EM 0.071090
+    PKU.DVEM BBC...EM 0.018870   BBA...EM 0.238940
+    PKU.DVEM BUK...EM 0.184140   AKU..... -1.000000
+    PMU.DVEM CTF.D.EM -1.000000   COH.V.EM -0.249190
+    PMU.DVEM BCV...EM 0.019830   BI5...EM 0.010950
+    PMU.DVEM BLN...EM 0.052370   BIN...EM 0.026140
+    PMU.DVEM BIP...EM 0.134930   BKE...EM 0.193130
+    PMU.DVEM BHL...EM 0.123210   BHH...EM 0.026600
+    PMU.DVEM BBU...EM 0.053960   BBV...EM 0.041020
+    PMU.DVEM BBE...EM 0.034520   BBC...EM 0.214670
+    PMU.DVEM BUM...EM 0.068660   AMU..... -1.000000
+    PNF.DVEM CTF.D.EM -1.000000   COH.V.EM -0.260140
+    PNF.DVEM BCV...EM 0.023190   BI5...EM 0.009250
+    PNF.DVEM BLN...EM 0.028930   BIN...EM 0.123190
+    PNF.DVEM BIP...EM 0.008450   BKE...EM 0.204470
+    PNF.DVEM BHL...EM 0.227760   BHH...EM 0.006920
+    PNF.DVEM BBU...EM 0.048730   BBV...EM 0.000220
+    PNF.DVEM BBE...EM 0.243280   BBC...EM 0.016860
+    PNF.DVEM BMF...EM 0.058740   ANF..... -1.000000
+    PNL.DVEM CTF.D.EM -1.000000   COH.V.EM -0.260920
+    PNL.DVEM ANL..... -1.000000   BCV...EM 0.028250
+    PNL.DVEM BI5...EM 0.013210   BLN...EM 0.043820
+    PNL.DVEM BIN...EM 0.150420   BIP...EM 0.037110
+    PNL.DVEM BKE...EM 0.209630   BHL...EM 0.133140
+    PNL.DVEM BHH...EM -0.001290   BBU...EM 0.098390
+    PNL.DVEM BBV...EM -0.002470   BBE...EM 0.255920
+    PNL.DVEM BBC...EM 0.005000   BTL...EM 0.028860
+    PNM.DVEM CTF.D.EM -1.000000   COH.V.EM -0.327560
+    PNM.DVEM ANM..... -1.000000   BCV...EM 0.007060
+    PNM.DVEM BI5...EM 0.002850   BLN...EM 0.009350
+    PNM.DVEM BIN...EM 0.064220   BIP...EM -0.003460
+    PNM.DVEM BKE...EM 0.184800   BHL...EM 0.307580
+    PNM.DVEM BHH...EM 0.011610   BBU...EM 0.009720
+    PNM.DVEM BBV...EM 0.000060   BBE...EM 0.309030
+    PNM.DVEM BBC...EM 0.018540   BYH...EM 0.078650
+    POM.DVEM CTF.D.EM -1.000000   COH.V.EM -0.262750
+    POM.DVEM BCV...EM 0.012770   BI5...EM 0.007200
+    POM.DVEM BLN...EM 0.040120   BIN...EM 0.028120
+    POM.DVEM BIP...EM 0.100710   BKE...EM 0.178720
+    POM.DVEM BHL...EM 0.085450   BHH...EM 0.071800
+    POM.DVEM BBU...EM 0.038340   BBV...EM 0.024770
+    POM.DVEM BBE...EM 0.025390   BBC...EM 0.237360
+    POM.DVEM BMO...EM 0.149250   AOM..... -1.000000
+    PQA.DVEM CTF.D.EM -1.000000   COH.V.EM -0.221780
+    PQA.DVEM BCV...EM 0.039300   BI5...EM 0.014610
+    PQA.DVEM BLN...EM 0.070060   BIN...EM 0.015740
+    PQA.DVEM BIP...EM 0.149860   BKE...EM 0.188540
+    PQA.DVEM BHL...EM 0.094290   BHH...EM 0.055110
+    PQA.DVEM BBU...EM 0.030760   BBV...EM 0.058250
+    PQA.DVEM BBC...EM 0.158720   BBA...EM 0.063060
+    PQA.DVEM BTQ...EM 0.061700   AQA..... -1.000000
+    PSA.DVEM CTF.D.EM -1.000000   COH.V.EM -0.318470
+    PSA.DVEM ASA..... -1.000000   BCV...EM 0.022670
+    PSA.DVEM BI5...EM 0.010190   BLN...EM 0.045180
+    PSA.DVEM BIN...EM 0.042030   BIP...EM 0.076000
+    PSA.DVEM BKE...EM 0.125620   BHL...EM 0.105030
+    PSA.DVEM BHH...EM -0.003850   BBU...EM 0.106680
+    PSA.DVEM BBV...EM -0.004260   BBE...EM 0.311500
+    PSA.DVEM BBC...EM 0.006970   BAS...EM 0.156260
+    PTM.DVEM CTF.D.EM -1.000000   COH.V.EM -0.287020
+    PTM.DVEM BCV...EM 0.013540   BI5...EM 0.005480
+    PTM.DVEM BLN...EM 0.026370   BIN...EM 0.050130
+    PTM.DVEM BIP...EM 0.040830   BKE...EM 0.149310
+    PTM.DVEM BHL...EM 0.065320   BHH...EM 0.095220
+    PTM.DVEM BBU...EM 0.013200   BBV...EM 0.017680
+    PTM.DVEM BBC...EM 0.247960   BBA...EM 0.039060
+    PTM.DVEM BMT...EM 0.235890   ATM..... -1.000000
+    PUH.DVEM CTF.D.EM -1.000000   COH.V.EM -0.235280
+    PUH.DVEM BCV...EM 0.031860   BI5...EM 0.010440
+    PUH.DVEM BLN...EM 0.052400   BIN...EM 0.022450
+    PUH.DVEM BIP...EM 0.132660   BKE...EM 0.178000
+    PUH.DVEM BHL...EM 0.128660   BHH...EM 0.017470
+    PUH.DVEM BBU...EM 0.068570   BBV...EM 0.017250
+    PUH.DVEM BBE...EM 0.094510   BBC...EM 0.140770
+    PUH.DVEM BHU...EM 0.104960   AUH..... -1.000000
+    PUL.DVEM CTF.D.EM -1.000000   COH.V.EM -0.247880
+    PUL.DVEM BCV...EM 0.027870   BI5...EM 0.010900
+    PUL.DVEM BLN...EM 0.047860   BIN...EM 0.042680
+    PUL.DVEM BIP...EM 0.115160   BKE...EM 0.164040
+    PUL.DVEM BHL...EM 0.144080   BHH...EM 0.000340
+    PUL.DVEM BBU...EM 0.092070   BBV...EM 0.001840
+    PUL.DVEM BBE...EM 0.212840   BBC...EM 0.035040
+    PUL.DVEM BLU...EM 0.105290   AUL..... -1.000000
+    PZA.DVEM CTF.D.EM -1.000000   COH.V.EM -0.224270
+    PZA.DVEM AZA..... -1.000000   BCV...EM 0.029840
+    PZA.DVEM BI5...EM 0.011120   BLN...EM 0.063150
+    PZA.DVEM BIN...EM 0.054620   BIP...EM 0.110300
+    PZA.DVEM BKE...EM 0.198240   BHL...EM 0.132890
+    PZA.DVEM BHH...EM -0.007110   BBU...EM 0.098530
+    PZA.DVEM BBV...EM -0.005460   BBE...EM 0.236850
+    PZA.DVEM BBC...EM -0.012580   BAZ...EM 0.089620
+    PAG.D1EM CTF.D.EM -1.000000   AAG..... -1.000000
+    PAG.D1EM BCV...EM 0.010920   BI5...EM 0.006310
+    PAG.D1EM BLN...EM 0.030370   BIN...EM -0.005620
+    PAG.D1EM BIP...EM 0.113550   BKE...EM 0.080140
+    PAG.D1EM BHL...EM 0.157120   BHH...EM -0.009730
+    PAG.D1EM BBU...EM 0.077980   BBV...EM -0.006140
+    PAG.D1EM BAG...EM 0.545110
+    PAH.D1EM CTF.D.EM -1.000000   AAH..... -1.000000
+    PAH.D1EM BCV...EM 0.025790   BI5...EM 0.008120
+    PAH.D1EM BLN...EM 0.039600   BIN...EM -0.007860
+    PAH.D1EM BIP...EM 0.111910   BKE...EM 0.130620
+    PAH.D1EM BHL...EM 0.029870   BHH...EM 0.091860
+    PAH.D1EM BBU...EM 0.003600   BBV...EM 0.071830
+    PAH.D1EM BAH...EM 0.494650
+    PAL.D1EM CTF.D.EM -1.000000   BCV...EM 0.018350
+    PAL.D1EM BI5...EM 0.008650   BLN...EM 0.043700
+    PAL.D1EM BIN...EM 0.004910   BIP...EM 0.124890
+    PAL.D1EM BKE...EM 0.178950   BHL...EM 0.060480
+    PAL.D1EM BHH...EM 0.072710   BBU...EM 0.021080
+    PAL.D1EM BBV...EM 0.065990   BAL...EM 0.400280
+    PAL.D1EM AAL..... -1.000000
+    PAM.D1EM CTF.D.EM -1.000000   BCV...EM 0.012720
+    PAM.D1EM BI5...EM 0.007550   BLN...EM 0.042710
+    PAM.D1EM BIN...EM 0.003590   BIP...EM 0.117680
+    PAM.D1EM BKE...EM 0.144200   BHL...EM 0.046940
+    PAM.D1EM BHH...EM 0.075380   BBU...EM 0.015520
+    PAM.D1EM BBV...EM 0.066500   BAM...EM 0.467210
+    PAM.D1EM AAM..... -1.000000
+    PAW.D1EM CTF.D.EM -1.000000   AAW..... -1.000000
+    PAW.D1EM BCV...EM 0.040830   BI5...EM 0.014750
+    PAW.D1EM BLN...EM 0.065660   BIN...EM 0.027490
+    PAW.D1EM BIP...EM 0.150780   BKE...EM 0.223790
+    PAW.D1EM BHL...EM 0.149740   BHH...EM -0.002840
+    PAW.D1EM BBU...EM 0.090500   BBV...EM 0.000810
+    PAW.D1EM BAW...EM 0.238480
+    PAX.D1EM CTF.D.EM -1.000000   BCV...EM 0.020370
+    PAX.D1EM BI5...EM 0.009350   BLN...EM 0.052270
+    PAX.D1EM BIN...EM 0.010770   BIP...EM 0.125670
+    PAX.D1EM BKE...EM 0.204480   BHL...EM 0.077910
+    PAX.D1EM BHH...EM 0.040930   BBU...EM 0.050490
+    PAX.D1EM BBV...EM 0.062960   BAX...EM 0.344790
+    PAX.D1EM AAX..... -1.000000
+    PBA.D1EM CTF.D.EM -1.000000   BCV...EM 0.022920
+    PBA.D1EM BI5...EM 0.009360   BLN...EM 0.050930
+    PBA.D1EM BIN...EM 0.001770   BIP...EM 0.128350
+    PBA.D1EM BKE...EM 0.174610   BHL...EM 0.040160
+    PBA.D1EM BHH...EM 0.081800   BBU...EM 0.025150
+    PBA.D1EM BBV...EM 0.058160   BKA...EM 0.406790
+    PBA.D1EM ABA..... -1.000000
+    PBQ.D1EM CTF.D.EM -1.000000   BCV...EM 0.007590
+    PBQ.D1EM BI5...EM 0.003180   BLN...EM 0.014330
+    PBQ.D1EM BIN...EM 0.036100   BIP...EM 0.005260
+    PBQ.D1EM BKE...EM 0.100560   BHL...EM 0.020970
+    PBQ.D1EM BHH...EM 0.159270   BBU...EM 0.000320
+    PBQ.D1EM BBV...EM 0.001460   BVH...EM 0.650950
+    PBQ.D1EM ABQ..... -1.000000
+    PBR.D1EM CTF.D.EM -1.000000   ABR..... -1.000000
+    PBR.D1EM BCV...EM 0.024040   BI5...EM 0.012810
+    PBR.D1EM BLN...EM 0.054100   BIN...EM 0.058540
+    PBR.D1EM BIP...EM 0.114350   BKE...EM 0.171400
+    PBR.D1EM BHL...EM 0.127230   BHH...EM -0.002130
+    PBR.D1EM BBU...EM 0.095890   BBV...EM -0.001620
+    PBR.D1EM BLB...EM 0.345390
+    PCA.D1EM CTF.D.EM -1.000000   ACA..... -1.000000
+    PCA.D1EM BCV...EM 0.022390   BI5...EM 0.006880
+    PCA.D1EM BLN...EM 0.028560   BIN...EM 0.043090
+    PCA.D1EM BIP...EM 0.058170   BKE...EM 0.091930
+    PCA.D1EM BHL...EM 0.127570   BHH...EM -0.003910
+    PCA.D1EM BBU...EM 0.057710   BBV...EM -0.003330
+    PCA.D1EM BCA...EM 0.570930
+    PDA.D1EM CTF.D.EM -1.000000   BCV...EM 0.028910
+    PDA.D1EM BI5...EM 0.014810   BLN...EM 0.058210
+    PDA.D1EM BIN...EM 0.011910   BIP...EM 0.127890
+    PDA.D1EM BKE...EM 0.156050   BHL...EM 0.016240
+    PDA.D1EM BHH...EM 0.113760   BBU...EM 0.002260
+    PDA.D1EM BBV...EM 0.079970   BIR...EM 0.389990
+    PDA.D1EM ADA..... -1.000000
+    PES.D1EM CTF.D.EM -1.000000   BCV...EM 0.019260
+    PES.D1EM BI5...EM 0.012160   BLN...EM 0.041200
+    PES.D1EM BIN...EM 0.050610   BIP...EM 0.094450
+    PES.D1EM BKE...EM 0.157620   BHL...EM 0.131740
+    PES.D1EM BHH...EM 0.009590   BBU...EM 0.085320
+    PES.D1EM BBV...EM 0.005410   BES...EM 0.392640
+    PES.D1EM AES..... -1.000000
+    PIH.D1EM CTF.D.EM -1.000000   BCV...EM 0.027600
+    PIH.D1EM BI5...EM 0.010720   BLN...EM 0.041710
+    PIH.D1EM BIN...EM 0.052270   BIP...EM 0.081290
+    PIH.D1EM BKE...EM 0.151290   BHL...EM 0.053670
+    PIH.D1EM BHH...EM 0.068650   BBU...EM 0.035640
+    PIH.D1EM BBV...EM 0.042830   BIH...EM 0.434310
+    PIH.D1EM AIH..... -1.000000
+    PIL.D1EM CTF.D.EM -1.000000   BCV...EM 0.023430
+    PIL.D1EM BI5...EM 0.009760   BLN...EM 0.043810
+    PIL.D1EM BIN...EM 0.046670   BIP...EM 0.091200
+    PIL.D1EM BKE...EM 0.161990   BHL...EM 0.078750
+    PIL.D1EM BHH...EM 0.057420   BBU...EM 0.043960
+    PIL.D1EM BBV...EM 0.041920   BIL...EM 0.401100
+    PIL.D1EM AIL..... -1.000000
+    PKK.D1EM CTF.D.EM -1.000000   BCV...EM 0.026610
+    PKK.D1EM BI5...EM 0.016480   BLN...EM 0.051650
+    PKK.D1EM BIN...EM 0.016170   BIP...EM 0.136830
+    PKK.D1EM BKE...EM 0.181310   BHL...EM 0.059020
+    PKK.D1EM BHH...EM 0.080820   BBU...EM 0.020050
+    PKK.D1EM BBV...EM 0.065450   BKK...EM 0.345610
+    PKK.D1EM AKK..... -1.000000
+    PKU.D1EM CTF.D.EM -1.000000   BCV...EM 0.026680
+    PKU.D1EM BI5...EM 0.008720   BLN...EM 0.053840
+    PKU.D1EM BIN...EM 0.000250   BIP...EM 0.121660
+    PKU.D1EM BKE...EM 0.141740   BHL...EM 0.040980
+    PKU.D1EM BHH...EM 0.080340   BBU...EM 0.012730
+    PKU.D1EM BBV...EM 0.071090   BKU...EM 0.441950
+    PKU.D1EM AKU..... -1.000000
+    PMU.D1EM CTF.D.EM -1.000000   BCV...EM 0.019830
+    PMU.D1EM BI5...EM 0.010950   BLN...EM 0.052370
+    PMU.D1EM BIN...EM 0.026140   BIP...EM 0.134930
+    PMU.D1EM BKE...EM 0.193130   BHL...EM 0.123210
+    PMU.D1EM BHH...EM 0.026600   BBU...EM 0.053960
+    PMU.D1EM BBV...EM 0.041020   BMU...EM 0.317850
+    PMU.D1EM AMU..... -1.000000
+    PNF.D1EM CTF.D.EM -1.000000   BCV...EM 0.023190
+    PNF.D1EM BI5...EM 0.009250   BLN...EM 0.028930
+    PNF.D1EM BIN...EM 0.123190   BIP...EM 0.008450
+    PNF.D1EM BKE...EM 0.204470   BHL...EM 0.227760
+    PNF.D1EM BHH...EM 0.006920   BBU...EM 0.048730
+    PNF.D1EM BBV...EM 0.000220   BMD...EM 0.318890
+    PNF.D1EM ANF..... -1.000000
+    PNL.D1EM CTF.D.EM -1.000000   ANL..... -1.000000
+    PNL.D1EM BCV...EM 0.028250   BI5...EM 0.013210
+    PNL.D1EM BLN...EM 0.043820   BIN...EM 0.150420
+    PNL.D1EM BIP...EM 0.037110   BKE...EM 0.209630
+    PNL.D1EM BHL...EM 0.133140   BHH...EM -0.001290
+    PNL.D1EM BBU...EM 0.098390   BBV...EM -0.002470
+    PNL.D1EM BLT...EM 0.289790
+    PNM.D1EM CTF.D.EM -1.000000   ANM..... -1.000000
+    PNM.D1EM BCV...EM 0.007060   BI5...EM 0.002850
+    PNM.D1EM BLN...EM 0.009350   BIN...EM 0.064220
+    PNM.D1EM BIP...EM -0.003460   BKE...EM 0.184800
+    PNM.D1EM BHL...EM 0.307570   BHH...EM 0.011610
+    PNM.D1EM BBU...EM 0.009720   BBV...EM 0.000060
+    PNM.D1EM BHY...EM 0.406210
+    POM.D1EM CTF.D.EM -1.000000   BCV...EM 0.012770
+    POM.D1EM BI5...EM 0.007200   BLN...EM 0.040120
+    POM.D1EM BIN...EM 0.028120   BIP...EM 0.100710
+    POM.D1EM BKE...EM 0.178720   BHL...EM 0.085450
+    POM.D1EM BHH...EM 0.071800   BBU...EM 0.038340
+    POM.D1EM BBV...EM 0.024770   BMN...EM 0.412000
+    POM.D1EM AOM..... -1.000000
+    PQA.D1EM CTF.D.EM -1.000000   BCV...EM 0.039300
+    PQA.D1EM BI5...EM 0.014610   BLN...EM 0.070060
+    PQA.D1EM BIN...EM 0.015740   BIP...EM 0.149860
+    PQA.D1EM BKE...EM 0.188540   BHL...EM 0.094290
+    PQA.D1EM BHH...EM 0.055110   BBU...EM 0.030760
+    PQA.D1EM BBV...EM 0.058250   BQT...EM 0.283480
+    PQA.D1EM AQA..... -1.000000
+    PSA.D1EM CTF.D.EM -1.000000   ASA..... -1.000000
+    PSA.D1EM BCV...EM 0.022670   BI5...EM 0.010190
+    PSA.D1EM BLN...EM 0.045180   BIN...EM 0.042030
+    PSA.D1EM BIP...EM 0.076000   BKE...EM 0.125610
+    PSA.D1EM BHL...EM 0.105030   BHH...EM -0.003850
+    PSA.D1EM BBU...EM 0.106680   BBV...EM -0.004260
+    PSA.D1EM BLS...EM 0.474740
+    PTM.D1EM CTF.D.EM -1.000000   BCV...EM 0.013540
+    PTM.D1EM BI5...EM 0.005480   BLN...EM 0.026370
+    PTM.D1EM BIN...EM 0.050130   BIP...EM 0.040830
+    PTM.D1EM BKE...EM 0.149310   BHL...EM 0.065320
+    PTM.D1EM BHH...EM 0.095220   BBU...EM 0.013200
+    PTM.D1EM BBV...EM 0.017680   BTM...EM 0.522920
+    PTM.D1EM ATM..... -1.000000
+    PUH.D1EM CTF.D.EM -1.000000   BCV...EM 0.031860
+    PUH.D1EM BI5...EM 0.010440   BLN...EM 0.052400
+    PUH.D1EM BIN...EM 0.022450   BIP...EM 0.132660
+    PUH.D1EM BKE...EM 0.178000   BHL...EM 0.128660
+    PUH.D1EM BHH...EM 0.017470   BBU...EM 0.068570
+    PUH.D1EM BBV...EM 0.017250   BUH...EM 0.340240
+    PUH.D1EM AUH..... -1.000000
+    PUL.D1EM CTF.D.EM -1.000000   BCV...EM 0.027870
+    PUL.D1EM BI5...EM 0.010900   BLN...EM 0.047860
+    PUL.D1EM BIN...EM 0.042680   BIP...EM 0.115150
+    PUL.D1EM BKE...EM 0.164040   BHL...EM 0.144080
+    PUL.D1EM BHH...EM 0.000340   BBU...EM 0.092070
+    PUL.D1EM BBV...EM 0.001840   BUL...EM 0.353180
+    PUL.D1EM AUL..... -1.000000
+    PZA.D1EM CTF.D.EM -1.000000   AZA..... -1.000000
+    PZA.D1EM BCV...EM 0.029840   BI5...EM 0.011120
+    PZA.D1EM BLN...EM 0.063150   BIN...EM 0.054620
+    PZA.D1EM BIP...EM 0.110300   BKE...EM 0.198240
+    PZA.D1EM BHL...EM 0.132880   BHH...EM -0.007110
+    PZA.D1EM BBU...EM 0.098530   BBV...EM -0.005460
+    PZA.D1EM BZA...EM 0.313900
+    PEL.D3EM CTF.D.EM -1.000000   BRG...EM 0.017100
+    PEL.D3EM BI5...EM 0.010700   BLN...EM 0.040500
+    PEL.D3EM BIN...EM 0.040200   BIP...EM 0.093800
+    PEL.D3EM BKE...EM 0.148000   BHL...EM 0.112900
+    PEL.D3EM BHH...EM 0.003100   BBU...EM 0.067600
+    PEL.D3EM BBV...EM 0.003400   BEL...EM 0.453000
+    PEL.D3EM AEL..... -1.000000
+    PBL.F1EM BBK...EM 1.000000   CF..F.EM -2.900000
+    PBL.F1EM BBL...EM -1.000000
+    PBN.F1EM BBM...EM 1.000000   CF..F.EM -2.900000
+    PBN.F1EM BBN...EM -1.000000
+    PBV.F1EM BBU...EM 1.000000   CF..F.EM -2.300000
+    PBV.F1EM BBV...EM -1.000000
+    PHH.F1EM BHL...EM 1.000000   CF..F.EM -1.500000
+    PHH.F1EM BHH...EM -1.000000
+    PBA.G2EM BRG...EM 0.003700   BIP...EM 0.003600
+    PBA.G2EM BBB...EM 1.004800   CF..G.EM -1.088400
+    PBA.G2EM BBA...EM -1.000000
+    PBC.G2EM BRG...EM 0.001600   BIP...EM 0.001600
+    PBC.G2EM BBD...EM 1.005500   CF..G.EM -0.933800
+    PBC.G2EM BBC...EM -1.000000
+    PQA.G2EM BSA...EM 1.000000   CF..G.EM -1.184000
+    PQA.G2EM BQA...EM -1.000000
+    PQH.G2EM BSH...EM 1.000000   CF..G.EM -1.309000
+    PQH.G2EM BQH...EM -1.000000
+    PQW.G2EM CF..G.EM -1.339000   BSW...EM 1.000000
+    PQW.G2EM BQW...EM -1.000000
+    PIB.P2EM BRG...EM 0.180200   B5D...EM 0.770000
+    PIB.P2EM CF..P.EM -0.990000   BIB...EM -1.000000
+    PIG.P2EM BRG...EM 0.106800   B5C...EM 0.893000
+    PIG.P2EM CF..P.EM -0.948700   BIG...EM -1.000000
+    PIN.P2EM BRG...EM 0.109800   B5A...EM 0.883000
+    PIN.P2EM CF..P.EM -0.942000   BIN...EM -1.000000
+    PIP.P2EM BRG...EM 0.189000   B5B...EM 0.760000
+    PIP.P2EM CF..P.EM -0.983300   BIP...EM -1.000000
+    PIB.P3EM BRG...EM 0.206200   B5H...EM 0.739000
+    PIB.P3EM CF..P.EM -1.014700   BIB...EM -1.000000
+    PIG.P3EM BRG...EM 0.133800   B5G...EM 0.862000
+    PIG.P3EM CF..P.EM -0.973300   BIG...EM -1.000000
+    PIN.P3EM BRG...EM 0.144400   B5E...EM 0.852000
+    PIN.P3EM CF..P.EM -0.967700   BIN...EM -1.000000
+    PIP.P3EM BRG...EM 0.214800   B5F...EM 0.729000
+    PIP.P3EM CF..P.EM -1.008000   BIP...EM -1.000000
+    PIB.P7EM BRG...EM 0.219000   B5P...EM 0.721000
+    PIB.P7EM CF..P.EM -1.579800   BIB...EM -1.000000
+    PIG.P7EM BRG...EM 0.146800   B5N...EM 0.840000
+    PIG.P7EM CF..P.EM -1.369100   BIG...EM -1.000000
+    PIN.P7EM BRG...EM 0.149100   B5M...EM 0.829000
+    PIN.P7EM CF..P.EM -1.350700   BIN...EM -1.000000
+    PIP.P7EM BRG...EM 0.228800   B5O...EM 0.710000
+    PIP.P7EM CF..P.EM -1.561300   BIP...EM -1.000000
+    PHA.Q1EM BRG...EM 0.326000   B5T...EM 0.140000
+    PHA.Q1EM BBK...EM -0.031000   BBL...EM 0.260000
+    PHA.Q1EM BQH...EM 0.256000   CF..Q.EM -1.066000
+    PHA.Q1EM BHA...EM -1.000000
+    PLA.Q1EM BRG...EM 0.280000   B5T...EM 0.152000
+    PLA.Q1EM BBK...EM 0.036000   BBL...EM 0.213000
+    PLA.Q1EM BQA...EM 0.279000   CF..Q.EM -1.000000
+    PLA.Q1EM BLA...EM -1.000000
+    PUK.Q1EM BRG...EM 0.294000   B5T...EM 0.148000
+    PUK.Q1EM BBK...EM -0.048000   BBL...EM 0.290000
+    PUK.Q1EM BQW...EM 0.272000   CF..Q.EM -1.014000
+    PUK.Q1EM BUK...EM -1.000000
+    PAH.R1EM BRG...EM 0.010700   BIP...EM 0.037500
+    PAH.R1EM BHL...EM 0.100000   B1H...EM 0.885000
+    PAH.R1EM CF..R.EM -1.113300   BAH...EM -1.000000
+    PAL.R1EM BRG...EM 0.004200   BIP...EM 0.015400
+    PAL.R1EM BHL...EM 0.100000   B1A...EM 0.896000
+    PAL.R1EM CF..R.EM -0.883600   BAL...EM -1.000000
+    PAM.R1EM BRG...EM 0.006500   BIP...EM 0.023000
+    PAM.R1EM BHL...EM 0.100000   B1K...EM 0.892000
+    PAM.R1EM CF..R.EM -1.003900   BAM...EM -1.000000
+    PIH.R1EM BRG...EM 0.006400   BIP...EM 0.022800
+    PIH.R1EM BHL...EM 0.100000   B1G...EM 0.892000
+    PIH.R1EM CF..R.EM -0.948700   BIH...EM -1.000000
+    PIL.R1EM BRG...EM 0.004800   BIP...EM 0.017200
+    PIL.R1EM BHL...EM 0.100000   B1I...EM 0.894000
+    PIL.R1EM CF..R.EM -0.879900   BIL...EM -1.000000
+    PKU.R1EM BRG...EM 0.006200   BIP...EM 0.021900
+    PKU.R1EM BHL...EM 0.100000   B1W...EM 0.895000
+    PKU.R1EM CF..R.EM -0.995100   BKU...EM -1.000000
+    PAH.R2EM BRG...EM 0.024600   BIP...EM 0.086900
+    PAH.R2EM BHL...EM 0.100000   CF..R.EM -1.484600
+    PAH.R2EM B2H...EM 0.843000   BAH...EM -1.000000
+    PAL.R2EM BRG...EM 0.010900   BIP...EM 0.038900
+    PAL.R2EM BHL...EM 0.100000   CF..R.EM -1.109400
+    PAL.R2EM B2A...EM 0.879000   BAL...EM -1.000000
+    PAM.R2EM BRG...EM 0.015400   BIP...EM 0.055000
+    PAM.R2EM BHL...EM 0.100000   CF..R.EM -1.279000
+    PAM.R2EM B2K...EM 0.869000   BAM...EM -1.000000
+    PIH.R2EM BRG...EM 0.014700   BIP...EM 0.052800
+    PIH.R2EM BHL...EM 0.100000   CF..R.EM -1.204500
+    PIH.R2EM B2G...EM 0.869000   BIH...EM -1.000000
+    PIL.R2EM BRG...EM 0.011100   BIP...EM 0.040500
+    PIL.R2EM BHL...EM 0.100000   CF..R.EM -1.094000
+    PIL.R2EM B2I...EM 0.877000   BIL...EM -1.000000
+    PKU.R2EM BRG...EM 0.015100   BIP...EM 0.053300
+    PKU.R2EM BHL...EM 0.100000   CF..R.EM -1.285700
+    PKU.R2EM B2W...EM 0.872000   BKU...EM -1.000000
+    PAH.VAEM BAH...EM -1.000000   BOA...EM 0.686200
+    PAH.VAEM BBC...EM 0.064600   BBA...EM 0.249200
+    PAH.VAEM COH.V.EM -0.313800   LOBROW27766 1.000000
+    PKU.VAEM BKU...EM -1.000000   BOA...EM 0.520600
+    PKU.VAEM BBC...EM 0.019600   BBA...EM 0.459800
+    PKU.VAEM COH.V.EM -0.479400   LOBROW27767 1.000000
+    PEL.V1EM COH.V.EM -0.713000   BEL...EM -1.000000
+    PEL.V1EM BBE...EM 0.560300   BBC...EM 0.152700
+    PEL.V1EM BLE...EM 0.287000
+    TDH.ANEM BDH...EM 1.000000   BDH...AN -1.000000
+    TDH.ANEM FAT0..J. 1.386000   KMC.IME. 1.000000
+    TDH.ANEM KTX.PRE. 1.000000   KWC..... 3.807000
+    TDK.ANEM BDK...EM 1.000000   BDK...AN -1.000000
+    TDK.ANEM FAT0..J. 1.328000   KMC.IME. 1.000000
+    TDK.ANEM KTX.PRE. 1.000000   KWC..... 3.818000
+    TFT.ANEM BFT...EM 1.000000   BFT...AN -1.000000
+    TFT.ANEM FAT0..J. 1.553000   KMC.IME. 1.000000
+    TFT.ANEM KTX.PRE. 1.000000   KWC..... 3.723000
+    TFY.ANEM BFY...EM 1.000000   BFY...AN -1.000000
+    TFY.ANEM FAT0..J. 1.586000   KMC.IME. 1.000000
+    TFY.ANEM KTX.PRE. 1.000000   KWC..... 3.540000
+    QVO5GPSG BGP...SG 0.985000   BGP.VOSG -1.000000
+    QVO5GPSG NRN.GPSG -0.660000   ND2.GPSG -0.500000
+    QVO5GPSG XVL.GPSG -1.700000
+    TNE.ANEM BNE...EM 1.000000   BNE...AN -1.000000
+    TNE.ANEM FAT0..J. 1.298000   KMC.IME. 1.000000
+    TNE.ANEM KTX.PRE. 1.000000   KWC..... 3.732000
+    TNI.ANEM BNI...EM 1.000000   BNI...AN -1.000000
+    TNI.ANEM FAT0..J. 1.298000   KMC.IME. 1.000000
+    TNI.ANEM KTX.PRE. 1.000000   KWC..... 3.767000
+    TNL.ANEM BNL...EM 1.000000   BNL...AN -1.000000
+    TNL.ANEM FAT0..J. 1.286000   KMC.IME. 1.000000
+    TNL.ANEM KTX.PRE. 1.000000   KWC..... 3.620000
+    TNP.ANEM BNP...EM 1.000000   BNP...AN -1.000000
+    TNP.ANEM FAT0..J. 1.298000   KMC.IME. 1.000000
+    TNP.ANEM KTX.PRE. 1.000000   KWC..... 3.709000
+    TFT.BAEM BFT...EM 1.000000   BFT...BA -1.000000
+    TFT.BAEM FAT0..J. 1.632000   KMC.IME. 1.000000
+    TFT.BAEM KTX.PRE. 1.000000   KWC..... 3.779000
+    TFY.BAEM BFY...EM 1.000000   BFJ...BA -1.000000
+    TFY.BAEM FAT0..J. 1.666000   KMC.IME. 1.000000
+    TFY.BAEM KTX.PRE. 1.000000   KWC..... 3.615000
+    TBB.PGEM BBB...EM 1.000000   BBB...PG -1.000000
+    TBB.PGEM FAT0..J. 1.350000   KMC.IME. 1.000000
+    TBB.PGEM KTX.PRE. 1.000000   KWC..... 3.680000
+    TBD.PGEM BBD...EM 1.000000   BBD...PG -1.000000
+    TBD.PGEM FAT0..J. 1.350000   KMC.IME. 1.000000
+    TBD.PGEM KTX.PRE. 1.000000   KWC..... 3.680000
+    TDH.PGEM BDH...EM 1.000000   BDH...PG -1.000000
+    TDH.PGEM FAT0..J. 1.289000   KMC.IME. 1.000000
+    TDH.PGEM KTX.PRE. 1.000000   KWC..... 3.777000
+    TDK.PGEM BDK...EM 1.000000   BDK...PG -1.000000
+    TDK.PGEM FAT0..J. 1.235000   KMC.IME. 1.000000
+    TDK.PGEM KTX.PRE. 1.000000   KWC..... 3.791000
+    TFT.PGEM BFT...EM 1.000000   BFT...PG -1.000000
+    TFT.PGEM FAT0..J. 1.445000   KMC.IME. 1.000000
+    TFT.PGEM KTX.PRE. 1.000000   KWC..... 3.680000
+    TFY.PGEM BFY...EM 1.000000   BFJ...PG -1.000000
+    TFY.PGEM FAT0..J. 1.475000   KMC.IME. 1.000000
+    TFY.PGEM KTX.PRE. 1.000000   KWC..... 3.521000
+    TGP.PGEM BGP...EM 1.000000   BGE...PG -1.000000
+    TGP.PGEM FAT0..J. 1.209000   KMC.IME. 1.000000
+    TGP.PGEM KTX.PRE. 1.000000   KWC..... 3.753000
+    TNL.PGEM BNL...EM 1.000000   BNL...PG -1.000000
+    TNL.PGEM FAT0..J. 1.163000   KMC.IME. 1.000000
+    TNL.PGEM KTX.PRE. 1.000000   KWC..... 3.594000
+    TNP.PGEM BNP...EM 1.000000   BNP...PG -1.000000
+    TNP.PGEM FAT0..J. 1.193000   KMC.IME. 1.000000
+    TNP.PGEM KTX.PRE. 1.000000   KWC..... 3.700000
+    QVO5GJSG BGP.VOSG -1.000000   BGJ...SG 0.985000
+    QVO5GJSG NRN.GPSG -0.633000   ND2.GPSG -0.500000
+    QVO5GJSG XVL.GPSG -1.700000
+    TFT.VEEM BFT...EM 1.000000   BFT...VE -1.000000
+    TFT.VEEM FAT0..J. 1.623000   KMC.IME. 1.000000
+    TFT.VEEM KTX.PRE. 1.000000   KWC..... 3.792000
+    TFY.VEEM BFY...EM 1.000000   BFJ...VE -1.000000
+    TFY.VEEM FAT0..J. 1.657000   KMC.IME. 1.000000
+    TFY.VEEM KTX.PRE. 1.000000   KWC..... 3.631000
+    BBK.DHEZ BBK...EZ -1.000000   BDH.VOEZ 1.000000
+    BBK.DHEZ XSU.DHEZ 0.100000   XCI.DHEZ 1.000000
+    BBL.DHEZ BBL...EZ -1.000000   BDH.VOEZ 1.000000
+    BBL.DHEZ XSU.DHEZ 3.000000   XCI.DHEZ 1.000000
+    BBM.DHEZ BBM...EZ -1.000000   BDH.VOEZ 1.000000
+    BBM.DHEZ XSU.DHEZ 0.100000   XCI.DHEZ 1.500000
+    BBN.DHEZ BBN...EZ -1.000000   BDH.VOEZ 1.000000
+    BBN.DHEZ XSU.DHEZ 3.000000   XCI.DHEZ 1.500000
+    BBU.DHEZ BBU...EZ -1.000000   BDH.VOEZ 1.000000
+    BBU.DHEZ XSU.DHEZ 0.200000   XCI.DHEZ 7.560000
+    BBV.DHEZ BBV...EZ -1.000000   BDH.VOEZ 1.000000
+    BBV.DHEZ XSU.DHEZ 2.500000   XCI.DHEZ 7.070000
+    BHH.DHEZ BHH...EZ -1.000000   BDH.VOEZ 1.000000
+    BHH.DHEZ XSU.DHEZ 1.600000   XCI.DHEZ 0.870000
+    BHL.DHEZ BHL...EZ -1.000000   BDH.VOEZ 1.000000
+    BHL.DHEZ XSU.DHEZ 0.100000   XCI.DHEZ 0.870000
+    BKE.DHEZ BKE...EZ -1.000000   BDH.VOEZ 1.000000
+    BKE.DHEZ XSU.DHEZ 0.150000   XCI.DHEZ 0.120000
+    BKH.DHEZ BKH...EZ -1.000000   BDH.VOEZ 1.000000
+    BKH.DHEZ XSU.DHEZ 0.150000   XCI.DHEZ 0.160000
+    BAC.FTEZ BAC...EZ -1.000000   BFT.VOEZ 1.000000
+    BAC.FTEZ BFT.WTEZ 0.954030   XSU.FTEZ 0.238740
+    BAC.FTEZ XVI.FTEZ 1.342000   NVI.FTEZ 1.342000
+    BAG.FTEZ BAG...EZ -1.000000   BFT.VOEZ 1.000000
+    BAG.FTEZ BFT.WTEZ 0.842650   XSU.FTEZ 0.015020
+    BAG.FTEZ XVI.FTEZ 0.968000   NVI.FTEZ 0.968000
+    BAP.FTEZ BAP...EZ -1.000000   BFT.VOEZ 1.000000
+    BAP.FTEZ BFT.WTEZ 0.886270   XSU.FTEZ 0.030780
+    BAP.FTEZ XVI.FTEZ 1.215000   NVI.FTEZ 1.215000
+    BAS.FTEZ BAS...EZ -1.000000   BFT.VOEZ 1.000000
+    BAS.FTEZ BFT.WTEZ 0.995250   XSU.FTEZ 0.498860
+    BAS.FTEZ XVI.FTEZ 1.435000   NVI.FTEZ 1.435000
+    BAW.FTEZ BAW...EZ -1.000000   BFT.VOEZ 1.000000
+    BAW.FTEZ BFT.WTEZ 0.908700   XSU.FTEZ 0.313780
+    BAW.FTEZ XVI.FTEZ 1.076000   NVI.FTEZ 1.076000
+    BBB.FTEZ BBB...EZ -1.000000   BFT.VOEZ 1.000000
+    BBB.FTEZ BFT.WTEZ 0.893700   XSU.FTEZ 0.178740
+    BBB.FTEZ XVI.FTEZ 0.977000   NVI.FTEZ 0.977000
+    BBD.FTEZ BBD...EZ -1.000000   BFT.VOEZ 1.000000
+    BBD.FTEZ BFT.WTEZ 0.893100   XSU.FTEZ 0.178620
+    BBD.FTEZ XVI.FTEZ 0.990000   NVI.FTEZ 0.990000
+    BBO.FTEZ BBO...EZ -1.000000   BFT.VOEZ 1.000000
+    BBO.FTEZ BFT.WTEZ 0.820000   XSU.FTEZ 0.246000
+    BBO.FTEZ XVI.FTEZ 0.720000   NVI.FTEZ 0.720000
+    BBP.FTEZ BBP...EZ -1.000000   BFT.VOEZ 1.000000
+    BBP.FTEZ BFT.WTEZ 0.820000   XSU.FTEZ 1.230000
+    BBP.FTEZ XVI.FTEZ 0.720000   NVI.FTEZ 0.720000
+    BBW.FTEZ BBW...EZ -1.000000   BFT.VOEZ 1.000000
+    BBW.FTEZ BFT.WTEZ 0.870000   XSU.FTEZ 0.435000
+    BBW.FTEZ XVI.FTEZ 0.870000   NVI.FTEZ 0.870000
+    BBY.FTEZ BBY...EZ -1.000000   BFT.VOEZ 1.000000
+    BBY.FTEZ BFT.WTEZ 0.870000   XSU.FTEZ 1.305000
+    BBY.FTEZ XVI.FTEZ 0.870000   NVI.FTEZ 0.870000
+    BCA.FTEZ BCA...EZ -1.000000   BFT.VOEZ 1.000000
+    BCA.FTEZ BFT.WTEZ 0.911890   XSU.FTEZ 0.155900
+    BCA.FTEZ XVI.FTEZ 1.118000   NVI.FTEZ 1.118000
+    BEL.FTEZ BEL...EZ -1.000000   BFT.VOEZ 1.000000
+    BEL.FTEZ BFT.WTEZ 0.958700   XSU.FTEZ 0.690260
+    BEL.FTEZ XVI.FTEZ 1.125000   NVI.FTEZ 1.125000
+    BES.FTEZ BES...EZ -1.000000   BFT.VOEZ 1.000000
+    BES.FTEZ BFT.WTEZ 0.929480   XSU.FTEZ 0.677090
+    BES.FTEZ XVI.FTEZ 1.112000   NVI.FTEZ 1.112000
+    BHM.FTEZ BHM...EZ -1.000000   BFT.VOEZ 1.000000
+    BHM.FTEZ BFT.WTEZ 0.820000   XSU.FTEZ 0.246000
+    BHM.FTEZ XVI.FTEZ 0.720000   NVI.FTEZ 0.720000
+    BHN.FTEZ BHN...EZ -1.000000   BFT.VOEZ 1.000000
+    BHN.FTEZ BFT.WTEZ 0.820000   XSU.FTEZ 1.066000
+    BHN.FTEZ XVI.FTEZ 0.720000   NVI.FTEZ 0.720000
+    BHU.FTEZ BHU...EZ -1.000000   BFT.VOEZ 1.000000
+    BHU.FTEZ BFT.WTEZ 1.000260   XSU.FTEZ 2.569830
+    BHU.FTEZ XVI.FTEZ 1.371000   NVI.FTEZ 1.371000
+    BHY.FTEZ BHY...EZ -1.000000   BFT.VOEZ 1.000000
+    BHY.FTEZ BFT.WTEZ 0.961860   XSU.FTEZ 0.342240
+    BHY.FTEZ XVI.FTEZ 1.169000   NVI.FTEZ 1.169000
+    BLB.FTEZ BLB...EZ -1.000000   BFT.VOEZ 1.000000
+    BLB.FTEZ BFT.WTEZ 0.915120   XSU.FTEZ 0.383760
+    BLB.FTEZ XVI.FTEZ 1.078000   NVI.FTEZ 1.078000
+    BLE.FTEZ BLE...EZ -1.000000   BFT.VOEZ 1.000000
+    BLE.FTEZ BFT.WTEZ 1.027600   XSU.FTEZ 1.171460
+    BLE.FTEZ XVI.FTEZ 1.460000   NVI.FTEZ 1.460000
+    BLS.FTEZ BLS...EZ -1.000000   BFT.VOEZ 1.000000
+    BLS.FTEZ BFT.WTEZ 0.913480   XSU.FTEZ 0.299600
+    BLS.FTEZ XVI.FTEZ 1.108000   NVI.FTEZ 1.108000
+    BLT.FTEZ BLT...EZ -1.000000   BFT.VOEZ 1.000000
+    BLT.FTEZ BFT.WTEZ 0.923810   XSU.FTEZ 0.241200
+    BLT.FTEZ XVI.FTEZ 1.065000   NVI.FTEZ 1.065000
+    BLU.FTEZ BLU...EZ -1.000000   BFT.VOEZ 1.000000
+    BLU.FTEZ BFT.WTEZ 0.987000   XSU.FTEZ 0.770460
+    BLU.FTEZ XVI.FTEZ 1.346000   NVI.FTEZ 1.346000
+    BMD.FTEZ BMD...EZ -1.000000   BFT.VOEZ 1.000000
+    BMD.FTEZ BFT.WTEZ 0.954190   XSU.FTEZ 0.370030
+    BMD.FTEZ XVI.FTEZ 1.143000   NVI.FTEZ 1.143000
+    BMF.FTEZ BMF...EZ -1.000000   BFT.VOEZ 1.000000
+    BMF.FTEZ BFT.WTEZ 1.017900   XSU.FTEZ 0.796850
+    BMF.FTEZ XVI.FTEZ 1.415000   NVI.FTEZ 1.415000
+    BRB.FTEZ BRB...EZ -1.000000   BFT.VOEZ 1.000000
+    BRB.FTEZ BFT.WTEZ 0.983160   XSU.FTEZ 0.680810
+    BRB.FTEZ XVI.FTEZ 1.339000   NVI.FTEZ 1.339000
+    BSA.FTEZ BSA...EZ -1.000000   BFT.VOEZ 1.000000
+    BSA.FTEZ BFT.WTEZ 0.963200   XSU.FTEZ 0.597180
+    BSA.FTEZ XVI.FTEZ 1.145000   NVI.FTEZ 1.145000
+    BSE.FTEZ BSE...EZ -1.000000   BFT.VOEZ 1.000000
+    BSE.FTEZ BFT.WTEZ 1.004360   XSU.FTEZ 1.209020
+    BSE.FTEZ XVI.FTEZ 1.382000   NVI.FTEZ 1.382000
+    BSH.FTEZ BSH...EZ -1.000000   BFT.VOEZ 1.000000
+    BSH.FTEZ BFT.WTEZ 0.979200   XSU.FTEZ 0.802940
+    BSH.FTEZ XVI.FTEZ 1.145000   NVI.FTEZ 1.145000
+    BSW.FTEZ BSW...EZ -1.000000   BFT.VOEZ 1.000000
+    BSW.FTEZ BFT.WTEZ 0.972500   XSU.FTEZ 0.836350
+    BSW.FTEZ XVI.FTEZ 1.145000   NVI.FTEZ 1.145000
+    BTL.FTEZ BTL...EZ -1.000000   BFT.VOEZ 1.000000
+    BTL.FTEZ BFT.WTEZ 1.023110   XSU.FTEZ 0.553770
+    BTL.FTEZ XVI.FTEZ 1.388000   NVI.FTEZ 1.388000
+    BUH.FTEZ BUH...EZ -1.000000   BFT.VOEZ 1.000000
+    BUH.FTEZ BFT.WTEZ 0.936840   XSU.FTEZ 1.445090
+    BUH.FTEZ XVI.FTEZ 1.122000   NVI.FTEZ 1.122000
+    BUL.FTEZ BUL...EZ -1.000000   BFT.VOEZ 1.000000
+    BUL.FTEZ BFT.WTEZ 0.925930   XSU.FTEZ 0.481170
+    BUL.FTEZ XVI.FTEZ 1.109000   NVI.FTEZ 1.109000
+    BWA.FTEZ BWA...EZ -1.000000   BFT.VOEZ 1.000000
+    BWA.FTEZ BFT.WTEZ 0.969370   XSU.FTEZ 0.602190
+    BWA.FTEZ XVI.FTEZ 1.340000   NVI.FTEZ 1.340000
+    BYH.FTEZ BYH...EZ -1.000000   BFT.VOEZ 1.000000
+    BYH.FTEZ BFT.WTEZ 1.023810   XSU.FTEZ 0.666860
+    BYH.FTEZ XVI.FTEZ 1.455000   NVI.FTEZ 1.455000
+    BZA.FTEZ BZA...EZ -1.000000   BFT.VOEZ 1.000000
+    BZA.FTEZ BFT.WTEZ 0.902850   XSU.FTEZ 0.149900
+    BZA.FTEZ XVI.FTEZ 1.074000   NVI.FTEZ 1.074000
+    B1A.FTEZ B1A...EZ -1.000000   BFT.VOEZ 1.000000
+    B1A.FTEZ BFT.WTEZ 0.932600   XSU.FTEZ 0.792710
+    B1A.FTEZ XVI.FTEZ 1.118000   NVI.FTEZ 1.118000
+    B1G.FTEZ B1G...EZ -1.000000   BFT.VOEZ 1.000000
+    B1G.FTEZ BFT.WTEZ 0.953100   XSU.FTEZ 0.695760
+    B1G.FTEZ XVI.FTEZ 1.200000   NVI.FTEZ 1.200000
+    B1H.FTEZ B1H...EZ -1.000000   BFT.VOEZ 1.000000
+    B1H.FTEZ BFT.WTEZ 0.949200   XSU.FTEZ 1.195990
+    B1H.FTEZ XVI.FTEZ 1.244000   NVI.FTEZ 1.244000
+    B1I.FTEZ B1I...EZ -1.000000   BFT.VOEZ 1.000000
+    B1I.FTEZ BFT.WTEZ 0.939400   XSU.FTEZ 0.666970
+    B1I.FTEZ XVI.FTEZ 1.139000   NVI.FTEZ 1.139000
+    B1K.FTEZ B1K...EZ -1.000000   BFT.VOEZ 1.000000
+    B1K.FTEZ BFT.WTEZ 0.940000   XSU.FTEZ 1.081000
+    B1K.FTEZ XVI.FTEZ 1.138000   NVI.FTEZ 1.138000
+    B1W.FTEZ B1W...EZ -1.000000   BFT.VOEZ 1.000000
+    B1W.FTEZ BFT.WTEZ 0.937200   XSU.FTEZ 1.124640
+    B1W.FTEZ XVI.FTEZ 1.174000   NVI.FTEZ 1.174000
+    B2A.FTEZ B2A...EZ -1.000000   BFT.VOEZ 1.000000
+    B2A.FTEZ BFT.WTEZ 0.921400   XSU.FTEZ 0.313280
+    B2A.FTEZ XVI.FTEZ 1.078000   NVI.FTEZ 1.078000
+    B2G.FTEZ B2G...EZ -1.000000   BFT.VOEZ 1.000000
+    B2G.FTEZ BFT.WTEZ 0.942200   XSU.FTEZ 0.282660
+    B2G.FTEZ XVI.FTEZ 1.152000   NVI.FTEZ 1.152000
+    B2H.FTEZ B2H...EZ -1.000000   BFT.VOEZ 1.000000
+    B2H.FTEZ BFT.WTEZ 0.933600   XSU.FTEZ 0.494810
+    B2H.FTEZ XVI.FTEZ 1.188000   NVI.FTEZ 1.188000
+    B2I.FTEZ B2I...EZ -1.000000   BFT.VOEZ 1.000000
+    B2I.FTEZ BFT.WTEZ 0.929300   XSU.FTEZ 0.269500
+    B2I.FTEZ XVI.FTEZ 1.090000   NVI.FTEZ 1.090000
+    B2K.FTEZ B2K...EZ -1.000000   BFT.VOEZ 1.000000
+    B2K.FTEZ BFT.WTEZ 0.926600   XSU.FTEZ 0.435500
+    B2K.FTEZ XVI.FTEZ 1.092000   NVI.FTEZ 1.092000
+    B2W.FTEZ B2W...EZ -1.000000   BFT.VOEZ 1.000000
+    B2W.FTEZ BFT.WTEZ 0.922600   XSU.FTEZ 0.461300
+    B2W.FTEZ XVI.FTEZ 1.122000   NVI.FTEZ 1.122000
+    B6A.FTEZ B6A...EZ -1.000000   BFT.VOEZ 1.000000
+    B6A.FTEZ BFT.WTEZ 1.108000   XSU.FTEZ 0.675880
+    B6A.FTEZ XVI.FTEZ 1.113000   NVI.FTEZ 1.113000
+    B6H.FTEZ B6H...EZ -1.000000   BFT.VOEZ 1.000000
+    B6H.FTEZ BFT.WTEZ 1.108000   XSU.FTEZ 0.565080
+    B6H.FTEZ XVI.FTEZ 1.113000   NVI.FTEZ 1.113000
+    B6W.FTEZ B6W...EZ -1.000000   BFT.VOEZ 1.000000
+    B6W.FTEZ BFT.WTEZ 1.108000   XSU.FTEZ 0.709120
+    B6W.FTEZ XVI.FTEZ 1.113000   NVI.FTEZ 1.113000
+    B7L.FTEZ B7L...EZ -1.000000   BFT.VOEZ 1.000000
+    B7L.FTEZ BFT.WTEZ 0.968000   XSU.FTEZ 0.590480
+    B7L.FTEZ XVI.FTEZ 1.092000   NVI.FTEZ 1.092000
+    B7U.FTEZ B7U...EZ -1.000000   BFT.VOEZ 1.000000
+    B7U.FTEZ BFT.WTEZ 0.977900   XSU.FTEZ 1.838450
+    B7U.FTEZ XVI.FTEZ 1.104000   NVI.FTEZ 1.104000
+    B9B.FTEZ B9B...EZ -1.000000   BFT.VOEZ 1.000000
+    B9B.FTEZ BFT.WTEZ 1.086800   XSU.FTEZ 0.434720
+    B9B.FTEZ XVI.FTEZ 1.228000   NVI.FTEZ 1.228000
+    B9D.FTEZ B9D...EZ -1.000000   BFT.VOEZ 1.000000
+    B9D.FTEZ BFT.WTEZ 1.080600   XSU.FTEZ 0.432240
+    B9D.FTEZ XVI.FTEZ 1.221000   NVI.FTEZ 1.221000
+    B9E.FTEZ B9E...EZ -1.000000   BFT.VOEZ 1.000000
+    B9E.FTEZ BFT.WTEZ 1.012200   XSU.FTEZ 0.415000
+    B9E.FTEZ XVI.FTEZ 1.152000   NVI.FTEZ 1.152000
+    B9F.FTEZ B9F...EZ -1.000000   BFT.VOEZ 1.000000
+    B9F.FTEZ BFT.WTEZ 0.923600   XSU.FTEZ 0.240140
+    B9F.FTEZ XVI.FTEZ 1.169000   NVI.FTEZ 1.169000
+    B9I.FTEZ B9I...EZ -1.000000   BFT.VOEZ 1.000000
+    B9I.FTEZ BFT.WTEZ 1.140500   XSU.FTEZ 0.547440
+    B9I.FTEZ XVI.FTEZ 1.275000   NVI.FTEZ 1.275000
+    B9K.FTEZ B9K...EZ -1.000000   BFT.VOEZ 1.000000
+    B9K.FTEZ BFT.WTEZ 1.132800   XSU.FTEZ 0.566400
+    B9K.FTEZ XVI.FTEZ 1.281000   NVI.FTEZ 1.281000
+    B9L.FTEZ B9L...EZ -1.000000   BFT.VOEZ 1.000000
+    B9L.FTEZ BFT.WTEZ 1.034400   XSU.FTEZ 0.475820
+    B9L.FTEZ XVI.FTEZ 1.212000   NVI.FTEZ 1.212000
+    B9M.FTEZ B9M...EZ -1.000000   BFT.VOEZ 1.000000
+    B9M.FTEZ BFT.WTEZ 0.944000   XSU.FTEZ 0.368160
+    B9M.FTEZ XVI.FTEZ 1.188000   NVI.FTEZ 1.188000
+    B9P.FTEZ B9P...EZ -1.000000   BFT.VOEZ 1.000000
+    B9P.FTEZ BFT.WTEZ 1.119500   XSU.FTEZ 0.369430
+    B9P.FTEZ XVI.FTEZ 1.070000   NVI.FTEZ 1.070000
+    B9R.FTEZ B9R...EZ -1.000000   BFT.VOEZ 1.000000
+    B9R.FTEZ BFT.WTEZ 1.114200   XSU.FTEZ 0.367690
+    B9R.FTEZ XVI.FTEZ 1.060000   NVI.FTEZ 1.060000
+    B9S.FTEZ B9S...EZ -1.000000   BFT.VOEZ 1.000000
+    B9S.FTEZ BFT.WTEZ 1.072800   XSU.FTEZ 0.354020
+    B9S.FTEZ XVI.FTEZ 1.035000   NVI.FTEZ 1.035000
+    B9V.FTEZ B9V...EZ -1.000000   BFT.VOEZ 1.000000
+    B9V.FTEZ BFT.WTEZ 0.847300   XSU.FTEZ 0.021180
+    B9V.FTEZ XVI.FTEZ 0.978000   NVI.FTEZ 0.978000
+    BAC.FVEZ BAC...EZ -1.000000   BFV.VOEZ 1.000000
+    BAC.FVEZ BFV.WTEZ 0.954030   XSU.FVEZ 0.238740
+    BAC.FVEZ XVI.FVEZ 1.342000   NVI.FVEZ 1.342000
+    BAG.FVEZ BAG...EZ -1.000000   BFV.VOEZ 1.000000
+    BAG.FVEZ BFV.WTEZ 0.842650   XSU.FVEZ 0.015020
+    BAG.FVEZ XVI.FVEZ 0.968000   NVI.FVEZ 0.968000
+    BAH.FVEZ BAH...EZ -1.000000   BFV.VOEZ 1.000000
+    BAH.FVEZ BFV.WTEZ 0.989360   XSU.FVEZ 4.444220
+    BAH.FVEZ XVI.FVEZ 1.246000   NVI.FVEZ 1.246000
+    BAK.FVEZ BAK...EZ -1.000000   BFV.VOEZ 1.000000
+    BAK.FVEZ BFV.WTEZ 1.026940   XSU.FVEZ 4.681760
+    BAK.FVEZ XVI.FVEZ 1.423000   NVI.FVEZ 1.423000
+    BAL.FVEZ BAL...EZ -1.000000   BFV.VOEZ 1.000000
+    BAL.FVEZ BFV.WTEZ 0.958370   XSU.FVEZ 3.064560
+    BAL.FVEZ XVI.FVEZ 1.144000   NVI.FVEZ 1.144000
+    BAM.FVEZ BAM...EZ -1.000000   BFV.VOEZ 1.000000
+    BAM.FVEZ BFV.WTEZ 0.969970   XSU.FVEZ 3.855710
+    BAM.FVEZ XVI.FVEZ 1.161000   NVI.FVEZ 1.161000
+    BAP.FVEZ BAP...EZ -1.000000   BFV.VOEZ 1.000000
+    BAP.FVEZ BFV.WTEZ 0.886270   XSU.FVEZ 0.030780
+    BAP.FVEZ XVI.FVEZ 1.215000   NVI.FVEZ 1.215000
+    BAS.FVEZ BAS...EZ -1.000000   BFV.VOEZ 1.000000
+    BAS.FVEZ BFV.WTEZ 0.995250   XSU.FVEZ 0.498860
+    BAS.FVEZ XVI.FVEZ 1.435000   NVI.FVEZ 1.435000
+    BAW.FVEZ BAW...EZ -1.000000   BFV.VOEZ 1.000000
+    BAW.FVEZ BFV.WTEZ 0.908700   XSU.FVEZ 0.313780
+    BAW.FVEZ XVI.FVEZ 1.076000   NVI.FVEZ 1.076000
+    BAX.FVEZ BAX...EZ -1.000000   BFV.VOEZ 1.000000
+    BAX.FVEZ BFV.WTEZ 0.930250   XSU.FVEZ 1.991310
+    BAX.FVEZ XVI.FVEZ 1.081000   NVI.FVEZ 1.081000
+    BBB.FVEZ BBB...EZ -1.000000   BFV.VOEZ 1.000000
+    BBB.FVEZ BFV.WTEZ 0.893700   XSU.FVEZ 0.178740
+    BBB.FVEZ XVI.FVEZ 0.977000   NVI.FVEZ 0.977000
+    BBD.FVEZ BBD...EZ -1.000000   BFV.VOEZ 1.000000
+    BBD.FVEZ BFV.WTEZ 0.893100   XSU.FVEZ 0.178620
+    BBD.FVEZ XVI.FVEZ 0.990000   NVI.FVEZ 0.990000
+    BBO.FVEZ BBO...EZ -1.000000   BFV.VOEZ 1.000000
+    BBO.FVEZ BFV.WTEZ 0.820000   XSU.FVEZ 0.246000
+    BBO.FVEZ XVI.FVEZ 0.720000   NVI.FVEZ 0.720000
+    BBP.FVEZ BBP...EZ -1.000000   BFV.VOEZ 1.000000
+    BBP.FVEZ BFV.WTEZ 0.820000   XSU.FVEZ 1.230000
+    BBP.FVEZ XVI.FVEZ 0.720000   NVI.FVEZ 0.720000
+    BBW.FVEZ BBW...EZ -1.000000   BFV.VOEZ 1.000000
+    BBW.FVEZ BFV.WTEZ 0.870000   XSU.FVEZ 0.435000
+    BBW.FVEZ XVI.FVEZ 0.870000   NVI.FVEZ 0.870000
+    BBY.FVEZ BBY...EZ -1.000000   BFV.VOEZ 1.000000
+    BBY.FVEZ BFV.WTEZ 0.870000   XSU.FVEZ 1.305000
+    BBY.FVEZ XVI.FVEZ 0.870000   NVI.FVEZ 0.870000
+    BCA.FVEZ BCA...EZ -1.000000   BFV.VOEZ 1.000000
+    BCA.FVEZ BFV.WTEZ 0.911890   XSU.FVEZ 0.155900
+    BCA.FVEZ XVI.FVEZ 1.118000   NVI.FVEZ 1.118000
+    BEL.FVEZ BEL...EZ -1.000000   BFV.VOEZ 1.000000
+    BEL.FVEZ BFV.WTEZ 0.958700   XSU.FVEZ 0.690260
+    BEL.FVEZ XVI.FVEZ 1.125000   NVI.FVEZ 1.125000
+    BES.FVEZ BES...EZ -1.000000   BFV.VOEZ 1.000000
+    BES.FVEZ BFV.WTEZ 0.929480   XSU.FVEZ 0.677090
+    BES.FVEZ XVI.FVEZ 1.112000   NVI.FVEZ 1.112000
+    BHA.FVEZ BHA...EZ -1.000000   BFV.VOEZ 1.000000
+    BHA.FVEZ BFV.WTEZ 1.051520   XSU.FVEZ 6.325920
+    BHA.FVEZ XVI.FVEZ 1.460000   NVI.FVEZ 1.460000
+    BHI.FVEZ BHI...EZ -1.000000   BFV.VOEZ 1.000000
+    BHI.FVEZ BFV.WTEZ 1.035270   XSU.FVEZ 3.560070
+    BHI.FVEZ XVI.FVEZ 1.460000   NVI.FVEZ 1.460000
+    BHM.FVEZ BHM...EZ -1.000000   BFV.VOEZ 1.000000
+    BHM.FVEZ BFV.WTEZ 0.820000   XSU.FVEZ 0.246000
+    BHM.FVEZ XVI.FVEZ 0.720000   NVI.FVEZ 0.720000
+    BHN.FVEZ BHN...EZ -1.000000   BFV.VOEZ 1.000000
+    BHN.FVEZ BFV.WTEZ 0.820000   XSU.FVEZ 1.066000
+    BHN.FVEZ XVI.FVEZ 0.720000   NVI.FVEZ 0.720000
+    BHU.FVEZ BHU...EZ -1.000000   BFV.VOEZ 1.000000
+    BHU.FVEZ BFV.WTEZ 1.000260   XSU.FVEZ 2.569830
+    BHU.FVEZ XVI.FVEZ 1.371000   NVI.FVEZ 1.371000
+    BHY.FVEZ BHY...EZ -1.000000   BFV.VOEZ 1.000000
+    BHY.FVEZ BFV.WTEZ 0.961860   XSU.FVEZ 0.342240
+    BHY.FVEZ XVI.FVEZ 1.169000   NVI.FVEZ 1.169000
+    BIH.FVEZ BIH...EZ -1.000000   BFV.VOEZ 1.000000
+    BIH.FVEZ BFV.WTEZ 0.971950   XSU.FVEZ 2.489180
+    BIH.FVEZ XVI.FVEZ 1.206000   NVI.FVEZ 1.206000
+    BIL.FVEZ BIL...EZ -1.000000   BFV.VOEZ 1.000000
+    BIL.FVEZ BFV.WTEZ 0.955070   XSU.FVEZ 2.400240
+    BIL.FVEZ XVI.FVEZ 1.149000   NVI.FVEZ 1.149000
+    BKA.FVEZ BKA...EZ -1.000000   BFV.VOEZ 1.000000
+    BKA.FVEZ BFV.WTEZ 0.961630   XSU.FVEZ 3.349490
+    BKA.FVEZ XVI.FVEZ 1.162000   NVI.FVEZ 1.162000
+    BKK.FVEZ BKK...EZ -1.000000   BFV.VOEZ 1.000000
+    BKK.FVEZ BFV.WTEZ 0.963930   XSU.FVEZ 3.853160
+    BKK.FVEZ XVI.FVEZ 1.159000   NVI.FVEZ 1.159000
+    BKQ.FVEZ BKQ...EZ -1.000000   BFV.VOEZ 1.000000
+    BKQ.FVEZ BFV.WTEZ 1.045330   XSU.FVEZ 6.504400
+    BKQ.FVEZ XVI.FVEZ 1.430000   NVI.FVEZ 1.430000
+    BKU.FVEZ BKU...EZ -1.000000   BFV.VOEZ 1.000000
+    BKU.FVEZ BFV.WTEZ 0.973400   XSU.FVEZ 4.132130
+    BKU.FVEZ XVI.FVEZ 1.190000   NVI.FVEZ 1.190000
+    BLA.FVEZ BLA...EZ -1.000000   BFV.VOEZ 1.000000
+    BLA.FVEZ BFV.WTEZ 1.021730   XSU.FVEZ 4.444390
+    BLA.FVEZ XVI.FVEZ 1.381000   NVI.FVEZ 1.381000
+    BLB.FVEZ BLB...EZ -1.000000   BFV.VOEZ 1.000000
+    BLB.FVEZ BFV.WTEZ 0.915120   XSU.FVEZ 0.383760
+    BLB.FVEZ XVI.FVEZ 1.078000   NVI.FVEZ 1.078000
+    BLE.FVEZ BLE...EZ -1.000000   BFV.VOEZ 1.000000
+    BLE.FVEZ BFV.WTEZ 1.027600   XSU.FVEZ 1.171460
+    BLE.FVEZ XVI.FVEZ 1.460000   NVI.FVEZ 1.460000
+    BLI.FVEZ BLI...EZ -1.000000   BFV.VOEZ 1.000000
+    BLI.FVEZ BFV.WTEZ 1.028430   XSU.FVEZ 3.784260
+    BLI.FVEZ XVI.FVEZ 1.434000   NVI.FVEZ 1.434000
+    BLS.FVEZ BLS...EZ -1.000000   BFV.VOEZ 1.000000
+    BLS.FVEZ BFV.WTEZ 0.913480   XSU.FVEZ 0.299600
+    BLS.FVEZ XVI.FVEZ 1.108000   NVI.FVEZ 1.108000
+    BLT.FVEZ BLT...EZ -1.000000   BFV.VOEZ 1.000000
+    BLT.FVEZ BFV.WTEZ 0.923810   XSU.FVEZ 0.241200
+    BLT.FVEZ XVI.FVEZ 1.065000   NVI.FVEZ 1.065000
+    BLU.FVEZ BLU...EZ -1.000000   BFV.VOEZ 1.000000
+    BLU.FVEZ BFV.WTEZ 0.987000   XSU.FVEZ 0.770460
+    BLU.FVEZ XVI.FVEZ 1.346000   NVI.FVEZ 1.346000
+    BMA.FVEZ BMA...EZ -1.000000   BFV.VOEZ 1.000000
+    BMA.FVEZ BFV.WTEZ 1.036740   XSU.FVEZ 5.561150
+    BMA.FVEZ XVI.FVEZ 1.405000   NVI.FVEZ 1.405000
+    BMD.FVEZ BMD...EZ -1.000000   BFV.VOEZ 1.000000
+    BMD.FVEZ BFV.WTEZ 0.954190   XSU.FVEZ 0.370030
+    BMD.FVEZ XVI.FVEZ 1.143000   NVI.FVEZ 1.143000
+    BMF.FVEZ BMF...EZ -1.000000   BFV.VOEZ 1.000000
+    BMF.FVEZ BFV.WTEZ 1.017900   XSU.FVEZ 0.796850
+    BMF.FVEZ XVI.FVEZ 1.415000   NVI.FVEZ 1.415000
+    BMN.FVEZ BMN...EZ -1.000000   BFV.VOEZ 1.000000
+    BMN.FVEZ BFV.WTEZ 0.944950   XSU.FVEZ 1.778980
+    BMN.FVEZ XVI.FVEZ 1.152000   NVI.FVEZ 1.152000
+    BMO.FVEZ BMO...EZ -1.000000   BFV.VOEZ 1.000000
+    BMO.FVEZ BFV.WTEZ 1.000830   XSU.FVEZ 2.555180
+    BMO.FVEZ XVI.FVEZ 1.384000   NVI.FVEZ 1.384000
+    BMU.FVEZ BMU...EZ -1.000000   BFV.VOEZ 1.000000
+    BMU.FVEZ BFV.WTEZ 0.922450   XSU.FVEZ 1.622720
+    BMU.FVEZ XVI.FVEZ 1.067000   NVI.FVEZ 1.067000
+    BQA.FVEZ BQA...EZ -1.000000   BFV.VOEZ 1.000000
+    BQA.FVEZ BFV.WTEZ 0.997000   XSU.FVEZ 4.147520
+    BQA.FVEZ XVI.FVEZ 1.175000   NVI.FVEZ 1.175000
+    BQH.FVEZ BQH...EZ -1.000000   BFV.VOEZ 1.000000
+    BQH.FVEZ BFV.WTEZ 1.014000   XSU.FVEZ 5.536440
+    BQH.FVEZ XVI.FVEZ 1.175000   NVI.FVEZ 1.175000
+    BQT.FVEZ BQT...EZ -1.000000   BFV.VOEZ 1.000000
+    BQT.FVEZ BFV.WTEZ 0.933200   XSU.FVEZ 2.347740
+    BQT.FVEZ XVI.FVEZ 1.090000   NVI.FVEZ 1.090000
+    BQW.FVEZ BQW...EZ -1.000000   BFV.VOEZ 1.000000
+    BQW.FVEZ BFV.WTEZ 1.007000   XSU.FVEZ 5.810390
+    BQW.FVEZ XVI.FVEZ 1.175000   NVI.FVEZ 1.175000
+    BRB.FVEZ BRB...EZ -1.000000   BFV.VOEZ 1.000000
+    BRB.FVEZ BFV.WTEZ 0.983160   XSU.FVEZ 0.680810
+    BRB.FVEZ XVI.FVEZ 1.339000   NVI.FVEZ 1.339000
+    BSA.FVEZ BSA...EZ -1.000000   BFV.VOEZ 1.000000
+    BSA.FVEZ BFV.WTEZ 0.963200   XSU.FVEZ 0.597180
+    BSA.FVEZ XVI.FVEZ 1.145000   NVI.FVEZ 1.145000
+    BSE.FVEZ BSE...EZ -1.000000   BFV.VOEZ 1.000000
+    BSE.FVEZ BFV.WTEZ 1.004360   XSU.FVEZ 1.209020
+    BSE.FVEZ XVI.FVEZ 1.382000   NVI.FVEZ 1.382000
+    BSH.FVEZ BSH...EZ -1.000000   BFV.VOEZ 1.000000
+    BSH.FVEZ BFV.WTEZ 0.979200   XSU.FVEZ 0.802940
+    BSH.FVEZ XVI.FVEZ 1.145000   NVI.FVEZ 1.145000
+    BSW.FVEZ BSW...EZ -1.000000   BFV.VOEZ 1.000000
+    BSW.FVEZ BFV.WTEZ 0.972500   XSU.FVEZ 0.836350
+    BSW.FVEZ XVI.FVEZ 1.145000   NVI.FVEZ 1.145000
+    BTL.FVEZ BTL...EZ -1.000000   BFV.VOEZ 1.000000
+    BTL.FVEZ BFV.WTEZ 1.023110   XSU.FVEZ 0.553770
+    BTL.FVEZ XVI.FVEZ 1.388000   NVI.FVEZ 1.388000
+    BTQ.FVEZ BTQ...EZ -1.000000   BFV.VOEZ 1.000000
+    BTQ.FVEZ BFV.WTEZ 0.999180   XSU.FVEZ 3.936200
+    BTQ.FVEZ XVI.FVEZ 1.395000   NVI.FVEZ 1.395000
+    BUH.FVEZ BUH...EZ -1.000000   BFV.VOEZ 1.000000
+    BUH.FVEZ BFV.WTEZ 0.936840   XSU.FVEZ 1.445090
+    BUH.FVEZ XVI.FVEZ 1.122000   NVI.FVEZ 1.122000
+    BUK.FVEZ BUK...EZ -1.000000   BFV.VOEZ 1.000000
+    BUK.FVEZ BFV.WTEZ 1.037550   XSU.FVEZ 5.791860
+    BUK.FVEZ XVI.FVEZ 1.440000   NVI.FVEZ 1.440000
+    BUL.FVEZ BUL...EZ -1.000000   BFV.VOEZ 1.000000
+    BUL.FVEZ BFV.WTEZ 0.925930   XSU.FVEZ 0.481170
+    BUL.FVEZ XVI.FVEZ 1.109000   NVI.FVEZ 1.109000
+    BUM.FVEZ BUM...EZ -1.000000   BFV.VOEZ 1.000000
+    BUM.FVEZ BFV.WTEZ 0.989990   XSU.FVEZ 2.897960
+    BUM.FVEZ XVI.FVEZ 1.344000   NVI.FVEZ 1.344000
+    BWA.FVEZ BWA...EZ -1.000000   BFV.VOEZ 1.000000
+    BWA.FVEZ BFV.WTEZ 0.969370   XSU.FVEZ 0.602190
+    BWA.FVEZ XVI.FVEZ 1.340000   NVI.FVEZ 1.340000
+    BXA.FVEZ BXA...EZ -1.000000   BFV.VOEZ 1.000000
+    BXA.FVEZ BFV.WTEZ 0.991990   XSU.FVEZ 2.861130
+    BXA.FVEZ XVI.FVEZ 1.300000   NVI.FVEZ 1.300000
+    BYH.FVEZ BYH...EZ -1.000000   BFV.VOEZ 1.000000
+    BYH.FVEZ BFV.WTEZ 1.023810   XSU.FVEZ 0.666860
+    BYH.FVEZ XVI.FVEZ 1.455000   NVI.FVEZ 1.455000
+    BZA.FVEZ BZA...EZ -1.000000   BFV.VOEZ 1.000000
+    BZA.FVEZ BFV.WTEZ 0.902850   XSU.FVEZ 0.149900
+    BZA.FVEZ XVI.FVEZ 1.074000   NVI.FVEZ 1.074000
+    B1A.FVEZ B1A...EZ -1.000000   BFV.VOEZ 1.000000
+    B1A.FVEZ BFV.WTEZ 0.932600   XSU.FVEZ 0.792710
+    B1A.FVEZ XVI.FVEZ 1.118000   NVI.FVEZ 1.118000
+    B1G.FVEZ B1G...EZ -1.000000   BFV.VOEZ 1.000000
+    B1G.FVEZ BFV.WTEZ 0.953100   XSU.FVEZ 0.695760
+    B1G.FVEZ XVI.FVEZ 1.200000   NVI.FVEZ 1.200000
+    B1H.FVEZ B1H...EZ -1.000000   BFV.VOEZ 1.000000
+    B1H.FVEZ BFV.WTEZ 0.949200   XSU.FVEZ 1.195990
+    B1H.FVEZ XVI.FVEZ 1.244000   NVI.FVEZ 1.244000
+    B1I.FVEZ B1I...EZ -1.000000   BFV.VOEZ 1.000000
+    B1I.FVEZ BFV.WTEZ 0.939400   XSU.FVEZ 0.666970
+    B1I.FVEZ XVI.FVEZ 1.139000   NVI.FVEZ 1.139000
+    B1K.FVEZ B1K...EZ -1.000000   BFV.VOEZ 1.000000
+    B1K.FVEZ BFV.WTEZ 0.940000   XSU.FVEZ 1.081000
+    B1K.FVEZ XVI.FVEZ 1.138000   NVI.FVEZ 1.138000
+    B1W.FVEZ B1W...EZ -1.000000   BFV.VOEZ 1.000000
+    B1W.FVEZ BFV.WTEZ 0.937200   XSU.FVEZ 1.124640
+    B1W.FVEZ XVI.FVEZ 1.174000   NVI.FVEZ 1.174000
+    B2A.FVEZ B2A...EZ -1.000000   BFV.VOEZ 1.000000
+    B2A.FVEZ BFV.WTEZ 0.921400   XSU.FVEZ 0.313280
+    B2A.FVEZ XVI.FVEZ 1.078000   NVI.FVEZ 1.078000
+    B2G.FVEZ B2G...EZ -1.000000   BFV.VOEZ 1.000000
+    B2G.FVEZ BFV.WTEZ 0.942200   XSU.FVEZ 0.282660
+    B2G.FVEZ XVI.FVEZ 1.152000   NVI.FVEZ 1.152000
+    B2H.FVEZ B2H...EZ -1.000000   BFV.VOEZ 1.000000
+    B2H.FVEZ BFV.WTEZ 0.933600   XSU.FVEZ 0.494810
+    B2H.FVEZ XVI.FVEZ 1.188000   NVI.FVEZ 1.188000
+    B2I.FVEZ B2I...EZ -1.000000   BFV.VOEZ 1.000000
+    B2I.FVEZ BFV.WTEZ 0.929300   XSU.FVEZ 0.269500
+    B2I.FVEZ XVI.FVEZ 1.090000   NVI.FVEZ 1.090000
+    B2K.FVEZ B2K...EZ -1.000000   BFV.VOEZ 1.000000
+    B2K.FVEZ BFV.WTEZ 0.926600   XSU.FVEZ 0.435500
+    B2K.FVEZ XVI.FVEZ 1.092000   NVI.FVEZ 1.092000
+    B2W.FVEZ B2W...EZ -1.000000   BFV.VOEZ 1.000000
+    B2W.FVEZ BFV.WTEZ 0.922600   XSU.FVEZ 0.461300
+    B2W.FVEZ XVI.FVEZ 1.122000   NVI.FVEZ 1.122000
+    B6A.FVEZ B6A...EZ -1.000000   BFV.VOEZ 1.000000
+    B6A.FVEZ BFV.WTEZ 1.108000   XSU.FVEZ 0.675880
+    B6A.FVEZ XVI.FVEZ 1.113000   NVI.FVEZ 1.113000
+    B6H.FVEZ B6H...EZ -1.000000   BFV.VOEZ 1.000000
+    B6H.FVEZ BFV.WTEZ 1.108000   XSU.FVEZ 0.565080
+    B6H.FVEZ XVI.FVEZ 1.113000   NVI.FVEZ 1.113000
+    B6W.FVEZ B6W...EZ -1.000000   BFV.VOEZ 1.000000
+    B6W.FVEZ BFV.WTEZ 1.108000   XSU.FVEZ 0.709120
+    B6W.FVEZ XVI.FVEZ 1.113000   NVI.FVEZ 1.113000
+    B7A.FVEZ B7A...EZ -1.000000   BFV.VOEZ 1.000000
+    B7A.FVEZ BFV.WTEZ 0.974500   XSU.FVEZ 3.420490
+    B7A.FVEZ XVI.FVEZ 1.160000   NVI.FVEZ 1.160000
+    B7G.FVEZ B7G...EZ -1.000000   BFV.VOEZ 1.000000
+    B7G.FVEZ BFV.WTEZ 0.991600   XSU.FVEZ 2.835980
+    B7G.FVEZ XVI.FVEZ 1.233000   NVI.FVEZ 1.233000
+    B7H.FVEZ B7H...EZ -1.000000   BFV.VOEZ 1.000000
+    B7H.FVEZ BFV.WTEZ 1.009200   XSU.FVEZ 4.803790
+    B7H.FVEZ XVI.FVEZ 1.261000   NVI.FVEZ 1.261000
+    B7K.FVEZ B7K...EZ -1.000000   BFV.VOEZ 1.000000
+    B7K.FVEZ BFV.WTEZ 0.988800   XSU.FVEZ 4.370500
+    B7K.FVEZ XVI.FVEZ 1.187000   NVI.FVEZ 1.187000
+    B7L.FVEZ B7L...EZ -1.000000   BFV.VOEZ 1.000000
+    B7L.FVEZ BFV.WTEZ 0.968000   XSU.FVEZ 0.590480
+    B7L.FVEZ XVI.FVEZ 1.092000   NVI.FVEZ 1.092000
+    B7U.FVEZ B7U...EZ -1.000000   BFV.VOEZ 1.000000
+    B7U.FVEZ BFV.WTEZ 0.977900   XSU.FVEZ 1.838450
+    B7U.FVEZ XVI.FVEZ 1.104000   NVI.FVEZ 1.104000
+    B7W.FVEZ B7W...EZ -1.000000   BFV.VOEZ 1.000000
+    B7W.FVEZ BFV.WTEZ 0.992700   XSU.FVEZ 4.675620
+    B7W.FVEZ XVI.FVEZ 1.220000   NVI.FVEZ 1.220000
+    B8A.FVEZ B8A...EZ -1.000000   BFV.VOEZ 1.000000
+    B8A.FVEZ BFV.WTEZ 1.107000   XSU.FVEZ 7.859700
+    B8A.FVEZ XVI.FVEZ 1.113000   NVI.FVEZ 1.113000
+    B8H.FVEZ B8H...EZ -1.000000   BFV.VOEZ 1.000000
+    B8H.FVEZ BFV.WTEZ 1.107000   XSU.FVEZ 6.475950
+    B8H.FVEZ XVI.FVEZ 1.113000   NVI.FVEZ 1.113000
+    B8W.FVEZ B8W...EZ -1.000000   BFV.VOEZ 1.000000
+    B8W.FVEZ BFV.WTEZ 1.107000   XSU.FVEZ 8.202870
+    B8W.FVEZ XVI.FVEZ 1.113000   NVI.FVEZ 1.113000
+    B9A.FVEZ B9A...EZ -1.000000   BFV.VOEZ 1.000000
+    B9A.FVEZ BFV.WTEZ 1.086800   XSU.FVEZ 6.520800
+    B9A.FVEZ XVI.FVEZ 1.228000   NVI.FVEZ 1.228000
+    B9B.FVEZ B9B...EZ -1.000000   BFV.VOEZ 1.000000
+    B9B.FVEZ BFV.WTEZ 1.086800   XSU.FVEZ 0.434720
+    B9B.FVEZ XVI.FVEZ 1.228000   NVI.FVEZ 1.228000
+    B9C.FVEZ B9C...EZ -1.000000   BFV.VOEZ 1.000000
+    B9C.FVEZ BFV.WTEZ 1.080600   XSU.FVEZ 3.241800
+    B9C.FVEZ XVI.FVEZ 1.221000   NVI.FVEZ 1.221000
+    B9D.FVEZ B9D...EZ -1.000000   BFV.VOEZ 1.000000
+    B9D.FVEZ BFV.WTEZ 1.080600   XSU.FVEZ 0.432240
+    B9D.FVEZ XVI.FVEZ 1.221000   NVI.FVEZ 1.221000
+    B9E.FVEZ B9E...EZ -1.000000   BFV.VOEZ 1.000000
+    B9E.FVEZ BFV.WTEZ 1.012200   XSU.FVEZ 0.415000
+    B9E.FVEZ XVI.FVEZ 1.152000   NVI.FVEZ 1.152000
+    B9F.FVEZ B9F...EZ -1.000000   BFV.VOEZ 1.000000
+    B9F.FVEZ BFV.WTEZ 0.923600   XSU.FVEZ 0.240140
+    B9F.FVEZ XVI.FVEZ 1.169000   NVI.FVEZ 1.169000
+    B9G.FVEZ B9G...EZ -1.000000   BFV.VOEZ 1.000000
+    B9G.FVEZ BFV.WTEZ 0.979200   XSU.FVEZ 3.427200
+    B9G.FVEZ XVI.FVEZ 1.230000   NVI.FVEZ 1.230000
+    B9H.FVEZ B9H...EZ -1.000000   BFV.VOEZ 1.000000
+    B9H.FVEZ BFV.WTEZ 1.140500   XSU.FVEZ 7.869450
+    B9H.FVEZ XVI.FVEZ 1.275000   NVI.FVEZ 1.275000
+    B9I.FVEZ B9I...EZ -1.000000   BFV.VOEZ 1.000000
+    B9I.FVEZ BFV.WTEZ 1.140500   XSU.FVEZ 0.547440
+    B9I.FVEZ XVI.FVEZ 1.275000   NVI.FVEZ 1.275000
+    B9J.FVEZ B9J...EZ -1.000000   BFV.VOEZ 1.000000
+    B9J.FVEZ BFV.WTEZ 1.132800   XSU.FVEZ 3.964800
+    B9J.FVEZ XVI.FVEZ 1.281000   NVI.FVEZ 1.281000
+    B9K.FVEZ B9K...EZ -1.000000   BFV.VOEZ 1.000000
+    B9K.FVEZ BFV.WTEZ 1.132800   XSU.FVEZ 0.566400
+    B9K.FVEZ XVI.FVEZ 1.281000   NVI.FVEZ 1.281000
+    B9L.FVEZ B9L...EZ -1.000000   BFV.VOEZ 1.000000
+    B9L.FVEZ BFV.WTEZ 1.034400   XSU.FVEZ 0.475820
+    B9L.FVEZ XVI.FVEZ 1.212000   NVI.FVEZ 1.212000
+    B9M.FVEZ B9M...EZ -1.000000   BFV.VOEZ 1.000000
+    B9M.FVEZ BFV.WTEZ 0.944000   XSU.FVEZ 0.368160
+    B9M.FVEZ XVI.FVEZ 1.188000   NVI.FVEZ 1.188000
+    B9N.FVEZ B9N...EZ -1.000000   BFV.VOEZ 1.000000
+    B9N.FVEZ BFV.WTEZ 1.031300   XSU.FVEZ 5.259630
+    B9N.FVEZ XVI.FVEZ 1.276000   NVI.FVEZ 1.276000
+    B9O.FVEZ B9O...EZ -1.000000   BFV.VOEZ 1.000000
+    B9O.FVEZ BFV.WTEZ 1.119500   XSU.FVEZ 5.463160
+    B9O.FVEZ XVI.FVEZ 1.070000   NVI.FVEZ 1.070000
+    B9P.FVEZ B9P...EZ -1.000000   BFV.VOEZ 1.000000
+    B9P.FVEZ BFV.WTEZ 1.119500   XSU.FVEZ 0.369430
+    B9P.FVEZ XVI.FVEZ 1.070000   NVI.FVEZ 1.070000
+    B9Q.FVEZ B9Q...EZ -1.000000   BFV.VOEZ 1.000000
+    B9Q.FVEZ BFV.WTEZ 1.114200   XSU.FVEZ 2.629510
+    B9Q.FVEZ XVI.FVEZ 1.060000   NVI.FVEZ 1.060000
+    B9R.FVEZ B9R...EZ -1.000000   BFV.VOEZ 1.000000
+    B9R.FVEZ BFV.WTEZ 1.114200   XSU.FVEZ 0.367690
+    B9R.FVEZ XVI.FVEZ 1.060000   NVI.FVEZ 1.060000
+    B9S.FVEZ B9S...EZ -1.000000   BFV.VOEZ 1.000000
+    B9S.FVEZ BFV.WTEZ 1.072800   XSU.FVEZ 0.354020
+    B9S.FVEZ XVI.FVEZ 1.035000   NVI.FVEZ 1.035000
+    B9V.FVEZ B9V...EZ -1.000000   BFV.VOEZ 1.000000
+    B9V.FVEZ BFV.WTEZ 0.847300   XSU.FVEZ 0.021180
+    B9V.FVEZ XVI.FVEZ 0.978000   NVI.FVEZ 0.978000
+    BAH.FYEZ BAH...EZ -1.000000   BFY.VOEZ 1.000000
+    BAH.FYEZ BFY.WTEZ 0.989360   XSU.FYEZ 4.444220
+    BAH.FYEZ XVI.FYEZ 1.246000   NVI.FYEZ 1.246000
+    BAK.FYEZ BAK...EZ -1.000000   BFY.VOEZ 1.000000
+    BAK.FYEZ BFY.WTEZ 1.026940   XSU.FYEZ 4.681760
+    BAK.FYEZ XVI.FYEZ 1.423000   NVI.FYEZ 1.423000
+    BAL.FYEZ BAL...EZ -1.000000   BFY.VOEZ 1.000000
+    BAL.FYEZ BFY.WTEZ 0.958370   XSU.FYEZ 3.064560
+    BAL.FYEZ XVI.FYEZ 1.144000   NVI.FYEZ 1.144000
+    BAM.FYEZ BAM...EZ -1.000000   BFY.VOEZ 1.000000
+    BAM.FYEZ BFY.WTEZ 0.969970   XSU.FYEZ 3.855710
+    BAM.FYEZ XVI.FYEZ 1.161000   NVI.FYEZ 1.161000
+    BAX.FYEZ BAX...EZ -1.000000   BFY.VOEZ 1.000000
+    BAX.FYEZ BFY.WTEZ 0.930250   XSU.FYEZ 1.991310
+    BAX.FYEZ XVI.FYEZ 1.081000   NVI.FYEZ 1.081000
+    BBO.FYEZ BBO...EZ -1.000000   BFY.VOEZ 1.000000
+    BBO.FYEZ BFY.WTEZ 0.820000   XSU.FYEZ 0.246000
+    BBO.FYEZ XVI.FYEZ 0.720000   NVI.FYEZ 0.720000
+    BBP.FYEZ BBP...EZ -1.000000   BFY.VOEZ 1.000000
+    BBP.FYEZ BFY.WTEZ 0.820000   XSU.FYEZ 1.230000
+    BBP.FYEZ XVI.FYEZ 0.720000   NVI.FYEZ 0.720000
+    BBW.FYEZ BBW...EZ -1.000000   BFY.VOEZ 1.000000
+    BBW.FYEZ BFY.WTEZ 0.870000   XSU.FYEZ 0.435000
+    BBW.FYEZ XVI.FYEZ 0.870000   NVI.FYEZ 0.870000
+    BBY.FYEZ BBY...EZ -1.000000   BFY.VOEZ 1.000000
+    BBY.FYEZ BFY.WTEZ 0.870000   XSU.FYEZ 1.305000
+    BBY.FYEZ XVI.FYEZ 0.870000   NVI.FYEZ 0.870000
+    BHA.FYEZ BHA...EZ -1.000000   BFY.VOEZ 1.000000
+    BHA.FYEZ BFY.WTEZ 1.051520   XSU.FYEZ 6.325920
+    BHA.FYEZ XVI.FYEZ 1.460000   NVI.FYEZ 1.460000
+    BHI.FYEZ BHI...EZ -1.000000   BFY.VOEZ 1.000000
+    BHI.FYEZ BFY.WTEZ 1.035270   XSU.FYEZ 3.560070
+    BHI.FYEZ XVI.FYEZ 1.460000   NVI.FYEZ 1.460000
+    BHM.FYEZ BHM...EZ -1.000000   BFY.VOEZ 1.000000
+    BHM.FYEZ BFY.WTEZ 0.820000   XSU.FYEZ 0.246000
+    BHM.FYEZ XVI.FYEZ 0.720000   NVI.FYEZ 0.720000
+    BHN.FYEZ BHN...EZ -1.000000   BFY.VOEZ 1.000000
+    BHN.FYEZ BFY.WTEZ 0.820000   XSU.FYEZ 1.066000
+    BHN.FYEZ XVI.FYEZ 0.720000   NVI.FYEZ 0.720000
+    BHU.FYEZ BHU...EZ -1.000000   BFY.VOEZ 1.000000
+    BHU.FYEZ BFY.WTEZ 1.000260   XSU.FYEZ 2.569830
+    BHU.FYEZ XVI.FYEZ 1.371000   NVI.FYEZ 1.371000
+    BHV.FYEZ BHV...EZ -1.000000   BFY.VOEZ 1.000000
+    BHV.FYEZ BFY.WTEZ 1.054570   XSU.FYEZ 3.887300
+    BHV.FYEZ XVI.FYEZ 1.460000   NVI.FYEZ 1.460000
+    BIH.FYEZ BIH...EZ -1.000000   BFY.VOEZ 1.000000
+    BIH.FYEZ BFY.WTEZ 0.971950   XSU.FYEZ 2.489180
+    BIH.FYEZ XVI.FYEZ 1.206000   NVI.FYEZ 1.206000
+    BIL.FYEZ BIL...EZ -1.000000   BFY.VOEZ 1.000000
+    BIL.FYEZ BFY.WTEZ 0.955070   XSU.FYEZ 2.400240
+    BIL.FYEZ XVI.FYEZ 1.149000   NVI.FYEZ 1.149000
+    BIR.FYEZ BIR...EZ -1.000000   BFY.VOEZ 1.000000
+    BIR.FYEZ BFY.WTEZ 0.967590   XSU.FYEZ 4.163000
+    BIR.FYEZ XVI.FYEZ 1.165000   NVI.FYEZ 1.165000
+    BKA.FYEZ BKA...EZ -1.000000   BFY.VOEZ 1.000000
+    BKA.FYEZ BFY.WTEZ 0.961630   XSU.FYEZ 3.349490
+    BKA.FYEZ XVI.FYEZ 1.162000   NVI.FYEZ 1.162000
+    BKK.FYEZ BKK...EZ -1.000000   BFY.VOEZ 1.000000
+    BKK.FYEZ BFY.WTEZ 0.963930   XSU.FYEZ 3.853160
+    BKK.FYEZ XVI.FYEZ 1.159000   NVI.FYEZ 1.159000
+    BKQ.FYEZ BKQ...EZ -1.000000   BFY.VOEZ 1.000000
+    BKQ.FYEZ BFY.WTEZ 1.045330   XSU.FYEZ 6.504400
+    BKQ.FYEZ XVI.FYEZ 1.430000   NVI.FYEZ 1.430000
+    BKU.FYEZ BKU...EZ -1.000000   BFY.VOEZ 1.000000
+    BKU.FYEZ BFY.WTEZ 0.973400   XSU.FYEZ 4.132130
+    BKU.FYEZ XVI.FYEZ 1.190000   NVI.FYEZ 1.190000
+    BLA.FYEZ BLA...EZ -1.000000   BFY.VOEZ 1.000000
+    BLA.FYEZ BFY.WTEZ 1.021730   XSU.FYEZ 4.444390
+    BLA.FYEZ XVI.FYEZ 1.381000   NVI.FYEZ 1.381000
+    BLI.FYEZ BLI...EZ -1.000000   BFY.VOEZ 1.000000
+    BLI.FYEZ BFY.WTEZ 1.028430   XSU.FYEZ 3.784260
+    BLI.FYEZ XVI.FYEZ 1.434000   NVI.FYEZ 1.434000
+    BLU.FYEZ BLU...EZ -1.000000   BFY.VOEZ 1.000000
+    BLU.FYEZ BFY.WTEZ 0.987000   XSU.FYEZ 0.770460
+    BLU.FYEZ XVI.FYEZ 1.346000   NVI.FYEZ 1.346000
+    BMA.FYEZ BMA...EZ -1.000000   BFY.VOEZ 1.000000
+    BMA.FYEZ BFY.WTEZ 1.036740   XSU.FYEZ 5.561150
+    BMA.FYEZ XVI.FYEZ 1.405000   NVI.FYEZ 1.405000
+    BMN.FYEZ BMN...EZ -1.000000   BFY.VOEZ 1.000000
+    BMN.FYEZ BFY.WTEZ 0.944950   XSU.FYEZ 1.778980
+    BMN.FYEZ XVI.FYEZ 1.152000   NVI.FYEZ 1.152000
+    BMO.FYEZ BMO...EZ -1.000000   BFY.VOEZ 1.000000
+    BMO.FYEZ BFY.WTEZ 1.000830   XSU.FYEZ 2.555180
+    BMO.FYEZ XVI.FYEZ 1.384000   NVI.FYEZ 1.384000
+    BMT.FYEZ BMT...EZ -1.000000   BFY.VOEZ 1.000000
+    BMT.FYEZ BFY.WTEZ 1.039070   XSU.FYEZ 3.268510
+    BMT.FYEZ XVI.FYEZ 1.460000   NVI.FYEZ 1.460000
+    BMU.FYEZ BMU...EZ -1.000000   BFY.VOEZ 1.000000
+    BMU.FYEZ BFY.WTEZ 0.922450   XSU.FYEZ 1.622720
+    BMU.FYEZ XVI.FYEZ 1.067000   NVI.FYEZ 1.067000
+    BQA.FYEZ BQA...EZ -1.000000   BFY.VOEZ 1.000000
+    BQA.FYEZ BFY.WTEZ 0.997000   XSU.FYEZ 4.147520
+    BQA.FYEZ XVI.FYEZ 1.175000   NVI.FYEZ 1.175000
+    BQH.FYEZ BQH...EZ -1.000000   BFY.VOEZ 1.000000
+    BQH.FYEZ BFY.WTEZ 1.014000   XSU.FYEZ 5.536440
+    BQH.FYEZ XVI.FYEZ 1.175000   NVI.FYEZ 1.175000
+    BQT.FYEZ BQT...EZ -1.000000   BFY.VOEZ 1.000000
+    BQT.FYEZ BFY.WTEZ 0.933200   XSU.FYEZ 2.347740
+    BQT.FYEZ XVI.FYEZ 1.090000   NVI.FYEZ 1.090000
+    BQW.FYEZ BQW...EZ -1.000000   BFY.VOEZ 1.000000
+    BQW.FYEZ BFY.WTEZ 1.007000   XSU.FYEZ 5.810390
+    BQW.FYEZ XVI.FYEZ 1.175000   NVI.FYEZ 1.175000
+    BRI.FYEZ BRI...EZ -1.000000   BFY.VOEZ 1.000000
+    BRI.FYEZ BFY.WTEZ 1.031500   XSU.FYEZ 6.043990
+    BRI.FYEZ XVI.FYEZ 1.420000   NVI.FYEZ 1.420000
+    BTQ.FYEZ BTQ...EZ -1.000000   BFY.VOEZ 1.000000
+    BTQ.FYEZ BFY.WTEZ 0.999180   XSU.FYEZ 3.936200
+    BTQ.FYEZ XVI.FYEZ 1.395000   NVI.FYEZ 1.395000
+    BUH.FYEZ BUH...EZ -1.000000   BFY.VOEZ 1.000000
+    BUH.FYEZ BFY.WTEZ 0.936840   XSU.FYEZ 1.445090
+    BUH.FYEZ XVI.FYEZ 1.122000   NVI.FYEZ 1.122000
+    BUK.FYEZ BUK...EZ -1.000000   BFY.VOEZ 1.000000
+    BUK.FYEZ BFY.WTEZ 1.037550   XSU.FYEZ 5.791860
+    BUK.FYEZ XVI.FYEZ 1.440000   NVI.FYEZ 1.440000
+    BUL.FYEZ BUL...EZ -1.000000   BFY.VOEZ 1.000000
+    BUL.FYEZ BFY.WTEZ 0.925930   XSU.FYEZ 0.481170
+    BUL.FYEZ XVI.FYEZ 1.109000   NVI.FYEZ 1.109000
+    BUM.FYEZ BUM...EZ -1.000000   BFY.VOEZ 1.000000
+    BUM.FYEZ BFY.WTEZ 0.989990   XSU.FYEZ 2.897960
+    BUM.FYEZ XVI.FYEZ 1.344000   NVI.FYEZ 1.344000
+    BXA.FYEZ BXA...EZ -1.000000   BFY.VOEZ 1.000000
+    BXA.FYEZ BFY.WTEZ 0.991990   XSU.FYEZ 2.861130
+    BXA.FYEZ XVI.FYEZ 1.300000   NVI.FYEZ 1.300000
+    B7A.FYEZ B7A...EZ -1.000000   BFY.VOEZ 1.000000
+    B7A.FYEZ BFY.WTEZ 0.974500   XSU.FYEZ 3.420490
+    B7A.FYEZ XVI.FYEZ 1.160000   NVI.FYEZ 1.160000
+    B7G.FYEZ B7G...EZ -1.000000   BFY.VOEZ 1.000000
+    B7G.FYEZ BFY.WTEZ 0.991600   XSU.FYEZ 2.835980
+    B7G.FYEZ XVI.FYEZ 1.233000   NVI.FYEZ 1.233000
+    B7H.FYEZ B7H...EZ -1.000000   BFY.VOEZ 1.000000
+    B7H.FYEZ BFY.WTEZ 1.009200   XSU.FYEZ 4.803790
+    B7H.FYEZ XVI.FYEZ 1.261000   NVI.FYEZ 1.261000
+    B7K.FYEZ B7K...EZ -1.000000   BFY.VOEZ 1.000000
+    B7K.FYEZ BFY.WTEZ 0.988800   XSU.FYEZ 4.370500
+    B7K.FYEZ XVI.FYEZ 1.187000   NVI.FYEZ 1.187000
+    B7L.FYEZ B7L...EZ -1.000000   BFY.VOEZ 1.000000
+    B7L.FYEZ BFY.WTEZ 0.968000   XSU.FYEZ 0.590480
+    B7L.FYEZ XVI.FYEZ 1.092000   NVI.FYEZ 1.092000
+    B7U.FYEZ B7U...EZ -1.000000   BFY.VOEZ 1.000000
+    B7U.FYEZ BFY.WTEZ 0.977900   XSU.FYEZ 1.838450
+    B7U.FYEZ XVI.FYEZ 1.104000   NVI.FYEZ 1.104000
+    B7W.FYEZ B7W...EZ -1.000000   BFY.VOEZ 1.000000
+    B7W.FYEZ BFY.WTEZ 0.992700   XSU.FYEZ 4.675620
+    B7W.FYEZ XVI.FYEZ 1.220000   NVI.FYEZ 1.220000
+    B8A.FYEZ B8A...EZ -1.000000   BFY.VOEZ 1.000000
+    B8A.FYEZ BFY.WTEZ 1.107000   XSU.FYEZ 7.859700
+    B8A.FYEZ XVI.FYEZ 1.113000   NVI.FYEZ 1.113000
+    B8H.FYEZ B8H...EZ -1.000000   BFY.VOEZ 1.000000
+    B8H.FYEZ BFY.WTEZ 1.107000   XSU.FYEZ 6.475950
+    B8H.FYEZ XVI.FYEZ 1.113000   NVI.FYEZ 1.113000
+    B8W.FYEZ B8W...EZ -1.000000   BFY.VOEZ 1.000000
+    B8W.FYEZ BFY.WTEZ 1.107000   XSU.FYEZ 8.202870
+    B8W.FYEZ XVI.FYEZ 1.113000   NVI.FYEZ 1.113000
+    B9A.FYEZ B9A...EZ -1.000000   BFY.VOEZ 1.000000
+    B9A.FYEZ BFY.WTEZ 1.086800   XSU.FYEZ 6.520800
+    B9A.FYEZ XVI.FYEZ 1.228000   NVI.FYEZ 1.228000
+    B9C.FYEZ B9C...EZ -1.000000   BFY.VOEZ 1.000000
+    B9C.FYEZ BFY.WTEZ 1.080600   XSU.FYEZ 3.241800
+    B9C.FYEZ XVI.FYEZ 1.221000   NVI.FYEZ 1.221000
+    B9G.FYEZ B9G...EZ -1.000000   BFY.VOEZ 1.000000
+    B9G.FYEZ BFY.WTEZ 0.979200   XSU.FYEZ 3.427200
+    B9G.FYEZ XVI.FYEZ 1.230000   NVI.FYEZ 1.230000
+    B9H.FYEZ B9H...EZ -1.000000   BFY.VOEZ 1.000000
+    B9H.FYEZ BFY.WTEZ 1.140500   XSU.FYEZ 7.869450
+    B9H.FYEZ XVI.FYEZ 1.275000   NVI.FYEZ 1.275000
+    B9J.FYEZ B9J...EZ -1.000000   BFY.VOEZ 1.000000
+    B9J.FYEZ BFY.WTEZ 1.132800   XSU.FYEZ 3.964800
+    B9J.FYEZ XVI.FYEZ 1.281000   NVI.FYEZ 1.281000
+    B9N.FYEZ B9N...EZ -1.000000   BFY.VOEZ 1.000000
+    B9N.FYEZ BFY.WTEZ 1.031300   XSU.FYEZ 5.259630
+    B9N.FYEZ XVI.FYEZ 1.276000   NVI.FYEZ 1.276000
+    B9O.FYEZ B9O...EZ -1.000000   BFY.VOEZ 1.000000
+    B9O.FYEZ BFY.WTEZ 1.119500   XSU.FYEZ 5.463160
+    B9O.FYEZ XVI.FYEZ 1.070000   NVI.FYEZ 1.070000
+    B9Q.FYEZ B9Q...EZ -1.000000   BFY.VOEZ 1.000000
+    B9Q.FYEZ BFY.WTEZ 1.114200   XSU.FYEZ 2.629510
+    B9Q.FYEZ XVI.FYEZ 1.060000   NVI.FYEZ 1.060000
+    B/A.GPEZ B/A...EZ -1.000000   BGP.VOEZ 1.000000
+    B/A.GPEZ NRN.GPEZ 0.639000   ND2.GPEZ 0.281000
+    B/A.GPEZ WVP.GPEZ 0.380000   WD8.GPEZ 0.085000
+    BIP.GPEZ BIP...EZ -1.000000   BGP.VOEZ 1.000000
+    BIP.GPEZ NRN.GPEZ 0.486000   ND2.GPEZ 0.137000
+    BIP.GPEZ WVP.GPEZ 0.110000   WD8.GPEZ -0.016000
+    BLN.GPEZ BLN...EZ -1.000000   BGP.VOEZ 1.000000
+    BLN.GPEZ NRN.GPEZ 0.555000   ND2.GPEZ 1.080000
+    BLN.GPEZ WVP.GPEZ 1.040000   WD8.GPEZ 0.580000
+    BN4.GPEZ BN4...EZ -1.000000   BGP.VOEZ 1.000000
+    BN4.GPEZ NRN.GPEZ 0.668000   ND2.GPEZ 1.000000
+    BN4.GPEZ WVP.GPEZ 6.500000   WD8.GPEZ 1.040000
+    B0A.GPEZ B0A...EZ -1.000000   BGP.VOEZ 1.000000
+    B0A.GPEZ NRN.GPEZ 0.639000   ND2.GPEZ 0.281000
+    B0A.GPEZ WVP.GPEZ 0.380000   WD8.GPEZ 0.085000
+    B4A.GPEZ B4A...EZ -1.000000   BGP.VOEZ 1.000000
+    B4A.GPEZ NRN.GPEZ 0.643200   ND2.GPEZ 0.486000
+    B4A.GPEZ WVP.GPEZ 0.700000   WD8.GPEZ 0.187000
+    B4C.GPEZ B4C...EZ -1.000000   BGP.VOEZ 1.000000
+    B4C.GPEZ NRN.GPEZ 0.645700   ND2.GPEZ 0.551000
+    B4C.GPEZ WVP.GPEZ 0.790000   WD8.GPEZ 0.235000
+    B4E.GPEZ B4E...EZ -1.000000   BGP.VOEZ 1.000000
+    B4E.GPEZ NRN.GPEZ 0.645200   ND2.GPEZ 0.569000
+    B4E.GPEZ WVP.GPEZ 0.780000   WD8.GPEZ 0.226000
+    B4F.GPEZ B4F...EZ -1.000000   BGP.VOEZ 1.000000
+    B4F.GPEZ NRN.GPEZ 0.644800   ND2.GPEZ 0.527000
+    B4F.GPEZ WVP.GPEZ 0.760000   WD8.GPEZ 0.217000
+    B4G.GPEZ B4G...EZ -1.000000   BGP.VOEZ 1.000000
+    B4G.GPEZ NRN.GPEZ 0.643400   ND2.GPEZ 0.492000
+    B4G.GPEZ WVP.GPEZ 0.710000   WD8.GPEZ 0.192000
+    B4H.GPEZ B4H...EZ -1.000000   BGP.VOEZ 1.000000
+    B4H.GPEZ NRN.GPEZ 0.647500   ND2.GPEZ 0.600000
+    B4H.GPEZ WVP.GPEZ 0.860000   WD8.GPEZ 0.271000
+    B4J.GPEZ B4J...EZ -1.000000   BGP.VOEZ 1.000000
+    B4J.GPEZ NRN.GPEZ 0.640600   ND2.GPEZ 0.682000
+    B4J.GPEZ WVP.GPEZ 0.980000   WD8.GPEZ 0.331000
+    B4L.GPEZ B4L...EZ -1.000000   BGP.VOEZ 1.000000
+    B4L.GPEZ NRN.GPEZ 0.649500   ND2.GPEZ 0.654000
+    B4L.GPEZ WVP.GPEZ 0.940000   WD8.GPEZ 0.311000
+    B4M.GPEZ B4M...EZ -1.000000   BGP.VOEZ 1.000000
+    B4M.GPEZ NRN.GPEZ 0.648900   ND2.GPEZ 0.638000
+    B4M.GPEZ WVP.GPEZ 0.920000   WD8.GPEZ 0.299000
+    B4N.GPEZ B4N...EZ -1.000000   BGP.VOEZ 1.000000
+    B4N.GPEZ NRN.GPEZ 0.647900   ND2.GPEZ 0.612000
+    B4N.GPEZ WVP.GPEZ 0.880000   WD8.GPEZ 0.280000
+    B4O.GPEZ B4O...EZ -1.000000   BGP.VOEZ 1.000000
+    B4O.GPEZ NRN.GPEZ 0.650000   ND2.GPEZ 0.462000
+    B4O.GPEZ WVP.GPEZ 0.580000   WD8.GPEZ 0.222000
+    B4Q.GPEZ B4Q...EZ -1.000000   BGP.VOEZ 1.000000
+    B4Q.GPEZ NRN.GPEZ 0.650000   ND2.GPEZ 0.464000
+    B4Q.GPEZ WVP.GPEZ 0.580000   WD8.GPEZ 0.224000
+    B4S.GPEZ B4S...EZ -1.000000   BGP.VOEZ 1.000000
+    B4S.GPEZ NRN.GPEZ 0.648000   ND2.GPEZ 0.489000
+    B4S.GPEZ WVP.GPEZ 0.600000   WD8.GPEZ 0.253000
+    B5A.GPEZ B5A...EZ -1.000000   BGP.VOEZ 1.000000
+    B5A.GPEZ NRN.GPEZ 0.668000   ND2.GPEZ 0.239000
+    B5A.GPEZ WVP.GPEZ 0.230000   WD8.GPEZ -0.040000
+    B5B.GPEZ B5B...EZ -1.000000   BGP.VOEZ 1.000000
+    B5B.GPEZ NRN.GPEZ 0.672000   ND2.GPEZ 0.334000
+    B5B.GPEZ WVP.GPEZ 0.370000   WD8.GPEZ 0.049000
+    B5C.GPEZ B5C...EZ -1.000000   BGP.VOEZ 1.000000
+    B5C.GPEZ NRN.GPEZ 0.667000   ND2.GPEZ 0.191000
+    B5C.GPEZ WVP.GPEZ 0.220000   WD8.GPEZ -0.049000
+    B5D.GPEZ B5D...EZ -1.000000   BGP.VOEZ 1.000000
+    B5D.GPEZ NRN.GPEZ 0.671000   ND2.GPEZ 0.286000
+    B5D.GPEZ WVP.GPEZ 0.360000   WD8.GPEZ 0.040000
+    B5E.GPEZ B5E...EZ -1.000000   BGP.VOEZ 1.000000
+    B5E.GPEZ NRN.GPEZ 0.701000   ND2.GPEZ 0.241000
+    B5E.GPEZ WVP.GPEZ 0.250000   WD8.GPEZ -0.024000
+    B5F.GPEZ B5F...EZ -1.000000   BGP.VOEZ 1.000000
+    B5F.GPEZ NRN.GPEZ 0.705000   ND2.GPEZ 0.336000
+    B5F.GPEZ WVP.GPEZ 0.390000   WD8.GPEZ 0.065000
+    B5G.GPEZ B5G...EZ -1.000000   BGP.VOEZ 1.000000
+    B5G.GPEZ NRN.GPEZ 0.700000   ND2.GPEZ 0.193000
+    B5G.GPEZ WVP.GPEZ 0.240000   WD8.GPEZ -0.033000
+    B5H.GPEZ B5H...EZ -1.000000   BGP.VOEZ 1.000000
+    B5H.GPEZ NRN.GPEZ 0.704000   ND2.GPEZ 0.288000
+    B5H.GPEZ WVP.GPEZ 0.380000   WD8.GPEZ 0.056000
+    B5M.GPEZ B5M...EZ -1.000000   BGP.VOEZ 1.000000
+    B5M.GPEZ NRN.GPEZ 0.729000   ND2.GPEZ 0.200000
+    B5M.GPEZ WVP.GPEZ 0.250000   WD8.GPEZ -0.015000
+    B5N.GPEZ B5N...EZ -1.000000   BGP.VOEZ 1.000000
+    B5N.GPEZ NRN.GPEZ 0.729000   ND2.GPEZ 0.147000
+    B5N.GPEZ WVP.GPEZ 0.240000   WD8.GPEZ -0.028000
+    B5O.GPEZ B5O...EZ -1.000000   BGP.VOEZ 1.000000
+    B5O.GPEZ NRN.GPEZ 0.731000   ND2.GPEZ 0.253000
+    B5O.GPEZ WVP.GPEZ 0.360000   WD8.GPEZ 0.050000
+    B5P.GPEZ B5P...EZ -1.000000   BGP.VOEZ 1.000000
+    B5P.GPEZ NRN.GPEZ 0.731000   ND2.GPEZ 0.200000
+    B5P.GPEZ WVP.GPEZ 0.350000   WD8.GPEZ 0.037000
+    B5U.GPEZ B5U...EZ -1.000000   BGP.VOEZ 1.000000
+    B5U.GPEZ NRN.GPEZ 0.777000   ND2.GPEZ -0.566000
+    B5U.GPEZ WVP.GPEZ -0.110000   WD8.GPEZ -0.528000
+    B5V.GPEZ B5V...EZ -1.000000   BGP.VOEZ 1.000000
+    B5V.GPEZ NRN.GPEZ 0.728000   ND2.GPEZ 0.112000
+    B5V.GPEZ WVP.GPEZ 0.470000   WD8.GPEZ -0.045000
+    B5W.GPEZ B5W...EZ -1.000000   BGP.VOEZ 1.000000
+    B5W.GPEZ NRN.GPEZ 0.684000   ND2.GPEZ 0.093000
+    B5W.GPEZ WVP.GPEZ 0.380000   WD8.GPEZ 0.031000
+    CF..B.EZ CF..B.EZ 1.000000   KTC..... 1.000000
+    CF..B.EZ UPBROW27768 1.000000
+    CFT.C.EZ CFT.C.EZ 1.000000   KTC..... 1.000000
+    CFT.C.EZ BFR...EZ -0.009000   UPBROW27769 1.000000
+    CTF.D.EZ CTF.D.EZ 1.000000   KMC0.... 0.030000
+    CTF.D.EZ KMC5.... 0.030000   KWC..... 3.511000
+    CTF.D.EZ FAT0..J. 0.099000   BFR...EZ -0.025000
+    CTF.D.EZ UPBROW27770 1.000000
+    CF..G.EZ CF..G.EZ 1.000000   FAT0..J. 0.421000
+    CF..G.EZ BFR...EZ -0.024000   BNL...EZ -0.022100
+    CF..G.EZ UPBROW27771 1.000000
+    CF..H.EZ CF..H.EZ 1.000000   KTC..... 1.000000
+    CF..H.EZ UPBROW27772 1.000000
+    CF..P.EZ CF..P.EZ 1.000000   KTC..... 1.000000
+    CF..P.EZ FAT0..J. 0.458000   BFR...EZ -0.044000
+    CF..P.EZ UPBROW27773 1.000000
+    CF..Q.EZ CF..Q.EZ 1.000000   KTC..... 1.000000
+    CF..Q.EZ BFR...EZ -0.032000   UPBROW27774 1.000000
+    CF..R.EZ CF..R.EZ 1.000000   FAT0..J. 0.905000
+    CF..R.EZ BFR...EZ -0.050000   BNL...EZ -0.044200
+    CF..R.EZ UPBROW27775 1.000000
+    COH.V.EZ COH.V.EZ 1.000000   KTC..... 1.000000
+    COH.V.EZ FAT0..J. 0.172000   BFR...EZ -0.014000
+    COH.V.EZ UPBROW27776 1.000000
+    DCR...EZ BCR...EZ -1.000000   FAT0..J. -100.000000
+    DCR...EZ UPBROW27777 1.000000
+    DDH...EZ BDH...EZ -1.000000   FAT0..J. -100.000000
+    DDH...EZ UPBROW27778 1.000000
+    DDK...EZ BDK...EZ -1.000000   FAT0..J. -100.000000
+    DDK...EZ UPBROW27779 1.000000
+    DFT...EZ BFT...EZ -1.000000   FAT0..J. -100.000000
+    DFT...EZ UPBROW27780 1.000000
+    DFV...EZ BFV...EZ -1.000000   FAT0..J. -100.000000
+    DFV...EZ UPBROW27781 1.000000
+    DFX...EZ BFX...EZ -1.000000   FAT0..J. -100.000000
+    DFX...EZ UPBROW27782 1.000000
+    DFY...EZ BFY...EZ -1.000000   FAT0..J. -100.000000
+    DFY...EZ UPBROW27783 1.000000
+    DGP...EZ BGP...EZ -1.000000   FAT0..J. -100.000000
+    DGP...EZ UPBROW27784 1.000000
+    DLG...EZ BLG...EZ -1.000000   FAT0..J. -100.000000
+    DLG...EZ UPBROW27785 1.000000
+    DNE...EZ BNE...EZ -1.000000   FAT0..J. -100.000000
+    DNE...EZ UPBROW27786 1.000000
+    DNI...EZ BNI...EZ -1.000000   FAT0..J. -100.000000
+    DNI...EZ UPBROW27787 1.000000
+    DNJ...EZ BNJ...EZ -1.000000   FAT0..J. -100.000000
+    DNJ...EZ UPBROW27788 1.000000
+    DNL...EZ BNL...EZ -1.000000   FAT0..J. -100.000000
+    DNL...EZ UPBROW27789 1.000000
+    DNP...EZ BNP...EZ -1.000000   FAT0..J. -100.000000
+    DNP...EZ UPBROW27790 1.000000
+    DOA...EZ BOA...EZ -1.000000   FAT0..J. -100.000000
+    DOA...EZ UPBROW27791 1.000000
+    DOL...EZ BOL...EZ -1.000000   FAT0..J. -100.000000
+    DOL...EZ UPBROW27792 1.000000
+    DRG...EZ BRG...EZ -1.000000   FAT0..J. -100.000000
+    DRG...EZ UPBROW27793 1.000000
+    DAF.02EZ BAF...EZ -1.000000   FAT0..J. -100.000000
+    DAF.02EZ UPBROW27794 1.000000
+    DAJ.02EZ BAJ...EZ -1.000000   FAT0..J. -100.000000
+    DAJ.02EZ UPBROW27795 1.000000
+    QWT5FYSG BFY.WTSG -1.000000   XSU.FYSG -3.400000
+    QVO5FYSG BFY...SG 1.000000   BFY.VOSG -1.000000
+    QVO5FYSG XVI.FYSG -1.132000   NVI.FYSG -1.095000
+    QWT5FQSG BFQ.WTSG -1.000000   XSU.FQSG -0.630000
+    IF..B.EZ CF..B.EZ 1.000000   FAT0..J. 0.556000
+    IF..B.EZ UPBROW27796 1.000000
+    IFT.C.EZ CFT.C.EZ 1.000000   FAT0..J. 1.123000
+    IFT.C.EZ BFR...EZ -0.009000   KTF.C5EZ -1.000000
+    IFT.C.EZ UPBROW27797 1.000000
+    ITF.D.EZ CTF.D.EZ 1.000000   KMC0.... 0.030000
+    ITF.D.EZ KMC5.... 0.030000   KWC..... 3.511000
+    ITF.D.EZ FAT0..J. 1.039000   BFR...EZ -0.025000
+    IF..F.EZ CF..F.EZ 1.000000   FAT0..J. 0.536000
+    IF..F.EZ BFR...EZ -0.015000   BRG...EZ -0.007000
+    IF..G.EZ CF..G.EZ 1.000000   FAT0..J. 1.507000
+    IF..G.EZ BFR...EZ -0.024000   BNL...EZ -0.022100
+    IF..H.EZ CF..H.EZ 1.000000   FAT0..J. 3.976000
+    IF..P.EZ CF..P.EZ 1.000000   FAT0..J. 1.068000
+    IF..P.EZ BFR...EZ -0.044000
+    IF..Q.EZ CF..Q.EZ 1.000000   FAT0..J. 3.781000
+    IF..Q.EZ BFR...EZ -0.032000
+    IF..R.EZ CF..R.EZ 1.000000   FAT0..J. 2.860000
+    IF..R.EZ BFR...EZ -0.050000   BNL...EZ -0.044200
+    IOH.V.EZ COH.V.EZ 1.000000   FAT0..J. 0.560000
+    IOH.V.EZ BFR...EZ -0.014000
+    KC5.PREZ KTF.C5EZ -1.000000   UPBROW27798 1.000000
+    KPC.REEZ KPC...EZ -1.000000   FAT0..J. 1.276000
+    MFR.AFEZ BFR...EZ -1.000000   BAF...EZ 1.000000
+    MLO.AJEZ BGP...EZ -0.257000   BDH...EZ -0.383000
+    MLO.AJEZ BFV...EZ -0.217000   BFY...EZ -0.143000
+    MLO.AJEZ BAJ...EZ 1.000000
+    MBK.BLEZ BBL...EZ 1.000000   BBK...EZ -1.000000
+    MBK.BMEZ BBM...EZ 1.000000   BBK...EZ -1.000000
+    MBL.BNEZ BBN...EZ 1.000000   BBL...EZ -1.000000
+    MBM.BOEZ BBL...EZ -0.034500   BBN...EZ -0.034500
+    MBM.BOEZ BBK...EZ -0.465500   BBM...EZ -0.465500
+    MBM.BOEZ BBO...EZ 1.000000
+    MBN.BPEZ BBL...EZ -0.241400   BBN...EZ -0.241400
+    MBN.BPEZ BBK...EZ -0.258600   BBM...EZ -0.258600
+    MBN.BPEZ BBP...EZ 1.000000
+    MBU.BVEZ BBV...EZ 1.000000   BBU...EZ -1.000000
+    MBU.BWEZ BBV...EZ -0.130400   BBU...EZ -0.869600
+    MBU.BWEZ BBW...EZ 1.000000
+    MBV.BYEZ BBV...EZ -0.565200   BBU...EZ -0.434800
+    MBV.BYEZ BBY...EZ 1.000000
+    MBC.B4EZ BB4...EZ 1.000000   BBC...EZ -0.576500
+    MBC.B4EZ BBA...EZ -0.423500
+    MKE.DKEZ BDK...EZ 1.000000   BKE...EZ -1.005000
+    MFT.FEEZ BFE...EZ 1.000000   BFT...EZ -1.000000
+    MFT.FEEZ XVI.FTEZ -0.012000
+    MFV.FGEZ BFG...EZ 1.000000   BFV...EZ -1.000000
+    MFV.FGEZ XVI.FVEZ -0.012000
+    MFX.FIEZ XVI.FVEZ -0.004000   BFX...EZ -1.000000
+    MFX.FIEZ XVI.FYEZ -0.008000   BFI...EZ 1.000000
+    MFY.FJEZ BFY...EZ -1.000000   XVI.FYEZ -0.032000
+    MFY.FJEZ BFJ...EZ 1.000000
+    MFG.FREZ BFR...EZ 1.000000   BFG...EZ -1.000000
+    MRG.FREZ BFR...EZ 1.000000   BRG...EZ -1.000000
+    MFE.FSEZ BFS...EZ 1.000000   BFE...EZ -1.100000
+    MFE.FSEZ BFG...EZ 0.100000
+    MFY.FXEZ BFV...EZ -0.333300   BFY...EZ -0.666700
+    MFY.FXEZ BFX...EZ 1.000000   XVI.FYEZ 0.013300
+    MHL.HHEZ BHH...EZ 1.000000   BHL...EZ -1.000000
+    MHL.HMEZ BHH...EZ -0.133300   BHL...EZ -0.866700
+    MHL.HMEZ BHM...EZ 1.000000
+    MHH.HNEZ BHH...EZ -0.800000   BHL...EZ -0.200000
+    MHH.HNEZ BHN...EZ 1.000000
+    MIP.IBEZ BIP...EZ -0.780000   BKE...EZ -1.066200
+    MIP.IBEZ BIB...EZ 1.000000   BKH...EZ 0.846200
+    MIN.IGEZ BIN...EZ -0.780000   BKE...EZ -1.066200
+    MIN.IGEZ BIG...EZ 1.000000   BKH...EZ 0.846200
+    MIN.IPEZ BIP...EZ 1.000000   BIN...EZ -1.000000
+    MRG.LGEZ BRG...EZ -0.657500   BLG...EZ 1.000000
+    MDH.LNEZ BLN...EZ 1.015000   BRG...EZ 0.072200
+    MDH.LNEZ KPC...EZ 1.000000   BDH...EZ -1.111000
+    MDH.LNEZ B5W...EZ 0.072200
+    MIB.LNEZ BLN...EZ 1.015000   BIG...EZ -0.047400
+    MIB.LNEZ BIB...EZ -0.899600   BRG...EZ -0.038000
+    MIB.LNEZ B5U...EZ 0.055300   KPC...EZ 1.500000
+    MIG.LNEZ BLN...EZ 1.015000   BIG...EZ -0.676100
+    MIG.LNEZ BIB...EZ -0.522600   BRG...EZ 0.026900
+    MIG.LNEZ B5V...EZ 0.192500   KPC...EZ 1.500000
+    MIN.LNEZ BLN...EZ 1.015000   BIN...EZ -0.676100
+    MIN.LNEZ BIP...EZ -0.522600   BRG...EZ 0.026900
+    MIN.LNEZ B5V...EZ 0.192500   KPC...EZ 1.500000
+    MIP.LNEZ BLN...EZ 1.015000   BIN...EZ -0.047400
+    MIP.LNEZ BIP...EZ -0.899600   BRG...EZ -0.038000
+    MIP.LNEZ B5U...EZ 0.055300   KPC...EZ 1.500000
+    MIP.NEEZ BIN...EZ -0.193900   BIP...EZ -0.821100
+    MIP.NEEZ BNE...EZ 1.000000
+    MIN.NIEZ BIN...EZ -0.572500   BIP...EZ -0.442500
+    MIN.NIEZ BNI...EZ 1.000000
+    MDK.NJEZ BLN...EZ -0.111100   BIN...EZ -0.175000
+    MDK.NJEZ BIP...EZ -0.238900   BDK...EZ -0.482400
+    MDK.NJEZ BNJ...EZ 1.000000
+    MI5.NLEZ BI5...EZ -1.052000   BNL...EZ 1.000000
+    MLN.NLEZ BNL...EZ 1.000000   BLN...EZ -1.015000
+    MIP.NPEZ BIN...EZ -0.050800   BIP...EZ -0.964200
+    MIP.NPEZ BNP...EZ 1.000000
+    MRG.N4EZ BRG...EZ -1.000000   BN4...EZ 1.414600
+    MBC.OLEZ BOL...EZ 1.000000   BBC...EZ -1.000000
+    MCV.RGEZ BRG...EZ 0.645000   BCV...EZ -1.000000
+    MLG.RGEZ BRG...EZ 0.657500   BLG...EZ -1.000000
+    PAH.B1EZ BRG...EZ 0.010000   BLN...EZ 0.009000
+    PAH.B1EZ BIP...EZ 0.019000   BBK...EZ -0.082400
+    PAH.B1EZ BBL...EZ -0.192200   BBM...EZ 0.129200
+    PAH.B1EZ BBN...EZ 0.301400   B7H...EZ 0.817000
+    PAH.B1EZ BAH...EZ -1.000000   BFR...EZ -0.016000
+    PAH.B1EZ CF..B.EZ -1.000000
+    PAL.B1EZ BRG...EZ 0.010000   BLN...EZ 0.009000
+    PAL.B1EZ BIP...EZ 0.019000   BBK...EZ -0.135400
+    PAL.B1EZ BBL...EZ -0.139200   BBM...EZ 0.212300
+    PAL.B1EZ BBN...EZ 0.218300   B7A...EZ 0.817000
+    PAL.B1EZ BAL...EZ -1.000000   BFR...EZ -0.016000
+    PAL.B1EZ CF..B.EZ -1.000000
+    PAM.B1EZ BRG...EZ 0.010000   BLN...EZ 0.009000
+    PAM.B1EZ BIP...EZ 0.019000   BBK...EZ -0.096600
+    PAM.B1EZ BBL...EZ -0.177900   BBM...EZ 0.151600
+    PAM.B1EZ BBN...EZ 0.278900   B7K...EZ 0.817000
+    PAM.B1EZ BAM...EZ -1.000000   BFR...EZ -0.016000
+    PAM.B1EZ CF..B.EZ -1.000000
+    PIH.B1EZ BRG...EZ 0.010000   BLN...EZ 0.009000
+    PIH.B1EZ BIP...EZ 0.019000   BBK...EZ -0.162800
+    PIH.B1EZ BBL...EZ -0.111700   BBM...EZ 0.255300
+    PIH.B1EZ BBN...EZ 0.175200   B7G...EZ 0.817000
+    PIH.B1EZ BIH...EZ -1.000000   BFR...EZ -0.016000
+    PIH.B1EZ CF..B.EZ -1.000000
+    PKU.B1EZ BRG...EZ 0.010000   BLN...EZ 0.009000
+    PKU.B1EZ BIP...EZ 0.019000   BBK...EZ -0.084300
+    PKU.B1EZ BBL...EZ -0.190300   BBM...EZ 0.132200
+    PKU.B1EZ BBN...EZ 0.298400   B7W...EZ 0.817000
+    PKU.B1EZ BKU...EZ -1.000000   BFR...EZ -0.016000
+    PKU.B1EZ CF..B.EZ -1.000000
+    PUH.B1EZ BRG...EZ 0.019900   BLN...EZ 0.066000
+    PUH.B1EZ BIP...EZ 0.100000   BBK...EZ 0.072700
+    PUH.B1EZ BBL...EZ 0.029700   BBM...EZ 0.118600
+    PUH.B1EZ BBN...EZ 0.048500   BFR...EZ -0.029000
+    PUH.B1EZ CF..B.EZ -1.050000   B7U...EZ 0.578100
+    PUH.B1EZ BUH...EZ -1.000000
+    PUL.B1EZ BRG...EZ 0.019900   BLN...EZ 0.066000
+    PUL.B1EZ BIP...EZ 0.100000   BBK...EZ 0.095100
+    PUL.B1EZ BBL...EZ 0.007300   BBM...EZ 0.155200
+    PUL.B1EZ BBN...EZ 0.011900   B7L...EZ 0.578100
+    PUL.B1EZ BFR...EZ -0.029000   CF..B.EZ -1.050000
+    PUL.B1EZ BUL...EZ -1.000000
+    PBA.C1EZ BRG...EZ 0.129900   B4A...EZ 0.498800
+    PBA.C1EZ BBK...EZ 0.068800   BBL...EZ 0.169900
+    PBA.C1EZ BBM...EZ 0.036100   BBN...EZ 0.089100
+    PBA.C1EZ B9A...EZ 0.038500   CFT.C.EZ -1.756000
+    PBA.C1EZ BBA...EZ -1.000000
+    PBB.C1EZ BRG...EZ 0.129900   B4A...EZ 0.498800
+    PBB.C1EZ BBK...EZ 0.236200   BBL...EZ 0.002600
+    PBB.C1EZ BBM...EZ 0.123800   BBN...EZ 0.001300
+    PBB.C1EZ B9B...EZ 0.038500   CFT.C.EZ -1.756000
+    PBB.C1EZ BBB...EZ -1.000000
+    PBC.C1EZ BRG...EZ 0.143700   B4C...EZ 0.496400
+    PBC.C1EZ BBK...EZ 0.151600   BBL...EZ 0.075400
+    PBC.C1EZ BBM...EZ 0.083100   BBN...EZ 0.041300
+    PBC.C1EZ B9C...EZ 0.033900   CFT.C.EZ -1.719000
+    PBC.C1EZ BBC...EZ -1.000000
+    PBD.C1EZ BRG...EZ 0.143700   B4C...EZ 0.496400
+    PBD.C1EZ BBK...EZ 0.224400   BBL...EZ 0.002600
+    PBD.C1EZ BBM...EZ 0.123000   BBN...EZ 0.001400
+    PBD.C1EZ B9D...EZ 0.033900   CFT.C.EZ -1.719000
+    PBD.C1EZ BBD...EZ -1.000000
+    PBE.C1EZ BRG...EZ 0.141400   BBK...EZ 0.130900
+    PBE.C1EZ BBL...EZ 0.001400   BBM...EZ 0.196300
+    PBE.C1EZ BBN...EZ 0.002000   CFT.C.EZ -1.566000
+    PBE.C1EZ B4E...EZ 0.561300   B9E...EZ 0.027500
+    PBE.C1EZ BBE...EZ -1.000000
+    PBU.C1EZ BRG...EZ 0.079900   B4F...EZ 0.240900
+    PBU.C1EZ BBK...EZ 0.393300   BBL...EZ 0.000900
+    PBU.C1EZ BBM...EZ 0.289400   BBN...EZ 0.000700
+    PBU.C1EZ B9F...EZ 0.008400   CFT.C.EZ -1.330000
+    PBU.C1EZ BBU...EZ -1.000000
+    PBV.C1EZ BBV...EZ -1.000000   BRG...EZ 0.081200
+    PBV.C1EZ B4G...EZ 0.265400   BBK...EZ -0.004000
+    PBV.C1EZ BBL...EZ -0.026500   BBM...EZ 0.089800
+    PBV.C1EZ BBN...EZ 0.602900   B9G...EZ 0.008600
+    PBV.C1EZ CFT.C.EZ -1.370000
+    PBA.C3EZ BRG...EZ 0.217000   BBK...EZ 0.049700
+    PBA.C3EZ BBL...EZ 0.146900   BBM...EZ 0.020500
+    PBA.C3EZ BBN...EZ 0.060600   CFT.C.EZ -2.170000
+    PBA.C3EZ B4H...EZ 0.465000   B9H...EZ 0.014000
+    PBA.C3EZ BBA...EZ -1.000000
+    PBB.C3EZ BRG...EZ 0.217000   BBK...EZ 0.194100
+    PBB.C3EZ BBL...EZ 0.002500   BBM...EZ 0.080100
+    PBB.C3EZ BBN...EZ 0.001000   CFT.C.EZ -2.170000
+    PBB.C3EZ B4H...EZ 0.465000   B9I...EZ 0.014000
+    PBB.C3EZ BBB...EZ -1.000000
+    PBC.C3EZ BRG...EZ 0.239700   BBK...EZ 0.116700
+    PBC.C3EZ BBL...EZ 0.067800   BBM...EZ 0.050900
+    PBC.C3EZ BBN...EZ 0.029600   CFT.C.EZ -2.062000
+    PBC.C3EZ B4J...EZ 0.458000   B9J...EZ 0.012300
+    PBC.C3EZ BBC...EZ -1.000000
+    PBD.C3EZ BRG...EZ 0.239700   BBK...EZ 0.181500
+    PBD.C3EZ BBL...EZ 0.002900   BBM...EZ 0.079300
+    PBD.C3EZ BBN...EZ 0.001300   CFT.C.EZ -2.062000
+    PBD.C3EZ B4J...EZ 0.458000   B9K...EZ 0.012300
+    PBD.C3EZ BBD...EZ -1.000000
+    PBE.C3EZ BRG...EZ 0.240700   BBK...EZ 0.114300
+    PBE.C3EZ BBL...EZ 0.001600   BBM...EZ 0.131000
+    PBE.C3EZ BBN...EZ 0.001800   CFT.C.EZ -1.506000
+    PBE.C3EZ B4L...EZ 0.529900   B9L...EZ 0.010200
+    PBE.C3EZ BBE...EZ -1.000000
+    PBU.C3EZ BRG...EZ 0.161400   BBK...EZ 0.356200
+    PBU.C3EZ BBL...EZ 0.009700   BBM...EZ 0.148400
+    PBU.C3EZ BBN...EZ 0.004100   CFT.C.EZ -1.334000
+    PBU.C3EZ B4M...EZ 0.305400   B9M...EZ 0.009600
+    PBU.C3EZ BBU...EZ -1.000000
+    PBV.C3EZ BBV...EZ -1.000000   BRG...EZ 0.162100
+    PBV.C3EZ BBK...EZ 0.007300   BBL...EZ 0.050700
+    PBV.C3EZ BBM...EZ 0.056000   BBN...EZ 0.386000
+    PBV.C3EZ CFT.C.EZ -1.368000   B4N...EZ 0.334800
+    PBV.C3EZ B9N...EZ 0.009600
+    PBA.C5EZ BRG...EZ 0.162300   BBK...EZ -0.011800
+    PBA.C5EZ BBL...EZ 0.125800   BBM...EZ -0.001600
+    PBA.C5EZ BBN...EZ 0.017100   CFT.C.EZ -1.521000
+    PBA.C5EZ BBA...EZ -1.000000   B4O...EZ 0.669100
+    PBA.C5EZ B9O...EZ 0.070500   KTF.C5EZ 1.521000
+    PBB.C5EZ BRG...EZ 0.162300   BBK...EZ 0.110100
+    PBB.C5EZ BBL...EZ 0.003900   BBM...EZ 0.015000
+    PBB.C5EZ BBN...EZ 0.000500   CFT.C.EZ -1.521000
+    PBB.C5EZ B4O...EZ 0.669100   B9P...EZ 0.070500
+    PBB.C5EZ BBB...EZ -1.000000   KTF.C5EZ 1.521000
+    PBC.C5EZ BRG...EZ 0.160300   BBK...EZ 0.054100
+    PBC.C5EZ BBL...EZ 0.057900   BBM...EZ 0.007400
+    PBC.C5EZ BBN...EZ 0.007900   CFT.C.EZ -1.506000
+    PBC.C5EZ B4Q...EZ 0.672300   B9Q...EZ 0.072700
+    PBC.C5EZ BBC...EZ -1.000000   KTF.C5EZ 1.506000
+    PBD.C5EZ BRG...EZ 0.160300   BBK...EZ 0.108200
+    PBD.C5EZ BBL...EZ 0.003900   BBM...EZ 0.014700
+    PBD.C5EZ BBN...EZ 0.000500   CFT.C.EZ -1.506000
+    PBD.C5EZ B4Q...EZ 0.672300   B9R...EZ 0.072700
+    PBD.C5EZ BBD...EZ -1.000000   KTF.C5EZ 1.506000
+    PBE.C5EZ BRG...EZ 0.146100   BBK...EZ 0.050500
+    PBE.C5EZ BBL...EZ 0.001800   BBM...EZ 0.075700
+    PBE.C5EZ BBN...EZ 0.002700   CFT.C.EZ -1.413000
+    PBE.C5EZ B4S...EZ 0.697200   B9S...EZ 0.069300
+    PBE.C5EZ BBE...EZ -1.000000   KTF.C5EZ 1.413000
+    PQA.C7EZ BRG...EZ 0.097300   BBL...EZ 0.282700
+    PQA.C7EZ BBN...EZ -0.016000   CFT.C.EZ -1.931000
+    PQA.C7EZ BQA...EZ -1.000000   B0A...EZ 0.489600
+    PQA.C7EZ B8A...EZ 0.119800
+    PQH.C7EZ BRG...EZ 0.097300   BBK...EZ -0.062400
+    PQH.C7EZ BBL...EZ 0.345100   BBM...EZ 0.003500
+    PQH.C7EZ BBN...EZ -0.019500   CFT.C.EZ -1.931000
+    PQH.C7EZ BQH...EZ -1.000000   B0A...EZ 0.489600
+    PQH.C7EZ B8H...EZ 0.119800
+    PQW.C7EZ BRG...EZ 0.097300   BBK...EZ -0.078000
+    PQW.C7EZ BBL...EZ 0.360700   BBM...EZ 0.004400
+    PQW.C7EZ BBN...EZ -0.020400   CFT.C.EZ -1.931000
+    PQW.C7EZ BQW...EZ -1.000000   B0A...EZ 0.489600
+    PQW.C7EZ B8W...EZ 0.119800
+    PSA.C7EZ BRG...EZ 0.098100   BBK...EZ 0.254100
+    PSA.C7EZ BBL...EZ 0.027700   BBM...EZ -0.014400
+    PSA.C7EZ BBN...EZ -0.001600   CFT.C.EZ -1.922000
+    PSA.C7EZ BSA...EZ -1.000000   B/A...EZ 0.487900
+    PSA.C7EZ B6A...EZ 0.119500
+    PSH.C7EZ BRG...EZ 0.098100   BBK...EZ 0.245700
+    PSH.C7EZ BBL...EZ 0.036000   BBM...EZ -0.013900
+    PSH.C7EZ BBN...EZ -0.002000   CFT.C.EZ -1.922000
+    PSH.C7EZ BSH...EZ -1.000000   B/A...EZ 0.487900
+    PSH.C7EZ B6H...EZ 0.119500
+    PSW.C7EZ BRG...EZ 0.098100   BBK...EZ 0.243800
+    PSW.C7EZ BBL...EZ 0.037900   BBM...EZ -0.013800
+    PSW.C7EZ BBN...EZ -0.002100   CFT.C.EZ -1.922000
+    PSW.C7EZ BSW...EZ -1.000000   B/A...EZ 0.487900
+    PSW.C7EZ B6W...EZ 0.119500
+    PAL.DIEZ BCR...EZ 1.000000   AAL..... -1.000000
+    PGL.DNEZ BRG...EZ 0.440500   BLN...EZ 0.165000
+    PGL.DNEZ BIP...EZ 0.165000   UPBROW27799 1.000000
+    PAG.DVEZ CTF.D.EZ -1.000000   COH.V.EZ -0.443560
+    PAG.DVEZ AAG..... -1.000000   BCV...EZ 0.010920
+    PAG.DVEZ BI5...EZ 0.006310   BLN...EZ 0.030370
+    PAG.DVEZ BIN...EZ -0.005620   BIP...EZ 0.113550
+    PAG.DVEZ BKE...EZ 0.080140   BHL...EZ 0.157120
+    PAG.DVEZ BHH...EZ -0.009730   BBU...EZ 0.077980
+    PAG.DVEZ BBV...EZ -0.006140   BBE...EZ 0.502450
+    PAG.DVEZ BBC...EZ -0.058890   BAP...EZ 0.101540
+    PAH.DVEZ CTF.D.EZ -1.000000   COH.V.EZ -0.263830
+    PAH.DVEZ AAH..... -1.000000   BCV...EZ 0.025790
+    PAH.DVEZ BI5...EZ 0.008120   BLN...EZ 0.039600
+    PAH.DVEZ BIN...EZ -0.007860   BIP...EZ 0.111920
+    PAH.DVEZ BKE...EZ 0.130620   BHL...EZ 0.029870
+    PAH.DVEZ BHH...EZ 0.091860   BBU...EZ 0.003600
+    PAH.DVEZ BBV...EZ 0.071830   BBC...EZ 0.047640
+    PAH.DVEZ BBA...EZ 0.216190   BHA...EZ 0.230820
+    PAL.DVEZ CTF.D.EZ -1.000000   COH.V.EZ -0.253090
+    PAL.DVEZ BCV...EZ 0.018350   BI5...EZ 0.008650
+    PAL.DVEZ BLN...EZ 0.043700   BIN...EZ 0.004910
+    PAL.DVEZ BIP...EZ 0.124890   BKE...EZ 0.178950
+    PAL.DVEZ BHL...EZ 0.060480   BHH...EZ 0.072710
+    PAL.DVEZ BBU...EZ 0.021080   BBV...EZ 0.065990
+    PAL.DVEZ BBC...EZ 0.125810   BBA...EZ 0.127280
+    PAL.DVEZ BLA...EZ 0.147180   AAL..... -1.000000
+    PAM.DVEZ CTF.D.EZ -1.000000   COH.V.EZ -0.281070
+    PAM.DVEZ BCV...EZ 0.012720   BI5...EZ 0.007550
+    PAM.DVEZ BLN...EZ 0.042710   BIN...EZ 0.003590
+    PAM.DVEZ BIP...EZ 0.117680   BKE...EZ 0.144210
+    PAM.DVEZ BHL...EZ 0.046940   BHH...EZ 0.075380
+    PAM.DVEZ BBU...EZ 0.015520   BBV...EZ 0.066500
+    PAM.DVEZ BBC...EZ 0.058490   BBA...EZ 0.222580
+    PAM.DVEZ BMA...EZ 0.186130   AAM..... -1.000000
+    PAW.DVEZ CTF.D.EZ -1.000000   COH.V.EZ -0.194660
+    PAW.DVEZ AAW..... -1.000000   BCV...EZ 0.040840
+    PAW.DVEZ BI5...EZ 0.014750   BLN...EZ 0.065660
+    PAW.DVEZ BIN...EZ 0.027490   BIP...EZ 0.150780
+    PAW.DVEZ BKE...EZ 0.223800   BHL...EZ 0.149740
+    PAW.DVEZ BHH...EZ -0.002840   BBU...EZ 0.090510
+    PAW.DVEZ BBV...EZ 0.000810   BBE...EZ 0.183900
+    PAW.DVEZ BBC...EZ 0.010760   BWA...EZ 0.043810
+    PAX.DVEZ CTF.D.EZ -1.000000   COH.V.EZ -0.255260
+    PAX.DVEZ BCV...EZ 0.020370   BI5...EZ 0.009350
+    PAX.DVEZ BLN...EZ 0.052270   BIN...EZ 0.010770
+    PAX.DVEZ BIP...EZ 0.125670   BKE...EZ 0.204490
+    PAX.DVEZ BHL...EZ 0.077920   BHH...EZ 0.040930
+    PAX.DVEZ BBU...EZ 0.050490   BBV...EZ 0.062960
+    PAX.DVEZ BBC...EZ 0.217020   BBA...EZ 0.038240
+    PAX.DVEZ BXA...EZ 0.089520   AAX..... -1.000000
+    PBA.DVEZ CTF.D.EZ -1.000000   COH.V.EZ -0.244570
+    PBA.DVEZ BCV...EZ 0.022920   BI5...EZ 0.009360
+    PBA.DVEZ BLN...EZ 0.050930   BIN...EZ 0.001770
+    PBA.DVEZ BIP...EZ 0.128360   BKE...EZ 0.174610
+    PBA.DVEZ BHL...EZ 0.040170   BHH...EZ 0.081800
+    PBA.DVEZ BBU...EZ 0.025150   BBV...EZ 0.058160
+    PBA.DVEZ BBC...EZ 0.087600   BBA...EZ 0.156970
+    PBA.DVEZ BAK...EZ 0.162210   ABA..... -1.000000
+    PBQ.DVEZ CTF.D.EZ -1.000000   COH.V.EZ -0.324520
+    PBQ.DVEZ BCV...EZ 0.007590   BI5...EZ 0.003180
+    PBQ.DVEZ BLN...EZ 0.014330   BIN...EZ 0.036100
+    PBQ.DVEZ BIP...EZ 0.005260   BKE...EZ 0.100560
+    PBQ.DVEZ BHL...EZ 0.020970   BHH...EZ 0.159280
+    PBQ.DVEZ BBU...EZ 0.000320   BBV...EZ 0.001460
+    PBQ.DVEZ BBC...EZ 0.168940   BBA...EZ 0.155570
+    PBQ.DVEZ BHV...EZ 0.326430   ABQ..... -1.000000
+    PBR.DVEZ CTF.D.EZ -1.000000   COH.V.EZ -0.255810
+    PBR.DVEZ ABR..... -1.000000   BCV...EZ 0.024040
+    PBR.DVEZ BI5...EZ 0.012810   BLN...EZ 0.054100
+    PBR.DVEZ BIN...EZ 0.058540   BIP...EZ 0.114350
+    PBR.DVEZ BKE...EZ 0.171410   BHL...EZ 0.127230
+    PBR.DVEZ BHH...EZ -0.002130   BBU...EZ 0.095890
+    PBR.DVEZ BBV...EZ -0.001620   BBE...EZ 0.234850
+    PBR.DVEZ BBC...EZ 0.020960   BRB...EZ 0.089570
+    PCA.DVEZ CTF.D.EZ -1.000000   COH.V.EZ -0.349050
+    PCA.DVEZ ACA..... -1.000000   BCV...EZ 0.022390
+    PCA.DVEZ BI5...EZ 0.006880   BLN...EZ 0.028570
+    PCA.DVEZ BIN...EZ 0.043090   BIP...EZ 0.058170
+    PCA.DVEZ BKE...EZ 0.091930   BHL...EZ 0.127570
+    PCA.DVEZ BHH...EZ -0.003910   BBU...EZ 0.057720
+    PCA.DVEZ BBV...EZ -0.003330   BBE...EZ 0.369860
+    PCA.DVEZ BBC...EZ -0.020820   BAC...EZ 0.221880
+    PDA.DVEZ CTF.D.EZ -1.000000   COH.V.EZ -0.233880
+    PDA.DVEZ BCV...EZ 0.028910   BI5...EZ 0.014810
+    PDA.DVEZ BLN...EZ 0.058210   BIN...EZ 0.011910
+    PDA.DVEZ BIP...EZ 0.127900   BKE...EZ 0.156050
+    PDA.DVEZ BHL...EZ 0.016240   BHH...EZ 0.113760
+    PDA.DVEZ BBU...EZ 0.002260   BBV...EZ 0.079970
+    PDA.DVEZ BBC...EZ 0.022680   BBA...EZ 0.211200
+    PDA.DVEZ BRI...EZ 0.156110   ADA..... -1.000000
+    PES.DVEZ CTF.D.EZ -1.000000   COH.V.EZ -0.272190
+    PES.DVEZ BCV...EZ 0.019260   BI5...EZ 0.012160
+    PES.DVEZ BLN...EZ 0.041200   BIN...EZ 0.050610
+    PES.DVEZ BIP...EZ 0.094450   BKE...EZ 0.157620
+    PES.DVEZ BHL...EZ 0.131740   BHH...EZ 0.009590
+    PES.DVEZ BBU...EZ 0.085320   BBV...EZ 0.005410
+    PES.DVEZ BBE...EZ 0.215170   BBC...EZ 0.057030
+    PES.DVEZ BSE...EZ 0.120440   AES..... -1.000000
+    PIH.DVEZ CTF.D.EZ -1.000000   COH.V.EZ -0.248210
+    PIH.DVEZ BCV...EZ 0.027600   BI5...EZ 0.010720
+    PIH.DVEZ BLN...EZ 0.041710   BIN...EZ 0.052270
+    PIH.DVEZ BIP...EZ 0.081290   BKE...EZ 0.151300
+    PIH.DVEZ BHL...EZ 0.053680   BHH...EZ 0.068650
+    PIH.DVEZ BBU...EZ 0.035650   BBV...EZ 0.042830
+    PIH.DVEZ BBC...EZ 0.215240   BBA...EZ 0.032970
+    PIH.DVEZ BHI...EZ 0.186090   AIH..... -1.000000
+    PIL.DVEZ CTF.D.EZ -1.000000   COH.V.EZ -0.271680
+    PIL.DVEZ BCV...EZ 0.023430   BI5...EZ 0.009760
+    PIL.DVEZ BLN...EZ 0.043810   BIN...EZ 0.046670
+    PIL.DVEZ BIP...EZ 0.091200   BKE...EZ 0.162000
+    PIL.DVEZ BHL...EZ 0.078750   BHH...EZ 0.057420
+    PIL.DVEZ BBU...EZ 0.043960   BBV...EZ 0.041920
+    PIL.DVEZ BBC...EZ 0.225030   BBA...EZ 0.046650
+    PIL.DVEZ BLI...EZ 0.129410   AIL..... -1.000000
+    PKK.DVEZ CTF.D.EZ -1.000000   COH.V.EZ -0.222260
+    PKK.DVEZ BCV...EZ 0.026610   BI5...EZ 0.016480
+    PKK.DVEZ BLN...EZ 0.051660   BIN...EZ 0.016170
+    PKK.DVEZ BIP...EZ 0.136830   BKE...EZ 0.181310
+    PKK.DVEZ BHL...EZ 0.059020   BHH...EZ 0.080820
+    PKK.DVEZ BBU...EZ 0.020050   BBV...EZ 0.065450
+    PKK.DVEZ BBC...EZ 0.092730   BBA...EZ 0.129530
+    PKK.DVEZ BKQ...EZ 0.123340   AKK..... -1.000000
+    PKU.DVEZ CTF.D.EZ -1.000000   COH.V.EZ -0.257810
+    PKU.DVEZ BCV...EZ 0.026680   BI5...EZ 0.008720
+    PKU.DVEZ BLN...EZ 0.053840   BIN...EZ 0.000250
+    PKU.DVEZ BIP...EZ 0.121660   BKE...EZ 0.141740
+    PKU.DVEZ BHL...EZ 0.040980   BHH...EZ 0.080340
+    PKU.DVEZ BBU...EZ 0.012730   BBV...EZ 0.071090
+    PKU.DVEZ BBC...EZ 0.018870   BBA...EZ 0.238940
+    PKU.DVEZ BUK...EZ 0.184140   AKU..... -1.000000
+    PMU.DVEZ CTF.D.EZ -1.000000   COH.V.EZ -0.249190
+    PMU.DVEZ BCV...EZ 0.019830   BI5...EZ 0.010950
+    PMU.DVEZ BLN...EZ 0.052370   BIN...EZ 0.026140
+    PMU.DVEZ BIP...EZ 0.134930   BKE...EZ 0.193130
+    PMU.DVEZ BHL...EZ 0.123210   BHH...EZ 0.026600
+    PMU.DVEZ BBU...EZ 0.053960   BBV...EZ 0.041020
+    PMU.DVEZ BBE...EZ 0.034520   BBC...EZ 0.214670
+    PMU.DVEZ BUM...EZ 0.068660   AMU..... -1.000000
+    PNF.DVEZ CTF.D.EZ -1.000000   COH.V.EZ -0.260140
+    PNF.DVEZ BCV...EZ 0.023190   BI5...EZ 0.009250
+    PNF.DVEZ BLN...EZ 0.028930   BIN...EZ 0.123190
+    PNF.DVEZ BIP...EZ 0.008450   BKE...EZ 0.204470
+    PNF.DVEZ BHL...EZ 0.227760   BHH...EZ 0.006920
+    PNF.DVEZ BBU...EZ 0.048730   BBV...EZ 0.000220
+    PNF.DVEZ BBE...EZ 0.243280   BBC...EZ 0.016860
+    PNF.DVEZ BMF...EZ 0.058740   ANF..... -1.000000
+    PNL.DVEZ CTF.D.EZ -1.000000   COH.V.EZ -0.260920
+    PNL.DVEZ ANL..... -1.000000   BCV...EZ 0.028250
+    PNL.DVEZ BI5...EZ 0.013210   BLN...EZ 0.043820
+    PNL.DVEZ BIN...EZ 0.150420   BIP...EZ 0.037110
+    PNL.DVEZ BKE...EZ 0.209630   BHL...EZ 0.133140
+    PNL.DVEZ BHH...EZ -0.001290   BBU...EZ 0.098390
+    PNL.DVEZ BBV...EZ -0.002470   BBE...EZ 0.255920
+    PNL.DVEZ BBC...EZ 0.005000   BTL...EZ 0.028860
+    PNM.DVEZ CTF.D.EZ -1.000000   COH.V.EZ -0.327560
+    PNM.DVEZ ANM..... -1.000000   BCV...EZ 0.007060
+    PNM.DVEZ BI5...EZ 0.002850   BLN...EZ 0.009350
+    PNM.DVEZ BIN...EZ 0.064220   BIP...EZ -0.003460
+    PNM.DVEZ BKE...EZ 0.184800   BHL...EZ 0.307580
+    PNM.DVEZ BHH...EZ 0.011610   BBU...EZ 0.009720
+    PNM.DVEZ BBV...EZ 0.000060   BBE...EZ 0.309030
+    PNM.DVEZ BBC...EZ 0.018540   BYH...EZ 0.078650
+    POM.DVEZ CTF.D.EZ -1.000000   COH.V.EZ -0.262750
+    POM.DVEZ BCV...EZ 0.012770   BI5...EZ 0.007200
+    POM.DVEZ BLN...EZ 0.040120   BIN...EZ 0.028120
+    POM.DVEZ BIP...EZ 0.100710   BKE...EZ 0.178720
+    POM.DVEZ BHL...EZ 0.085450   BHH...EZ 0.071800
+    POM.DVEZ BBU...EZ 0.038340   BBV...EZ 0.024770
+    POM.DVEZ BBE...EZ 0.025390   BBC...EZ 0.237360
+    POM.DVEZ BMO...EZ 0.149250   AOM..... -1.000000
+    PQA.DVEZ CTF.D.EZ -1.000000   COH.V.EZ -0.221780
+    PQA.DVEZ BCV...EZ 0.039300   BI5...EZ 0.014610
+    PQA.DVEZ BLN...EZ 0.070060   BIN...EZ 0.015740
+    PQA.DVEZ BIP...EZ 0.149860   BKE...EZ 0.188540
+    PQA.DVEZ BHL...EZ 0.094290   BHH...EZ 0.055110
+    PQA.DVEZ BBU...EZ 0.030760   BBV...EZ 0.058250
+    PQA.DVEZ BBC...EZ 0.158720   BBA...EZ 0.063060
+    PQA.DVEZ BTQ...EZ 0.061700   AQA..... -1.000000
+    PSA.DVEZ CTF.D.EZ -1.000000   COH.V.EZ -0.318470
+    PSA.DVEZ ASA..... -1.000000   BCV...EZ 0.022670
+    PSA.DVEZ BI5...EZ 0.010190   BLN...EZ 0.045180
+    PSA.DVEZ BIN...EZ 0.042030   BIP...EZ 0.076000
+    PSA.DVEZ BKE...EZ 0.125620   BHL...EZ 0.105030
+    PSA.DVEZ BHH...EZ -0.003850   BBU...EZ 0.106680
+    PSA.DVEZ BBV...EZ -0.004260   BBE...EZ 0.311500
+    PSA.DVEZ BBC...EZ 0.006970   BAS...EZ 0.156260
+    PTM.DVEZ CTF.D.EZ -1.000000   COH.V.EZ -0.287020
+    PTM.DVEZ BCV...EZ 0.013540   BI5...EZ 0.005480
+    PTM.DVEZ BLN...EZ 0.026370   BIN...EZ 0.050130
+    PTM.DVEZ BIP...EZ 0.040830   BKE...EZ 0.149310
+    PTM.DVEZ BHL...EZ 0.065320   BHH...EZ 0.095220
+    PTM.DVEZ BBU...EZ 0.013200   BBV...EZ 0.017680
+    PTM.DVEZ BBC...EZ 0.247960   BBA...EZ 0.039060
+    PTM.DVEZ BMT...EZ 0.235890   ATM..... -1.000000
+    PUH.DVEZ CTF.D.EZ -1.000000   COH.V.EZ -0.235280
+    PUH.DVEZ BCV...EZ 0.031860   BI5...EZ 0.010440
+    PUH.DVEZ BLN...EZ 0.052400   BIN...EZ 0.022450
+    PUH.DVEZ BIP...EZ 0.132660   BKE...EZ 0.178000
+    PUH.DVEZ BHL...EZ 0.128660   BHH...EZ 0.017470
+    PUH.DVEZ BBU...EZ 0.068570   BBV...EZ 0.017250
+    PUH.DVEZ BBE...EZ 0.094510   BBC...EZ 0.140770
+    PUH.DVEZ BHU...EZ 0.104960   AUH..... -1.000000
+    PUL.DVEZ CTF.D.EZ -1.000000   COH.V.EZ -0.247880
+    PUL.DVEZ BCV...EZ 0.027870   BI5...EZ 0.010900
+    PUL.DVEZ BLN...EZ 0.047860   BIN...EZ 0.042680
+    PUL.DVEZ BIP...EZ 0.115160   BKE...EZ 0.164040
+    PUL.DVEZ BHL...EZ 0.144080   BHH...EZ 0.000340
+    PUL.DVEZ BBU...EZ 0.092070   BBV...EZ 0.001840
+    PUL.DVEZ BBE...EZ 0.212840   BBC...EZ 0.035040
+    PUL.DVEZ BLU...EZ 0.105290   AUL..... -1.000000
+    PZA.DVEZ CTF.D.EZ -1.000000   COH.V.EZ -0.224270
+    PZA.DVEZ AZA..... -1.000000   BCV...EZ 0.029840
+    PZA.DVEZ BI5...EZ 0.011120   BLN...EZ 0.063150
+    PZA.DVEZ BIN...EZ 0.054620   BIP...EZ 0.110300
+    PZA.DVEZ BKE...EZ 0.198240   BHL...EZ 0.132890
+    PZA.DVEZ BHH...EZ -0.007110   BBU...EZ 0.098530
+    PZA.DVEZ BBV...EZ -0.005460   BBE...EZ 0.236850
+    PZA.DVEZ BBC...EZ -0.012580   BAZ...EZ 0.089620
+    PAG.D1EZ CTF.D.EZ -1.000000   AAG..... -1.000000
+    PAG.D1EZ BCV...EZ 0.010920   BI5...EZ 0.006310
+    PAG.D1EZ BLN...EZ 0.030370   BIN...EZ -0.005620
+    PAG.D1EZ BIP...EZ 0.113550   BKE...EZ 0.080140
+    PAG.D1EZ BHL...EZ 0.157120   BHH...EZ -0.009730
+    PAG.D1EZ BBU...EZ 0.077980   BBV...EZ -0.006140
+    PAG.D1EZ BAG...EZ 0.545110
+    PAH.D1EZ CTF.D.EZ -1.000000   AAH..... -1.000000
+    PAH.D1EZ BCV...EZ 0.025790   BI5...EZ 0.008120
+    PAH.D1EZ BLN...EZ 0.039600   BIN...EZ -0.007860
+    PAH.D1EZ BIP...EZ 0.111910   BKE...EZ 0.130620
+    PAH.D1EZ BHL...EZ 0.029870   BHH...EZ 0.091860
+    PAH.D1EZ BBU...EZ 0.003600   BBV...EZ 0.071830
+    PAH.D1EZ BAH...EZ 0.494650
+    PAL.D1EZ CTF.D.EZ -1.000000   BCV...EZ 0.018350
+    PAL.D1EZ BI5...EZ 0.008650   BLN...EZ 0.043700
+    PAL.D1EZ BIN...EZ 0.004910   BIP...EZ 0.124890
+    PAL.D1EZ BKE...EZ 0.178950   BHL...EZ 0.060480
+    PAL.D1EZ BHH...EZ 0.072710   BBU...EZ 0.021080
+    PAL.D1EZ BBV...EZ 0.065990   BAL...EZ 0.400280
+    PAL.D1EZ AAL..... -1.000000
+    PAM.D1EZ CTF.D.EZ -1.000000   BCV...EZ 0.012720
+    PAM.D1EZ BI5...EZ 0.007550   BLN...EZ 0.042710
+    PAM.D1EZ BIN...EZ 0.003590   BIP...EZ 0.117680
+    PAM.D1EZ BKE...EZ 0.144200   BHL...EZ 0.046940
+    PAM.D1EZ BHH...EZ 0.075380   BBU...EZ 0.015520
+    PAM.D1EZ BBV...EZ 0.066500   BAM...EZ 0.467210
+    PAM.D1EZ AAM..... -1.000000
+    PAW.D1EZ CTF.D.EZ -1.000000   AAW..... -1.000000
+    PAW.D1EZ BCV...EZ 0.040830   BI5...EZ 0.014750
+    PAW.D1EZ BLN...EZ 0.065660   BIN...EZ 0.027490
+    PAW.D1EZ BIP...EZ 0.150780   BKE...EZ 0.223790
+    PAW.D1EZ BHL...EZ 0.149740   BHH...EZ -0.002840
+    PAW.D1EZ BBU...EZ 0.090500   BBV...EZ 0.000810
+    PAW.D1EZ BAW...EZ 0.238480
+    PAX.D1EZ CTF.D.EZ -1.000000   BCV...EZ 0.020370
+    PAX.D1EZ BI5...EZ 0.009350   BLN...EZ 0.052270
+    PAX.D1EZ BIN...EZ 0.010770   BIP...EZ 0.125670
+    PAX.D1EZ BKE...EZ 0.204480   BHL...EZ 0.077910
+    PAX.D1EZ BHH...EZ 0.040930   BBU...EZ 0.050490
+    PAX.D1EZ BBV...EZ 0.062960   BAX...EZ 0.344790
+    PAX.D1EZ AAX..... -1.000000
+    PBA.D1EZ CTF.D.EZ -1.000000   BCV...EZ 0.022920
+    PBA.D1EZ BI5...EZ 0.009360   BLN...EZ 0.050930
+    PBA.D1EZ BIN...EZ 0.001770   BIP...EZ 0.128350
+    PBA.D1EZ BKE...EZ 0.174610   BHL...EZ 0.040160
+    PBA.D1EZ BHH...EZ 0.081800   BBU...EZ 0.025150
+    PBA.D1EZ BBV...EZ 0.058160   BKA...EZ 0.406790
+    PBA.D1EZ ABA..... -1.000000
+    PBQ.D1EZ CTF.D.EZ -1.000000   BCV...EZ 0.007590
+    PBQ.D1EZ BI5...EZ 0.003180   BLN...EZ 0.014330
+    PBQ.D1EZ BIN...EZ 0.036100   BIP...EZ 0.005260
+    PBQ.D1EZ BKE...EZ 0.100560   BHL...EZ 0.020970
+    PBQ.D1EZ BHH...EZ 0.159270   BBU...EZ 0.000320
+    PBQ.D1EZ BBV...EZ 0.001460   BVH...EZ 0.650950
+    PBQ.D1EZ ABQ..... -1.000000
+    PBR.D1EZ CTF.D.EZ -1.000000   ABR..... -1.000000
+    PBR.D1EZ BCV...EZ 0.024040   BI5...EZ 0.012810
+    PBR.D1EZ BLN...EZ 0.054100   BIN...EZ 0.058540
+    PBR.D1EZ BIP...EZ 0.114350   BKE...EZ 0.171400
+    PBR.D1EZ BHL...EZ 0.127230   BHH...EZ -0.002130
+    PBR.D1EZ BBU...EZ 0.095890   BBV...EZ -0.001620
+    PBR.D1EZ BLB...EZ 0.345390
+    PCA.D1EZ CTF.D.EZ -1.000000   ACA..... -1.000000
+    PCA.D1EZ BCV...EZ 0.022390   BI5...EZ 0.006880
+    PCA.D1EZ BLN...EZ 0.028560   BIN...EZ 0.043090
+    PCA.D1EZ BIP...EZ 0.058170   BKE...EZ 0.091930
+    PCA.D1EZ BHL...EZ 0.127570   BHH...EZ -0.003910
+    PCA.D1EZ BBU...EZ 0.057710   BBV...EZ -0.003330
+    PCA.D1EZ BCA...EZ 0.570930
+    PDA.D1EZ CTF.D.EZ -1.000000   BCV...EZ 0.028910
+    PDA.D1EZ BI5...EZ 0.014810   BLN...EZ 0.058210
+    PDA.D1EZ BIN...EZ 0.011910   BIP...EZ 0.127890
+    PDA.D1EZ BKE...EZ 0.156050   BHL...EZ 0.016240
+    PDA.D1EZ BHH...EZ 0.113760   BBU...EZ 0.002260
+    PDA.D1EZ BBV...EZ 0.079970   BIR...EZ 0.389990
+    PDA.D1EZ ADA..... -1.000000
+    PES.D1EZ CTF.D.EZ -1.000000   BCV...EZ 0.019260
+    PES.D1EZ BI5...EZ 0.012160   BLN...EZ 0.041200
+    PES.D1EZ BIN...EZ 0.050610   BIP...EZ 0.094450
+    PES.D1EZ BKE...EZ 0.157620   BHL...EZ 0.131740
+    PES.D1EZ BHH...EZ 0.009590   BBU...EZ 0.085320
+    PES.D1EZ BBV...EZ 0.005410   BES...EZ 0.392640
+    PES.D1EZ AES..... -1.000000
+    PIH.D1EZ CTF.D.EZ -1.000000   BCV...EZ 0.027600
+    PIH.D1EZ BI5...EZ 0.010720   BLN...EZ 0.041710
+    PIH.D1EZ BIN...EZ 0.052270   BIP...EZ 0.081290
+    PIH.D1EZ BKE...EZ 0.151290   BHL...EZ 0.053670
+    PIH.D1EZ BHH...EZ 0.068650   BBU...EZ 0.035640
+    PIH.D1EZ BBV...EZ 0.042830   BIH...EZ 0.434310
+    PIH.D1EZ AIH..... -1.000000
+    PIL.D1EZ CTF.D.EZ -1.000000   BCV...EZ 0.023430
+    PIL.D1EZ BI5...EZ 0.009760   BLN...EZ 0.043810
+    PIL.D1EZ BIN...EZ 0.046670   BIP...EZ 0.091200
+    PIL.D1EZ BKE...EZ 0.161990   BHL...EZ 0.078750
+    PIL.D1EZ BHH...EZ 0.057420   BBU...EZ 0.043960
+    PIL.D1EZ BBV...EZ 0.041920   BIL...EZ 0.401100
+    PIL.D1EZ AIL..... -1.000000
+    PKK.D1EZ CTF.D.EZ -1.000000   BCV...EZ 0.026610
+    PKK.D1EZ BI5...EZ 0.016480   BLN...EZ 0.051650
+    PKK.D1EZ BIN...EZ 0.016170   BIP...EZ 0.136830
+    PKK.D1EZ BKE...EZ 0.181310   BHL...EZ 0.059020
+    PKK.D1EZ BHH...EZ 0.080820   BBU...EZ 0.020050
+    PKK.D1EZ BBV...EZ 0.065450   BKK...EZ 0.345610
+    PKK.D1EZ AKK..... -1.000000
+    PKU.D1EZ CTF.D.EZ -1.000000   BCV...EZ 0.026680
+    PKU.D1EZ BI5...EZ 0.008720   BLN...EZ 0.053840
+    PKU.D1EZ BIN...EZ 0.000250   BIP...EZ 0.121660
+    PKU.D1EZ BKE...EZ 0.141740   BHL...EZ 0.040980
+    PKU.D1EZ BHH...EZ 0.080340   BBU...EZ 0.012730
+    PKU.D1EZ BBV...EZ 0.071090   BKU...EZ 0.441950
+    PKU.D1EZ AKU..... -1.000000
+    PMU.D1EZ CTF.D.EZ -1.000000   BCV...EZ 0.019830
+    PMU.D1EZ BI5...EZ 0.010950   BLN...EZ 0.052370
+    PMU.D1EZ BIN...EZ 0.026140   BIP...EZ 0.134930
+    PMU.D1EZ BKE...EZ 0.193130   BHL...EZ 0.123210
+    PMU.D1EZ BHH...EZ 0.026600   BBU...EZ 0.053960
+    PMU.D1EZ BBV...EZ 0.041020   BMU...EZ 0.317850
+    PMU.D1EZ AMU..... -1.000000
+    PNF.D1EZ CTF.D.EZ -1.000000   BCV...EZ 0.023190
+    PNF.D1EZ BI5...EZ 0.009250   BLN...EZ 0.028930
+    PNF.D1EZ BIN...EZ 0.123190   BIP...EZ 0.008450
+    PNF.D1EZ BKE...EZ 0.204470   BHL...EZ 0.227760
+    PNF.D1EZ BHH...EZ 0.006920   BBU...EZ 0.048730
+    PNF.D1EZ BBV...EZ 0.000220   BMD...EZ 0.318890
+    PNF.D1EZ ANF..... -1.000000
+    PNL.D1EZ CTF.D.EZ -1.000000   ANL..... -1.000000
+    PNL.D1EZ BCV...EZ 0.028250   BI5...EZ 0.013210
+    PNL.D1EZ BLN...EZ 0.043820   BIN...EZ 0.150420
+    PNL.D1EZ BIP...EZ 0.037110   BKE...EZ 0.209630
+    PNL.D1EZ BHL...EZ 0.133140   BHH...EZ -0.001290
+    PNL.D1EZ BBU...EZ 0.098390   BBV...EZ -0.002470
+    PNL.D1EZ BLT...EZ 0.289790
+    PNM.D1EZ CTF.D.EZ -1.000000   ANM..... -1.000000
+    PNM.D1EZ BCV...EZ 0.007060   BI5...EZ 0.002850
+    PNM.D1EZ BLN...EZ 0.009350   BIN...EZ 0.064220
+    PNM.D1EZ BIP...EZ -0.003460   BKE...EZ 0.184800
+    PNM.D1EZ BHL...EZ 0.307570   BHH...EZ 0.011610
+    PNM.D1EZ BBU...EZ 0.009720   BBV...EZ 0.000060
+    PNM.D1EZ BHY...EZ 0.406210
+    POM.D1EZ CTF.D.EZ -1.000000   BCV...EZ 0.012770
+    POM.D1EZ BI5...EZ 0.007200   BLN...EZ 0.040120
+    POM.D1EZ BIN...EZ 0.028120   BIP...EZ 0.100710
+    POM.D1EZ BKE...EZ 0.178720   BHL...EZ 0.085450
+    POM.D1EZ BHH...EZ 0.071800   BBU...EZ 0.038340
+    POM.D1EZ BBV...EZ 0.024770   BMN...EZ 0.412000
+    POM.D1EZ AOM..... -1.000000
+    PQA.D1EZ CTF.D.EZ -1.000000   BCV...EZ 0.039300
+    PQA.D1EZ BI5...EZ 0.014610   BLN...EZ 0.070060
+    PQA.D1EZ BIN...EZ 0.015740   BIP...EZ 0.149860
+    PQA.D1EZ BKE...EZ 0.188540   BHL...EZ 0.094290
+    PQA.D1EZ BHH...EZ 0.055110   BBU...EZ 0.030760
+    PQA.D1EZ BBV...EZ 0.058250   BQT...EZ 0.283480
+    PQA.D1EZ AQA..... -1.000000
+    PSA.D1EZ CTF.D.EZ -1.000000   ASA..... -1.000000
+    PSA.D1EZ BCV...EZ 0.022670   BI5...EZ 0.010190
+    PSA.D1EZ BLN...EZ 0.045180   BIN...EZ 0.042030
+    PSA.D1EZ BIP...EZ 0.076000   BKE...EZ 0.125610
+    PSA.D1EZ BHL...EZ 0.105030   BHH...EZ -0.003850
+    PSA.D1EZ BBU...EZ 0.106680   BBV...EZ -0.004260
+    PSA.D1EZ BLS...EZ 0.474740
+    PTM.D1EZ CTF.D.EZ -1.000000   BCV...EZ 0.013540
+    PTM.D1EZ BI5...EZ 0.005480   BLN...EZ 0.026370
+    PTM.D1EZ BIN...EZ 0.050130   BIP...EZ 0.040830
+    PTM.D1EZ BKE...EZ 0.149310   BHL...EZ 0.065320
+    PTM.D1EZ BHH...EZ 0.095220   BBU...EZ 0.013200
+    PTM.D1EZ BBV...EZ 0.017680   BTM...EZ 0.522920
+    PTM.D1EZ ATM..... -1.000000
+    PUH.D1EZ CTF.D.EZ -1.000000   BCV...EZ 0.031860
+    PUH.D1EZ BI5...EZ 0.010440   BLN...EZ 0.052400
+    PUH.D1EZ BIN...EZ 0.022450   BIP...EZ 0.132660
+    PUH.D1EZ BKE...EZ 0.178000   BHL...EZ 0.128660
+    PUH.D1EZ BHH...EZ 0.017470   BBU...EZ 0.068570
+    PUH.D1EZ BBV...EZ 0.017250   BUH...EZ 0.340240
+    PUH.D1EZ AUH..... -1.000000
+    PUL.D1EZ CTF.D.EZ -1.000000   BCV...EZ 0.027870
+    PUL.D1EZ BI5...EZ 0.010900   BLN...EZ 0.047860
+    PUL.D1EZ BIN...EZ 0.042680   BIP...EZ 0.115150
+    PUL.D1EZ BKE...EZ 0.164040   BHL...EZ 0.144080
+    PUL.D1EZ BHH...EZ 0.000340   BBU...EZ 0.092070
+    PUL.D1EZ BBV...EZ 0.001840   BUL...EZ 0.353180
+    PUL.D1EZ AUL..... -1.000000
+    PZA.D1EZ CTF.D.EZ -1.000000   AZA..... -1.000000
+    PZA.D1EZ BCV...EZ 0.029840   BI5...EZ 0.011120
+    PZA.D1EZ BLN...EZ 0.063150   BIN...EZ 0.054620
+    PZA.D1EZ BIP...EZ 0.110300   BKE...EZ 0.198240
+    PZA.D1EZ BHL...EZ 0.132880   BHH...EZ -0.007110
+    PZA.D1EZ BBU...EZ 0.098530   BBV...EZ -0.005460
+    PZA.D1EZ BZA...EZ 0.313900
+    PEL.D3EZ CTF.D.EZ -1.000000   BRG...EZ 0.017100
+    PEL.D3EZ BI5...EZ 0.010700   BLN...EZ 0.040500
+    PEL.D3EZ BIN...EZ 0.040200   BIP...EZ 0.093800
+    PEL.D3EZ BKE...EZ 0.148000   BHL...EZ 0.112900
+    PEL.D3EZ BHH...EZ 0.003100   BBU...EZ 0.067600
+    PEL.D3EZ BBV...EZ 0.003400   BEL...EZ 0.453000
+    PEL.D3EZ AEL..... -1.000000
+    PBL.F1EZ BBK...EZ 1.000000   CF..F.EZ -2.900000
+    PBL.F1EZ BBL...EZ -1.000000
+    PBN.F1EZ BBM...EZ 1.000000   CF..F.EZ -2.900000
+    PBN.F1EZ BBN...EZ -1.000000
+    PBV.F1EZ BBU...EZ 1.000000   CF..F.EZ -2.300000
+    PBV.F1EZ BBV...EZ -1.000000
+    PHH.F1EZ BHL...EZ 1.000000   CF..F.EZ -1.500000
+    PHH.F1EZ BHH...EZ -1.000000
+    PBA.G2EZ BRG...EZ 0.003700   BIP...EZ 0.003600
+    PBA.G2EZ BBB...EZ 1.004800   CF..G.EZ -1.088400
+    PBA.G2EZ BBA...EZ -1.000000
+    PBC.G2EZ BRG...EZ 0.001600   BIP...EZ 0.001600
+    PBC.G2EZ BBD...EZ 1.005500   CF..G.EZ -0.933800
+    PBC.G2EZ BBC...EZ -1.000000
+    PQA.G2EZ BSA...EZ 1.000000   CF..G.EZ -1.184000
+    PQA.G2EZ BQA...EZ -1.000000
+    PQH.G2EZ BSH...EZ 1.000000   CF..G.EZ -1.309000
+    PQH.G2EZ BQH...EZ -1.000000
+    PQW.G2EZ CF..G.EZ -1.339000   BSW...EZ 1.000000
+    PQW.G2EZ BQW...EZ -1.000000
+    PBZ.HBEZ BNL...EZ -0.084400   BRG...EZ 0.035300
+    PBZ.HBEZ BFR...EZ -0.078000   BI5...EZ 0.012000
+    PBZ.HBEZ BLN...EZ 0.028000   BIN...EZ 0.049400
+    PBZ.HBEZ BIP...EZ 0.033600   BKE...EZ 0.180000
+    PBZ.HBEZ BHL...EZ 0.310100   BHH...EZ -0.019500
+    PBZ.HBEZ BBU...EZ -0.023000   BBV...EZ 0.001400
+    PBZ.HBEZ B9V...EZ 0.500000   CF..H.EZ -0.732000
+    PBZ.HBEZ BBA...EZ -0.573200   BBC...EZ -0.426800
+    PBZ.H0EZ BNL...EZ -0.109100   BRG...EZ 0.043300
+    PBZ.H0EZ BFR...EZ -0.112000   BI5...EZ 0.021800
+    PBZ.H0EZ BLN...EZ 0.050800   BIN...EZ 0.105500
+    PBZ.H0EZ BIP...EZ 0.071900   BKE...EZ 0.347000
+    PBZ.H0EZ BHL...EZ 0.600600   BHH...EZ -0.037800
+    PBZ.H0EZ BBU...EZ -0.044500   BBV...EZ 0.002700
+    PBZ.H0EZ CF..H.EZ -1.000000   BBA...EZ -0.573200
+    PBZ.H0EZ BBC...EZ -0.426800
+    PBZ.H1EZ BNL...EZ -0.137500   BRG...EZ 0.211800
+    PBZ.H1EZ BFR...EZ -0.112000   BI5...EZ 0.102900
+    PBZ.H1EZ BLN...EZ 0.240100   BIN...EZ -0.171800
+    PBZ.H1EZ BIP...EZ 0.655800   BKE...EZ 0.193000
+    PBZ.H1EZ CF..H.EZ -0.876000   BBA...EZ -0.573200
+    PBZ.H1EZ BBC...EZ -0.426800
+    PBZ.H2EZ BNL...EZ -0.132100   BRG...EZ 0.123100
+    PBZ.H2EZ BFR...EZ -0.112000   BI5...EZ 0.075900
+    PBZ.H2EZ BLN...EZ 0.177100   BIN...EZ -0.218000
+    PBZ.H2EZ BIP...EZ 0.832000   BKE...EZ 0.246000
+    PBZ.H2EZ CF..H.EZ -0.843000   BBA...EZ -0.573200
+    PBZ.H2EZ BBC...EZ -0.426800
+    PIB.P2EZ BRG...EZ 0.180200   B5D...EZ 0.770000
+    PIB.P2EZ CF..P.EZ -0.990000   BIB...EZ -1.000000
+    PIG.P2EZ BRG...EZ 0.106800   B5C...EZ 0.893000
+    PIG.P2EZ CF..P.EZ -0.948700   BIG...EZ -1.000000
+    PIN.P2EZ BRG...EZ 0.109800   B5A...EZ 0.883000
+    PIN.P2EZ CF..P.EZ -0.942000   BIN...EZ -1.000000
+    PIP.P2EZ BRG...EZ 0.189000   B5B...EZ 0.760000
+    PIP.P2EZ CF..P.EZ -0.983300   BIP...EZ -1.000000
+    PIB.P3EZ BRG...EZ 0.206200   B5H...EZ 0.739000
+    PIB.P3EZ CF..P.EZ -1.014700   BIB...EZ -1.000000
+    PIG.P3EZ BRG...EZ 0.133800   B5G...EZ 0.862000
+    PIG.P3EZ CF..P.EZ -0.973300   BIG...EZ -1.000000
+    PIN.P3EZ BRG...EZ 0.144400   B5E...EZ 0.852000
+    PIN.P3EZ CF..P.EZ -0.967700   BIN...EZ -1.000000
+    PIP.P3EZ BRG...EZ 0.214800   B5F...EZ 0.729000
+    PIP.P3EZ CF..P.EZ -1.008000   BIP...EZ -1.000000
+    PIB.P7EZ BRG...EZ 0.219000   B5P...EZ 0.721000
+    PIB.P7EZ CF..P.EZ -1.579800   BIB...EZ -1.000000
+    PIG.P7EZ BRG...EZ 0.146800   B5N...EZ 0.840000
+    PIG.P7EZ CF..P.EZ -1.369100   BIG...EZ -1.000000
+    PIN.P7EZ BRG...EZ 0.149100   B5M...EZ 0.829000
+    PIN.P7EZ CF..P.EZ -1.350700   BIN...EZ -1.000000
+    PIP.P7EZ BRG...EZ 0.228800   B5O...EZ 0.710000
+    PIP.P7EZ CF..P.EZ -1.561300   BIP...EZ -1.000000
+    PHA.Q1EZ BRG...EZ 0.326000   B5T...EZ 0.140000
+    PHA.Q1EZ BBK...EZ -0.031000   BBL...EZ 0.260000
+    PHA.Q1EZ BQH...EZ 0.256000   CF..Q.EZ -1.066000
+    PHA.Q1EZ BHA...EZ -1.000000
+    PLA.Q1EZ BRG...EZ 0.280000   B5T...EZ 0.152000
+    PLA.Q1EZ BBK...EZ 0.036000   BBL...EZ 0.213000
+    PLA.Q1EZ BQA...EZ 0.279000   CF..Q.EZ -1.000000
+    PLA.Q1EZ BLA...EZ -1.000000
+    PUK.Q1EZ BRG...EZ 0.294000   B5T...EZ 0.148000
+    PUK.Q1EZ BBK...EZ -0.048000   BBL...EZ 0.290000
+    PUK.Q1EZ BQW...EZ 0.272000   CF..Q.EZ -1.014000
+    PUK.Q1EZ BUK...EZ -1.000000
+    PAH.R1EZ BRG...EZ 0.010700   BIP...EZ 0.037500
+    PAH.R1EZ BHL...EZ 0.100000   B1H...EZ 0.885000
+    PAH.R1EZ CF..R.EZ -1.113300   BAH...EZ -1.000000
+    PAL.R1EZ BRG...EZ 0.004200   BIP...EZ 0.015400
+    PAL.R1EZ BHL...EZ 0.100000   B1A...EZ 0.896000
+    PAL.R1EZ CF..R.EZ -0.883600   BAL...EZ -1.000000
+    PAM.R1EZ BRG...EZ 0.006500   BIP...EZ 0.023000
+    PAM.R1EZ BHL...EZ 0.100000   B1K...EZ 0.892000
+    PAM.R1EZ CF..R.EZ -1.003900   BAM...EZ -1.000000
+    PIH.R1EZ BRG...EZ 0.006400   BIP...EZ 0.022800
+    PIH.R1EZ BHL...EZ 0.100000   B1G...EZ 0.892000
+    PIH.R1EZ CF..R.EZ -0.948700   BIH...EZ -1.000000
+    PIL.R1EZ BRG...EZ 0.004800   BIP...EZ 0.017200
+    PIL.R1EZ BHL...EZ 0.100000   B1I...EZ 0.894000
+    PIL.R1EZ CF..R.EZ -0.879900   BIL...EZ -1.000000
+    PKU.R1EZ BRG...EZ 0.006200   BIP...EZ 0.021900
+    PKU.R1EZ BHL...EZ 0.100000   B1W...EZ 0.895000
+    PKU.R1EZ CF..R.EZ -0.995100   BKU...EZ -1.000000
+    PAH.R2EZ BRG...EZ 0.024600   BIP...EZ 0.086900
+    PAH.R2EZ BHL...EZ 0.100000   CF..R.EZ -1.484600
+    PAH.R2EZ B2H...EZ 0.843000   BAH...EZ -1.000000
+    PAL.R2EZ BRG...EZ 0.010900   BIP...EZ 0.038900
+    PAL.R2EZ BHL...EZ 0.100000   CF..R.EZ -1.109400
+    PAL.R2EZ B2A...EZ 0.879000   BAL...EZ -1.000000
+    PAM.R2EZ BRG...EZ 0.015400   BIP...EZ 0.055000
+    PAM.R2EZ BHL...EZ 0.100000   CF..R.EZ -1.279000
+    PAM.R2EZ B2K...EZ 0.869000   BAM...EZ -1.000000
+    PIH.R2EZ BRG...EZ 0.014700   BIP...EZ 0.052800
+    PIH.R2EZ BHL...EZ 0.100000   CF..R.EZ -1.204500
+    PIH.R2EZ B2G...EZ 0.869000   BIH...EZ -1.000000
+    PIL.R2EZ BRG...EZ 0.011100   BIP...EZ 0.040500
+    PIL.R2EZ BHL...EZ 0.100000   CF..R.EZ -1.094000
+    PIL.R2EZ B2I...EZ 0.877000   BIL...EZ -1.000000
+    PKU.R2EZ BRG...EZ 0.015100   BIP...EZ 0.053300
+    PKU.R2EZ BHL...EZ 0.100000   CF..R.EZ -1.285700
+    PKU.R2EZ B2W...EZ 0.872000   BKU...EZ -1.000000
+    PAH.VAEZ BAH...EZ -1.000000   BOA...EZ 0.686200
+    PAH.VAEZ BBC...EZ 0.064600   BBA...EZ 0.249200
+    PAH.VAEZ COH.V.EZ -0.313800   LOBROW27800 1.000000
+    PKU.VAEZ BKU...EZ -1.000000   BOA...EZ 0.520600
+    PKU.VAEZ BBC...EZ 0.019600   BBA...EZ 0.459800
+    PKU.VAEZ COH.V.EZ -0.479400   LOBROW27801 1.000000
+    PEL.V1EZ COH.V.EZ -0.713000   BEL...EZ -1.000000
+    PEL.V1EZ BBE...EZ 0.560300   BBC...EZ 0.152700
+    PEL.V1EZ BLE...EZ 0.287000
+    TDH.ANEZ BDH...EZ 1.000000   BDH...AN -1.000000
+    TDH.ANEZ FAT0..J. 1.025000   KMC.IME. 1.000000
+    TDH.ANEZ KWC..... 3.663000   KTX.PRE. 1.000000
+    TDK.ANEZ BDK...EZ 1.000000   BDK...AN -1.000000
+    TDK.ANEZ FAT0..J. 0.981000   KMC.IME. 1.000000
+    TDK.ANEZ KWC..... 3.679000   KTX.PRE. 1.000000
+    TFT.ANEZ BFT...EZ 1.000000   BFP...AN -1.000000
+    TFT.ANEZ FAT0..J. 1.148000   KMC.IME. 1.000000
+    TFT.ANEZ KWC..... 3.557000   KTX.PRE. 1.000000
+    TFY.ANEZ BFY...EZ 1.000000   BFY...AN -1.000000
+    TFY.ANEZ FAT0..J. 1.172000   KMC.IME. 1.000000
+    TFY.ANEZ KWC..... 3.418000   KTX.PRE. 1.000000
+    TLG.ANEZ BLG...EZ 1.000000
+    TNE.ANEZ BNE...EZ 1.000000   BNE...AN -1.000000
+    TNE.ANEZ FAT0..J. 0.960000   KMC.IME. 1.000000
+    TNE.ANEZ KWC..... 3.592000   KTX.PRE. 1.000000
+    TNI.ANEZ BNI...EZ 1.000000   BNI...AN -1.000000
+    TNI.ANEZ FAT0..J. 0.960000   KMC.IME. 1.000000
+    TNI.ANEZ KWC..... 3.625000   KTX.PRE. 1.000000
+    TNL.ANEZ BNL...EZ 1.000000   BNL...AN -1.000000
+    TNL.ANEZ FAT0..J. 0.951000   KMC.IME. 1.000000
+    TNL.ANEZ KWC..... 3.475000   KTX.PRE. 1.000000
+    TNP.ANEZ BNP...EZ 1.000000   BNP...AN -1.000000
+    TNP.ANEZ FAT0..J. 0.960000   KMC.IME. 1.000000
+    TNP.ANEZ KWC..... 3.572000   KTX.PRE. 1.000000
+    TDH.AWEZ BDH...EZ 1.000000   BDH...AW -1.000000
+    TDH.AWEZ FAT0..J. 1.514000   KMC.IME. 1.000000
+    TDH.AWEZ KWC..... 3.806000   KTX.PRE. 1.000000
+    TDK.AWEZ BDK...EZ 1.000000   BDK...AW -1.000000
+    TDK.AWEZ FAT0..J. 1.450000   KMC.IME. 1.000000
+    TDK.AWEZ KWC..... 3.830000   KTX.PRE. 1.000000
+    TFT.AWEZ BFT...EZ 1.000000   BFP...AW -1.000000
+    TFT.AWEZ FAT0..J. 1.697000   KMC.IME. 1.000000
+    TFT.AWEZ KWC..... 3.701000   KTX.PRE. 1.000000
+    TLG.AWEZ BLG...EZ 1.000000   BLG...AW -1.000000
+    TNE.AWEZ BNE...EZ 1.000000   BNE...AW -1.000000
+    TNE.AWEZ FAT0..J. 1.418000   KMC.IME. 1.000000
+    TNE.AWEZ KWC..... 3.753000   KTX.PRE. 1.000000
+    TNI.AWEZ BNI...EZ 1.000000   BNI...AW -1.000000
+    TNI.AWEZ FAT0..J. 1.418000   KMC.IME. 1.000000
+    TNI.AWEZ KWC..... 3.776000   KTX.PRE. 1.000000
+    TNL.AWEZ BNL...EZ 1.000000   BNL...AW -1.000000
+    TNL.AWEZ FAT0..J. 1.405000   KMC.IME. 1.000000
+    TNL.AWEZ KWC..... 3.604000   KTX.PRE. 1.000000
+    TNP.AWEZ BNP...EZ 1.000000   BNP...AW -1.000000
+    TNP.AWEZ FAT0..J. 1.418000   KMC.IME. 1.000000
+    TNP.AWEZ KWC..... 3.744000   KTX.PRE. 1.000000
+    TFT.BAEZ BFT...EZ 1.000000   BFT...BA -1.000000
+    TFT.BAEZ FAT0..J. 1.533000   KMC.IME. 1.000000
+    TFT.BAEZ KWC..... 3.885000   KTX.PRE. 1.000000
+    TFY.BAEZ BFY...EZ 1.000000   BFJ...BA -1.000000
+    TFY.BAEZ FAT0..J. 1.565000   KMC.IME. 1.000000
+    TFY.BAEZ KWC..... 3.547000   KTX.PRE. 1.000000
+    TDH.EMEZ BDH...EZ 1.000000   BDH...EM -1.000000
+    TDH.EMEZ FAT0..J. 0.927000   KMC.IME. 1.000000
+    TDH.EMEZ KMC.EXE. 1.000000   KWC..... 1.048000
+    TNE.EMEZ BNE...EZ 1.000000   BNE...EM -1.000000
+    TNE.EMEZ FAT0..J. 0.868000   KMC.IME. 1.000000
+    TNE.EMEZ KMC.EXE. 1.000000   KWC..... 0.976000
+    TNL.EMEZ BNL...EZ 1.000000   BNL...EM -1.000000
+    TNL.EMEZ FAT0..J. 0.860000   KMC.IME. 1.000000
+    TNL.EMEZ KMC.EXE. 1.000000   KWC..... 0.868000
+    TBB.PGEZ BBB...EZ 1.000000   BBB...PG -1.000000
+    TBB.PGEZ FAT0..J. 1.967000   KMC.IME. 1.000000
+    TBB.PGEZ KWC..... 3.905000   KTX.PRE. 1.000000
+    TBD.PGEZ BBD...EZ 1.000000   BBD...PG -1.000000
+    TBD.PGEZ FAT0..J. 1.967000   KMC.IME. 1.000000
+    TBD.PGEZ KWC..... 3.905000   KTX.PRE. 1.000000
+    TDH.PGEZ BDH...EZ 1.000000   BDH...PG -1.000000
+    TDH.PGEZ FAT0..J. 1.878000   KMC.IME. 1.000000
+    TDH.PGEZ KWC..... 4.062000   KTX.PRE. 1.000000
+    TDK.PGEZ BDK...EZ 1.000000   BDK...PG -1.000000
+    TDK.PGEZ FAT0..J. 1.798000   KMC.IME. 1.000000
+    TDK.PGEZ KWC..... 4.085000   KTX.PRE. 1.000000
+    TFT.PGEZ BFT...EZ 1.000000   BFT...PG -1.000000
+    TFT.PGEZ FAT0..J. 2.104000   KMC.IME. 1.000000
+    TFT.PGEZ KWC..... 3.905000   KTX.PRE. 1.000000
+    TFY.PGEZ BFY...EZ 1.000000   BFJ...PG -1.000000
+    TFY.PGEZ FAT0..J. 2.148000   KMC.IME. 1.000000
+    TFY.PGEZ KWC..... 3.723000   KTX.PRE. 1.000000
+    TGP.PGEZ BGP...EZ 1.000000   BGE...PG -1.000000
+    TGP.PGEZ FAT0..J. 1.767000   KMC.IME. 1.000000
+    TGP.PGEZ KWC..... 4.019000   KTX.PRE. 1.000000
+    TNL.PGEZ BNL...EZ 1.000000   BNL...PG -1.000000
+    TNL.PGEZ FAT0..J. 1.709000   KMC.IME. 1.000000
+    TNL.PGEZ KWC..... 3.808000   KTX.PRE. 1.000000
+    TNP.PGEZ BNP...EZ 1.000000   BNP...PG -1.000000
+    TNP.PGEZ FAT0..J. 1.743000   KMC.IME. 1.000000
+    TNP.PGEZ KWC..... 3.963000   KTX.PRE. 1.000000
+    QVO5FQSG BFQ...SG 1.000000   BFQ.VOSG -1.000000
+    QVO5FQSG XVI.FQSG -1.132000   NVI.FQSG -0.800000
+    TFT.VEEZ BFT...EZ 1.000000   BFT...VE -1.000000
+    TFT.VEEZ FAT0..J. 1.598000   KMC.IME. 1.000000
+    TFT.VEEZ KWC..... 3.702000   KTX.PRE. 1.000000
+    TFY.VEEZ BFY...EZ 1.000000   BFJ...VE -1.000000
+    TFY.VEEZ FAT0..J. 1.631000   KMC.IME. 1.000000
+    TFY.VEEZ KWC..... 3.565000   KTX.PRE. 1.000000
+    BBK.DHJP BBK...JP -1.000000   BDH.VOJP 1.000000
+    BBK.DHJP XSU.DHJP 0.100000   XCI.DHJP 1.000000
+    BBL.DHJP BBL...JP -1.000000   BDH.VOJP 1.000000
+    BBL.DHJP XSU.DHJP 3.000000   XCI.DHJP 1.000000
+    BBM.DHJP BBM...JP -1.000000   BDH.VOJP 1.000000
+    BBM.DHJP XSU.DHJP 0.100000   XCI.DHJP 1.500000
+    BBN.DHJP BBN...JP -1.000000   BDH.VOJP 1.000000
+    BBN.DHJP XSU.DHJP 3.000000   XCI.DHJP 1.500000
+    BBU.DHJP BBU...JP -1.000000   BDH.VOJP 1.000000
+    BBU.DHJP XSU.DHJP 0.200000   XCI.DHJP 7.560000
+    BBV.DHJP BBV...JP -1.000000   BDH.VOJP 1.000000
+    BBV.DHJP XSU.DHJP 2.500000   XCI.DHJP 7.070000
+    BHH.DHJP BHH...JP -1.000000   BDH.VOJP 1.000000
+    BHH.DHJP XSU.DHJP 1.600000   XCI.DHJP 0.870000
+    BHL.DHJP BHL...JP -1.000000   BDH.VOJP 1.000000
+    BHL.DHJP XSU.DHJP 0.100000   XCI.DHJP 0.870000
+    BKE.DHJP BKE...JP -1.000000   BDH.VOJP 1.000000
+    BKE.DHJP XSU.DHJP 0.150000   XCI.DHJP 0.120000
+    BKH.DHJP BKH...JP -1.000000   BDH.VOJP 1.000000
+    BKH.DHJP XSU.DHJP 0.150000   XCI.DHJP 0.160000
+    BBB.FOJP BBB...JP -1.000000   BFO.VOJP 1.000000
+    BBB.FOJP BFO.WTJP 0.893700   XSU.FOJP 0.178740
+    BBB.FOJP XVI.FOJP 0.977000   NVI.FOJP 0.977000
+    BBD.FOJP BBD...JP -1.000000   BFO.VOJP 1.000000
+    BBD.FOJP BFO.WTJP 0.893100   XSU.FOJP 0.178620
+    BBD.FOJP XVI.FOJP 0.990000   NVI.FOJP 0.990000
+    BBO.FOJP BBO...JP -1.000000   BFO.VOJP 1.000000
+    BBO.FOJP BFO.WTJP 0.820000   XSU.FOJP 0.246000
+    BBO.FOJP XVI.FOJP 0.720000   NVI.FOJP 0.720000
+    BBP.FOJP BBP...JP -1.000000   BFO.VOJP 1.000000
+    BBP.FOJP BFO.WTJP 0.820000   XSU.FOJP 1.230000
+    BBP.FOJP XVI.FOJP 0.720000   NVI.FOJP 0.720000
+    BBW.FOJP BBW...JP -1.000000   BFO.VOJP 1.000000
+    BBW.FOJP BFO.WTJP 0.870000   XSU.FOJP 0.435000
+    BBW.FOJP XVI.FOJP 0.870000   NVI.FOJP 0.870000
+    BBY.FOJP BBY...JP -1.000000   BFO.VOJP 1.000000
+    BBY.FOJP BFO.WTJP 0.870000   XSU.FOJP 1.305000
+    BBY.FOJP XVI.FOJP 0.870000   NVI.FOJP 0.870000
+    BHM.FOJP BHM...JP -1.000000   BFO.VOJP 1.000000
+    BHM.FOJP BFO.WTJP 0.820000   XSU.FOJP 0.246000
+    BHM.FOJP XVI.FOJP 0.720000   NVI.FOJP 0.720000
+    BHN.FOJP BHN...JP -1.000000   BFO.VOJP 1.000000
+    BHN.FOJP BFO.WTJP 0.820000   XSU.FOJP 1.066000
+    BHN.FOJP XVI.FOJP 0.720000   NVI.FOJP 0.720000
+    BIM.FOJP BIM...JP -1.000000   BFO.VOJP 1.000000
+    BIM.FOJP BFO.WTJP 0.941360   XSU.FOJP 0.178930
+    BIM.FOJP XVI.FOJP 1.262000   NVI.FOJP 1.262000
+    BMI.FOJP BMI...JP -1.000000   BFO.VOJP 1.000000
+    BMI.FOJP BFO.WTJP 0.889620   XSU.FOJP 0.118150
+    BMI.FOJP XVI.FOJP 1.056000   NVI.FOJP 1.056000
+    BRS.FOJP BRS...JP -1.000000   BFO.VOJP 1.000000
+    BRS.FOJP BFO.WTJP 0.916320   XSU.FOJP 0.151180
+    BRS.FOJP XVI.FOJP 1.023000   NVI.FOJP 1.023000
+    BSA.FOJP BSA...JP -1.000000   BFO.VOJP 1.000000
+    BSA.FOJP BFO.WTJP 0.963200   XSU.FOJP 0.597180
+    BSA.FOJP XVI.FOJP 1.145000   NVI.FOJP 1.145000
+    BSH.FOJP BSH...JP -1.000000   BFO.VOJP 1.000000
+    BSH.FOJP BFO.WTJP 0.979200   XSU.FOJP 0.802940
+    BSH.FOJP XVI.FOJP 1.145000   NVI.FOJP 1.145000
+    BSR.FOJP BSR...JP -1.000000   BFO.VOJP 1.000000
+    BSR.FOJP BFO.WTJP 1.006080   XSU.FOJP 0.420740
+    BSR.FOJP XVI.FOJP 1.400000   NVI.FOJP 1.400000
+    BSW.FOJP BSW...JP -1.000000   BFO.VOJP 1.000000
+    BSW.FOJP BFO.WTJP 0.972500   XSU.FOJP 0.836350
+    BSW.FOJP XVI.FOJP 1.145000   NVI.FOJP 1.145000
+    B1A.FOJP B1A...JP -1.000000   BFO.VOJP 1.000000
+    B1A.FOJP BFO.WTJP 0.932600   XSU.FOJP 0.792710
+    B1A.FOJP XVI.FOJP 1.118000   NVI.FOJP 1.118000
+    B1G.FOJP B1G...JP -1.000000   BFO.VOJP 1.000000
+    B1G.FOJP BFO.WTJP 0.953100   XSU.FOJP 0.695760
+    B1G.FOJP XVI.FOJP 1.200000   NVI.FOJP 1.200000
+    B1H.FOJP B1H...JP -1.000000   BFO.VOJP 1.000000
+    B1H.FOJP BFO.WTJP 0.949200   XSU.FOJP 1.195990
+    B1H.FOJP XVI.FOJP 1.244000   NVI.FOJP 1.244000
+    B1I.FOJP B1I...JP -1.000000   BFO.VOJP 1.000000
+    B1I.FOJP BFO.WTJP 0.939400   XSU.FOJP 0.666970
+    B1I.FOJP XVI.FOJP 1.139000   NVI.FOJP 1.139000
+    B1K.FOJP B1K...JP -1.000000   BFO.VOJP 1.000000
+    B1K.FOJP BFO.WTJP 0.940000   XSU.FOJP 1.081000
+    B1K.FOJP XVI.FOJP 1.138000   NVI.FOJP 1.138000
+    B1W.FOJP B1W...JP -1.000000   BFO.VOJP 1.000000
+    B1W.FOJP BFO.WTJP 0.937200   XSU.FOJP 1.124640
+    B1W.FOJP XVI.FOJP 1.174000   NVI.FOJP 1.174000
+    B2A.FOJP B2A...JP -1.000000   BFO.VOJP 1.000000
+    B2A.FOJP BFO.WTJP 0.921400   XSU.FOJP 0.313280
+    B2A.FOJP XVI.FOJP 1.078000   NVI.FOJP 1.078000
+    B2G.FOJP B2G...JP -1.000000   BFO.VOJP 1.000000
+    B2G.FOJP BFO.WTJP 0.942200   XSU.FOJP 0.282660
+    B2G.FOJP XVI.FOJP 1.152000   NVI.FOJP 1.152000
+    B2H.FOJP B2H...JP -1.000000   BFO.VOJP 1.000000
+    B2H.FOJP BFO.WTJP 0.933600   XSU.FOJP 0.494810
+    B2H.FOJP XVI.FOJP 1.188000   NVI.FOJP 1.188000
+    B2I.FOJP B2I...JP -1.000000   BFO.VOJP 1.000000
+    B2I.FOJP BFO.WTJP 0.929300   XSU.FOJP 0.269500
+    B2I.FOJP XVI.FOJP 1.090000   NVI.FOJP 1.090000
+    B2K.FOJP B2K...JP -1.000000   BFO.VOJP 1.000000
+    B2K.FOJP BFO.WTJP 0.926600   XSU.FOJP 0.435500
+    B2K.FOJP XVI.FOJP 1.092000   NVI.FOJP 1.092000
+    B2W.FOJP B2W...JP -1.000000   BFO.VOJP 1.000000
+    B2W.FOJP BFO.WTJP 0.922600   XSU.FOJP 0.461300
+    B2W.FOJP XVI.FOJP 1.122000   NVI.FOJP 1.122000
+    B6A.FOJP B6A...JP -1.000000   BFO.VOJP 1.000000
+    B6A.FOJP BFO.WTJP 1.108000   XSU.FOJP 0.675880
+    B6A.FOJP XVI.FOJP 1.113000   NVI.FOJP 1.113000
+    B6H.FOJP B6H...JP -1.000000   BFO.VOJP 1.000000
+    B6H.FOJP BFO.WTJP 1.108000   XSU.FOJP 0.565080
+    B6H.FOJP XVI.FOJP 1.113000   NVI.FOJP 1.113000
+    B6W.FOJP B6W...JP -1.000000   BFO.VOJP 1.000000
+    B6W.FOJP BFO.WTJP 1.108000   XSU.FOJP 0.709120
+    B6W.FOJP XVI.FOJP 1.113000   NVI.FOJP 1.113000
+    B9B.FOJP B9B...JP -1.000000   BFO.VOJP 1.000000
+    B9B.FOJP BFO.WTJP 1.086800   XSU.FOJP 0.434720
+    B9B.FOJP XVI.FOJP 1.228000   NVI.FOJP 1.228000
+    B9D.FOJP B9D...JP -1.000000   BFO.VOJP 1.000000
+    B9D.FOJP BFO.WTJP 1.080600   XSU.FOJP 0.432240
+    B9D.FOJP XVI.FOJP 1.221000   NVI.FOJP 1.221000
+    B9E.FOJP B9E...JP -1.000000   BFO.VOJP 1.000000
+    B9E.FOJP BFO.WTJP 1.012200   XSU.FOJP 0.415000
+    B9E.FOJP XVI.FOJP 1.152000   NVI.FOJP 1.152000
+    B9F.FOJP B9F...JP -1.000000   BFO.VOJP 1.000000
+    B9F.FOJP BFO.WTJP 0.923600   XSU.FOJP 0.240140
+    B9F.FOJP XVI.FOJP 1.169000   NVI.FOJP 1.169000
+    B9I.FOJP B9I...JP -1.000000   BFO.VOJP 1.000000
+    B9I.FOJP BFO.WTJP 1.140500   XSU.FOJP 0.547440
+    B9I.FOJP XVI.FOJP 1.275000   NVI.FOJP 1.275000
+    B9K.FOJP B9K...JP -1.000000   BFO.VOJP 1.000000
+    B9K.FOJP BFO.WTJP 1.132800   XSU.FOJP 0.566400
+    B9K.FOJP XVI.FOJP 1.281000   NVI.FOJP 1.281000
+    B9L.FOJP B9L...JP -1.000000   BFO.VOJP 1.000000
+    B9L.FOJP BFO.WTJP 1.034400   XSU.FOJP 0.475820
+    B9L.FOJP XVI.FOJP 1.212000   NVI.FOJP 1.212000
+    B9M.FOJP B9M...JP -1.000000   BFO.VOJP 1.000000
+    B9M.FOJP BFO.WTJP 0.944000   XSU.FOJP 0.368160
+    B9M.FOJP XVI.FOJP 1.188000   NVI.FOJP 1.188000
+    B9P.FOJP B9P...JP -1.000000   BFO.VOJP 1.000000
+    B9P.FOJP BFO.WTJP 1.119500   XSU.FOJP 0.369430
+    B9P.FOJP XVI.FOJP 1.070000   NVI.FOJP 1.070000
+    B9R.FOJP B9R...JP -1.000000   BFO.VOJP 1.000000
+    B9R.FOJP BFO.WTJP 1.114200   XSU.FOJP 0.367690
+    B9R.FOJP XVI.FOJP 1.060000   NVI.FOJP 1.060000
+    B9S.FOJP B9S...JP -1.000000   BFO.VOJP 1.000000
+    B9S.FOJP BFO.WTJP 1.072800   XSU.FOJP 0.354020
+    B9S.FOJP XVI.FOJP 1.035000   NVI.FOJP 1.035000
+    BAH.FQJP BAH...JP -1.000000   BFQ.VOJP 1.000000
+    BAH.FQJP BFQ.WTJP 0.989360   XSU.FQJP 4.444220
+    BAH.FQJP XVI.FQJP 1.246000   NVI.FQJP 1.246000
+    BAL.FQJP BAL...JP -1.000000   BFQ.VOJP 1.000000
+    BAL.FQJP BFQ.WTJP 0.958370   XSU.FQJP 3.064560
+    BAL.FQJP XVI.FQJP 1.144000   NVI.FQJP 1.144000
+    BAM.FQJP BAM...JP -1.000000   BFQ.VOJP 1.000000
+    BAM.FQJP BFQ.WTJP 0.969970   XSU.FQJP 3.855710
+    BAM.FQJP XVI.FQJP 1.161000   NVI.FQJP 1.161000
+    BAX.FQJP BAX...JP -1.000000   BFQ.VOJP 1.000000
+    BAX.FQJP BFQ.WTJP 0.930250   XSU.FQJP 1.991310
+    BAX.FQJP XVI.FQJP 1.081000   NVI.FQJP 1.081000
+    BBB.FQJP BBB...JP -1.000000   BFQ.VOJP 1.000000
+    BBB.FQJP BFQ.WTJP 0.893700   XSU.FQJP 0.178740
+    BBB.FQJP XVI.FQJP 0.977000   NVI.FQJP 0.977000
+    BBD.FQJP BBD...JP -1.000000   BFQ.VOJP 1.000000
+    BBD.FQJP BFQ.WTJP 0.893100   XSU.FQJP 0.178620
+    BBD.FQJP XVI.FQJP 0.990000   NVI.FQJP 0.990000
+    BBO.FQJP BBO...JP -1.000000   BFQ.VOJP 1.000000
+    BBO.FQJP BFQ.WTJP 0.820000   XSU.FQJP 0.246000
+    BBO.FQJP XVI.FQJP 0.720000   NVI.FQJP 0.720000
+    BBP.FQJP BBP...JP -1.000000   BFQ.VOJP 1.000000
+    BBP.FQJP BFQ.WTJP 0.820000   XSU.FQJP 1.230000
+    BBP.FQJP XVI.FQJP 0.720000   NVI.FQJP 0.720000
+    BBW.FQJP BBW...JP -1.000000   BFQ.VOJP 1.000000
+    BBW.FQJP BFQ.WTJP 0.870000   XSU.FQJP 0.435000
+    BBW.FQJP XVI.FQJP 0.870000   NVI.FQJP 0.870000
+    BBY.FQJP BBY...JP -1.000000   BFQ.VOJP 1.000000
+    BBY.FQJP BFQ.WTJP 0.870000   XSU.FQJP 1.305000
+    BBY.FQJP XVI.FQJP 0.870000   NVI.FQJP 0.870000
+    BHA.FQJP BHA...JP -1.000000   BFQ.VOJP 1.000000
+    BHA.FQJP BFQ.WTJP 1.051520   XSU.FQJP 6.325920
+    BHA.FQJP XVI.FQJP 1.460000   NVI.FQJP 1.460000
+    BHI.FQJP BHI...JP -1.000000   BFQ.VOJP 1.000000
+    BHI.FQJP BFQ.WTJP 1.035270   XSU.FQJP 3.560070
+    BHI.FQJP XVI.FQJP 1.460000   NVI.FQJP 1.460000
+    BHM.FQJP BHM...JP -1.000000   BFQ.VOJP 1.000000
+    BHM.FQJP BFQ.WTJP 0.820000   XSU.FQJP 0.246000
+    BHM.FQJP XVI.FQJP 0.720000   NVI.FQJP 0.720000
+    BHN.FQJP BHN...JP -1.000000   BFQ.VOJP 1.000000
+    BHN.FQJP BFQ.WTJP 0.820000   XSU.FQJP 1.066000
+    BHN.FQJP XVI.FQJP 0.720000   NVI.FQJP 0.720000
+    BIH.FQJP BIH...JP -1.000000   BFQ.VOJP 1.000000
+    BIH.FQJP BFQ.WTJP 0.971950   XSU.FQJP 2.489180
+    BIH.FQJP XVI.FQJP 1.206000   NVI.FQJP 1.206000
+    BIL.FQJP BIL...JP -1.000000   BFQ.VOJP 1.000000
+    BIL.FQJP BFQ.WTJP 0.955070   XSU.FQJP 2.400240
+    BIL.FQJP XVI.FQJP 1.149000   NVI.FQJP 1.149000
+    BIM.FQJP BIM...JP -1.000000   BFQ.VOJP 1.000000
+    BIM.FQJP BFQ.WTJP 0.941360   XSU.FQJP 0.178930
+    BIM.FQJP XVI.FQJP 1.262000   NVI.FQJP 1.262000
+    BKA.FQJP BKA...JP -1.000000   BFQ.VOJP 1.000000
+    BKA.FQJP BFQ.WTJP 0.961630   XSU.FQJP 3.349490
+    BKA.FQJP XVI.FQJP 1.162000   NVI.FQJP 1.162000
+    BKU.FQJP BKU...JP -1.000000   BFQ.VOJP 1.000000
+    BKU.FQJP BFQ.WTJP 0.973400   XSU.FQJP 4.132130
+    BKU.FQJP XVI.FQJP 1.190000   NVI.FQJP 1.190000
+    BLA.FQJP BLA...JP -1.000000   BFQ.VOJP 1.000000
+    BLA.FQJP BFQ.WTJP 1.021730   XSU.FQJP 4.444390
+    BLA.FQJP XVI.FQJP 1.381000   NVI.FQJP 1.381000
+    BLI.FQJP BLI...JP -1.000000   BFQ.VOJP 1.000000
+    BLI.FQJP BFQ.WTJP 1.028430   XSU.FQJP 3.784260
+    BLI.FQJP XVI.FQJP 1.434000   NVI.FQJP 1.434000
+    BMA.FQJP BMA...JP -1.000000   BFQ.VOJP 1.000000
+    BMA.FQJP BFQ.WTJP 1.036740   XSU.FQJP 5.561150
+    BMA.FQJP XVI.FQJP 1.405000   NVI.FQJP 1.405000
+    BMI.FQJP BMI...JP -1.000000   BFQ.VOJP 1.000000
+    BMI.FQJP BFQ.WTJP 0.889620   XSU.FQJP 0.118150
+    BMI.FQJP XVI.FQJP 1.056000   NVI.FQJP 1.056000
+    BMN.FQJP BMN...JP -1.000000   BFQ.VOJP 1.000000
+    BMN.FQJP BFQ.WTJP 0.944950   XSU.FQJP 1.778980
+    BMN.FQJP XVI.FQJP 1.152000   NVI.FQJP 1.152000
+    BMO.FQJP BMO...JP -1.000000   BFQ.VOJP 1.000000
+    BMO.FQJP BFQ.WTJP 1.000830   XSU.FQJP 2.555180
+    BMO.FQJP XVI.FQJP 1.384000   NVI.FQJP 1.384000
+    BMU.FQJP BMU...JP -1.000000   BFQ.VOJP 1.000000
+    BMU.FQJP BFQ.WTJP 0.922450   XSU.FQJP 1.622720
+    BMU.FQJP XVI.FQJP 1.067000   NVI.FQJP 1.067000
+    BQA.FQJP BQA...JP -1.000000   BFQ.VOJP 1.000000
+    BQA.FQJP BFQ.WTJP 0.997000   XSU.FQJP 4.147520
+    BQA.FQJP XVI.FQJP 1.175000   NVI.FQJP 1.175000
+    BQH.FQJP BQH...JP -1.000000   BFQ.VOJP 1.000000
+    BQH.FQJP BFQ.WTJP 1.014000   XSU.FQJP 5.536440
+    BQH.FQJP XVI.FQJP 1.175000   NVI.FQJP 1.175000
+    BQT.FQJP BQT...JP -1.000000   BFQ.VOJP 1.000000
+    BQT.FQJP BFQ.WTJP 0.933200   XSU.FQJP 2.347740
+    BQT.FQJP XVI.FQJP 1.090000   NVI.FQJP 1.090000
+    BQW.FQJP BQW...JP -1.000000   BFQ.VOJP 1.000000
+    BQW.FQJP BFQ.WTJP 1.007000   XSU.FQJP 5.810390
+    BQW.FQJP XVI.FQJP 1.175000   NVI.FQJP 1.175000
+    BRS.FQJP BRS...JP -1.000000   BFQ.VOJP 1.000000
+    BRS.FQJP BFQ.WTJP 0.916320   XSU.FQJP 0.151180
+    BRS.FQJP XVI.FQJP 1.023000   NVI.FQJP 1.023000
+    BSA.FQJP BSA...JP -1.000000   BFQ.VOJP 1.000000
+    BSA.FQJP BFQ.WTJP 0.963200   XSU.FQJP 0.597180
+    BSA.FQJP XVI.FQJP 1.145000   NVI.FQJP 1.145000
+    BSH.FQJP BSH...JP -1.000000   BFQ.VOJP 1.000000
+    BSH.FQJP BFQ.WTJP 0.979200   XSU.FQJP 0.802940
+    BSH.FQJP XVI.FQJP 1.145000   NVI.FQJP 1.145000
+    BSR.FQJP BSR...JP -1.000000   BFQ.VOJP 1.000000
+    BSR.FQJP BFQ.WTJP 1.006080   XSU.FQJP 0.420740
+    BSR.FQJP XVI.FQJP 1.400000   NVI.FQJP 1.400000
+    BSW.FQJP BSW...JP -1.000000   BFQ.VOJP 1.000000
+    BSW.FQJP BFQ.WTJP 0.972500   XSU.FQJP 0.836350
+    BSW.FQJP XVI.FQJP 1.145000   NVI.FQJP 1.145000
+    BTQ.FQJP BTQ...JP -1.000000   BFQ.VOJP 1.000000
+    BTQ.FQJP BFQ.WTJP 0.999180   XSU.FQJP 3.936200
+    BTQ.FQJP XVI.FQJP 1.395000   NVI.FQJP 1.395000
+    BUK.FQJP BUK...JP -1.000000   BFQ.VOJP 1.000000
+    BUK.FQJP BFQ.WTJP 1.037550   XSU.FQJP 5.791860
+    BUK.FQJP XVI.FQJP 1.440000   NVI.FQJP 1.440000
+    BUM.FQJP BUM...JP -1.000000   BFQ.VOJP 1.000000
+    BUM.FQJP BFQ.WTJP 0.989990   XSU.FQJP 2.897960
+    BUM.FQJP XVI.FQJP 1.344000   NVI.FQJP 1.344000
+    BXA.FQJP BXA...JP -1.000000   BFQ.VOJP 1.000000
+    BXA.FQJP BFQ.WTJP 0.991990   XSU.FQJP 2.861130
+    BXA.FQJP XVI.FQJP 1.300000   NVI.FQJP 1.300000
+    B1A.FQJP B1A...JP -1.000000   BFQ.VOJP 1.000000
+    B1A.FQJP BFQ.WTJP 0.932600   XSU.FQJP 0.792710
+    B1A.FQJP XVI.FQJP 1.118000   NVI.FQJP 1.118000
+    B1G.FQJP B1G...JP -1.000000   BFQ.VOJP 1.000000
+    B1G.FQJP BFQ.WTJP 0.953100   XSU.FQJP 0.695760
+    B1G.FQJP XVI.FQJP 1.200000   NVI.FQJP 1.200000
+    B1H.FQJP B1H...JP -1.000000   BFQ.VOJP 1.000000
+    B1H.FQJP BFQ.WTJP 0.949200   XSU.FQJP 1.195990
+    B1H.FQJP XVI.FQJP 1.244000   NVI.FQJP 1.244000
+    B1I.FQJP B1I...JP -1.000000   BFQ.VOJP 1.000000
+    B1I.FQJP BFQ.WTJP 0.939400   XSU.FQJP 0.666970
+    B1I.FQJP XVI.FQJP 1.139000   NVI.FQJP 1.139000
+    B1K.FQJP B1K...JP -1.000000   BFQ.VOJP 1.000000
+    B1K.FQJP BFQ.WTJP 0.940000   XSU.FQJP 1.081000
+    B1K.FQJP XVI.FQJP 1.138000   NVI.FQJP 1.138000
+    B1W.FQJP B1W...JP -1.000000   BFQ.VOJP 1.000000
+    B1W.FQJP BFQ.WTJP 0.937200   XSU.FQJP 1.124640
+    B1W.FQJP XVI.FQJP 1.174000   NVI.FQJP 1.174000
+    B2A.FQJP B2A...JP -1.000000   BFQ.VOJP 1.000000
+    B2A.FQJP BFQ.WTJP 0.921400   XSU.FQJP 0.313280
+    B2A.FQJP XVI.FQJP 1.078000   NVI.FQJP 1.078000
+    B2G.FQJP B2G...JP -1.000000   BFQ.VOJP 1.000000
+    B2G.FQJP BFQ.WTJP 0.942200   XSU.FQJP 0.282660
+    B2G.FQJP XVI.FQJP 1.152000   NVI.FQJP 1.152000
+    B2H.FQJP B2H...JP -1.000000   BFQ.VOJP 1.000000
+    B2H.FQJP BFQ.WTJP 0.933600   XSU.FQJP 0.494810
+    B2H.FQJP XVI.FQJP 1.188000   NVI.FQJP 1.188000
+    B2I.FQJP B2I...JP -1.000000   BFQ.VOJP 1.000000
+    B2I.FQJP BFQ.WTJP 0.929300   XSU.FQJP 0.269500
+    B2I.FQJP XVI.FQJP 1.090000   NVI.FQJP 1.090000
+    B2K.FQJP B2K...JP -1.000000   BFQ.VOJP 1.000000
+    B2K.FQJP BFQ.WTJP 0.926600   XSU.FQJP 0.435500
+    B2K.FQJP XVI.FQJP 1.092000   NVI.FQJP 1.092000
+    B2W.FQJP B2W...JP -1.000000   BFQ.VOJP 1.000000
+    B2W.FQJP BFQ.WTJP 0.922600   XSU.FQJP 0.461300
+    B2W.FQJP XVI.FQJP 1.122000   NVI.FQJP 1.122000
+    B6A.FQJP B6A...JP -1.000000   BFQ.VOJP 1.000000
+    B6A.FQJP BFQ.WTJP 1.108000   XSU.FQJP 0.675880
+    B6A.FQJP XVI.FQJP 1.113000   NVI.FQJP 1.113000
+    B6H.FQJP B6H...JP -1.000000   BFQ.VOJP 1.000000
+    B6H.FQJP BFQ.WTJP 1.108000   XSU.FQJP 0.565080
+    B6H.FQJP XVI.FQJP 1.113000   NVI.FQJP 1.113000
+    B6W.FQJP B6W...JP -1.000000   BFQ.VOJP 1.000000
+    B6W.FQJP BFQ.WTJP 1.108000   XSU.FQJP 0.709120
+    B6W.FQJP XVI.FQJP 1.113000   NVI.FQJP 1.113000
+    B8A.FQJP B8A...JP -1.000000   BFQ.VOJP 1.000000
+    B8A.FQJP BFQ.WTJP 1.107000   XSU.FQJP 7.859700
+    B8A.FQJP XVI.FQJP 1.113000   NVI.FQJP 1.113000
+    B8H.FQJP B8H...JP -1.000000   BFQ.VOJP 1.000000
+    B8H.FQJP BFQ.WTJP 1.107000   XSU.FQJP 6.475950
+    B8H.FQJP XVI.FQJP 1.113000   NVI.FQJP 1.113000
+    B8W.FQJP B8W...JP -1.000000   BFQ.VOJP 1.000000
+    B8W.FQJP BFQ.WTJP 1.107000   XSU.FQJP 8.202870
+    B8W.FQJP XVI.FQJP 1.113000   NVI.FQJP 1.113000
+    B9A.FQJP B9A...JP -1.000000   BFQ.VOJP 1.000000
+    B9A.FQJP BFQ.WTJP 1.086800   XSU.FQJP 6.520800
+    B9A.FQJP XVI.FQJP 1.228000   NVI.FQJP 1.228000
+    B9B.FQJP B9B...JP -1.000000   BFQ.VOJP 1.000000
+    B9B.FQJP BFQ.WTJP 1.086800   XSU.FQJP 0.434720
+    B9B.FQJP XVI.FQJP 1.228000   NVI.FQJP 1.228000
+    B9C.FQJP B9C...JP -1.000000   BFQ.VOJP 1.000000
+    B9C.FQJP BFQ.WTJP 1.080600   XSU.FQJP 3.241800
+    B9C.FQJP XVI.FQJP 1.221000   NVI.FQJP 1.221000
+    B9D.FQJP B9D...JP -1.000000   BFQ.VOJP 1.000000
+    B9D.FQJP BFQ.WTJP 1.080600   XSU.FQJP 0.432240
+    B9D.FQJP XVI.FQJP 1.221000   NVI.FQJP 1.221000
+    B9E.FQJP B9E...JP -1.000000   BFQ.VOJP 1.000000
+    B9E.FQJP BFQ.WTJP 1.012200   XSU.FQJP 0.415000
+    B9E.FQJP XVI.FQJP 1.152000   NVI.FQJP 1.152000
+    B9F.FQJP B9F...JP -1.000000   BFQ.VOJP 1.000000
+    B9F.FQJP BFQ.WTJP 0.923600   XSU.FQJP 0.240140
+    B9F.FQJP XVI.FQJP 1.169000   NVI.FQJP 1.169000
+    B9G.FQJP B9G...JP -1.000000   BFQ.VOJP 1.000000
+    B9G.FQJP BFQ.WTJP 0.979200   XSU.FQJP 3.427200
+    B9G.FQJP XVI.FQJP 1.230000   NVI.FQJP 1.230000
+    B9H.FQJP B9H...JP -1.000000   BFQ.VOJP 1.000000
+    B9H.FQJP BFQ.WTJP 1.140500   XSU.FQJP 7.869450
+    B9H.FQJP XVI.FQJP 1.275000   NVI.FQJP 1.275000
+    B9I.FQJP B9I...JP -1.000000   BFQ.VOJP 1.000000
+    B9I.FQJP BFQ.WTJP 1.140500   XSU.FQJP 0.547440
+    B9I.FQJP XVI.FQJP 1.275000   NVI.FQJP 1.275000
+    B9J.FQJP B9J...JP -1.000000   BFQ.VOJP 1.000000
+    B9J.FQJP BFQ.WTJP 1.132800   XSU.FQJP 3.964800
+    B9J.FQJP XVI.FQJP 1.281000   NVI.FQJP 1.281000
+    B9K.FQJP B9K...JP -1.000000   BFQ.VOJP 1.000000
+    B9K.FQJP BFQ.WTJP 1.132800   XSU.FQJP 0.566400
+    B9K.FQJP XVI.FQJP 1.281000   NVI.FQJP 1.281000
+    B9L.FQJP B9L...JP -1.000000   BFQ.VOJP 1.000000
+    B9L.FQJP BFQ.WTJP 1.034400   XSU.FQJP 0.475820
+    B9L.FQJP XVI.FQJP 1.212000   NVI.FQJP 1.212000
+    B9M.FQJP B9M...JP -1.000000   BFQ.VOJP 1.000000
+    B9M.FQJP BFQ.WTJP 0.944000   XSU.FQJP 0.368160
+    B9M.FQJP XVI.FQJP 1.188000   NVI.FQJP 1.188000
+    B9N.FQJP B9N...JP -1.000000   BFQ.VOJP 1.000000
+    B9N.FQJP BFQ.WTJP 1.031300   XSU.FQJP 5.259630
+    B9N.FQJP XVI.FQJP 1.276000   NVI.FQJP 1.276000
+    B9O.FQJP B9O...JP -1.000000   BFQ.VOJP 1.000000
+    B9O.FQJP BFQ.WTJP 1.119500   XSU.FQJP 5.463160
+    B9O.FQJP XVI.FQJP 1.070000   NVI.FQJP 1.070000
+    B9P.FQJP B9P...JP -1.000000   BFQ.VOJP 1.000000
+    B9P.FQJP BFQ.WTJP 1.119500   XSU.FQJP 0.369430
+    B9P.FQJP XVI.FQJP 1.070000   NVI.FQJP 1.070000
+    B9Q.FQJP B9Q...JP -1.000000   BFQ.VOJP 1.000000
+    B9Q.FQJP BFQ.WTJP 1.114200   XSU.FQJP 2.629510
+    B9Q.FQJP XVI.FQJP 1.060000   NVI.FQJP 1.060000
+    B9R.FQJP B9R...JP -1.000000   BFQ.VOJP 1.000000
+    B9R.FQJP BFQ.WTJP 1.114200   XSU.FQJP 0.367690
+    B9R.FQJP XVI.FQJP 1.060000   NVI.FQJP 1.060000
+    B9S.FQJP B9S...JP -1.000000   BFQ.VOJP 1.000000
+    B9S.FQJP BFQ.WTJP 1.072800   XSU.FQJP 0.354020
+    B9S.FQJP XVI.FQJP 1.035000   NVI.FQJP 1.035000
+    BAH.FYJP BAH...JP -1.000000   BFY.VOJP 1.000000
+    BAH.FYJP BFY.WTJP 0.989360   XSU.FYJP 4.444220
+    BAH.FYJP XVI.FYJP 1.246000   NVI.FYJP 1.246000
+    BAL.FYJP BAL...JP -1.000000   BFY.VOJP 1.000000
+    BAL.FYJP BFY.WTJP 0.958370   XSU.FYJP 3.064560
+    BAL.FYJP XVI.FYJP 1.144000   NVI.FYJP 1.144000
+    BAM.FYJP BAM...JP -1.000000   BFY.VOJP 1.000000
+    BAM.FYJP BFY.WTJP 0.969970   XSU.FYJP 3.855710
+    BAM.FYJP XVI.FYJP 1.161000   NVI.FYJP 1.161000
+    BAX.FYJP BAX...JP -1.000000   BFY.VOJP 1.000000
+    BAX.FYJP BFY.WTJP 0.930250   XSU.FYJP 1.991310
+    BAX.FYJP XVI.FYJP 1.081000   NVI.FYJP 1.081000
+    BBO.FYJP BBO...JP -1.000000   BFY.VOJP 1.000000
+    BBO.FYJP BFY.WTJP 0.820000   XSU.FYJP 0.246000
+    BBO.FYJP XVI.FYJP 0.720000   NVI.FYJP 0.720000
+    BBP.FYJP BBP...JP -1.000000   BFY.VOJP 1.000000
+    BBP.FYJP BFY.WTJP 0.820000   XSU.FYJP 1.230000
+    BBP.FYJP XVI.FYJP 0.720000   NVI.FYJP 0.720000
+    BBW.FYJP BBW...JP -1.000000   BFY.VOJP 1.000000
+    BBW.FYJP BFY.WTJP 0.870000   XSU.FYJP 0.435000
+    BBW.FYJP XVI.FYJP 0.870000   NVI.FYJP 0.870000
+    BBY.FYJP BBY...JP -1.000000   BFY.VOJP 1.000000
+    BBY.FYJP BFY.WTJP 0.870000   XSU.FYJP 1.305000
+    BBY.FYJP XVI.FYJP 0.870000   NVI.FYJP 0.870000
+    BEO.FYJP BEO...JP -1.000000   BFY.VOJP 1.000000
+    BEO.FYJP BFY.WTJP 1.008600   XSU.FYJP 5.627990
+    BEO.FYJP XVI.FYJP 1.284000   NVI.FYJP 1.284000
+    BHA.FYJP BHA...JP -1.000000   BFY.VOJP 1.000000
+    BHA.FYJP BFY.WTJP 1.051520   XSU.FYJP 6.325920
+    BHA.FYJP XVI.FYJP 1.460000   NVI.FYJP 1.460000
+    BHI.FYJP BHI...JP -1.000000   BFY.VOJP 1.000000
+    BHI.FYJP BFY.WTJP 1.035270   XSU.FYJP 3.560070
+    BHI.FYJP XVI.FYJP 1.460000   NVI.FYJP 1.460000
+    BHM.FYJP BHM...JP -1.000000   BFY.VOJP 1.000000
+    BHM.FYJP BFY.WTJP 0.820000   XSU.FYJP 0.246000
+    BHM.FYJP XVI.FYJP 0.720000   NVI.FYJP 0.720000
+    BHN.FYJP BHN...JP -1.000000   BFY.VOJP 1.000000
+    BHN.FYJP BFY.WTJP 0.820000   XSU.FYJP 1.066000
+    BHN.FYJP XVI.FYJP 0.720000   NVI.FYJP 0.720000
+    BIH.FYJP BIH...JP -1.000000   BFY.VOJP 1.000000
+    BIH.FYJP BFY.WTJP 0.971950   XSU.FYJP 2.489180
+    BIH.FYJP XVI.FYJP 1.206000   NVI.FYJP 1.206000
+    BIL.FYJP BIL...JP -1.000000   BFY.VOJP 1.000000
+    BIL.FYJP BFY.WTJP 0.955070   XSU.FYJP 2.400240
+    BIL.FYJP XVI.FYJP 1.149000   NVI.FYJP 1.149000
+    BIR.FYJP BIR...JP -1.000000   BFY.VOJP 1.000000
+    BIR.FYJP BFY.WTJP 0.967590   XSU.FYJP 4.163000
+    BIR.FYJP XVI.FYJP 1.165000   NVI.FYJP 1.165000
+    BKA.FYJP BKA...JP -1.000000   BFY.VOJP 1.000000
+    BKA.FYJP BFY.WTJP 0.961630   XSU.FYJP 3.349490
+    BKA.FYJP XVI.FYJP 1.162000   NVI.FYJP 1.162000
+    BKU.FYJP BKU...JP -1.000000   BFY.VOJP 1.000000
+    BKU.FYJP BFY.WTJP 0.973400   XSU.FYJP 4.132130
+    BKU.FYJP XVI.FYJP 1.190000   NVI.FYJP 1.190000
+    BLA.FYJP BLA...JP -1.000000   BFY.VOJP 1.000000
+    BLA.FYJP BFY.WTJP 1.021730   XSU.FYJP 4.444390
+    BLA.FYJP XVI.FYJP 1.381000   NVI.FYJP 1.381000
+    BLI.FYJP BLI...JP -1.000000   BFY.VOJP 1.000000
+    BLI.FYJP BFY.WTJP 1.028430   XSU.FYJP 3.784260
+    BLI.FYJP XVI.FYJP 1.434000   NVI.FYJP 1.434000
+    BMA.FYJP BMA...JP -1.000000   BFY.VOJP 1.000000
+    BMA.FYJP BFY.WTJP 1.036740   XSU.FYJP 5.561150
+    BMA.FYJP XVI.FYJP 1.405000   NVI.FYJP 1.405000
+    BMN.FYJP BMN...JP -1.000000   BFY.VOJP 1.000000
+    BMN.FYJP BFY.WTJP 0.944950   XSU.FYJP 1.778980
+    BMN.FYJP XVI.FYJP 1.152000   NVI.FYJP 1.152000
+    BMO.FYJP BMO...JP -1.000000   BFY.VOJP 1.000000
+    BMO.FYJP BFY.WTJP 1.000830   XSU.FYJP 2.555180
+    BMO.FYJP XVI.FYJP 1.384000   NVI.FYJP 1.384000
+    BMU.FYJP BMU...JP -1.000000   BFY.VOJP 1.000000
+    BMU.FYJP BFY.WTJP 0.922450   XSU.FYJP 1.622720
+    BMU.FYJP XVI.FYJP 1.067000   NVI.FYJP 1.067000
+    BQA.FYJP BQA...JP -1.000000   BFY.VOJP 1.000000
+    BQA.FYJP BFY.WTJP 0.997000   XSU.FYJP 4.147520
+    BQA.FYJP XVI.FYJP 1.175000   NVI.FYJP 1.175000
+    BQH.FYJP BQH...JP -1.000000   BFY.VOJP 1.000000
+    BQH.FYJP BFY.WTJP 1.014000   XSU.FYJP 5.536440
+    BQH.FYJP XVI.FYJP 1.175000   NVI.FYJP 1.175000
+    BQT.FYJP BQT...JP -1.000000   BFY.VOJP 1.000000
+    BQT.FYJP BFY.WTJP 0.933200   XSU.FYJP 2.347740
+    BQT.FYJP XVI.FYJP 1.090000   NVI.FYJP 1.090000
+    BQW.FYJP BQW...JP -1.000000   BFY.VOJP 1.000000
+    BQW.FYJP BFY.WTJP 1.007000   XSU.FYJP 5.810390
+    BQW.FYJP XVI.FYJP 1.175000   NVI.FYJP 1.175000
+    BRI.FYJP BRI...JP -1.000000   BFY.VOJP 1.000000
+    BRI.FYJP BFY.WTJP 1.031500   XSU.FYJP 6.043990
+    BRI.FYJP XVI.FYJP 1.420000   NVI.FYJP 1.420000
+    BTQ.FYJP BTQ...JP -1.000000   BFY.VOJP 1.000000
+    BTQ.FYJP BFY.WTJP 0.999180   XSU.FYJP 3.936200
+    BTQ.FYJP XVI.FYJP 1.395000   NVI.FYJP 1.395000
+    BUK.FYJP BUK...JP -1.000000   BFY.VOJP 1.000000
+    BUK.FYJP BFY.WTJP 1.037550   XSU.FYJP 5.791860
+    BUK.FYJP XVI.FYJP 1.440000   NVI.FYJP 1.440000
+    BUM.FYJP BUM...JP -1.000000   BFY.VOJP 1.000000
+    BUM.FYJP BFY.WTJP 0.989990   XSU.FYJP 2.897960
+    BUM.FYJP XVI.FYJP 1.344000   NVI.FYJP 1.344000
+    BXA.FYJP BXA...JP -1.000000   BFY.VOJP 1.000000
+    BXA.FYJP BFY.WTJP 0.991990   XSU.FYJP 2.861130
+    BXA.FYJP XVI.FYJP 1.300000   NVI.FYJP 1.300000
+    BZN.FYJP BZN...JP -1.000000   BFY.VOJP 1.000000
+    BZN.FYJP BFY.WTJP 1.061500   XSU.FYJP 6.899750
+    BZN.FYJP XVI.FYJP 1.460000   NVI.FYJP 1.460000
+    B8A.FYJP B8A...JP -1.000000   BFY.VOJP 1.000000
+    B8A.FYJP BFY.WTJP 1.107000   XSU.FYJP 7.859700
+    B8A.FYJP XVI.FYJP 1.113000   NVI.FYJP 1.113000
+    B8H.FYJP B8H...JP -1.000000   BFY.VOJP 1.000000
+    B8H.FYJP BFY.WTJP 1.107000   XSU.FYJP 6.475950
+    B8H.FYJP XVI.FYJP 1.113000   NVI.FYJP 1.113000
+    B8W.FYJP B8W...JP -1.000000   BFY.VOJP 1.000000
+    B8W.FYJP BFY.WTJP 1.107000   XSU.FYJP 8.202870
+    B8W.FYJP XVI.FYJP 1.113000   NVI.FYJP 1.113000
+    B9A.FYJP B9A...JP -1.000000   BFY.VOJP 1.000000
+    B9A.FYJP BFY.WTJP 1.086800   XSU.FYJP 6.520800
+    B9A.FYJP XVI.FYJP 1.228000   NVI.FYJP 1.228000
+    B9C.FYJP B9C...JP -1.000000   BFY.VOJP 1.000000
+    B9C.FYJP BFY.WTJP 1.080600   XSU.FYJP 3.241800
+    B9C.FYJP XVI.FYJP 1.221000   NVI.FYJP 1.221000
+    B9G.FYJP B9G...JP -1.000000   BFY.VOJP 1.000000
+    B9G.FYJP BFY.WTJP 0.979200   XSU.FYJP 3.427200
+    B9G.FYJP XVI.FYJP 1.230000   NVI.FYJP 1.230000
+    B9H.FYJP B9H...JP -1.000000   BFY.VOJP 1.000000
+    B9H.FYJP BFY.WTJP 1.140500   XSU.FYJP 7.869450
+    B9H.FYJP XVI.FYJP 1.275000   NVI.FYJP 1.275000
+    B9J.FYJP B9J...JP -1.000000   BFY.VOJP 1.000000
+    B9J.FYJP BFY.WTJP 1.132800   XSU.FYJP 3.964800
+    B9J.FYJP XVI.FYJP 1.281000   NVI.FYJP 1.281000
+    B9N.FYJP B9N...JP -1.000000   BFY.VOJP 1.000000
+    B9N.FYJP BFY.WTJP 1.031300   XSU.FYJP 5.259630
+    B9N.FYJP XVI.FYJP 1.276000   NVI.FYJP 1.276000
+    B9O.FYJP B9O...JP -1.000000   BFY.VOJP 1.000000
+    B9O.FYJP BFY.WTJP 1.119500   XSU.FYJP 5.463160
+    B9O.FYJP XVI.FYJP 1.070000   NVI.FYJP 1.070000
+    B9Q.FYJP B9Q...JP -1.000000   BFY.VOJP 1.000000
+    B9Q.FYJP BFY.WTJP 1.114200   XSU.FYJP 2.629510
+    B9Q.FYJP XVI.FYJP 1.060000   NVI.FYJP 1.060000
+    B/A.GPJP B/A...JP -1.000000   BGP.VOJP 1.000000
+    B/A.GPJP NRN.GPJP 0.639000   ND2.GPJP 0.281000
+    B/A.GPJP WVP.GPJP 0.380000   WD8.GPJP 0.085000
+    BIP.GPJP BIP...JP -1.000000   BGP.VOJP 1.000000
+    BIP.GPJP NRN.GPJP 0.486000   ND2.GPJP 0.137000
+    BIP.GPJP WVP.GPJP 0.110000   WD8.GPJP -0.016000
+    BLN.GPJP BLN...JP -1.000000   BGP.VOJP 1.000000
+    BLN.GPJP NRN.GPJP 0.555000   ND2.GPJP 1.080000
+    BLN.GPJP WVP.GPJP 1.040000   WD8.GPJP 0.580000
+    BN4.GPJP BN4...JP -1.000000   BGP.VOJP 1.000000
+    BN4.GPJP NRN.GPJP 0.668000   ND2.GPJP 1.000000
+    BN4.GPJP WVP.GPJP 6.500000   WD8.GPJP 1.040000
+    B4A.GPJP B4A...JP -1.000000   BGP.VOJP 1.000000
+    B4A.GPJP NRN.GPJP 0.643200   ND2.GPJP 0.486000
+    B4A.GPJP WVP.GPJP 0.700000   WD8.GPJP 0.187000
+    B4C.GPJP B4C...JP -1.000000   BGP.VOJP 1.000000
+    B4C.GPJP NRN.GPJP 0.645700   ND2.GPJP 0.551000
+    B4C.GPJP WVP.GPJP 0.790000   WD8.GPJP 0.235000
+    B4E.GPJP B4E...JP -1.000000   BGP.VOJP 1.000000
+    B4E.GPJP NRN.GPJP 0.645200   ND2.GPJP 0.569000
+    B4E.GPJP WVP.GPJP 0.780000   WD8.GPJP 0.226000
+    B4F.GPJP B4F...JP -1.000000   BGP.VOJP 1.000000
+    B4F.GPJP NRN.GPJP 0.644800   ND2.GPJP 0.527000
+    B4F.GPJP WVP.GPJP 0.760000   WD8.GPJP 0.217000
+    B4H.GPJP B4H...JP -1.000000   BGP.VOJP 1.000000
+    B4H.GPJP NRN.GPJP 0.647500   ND2.GPJP 0.600000
+    B4H.GPJP WVP.GPJP 0.860000   WD8.GPJP 0.271000
+    B4J.GPJP B4J...JP -1.000000   BGP.VOJP 1.000000
+    B4J.GPJP NRN.GPJP 0.640600   ND2.GPJP 0.682000
+    B4J.GPJP WVP.GPJP 0.980000   WD8.GPJP 0.331000
+    B4L.GPJP B4L...JP -1.000000   BGP.VOJP 1.000000
+    B4L.GPJP NRN.GPJP 0.649500   ND2.GPJP 0.654000
+    B4L.GPJP WVP.GPJP 0.940000   WD8.GPJP 0.311000
+    B4M.GPJP B4M...JP -1.000000   BGP.VOJP 1.000000
+    B4M.GPJP NRN.GPJP 0.648900   ND2.GPJP 0.638000
+    B4M.GPJP WVP.GPJP 0.920000   WD8.GPJP 0.299000
+    B4O.GPJP B4O...JP -1.000000   BGP.VOJP 1.000000
+    B4O.GPJP NRN.GPJP 0.650000   ND2.GPJP 0.462000
+    B4O.GPJP WVP.GPJP 0.580000   WD8.GPJP 0.222000
+    B4Q.GPJP B4Q...JP -1.000000   BGP.VOJP 1.000000
+    B4Q.GPJP NRN.GPJP 0.650000   ND2.GPJP 0.464000
+    B4Q.GPJP WVP.GPJP 0.580000   WD8.GPJP 0.224000
+    B4S.GPJP B4S...JP -1.000000   BGP.VOJP 1.000000
+    B4S.GPJP NRN.GPJP 0.648000   ND2.GPJP 0.489000
+    B4S.GPJP WVP.GPJP 0.600000   WD8.GPJP 0.253000
+    B5A.GPJP B5A...JP -1.000000   BGP.VOJP 1.000000
+    B5A.GPJP NRN.GPJP 0.668000   ND2.GPJP 0.239000
+    B5A.GPJP WVP.GPJP 0.230000   WD8.GPJP -0.040000
+    B5B.GPJP B5B...JP -1.000000   BGP.VOJP 1.000000
+    B5B.GPJP NRN.GPJP 0.672000   ND2.GPJP 0.334000
+    B5B.GPJP WVP.GPJP 0.370000   WD8.GPJP 0.049000
+    B5C.GPJP B5C...JP -1.000000   BGP.VOJP 1.000000
+    B5C.GPJP NRN.GPJP 0.667000   ND2.GPJP 0.191000
+    B5C.GPJP WVP.GPJP 0.220000   WD8.GPJP -0.049000
+    B5D.GPJP B5D...JP -1.000000   BGP.VOJP 1.000000
+    B5D.GPJP NRN.GPJP 0.671000   ND2.GPJP 0.286000
+    B5D.GPJP WVP.GPJP 0.360000   WD8.GPJP 0.040000
+    B5E.GPJP B5E...JP -1.000000   BGP.VOJP 1.000000
+    B5E.GPJP NRN.GPJP 0.701000   ND2.GPJP 0.241000
+    B5E.GPJP WVP.GPJP 0.250000   WD8.GPJP -0.024000
+    B5F.GPJP B5F...JP -1.000000   BGP.VOJP 1.000000
+    B5F.GPJP NRN.GPJP 0.705000   ND2.GPJP 0.336000
+    B5F.GPJP WVP.GPJP 0.390000   WD8.GPJP 0.065000
+    B5G.GPJP B5G...JP -1.000000   BGP.VOJP 1.000000
+    B5G.GPJP NRN.GPJP 0.700000   ND2.GPJP 0.193000
+    B5G.GPJP WVP.GPJP 0.240000   WD8.GPJP -0.033000
+    B5H.GPJP B5H...JP -1.000000   BGP.VOJP 1.000000
+    B5H.GPJP NRN.GPJP 0.704000   ND2.GPJP 0.288000
+    B5H.GPJP WVP.GPJP 0.380000   WD8.GPJP 0.056000
+    B5M.GPJP B5M...JP -1.000000   BGP.VOJP 1.000000
+    B5M.GPJP NRN.GPJP 0.729000   ND2.GPJP 0.200000
+    B5M.GPJP WVP.GPJP 0.250000   WD8.GPJP -0.015000
+    B5N.GPJP B5N...JP -1.000000   BGP.VOJP 1.000000
+    B5N.GPJP NRN.GPJP 0.729000   ND2.GPJP 0.147000
+    B5N.GPJP WVP.GPJP 0.240000   WD8.GPJP -0.028000
+    B5O.GPJP B5O...JP -1.000000   BGP.VOJP 1.000000
+    B5O.GPJP NRN.GPJP 0.731000   ND2.GPJP 0.253000
+    B5O.GPJP WVP.GPJP 0.360000   WD8.GPJP 0.050000
+    B5P.GPJP B5P...JP -1.000000   BGP.VOJP 1.000000
+    B5P.GPJP NRN.GPJP 0.731000   ND2.GPJP 0.200000
+    B5P.GPJP WVP.GPJP 0.350000   WD8.GPJP 0.037000
+    B5U.GPJP B5U...JP -1.000000   BGP.VOJP 1.000000
+    B5U.GPJP NRN.GPJP 0.777000   ND2.GPJP -0.566000
+    B5U.GPJP WVP.GPJP -0.110000   WD8.GPJP -0.528000
+    B5V.GPJP B5V...JP -1.000000   BGP.VOJP 1.000000
+    B5V.GPJP NRN.GPJP 0.728000   ND2.GPJP 0.112000
+    B5V.GPJP WVP.GPJP 0.470000   WD8.GPJP -0.045000
+    B5W.GPJP B5W...JP -1.000000   BGP.VOJP 1.000000
+    B5W.GPJP NRN.GPJP 0.684000   ND2.GPJP 0.093000
+    B5W.GPJP WVP.GPJP 0.380000   WD8.GPJP 0.031000
+    CFT.C.JP CFT.C.JP 1.000000   KTC..... 1.000000
+    CFT.C.JP BFR...JP -0.009000   UPBROW27802 1.000000
+    CTF.D.JP CTF.D.JP 1.000000   KMC0.... 0.463000
+    CTF.D.JP KMC5.... 0.591000   KWC..... 3.603000
+    CTF.D.JP KTC..... 1.000000   FAT0..J. 0.096000
+    CTF.D.JP BFR...JP -0.025000   UPBROW27803 1.000000
+    CF..G.JP CF..G.JP 1.000000   KMC0.... -0.332000
+    CF..G.JP KMC5.... -0.332000   FAT0..J. 0.357000
+    CF..G.JP BFR...JP -0.024000   BNL...JP -0.022100
+    CF..G.JP UPBROW27804 1.000000
+    CF..P.JP CF..P.JP 1.000000   KTC..... 1.000000
+    CF..P.JP FAT0..J. 0.479000   BFR...JP -0.044000
+    CF..P.JP UPBROW27805 1.000000
+    CF..Q.JP CF..Q.JP 1.000000   KTC..... 1.000000
+    CF..Q.JP BFR...JP -0.032000   UPBROW27806 1.000000
+    CF..R.JP CF..R.JP 1.000000   KMC0.... -0.332000
+    CF..R.JP KMC5.... -0.332000   FAT0..J. 0.841000
+    CF..R.JP BFR...JP -0.050000   BNL...JP -0.044200
+    CF..R.JP UPBROW27807 1.000000
+    COH.V.JP COH.V.JP 1.000000   KTC..... 1.000000
+    COH.V.JP FAT0..J. 0.172000   BFR...JP -0.014000
+    COH.V.JP UPBROW27808 1.000000
+    DCR...JP BCR...JP -1.000000   FAT0..J. -100.000000
+    DCR...JP UPBROW27809 1.000000
+    DDH...JP BDH...JP -1.000000   FAT0..J. -100.000000
+    DDH...JP UPBROW27810 1.000000
+    DDK...JP BDK...JP -1.000000   FAT0..J. -100.000000
+    DDK...JP UPBROW27811 1.000000
+    DFO...JP BFO...JP -1.000000   FAT0..J. -100.000000
+    DFO...JP UPBROW27812 1.000000
+    DFQ...JP BFQ...JP -1.000000   FAT0..J. -100.000000
+    DFQ...JP UPBROW27813 1.000000
+    DFU...JP BFU...JP -1.000000   FAT0..J. -100.000000
+    DFU...JP UPBROW27814 1.000000
+    DFW...JP BFW...JP -1.000000   FAT0..J. -100.000000
+    DFW...JP UPBROW27815 1.000000
+    DFY...JP BFY...JP -1.000000   FAT0..J. -100.000000
+    DFY...JP UPBROW27816 1.000000
+    DGP...JP BGP...JP -1.000000   FAT0..J. -100.000000
+    DGP...JP UPBROW27817 1.000000
+    DLG...JP BLG...JP -1.000000   FAT0..J. -100.000000
+    DLG...JP UPBROW27818 1.000000
+    DNJ...JP BNJ...JP -1.000000   FAT0..J. -100.000000
+    DNJ...JP UPBROW27819 1.000000
+    DNL...JP BNL...JP -1.000000   FAT0..J. -100.000000
+    DNL...JP UPBROW27820 1.000000
+    DNP...JP BNP...JP -1.000000   FAT0..J. -100.000000
+    DNP...JP UPBROW27821 1.000000
+    DOA...JP BOA...JP -1.000000   FAT0..J. -100.000000
+    DOA...JP UPBROW27822 1.000000
+    DOL...JP BOL...JP -1.000000   FAT0..J. -100.000000
+    DOL...JP UPBROW27823 1.000000
+    DRG...JP BRG...JP -1.000000   FAT0..J. -100.000000
+    DRG...JP UPBROW27824 1.000000
+    DAJ.02JP BAJ...JP -1.000000   FAT0..J. -100.000000
+    DAJ.02JP UPBROW27825 1.000000
+    QWT5FOSG BFO.WTSG -1.000000   XSU.FOSG -0.180000
+    QVO5FOSG BFO...SG 1.000000   BFO.VOSG -1.000000
+    QVO5FOSG XVI.FOSG -1.132000   NVI.FOSG -0.800000
+    QVO5DHSG BDH...SG 0.995000   BDH.VOSG -1.000000
+    QVO5DHSG XSU.DHSG -0.300000   XCI.DHSG -1.300000
+    WVP5GPPG WVP.GPPG -0.100000   XVL.GPPG 0.100000
+    WD85GPPG WD8.GPPG -0.010000   XVL.GPPG 0.020000
+    IFT.C.JP CFT.C.JP 1.000000   FAT0..J. 0.953000
+    IFT.C.JP BFR...JP -0.009000
+    ITF.D.JP CTF.D.JP 1.000000   KMC0.... 0.463000
+    ITF.D.JP KMC5.... 0.591000   KWC..... 3.603000
+    ITF.D.JP FAT0..J. 1.103000   BFR...JP -0.025000
+    IF..F.JP CF..F.JP 1.000000   FAT0..J. 0.566000
+    IF..F.JP BFR...JP -0.015000   BRG...JP -0.006000
+    IF..G.JP CF..G.JP 1.000000   KMC0.... -0.332000
+    IF..G.JP KMC5.... -0.332000   FAT0..J. 1.142000
+    IF..G.JP BFR...JP -0.024000   BNL...JP -0.022100
+    IF..P.JP CF..P.JP 1.000000   FAT0..J. 1.028000
+    IF..P.JP BFR...JP -0.044000
+    IF..Q.JP CF..Q.JP 1.000000   FAT0..J. 3.323000
+    IF..Q.JP BFR...JP -0.032000
+    IF..R.JP CF..R.JP 1.000000   KMC0.... -0.332000
+    IF..R.JP KMC5.... -0.332000   FAT0..J. 2.252000
+    IF..R.JP BFR...JP -0.050000   BNL...JP -0.044200
+    IOH.V.JP COH.V.JP 1.000000   FAT0..J. 0.463000
+    IOH.V.JP BFR...JP -0.014000
+    KPC.REJP KPC...JP -1.000000   FAT0..J. 1.276000
+    MLO.AJJP BGP...JP -0.259000   BDH...JP -0.237000
+    MLO.AJJP BFO...JP -0.309000   BFY...JP -0.195000
+    MLO.AJJP BAJ...JP 1.000000
+    MBK.BLJP BBL...JP 1.000000   BBK...JP -1.000000
+    MBK.BMJP BBM...JP 1.000000   BBK...JP -1.000000
+    MBL.BNJP BBN...JP 1.000000   BBL...JP -1.000000
+    MBM.BOJP BBL...JP -0.034500   BBN...JP -0.034500
+    MBM.BOJP BBK...JP -0.465500   BBM...JP -0.465500
+    MBM.BOJP BBO...JP 1.000000
+    MBN.BPJP BBL...JP -0.241400   BBN...JP -0.241400
+    MBN.BPJP BBK...JP -0.258600   BBM...JP -0.258600
+    MBN.BPJP BBP...JP 1.000000
+    MBU.BVJP BBV...JP 1.000000   BBU...JP -1.000000
+    MBU.BWJP BBV...JP -0.130400   BBU...JP -0.869600
+    MBU.BWJP BBW...JP 1.000000
+    MBV.BYJP BBV...JP -0.565200   BBU...JP -0.434800
+    MBV.BYJP BBY...JP 1.000000
+    MKE.DKJP BDK...JP 1.000000   BKE...JP -1.005000
+    MFY.FJJP BFJ...JP 1.000000   BFY...JP -1.000000
+    MFY.FJJP XVI.FYJP -0.020000
+    MF0.FRJP BFQ...JP 0.400000   BFR...JP 1.000000
+    MF0.FRJP BFO...JP -1.400000
+    MRG.FRJP BFR...JP 1.000000   BRG...JP -1.000000
+    MFQ.FUJP BFY...JP -0.285700   BFU...JP 1.000000
+    MFQ.FUJP BFQ...JP -0.714300   FAT0..J. 0.132300
+    MFY.FWJP BFY...JP -0.642900   BFQ...JP -0.357100
+    MFY.FWJP BFW...JP 1.000000   FAT0..J. 0.297700
+    MHL.HHJP BHH...JP 1.000000   BHL...JP -1.000000
+    MHL.HMJP BHH...JP -0.133300   BHL...JP -0.866700
+    MHL.HMJP BHM...JP 1.000000
+    MHH.HNJP BHH...JP -0.800000   BHL...JP -0.200000
+    MHH.HNJP BHN...JP 1.000000
+    MIP.IBJP BIP...JP -0.780000   BKE...JP -1.066200
+    MIP.IBJP BIB...JP 1.000000   BKH...JP 0.846200
+    MIN.IGJP BIN...JP -0.780000   BKE...JP -1.066200
+    MIN.IGJP BIG...JP 1.000000   BKH...JP 0.846200
+    MIN.IPJP BIP...JP 1.000000   BIN...JP -1.000000
+    MRG.LGJP BRG...JP -0.657500   BLG...JP 1.000000
+    MDH.LNJP BLN...JP 1.015000   BRG...JP 0.072200
+    MDH.LNJP KPC...JP 1.000000   BDH...JP -1.111000
+    MDH.LNJP B5W...JP 0.072200
+    MIB.LNJP BLN...JP 1.015000   BIG...JP -0.047400
+    MIB.LNJP BIB...JP -0.899600   BRG...JP -0.038000
+    MIB.LNJP B5U...JP 0.055300   KPC...JP 1.500000
+    MIP.LNJP BLN...JP 1.015000   BIN...JP -0.047400
+    MIP.LNJP BIP...JP -0.899600   BRG...JP -0.038000
+    MIP.LNJP B5U...JP 0.055300   KPC...JP 1.500000
+    MDK.NJJP BLN...JP -0.111100   BIN...JP -0.175000
+    MDK.NJJP BIP...JP -0.238900   BDK...JP -0.482400
+    MDK.NJJP BNJ...JP 1.000000
+    MI5.NLJP BI5...JP -1.052000   BNL...JP 1.000000
+    MLN.NLJP BNL...JP 1.000000   BLN...JP -1.015000
+    MIP.NPJP BIN...JP -0.050800   BIP...JP -0.964200
+    MIP.NPJP BNP...JP 1.000000
+    MRG.N4JP BRG...JP -1.000000   BN4...JP 1.414600
+    MBC.OLJP BOL...JP 1.000000   BBC...JP -1.000000
+    MCV.RGJP BRG...JP 0.645000   BCV...JP -1.000000
+    MLG.RGJP BRG...JP 0.657500   BLG...JP -1.000000
+    PBB.C1JP BRG...JP 0.129900   B4A...JP 0.498800
+    PBB.C1JP BBK...JP 0.236200   BBL...JP 0.002600
+    PBB.C1JP BBM...JP 0.123800   BBN...JP 0.001300
+    PBB.C1JP B9B...JP 0.038500   CFT.C.JP -1.756000
+    PBB.C1JP BBB...JP -1.000000
+    PBD.C1JP BRG...JP 0.143700   B4C...JP 0.496400
+    PBD.C1JP BBK...JP 0.224400   BBL...JP 0.002600
+    PBD.C1JP BBM...JP 0.123000   BBN...JP 0.001400
+    PBD.C1JP B9D...JP 0.033900   CFT.C.JP -1.719000
+    PBD.C1JP BBD...JP -1.000000
+    PBE.C1JP BRG...JP 0.141400   BBK...JP 0.130900
+    PBE.C1JP BBL...JP 0.001400   BBM...JP 0.196300
+    PBE.C1JP BBN...JP 0.002000   CFT.C.JP -1.566000
+    PBE.C1JP B4E...JP 0.561300   B9E...JP 0.027500
+    PBE.C1JP BBE...JP -1.000000
+    PBU.C1JP BRG...JP 0.079900   B4F...JP 0.240900
+    PBU.C1JP BBK...JP 0.393300   BBL...JP 0.000900
+    PBU.C1JP BBM...JP 0.289400   BBN...JP 0.000700
+    PBU.C1JP B9F...JP 0.008400   CFT.C.JP -1.330000
+    PBU.C1JP BBU...JP -1.000000
+    PBB.C3JP BRG...JP 0.217000   BBK...JP 0.194100
+    PBB.C3JP BBL...JP 0.002500   BBM...JP 0.080100
+    PBB.C3JP BBN...JP 0.001000   CFT.C.JP -2.170000
+    PBB.C3JP B4H...JP 0.465000   B9I...JP 0.014000
+    PBB.C3JP BBB...JP -1.000000
+    PBD.C3JP BRG...JP 0.239700   BBK...JP 0.181500
+    PBD.C3JP BBL...JP 0.002900   BBM...JP 0.079300
+    PBD.C3JP BBN...JP 0.001300   CFT.C.JP -2.062000
+    PBD.C3JP B4J...JP 0.458000   B9K...JP 0.012300
+    PBD.C3JP BBD...JP -1.000000
+    PBE.C3JP BRG...JP 0.240700   BBK...JP 0.114300
+    PBE.C3JP BBL...JP 0.001600   BBM...JP 0.131000
+    PBE.C3JP BBN...JP 0.001800   CFT.C.JP -1.506000
+    PBE.C3JP B4L...JP 0.529900   B9L...JP 0.010200
+    PBE.C3JP BBE...JP -1.000000
+    PBU.C3JP BRG...JP 0.161400   BBK...JP 0.356200
+    PBU.C3JP BBL...JP 0.009700   BBM...JP 0.148400
+    PBU.C3JP BBN...JP 0.004100   CFT.C.JP -1.334000
+    PBU.C3JP B4M...JP 0.305400   B9M...JP 0.009600
+    PBU.C3JP BBU...JP -1.000000
+    PBB.C5JP BRG...JP 0.162300   BBK...JP 0.110100
+    PBB.C5JP BBL...JP 0.003900   BBM...JP 0.015000
+    PBB.C5JP BBN...JP 0.000500   CFT.C.JP -1.521000
+    PBB.C5JP B4O...JP 0.669100   B9P...JP 0.070500
+    PBB.C5JP BBB...JP -1.000000
+    PBD.C5JP BRG...JP 0.160300   BBK...JP 0.108200
+    PBD.C5JP BBL...JP 0.003900   BBM...JP 0.014700
+    PBD.C5JP BBN...JP 0.000500   CFT.C.JP -1.506000
+    PBD.C5JP B4Q...JP 0.672300   B9R...JP 0.072700
+    PBD.C5JP BBD...JP -1.000000
+    PBE.C5JP BRG...JP 0.146100   BBK...JP 0.050500
+    PBE.C5JP BBL...JP 0.001800   BBM...JP 0.075700
+    PBE.C5JP BBN...JP 0.002700   CFT.C.JP -1.413000
+    PBE.C5JP B4S...JP 0.697200   B9S...JP 0.069300
+    PBE.C5JP BBE...JP -1.000000
+    PSA.C7JP BRG...JP 0.098100   BBK...JP 0.254100
+    PSA.C7JP BBL...JP 0.027700   BBM...JP -0.014400
+    PSA.C7JP BBN...JP -0.001600   CFT.C.JP -1.922000
+    PSA.C7JP BSA...JP -1.000000   B/A...JP 0.487900
+    PSA.C7JP B6A...JP 0.119500
+    PSH.C7JP BRG...JP 0.098100   BBK...JP 0.245700
+    PSH.C7JP BBL...JP 0.036000   BBM...JP -0.013900
+    PSH.C7JP BBN...JP -0.002000   CFT.C.JP -1.922000
+    PSH.C7JP BSH...JP -1.000000   B/A...JP 0.487900
+    PSH.C7JP B6H...JP 0.119500
+    PSW.C7JP BRG...JP 0.098100   BBK...JP 0.243800
+    PSW.C7JP BBL...JP 0.037900   BBM...JP -0.013800
+    PSW.C7JP BBN...JP -0.002100   CFT.C.JP -1.922000
+    PSW.C7JP BSW...JP -1.000000   B/A...JP 0.487900
+    PSW.C7JP B6W...JP 0.119500
+    QVO5GUPG BGP.VOPG -1.000000   BGU...PG 0.985000
+    QVO5GUPG NRN.GPPG -0.668000   ND2.GPPG -0.500000
+    QVO5GUPG XVL.GPPG -1.850000
+    PAL.DIJP BCR...JP 1.000000   AAL..... -1.000000
+    PAH.DVJP CTF.D.JP -1.000000   COH.V.JP -0.263830
+    PAH.DVJP AAH..... -1.000000   BCV...JP 0.025790
+    PAH.DVJP BI5...JP 0.008120   BLN...JP 0.039600
+    PAH.DVJP BIN...JP -0.007860   BIP...JP 0.111920
+    PAH.DVJP BKE...JP 0.130620   BHL...JP 0.029870
+    PAH.DVJP BHH...JP 0.091860   BBU...JP 0.003600
+    PAH.DVJP BBV...JP 0.071830   BBC...JP 0.047640
+    PAH.DVJP BBA...JP 0.216190   BHA...JP 0.230820
+    PAL.DVJP CTF.D.JP -1.000000   COH.V.JP -0.253090
+    PAL.DVJP BCV...JP 0.018350   BI5...JP 0.008650
+    PAL.DVJP BLN...JP 0.043700   BIN...JP 0.004910
+    PAL.DVJP BIP...JP 0.124890   BKE...JP 0.178950
+    PAL.DVJP BHL...JP 0.060480   BHH...JP 0.072710
+    PAL.DVJP BBU...JP 0.021080   BBV...JP 0.065990
+    PAL.DVJP BBC...JP 0.125810   BBA...JP 0.127280
+    PAL.DVJP BLA...JP 0.147180   AAL..... -1.000000
+    PAM.DVJP CTF.D.JP -1.000000   COH.V.JP -0.281070
+    PAM.DVJP BCV...JP 0.012720   BI5...JP 0.007550
+    PAM.DVJP BLN...JP 0.042710   BIN...JP 0.003590
+    PAM.DVJP BIP...JP 0.117680   BKE...JP 0.144210
+    PAM.DVJP BHL...JP 0.046940   BHH...JP 0.075380
+    PAM.DVJP BBU...JP 0.015520   BBV...JP 0.066500
+    PAM.DVJP BBC...JP 0.058490   BBA...JP 0.222580
+    PAM.DVJP BMA...JP 0.186130   AAM..... -1.000000
+    PAX.DVJP CTF.D.JP -1.000000   COH.V.JP -0.255260
+    PAX.DVJP BCV...JP 0.020370   BI5...JP 0.009350
+    PAX.DVJP BLN...JP 0.052270   BIN...JP 0.010770
+    PAX.DVJP BIP...JP 0.125670   BKE...JP 0.204490
+    PAX.DVJP BHL...JP 0.077920   BHH...JP 0.040930
+    PAX.DVJP BBU...JP 0.050490   BBV...JP 0.062960
+    PAX.DVJP BBC...JP 0.217020   BBA...JP 0.038240
+    PAX.DVJP BXA...JP 0.089520   AAX..... -1.000000
+    PBA.DVJP CTF.D.JP -1.000000   COH.V.JP -0.244570
+    PBA.DVJP BCV...JP 0.022920   BI5...JP 0.009360
+    PBA.DVJP BLN...JP 0.050930   BIN...JP 0.001770
+    PBA.DVJP BIP...JP 0.128360   BKE...JP 0.174610
+    PBA.DVJP BHL...JP 0.040170   BHH...JP 0.081800
+    PBA.DVJP BBU...JP 0.025150   BBV...JP 0.058160
+    PBA.DVJP BBC...JP 0.087600   BBA...JP 0.156970
+    PBA.DVJP BAK...JP 0.162210   ABA..... -1.000000
+    PDA.DVJP CTF.D.JP -1.000000   COH.V.JP -0.233880
+    PDA.DVJP BCV...JP 0.028910   BI5...JP 0.014810
+    PDA.DVJP BLN...JP 0.058210   BIN...JP 0.011910
+    PDA.DVJP BIP...JP 0.127900   BKE...JP 0.156050
+    PDA.DVJP BHL...JP 0.016240   BHH...JP 0.113760
+    PDA.DVJP BBU...JP 0.002260   BBV...JP 0.079970
+    PDA.DVJP BBC...JP 0.022680   BBA...JP 0.211200
+    PDA.DVJP BRI...JP 0.156110   ADA..... -1.000000
+    PIH.DVJP CTF.D.JP -1.000000   COH.V.JP -0.248210
+    PIH.DVJP BCV...JP 0.027600   BI5...JP 0.010720
+    PIH.DVJP BLN...JP 0.041710   BIN...JP 0.052270
+    PIH.DVJP BIP...JP 0.081290   BKE...JP 0.151300
+    PIH.DVJP BHL...JP 0.053680   BHH...JP 0.068650
+    PIH.DVJP BBU...JP 0.035650   BBV...JP 0.042830
+    PIH.DVJP BBC...JP 0.215240   BBA...JP 0.032970
+    PIH.DVJP BHI...JP 0.186090   AIH..... -1.000000
+    PIL.DVJP CTF.D.JP -1.000000   COH.V.JP -0.271680
+    PIL.DVJP BCV...JP 0.023430   BI5...JP 0.009760
+    PIL.DVJP BLN...JP 0.043810   BIN...JP 0.046670
+    PIL.DVJP BIP...JP 0.091200   BKE...JP 0.162000
+    PIL.DVJP BHL...JP 0.078750   BHH...JP 0.057420
+    PIL.DVJP BBU...JP 0.043960   BBV...JP 0.041920
+    PIL.DVJP BBC...JP 0.225030   BBA...JP 0.046650
+    PIL.DVJP BLI...JP 0.129410   AIL..... -1.000000
+    PKU.DVJP CTF.D.JP -1.000000   COH.V.JP -0.257810
+    PKU.DVJP BCV...JP 0.026680   BI5...JP 0.008720
+    PKU.DVJP BLN...JP 0.053840   BIN...JP 0.000250
+    PKU.DVJP BIP...JP 0.121660   BKE...JP 0.141740
+    PKU.DVJP BHL...JP 0.040980   BHH...JP 0.080340
+    PKU.DVJP BBU...JP 0.012730   BBV...JP 0.071090
+    PKU.DVJP BBC...JP 0.018870   BBA...JP 0.238940
+    PKU.DVJP BUK...JP 0.184140   AKU..... -1.000000
+    PMI.DVJP CTF.D.JP -1.000000   COH.V.JP -0.400990
+    PMI.DVJP AMI..... -1.000000   BCV...JP 0.004550
+    PMI.DVJP BI5...JP 0.002820   BLN...JP 0.020370
+    PMI.DVJP BIN...JP 0.017430   BIP...JP 0.068840
+    PMI.DVJP BKE...JP 0.092700   BHL...JP 0.136890
+    PMI.DVJP BHH...JP -0.006920   BBU...JP 0.054800
+    PMI.DVJP BBV...JP -0.003410   BBE...JP 0.429830
+    PMI.DVJP BBC...JP -0.028840   BIM...JP 0.210940
+    PMU.DVJP CTF.D.JP -1.000000   COH.V.JP -0.249190
+    PMU.DVJP BCV...JP 0.019830   BI5...JP 0.010950
+    PMU.DVJP BLN...JP 0.052370   BIN...JP 0.026140
+    PMU.DVJP BIP...JP 0.134930   BKE...JP 0.193130
+    PMU.DVJP BHL...JP 0.123210   BHH...JP 0.026600
+    PMU.DVJP BBU...JP 0.053960   BBV...JP 0.041020
+    PMU.DVJP BBE...JP 0.034520   BBC...JP 0.214670
+    PMU.DVJP BUM...JP 0.068660   AMU..... -1.000000
+    PN5.DVJP CTF.D.JP -1.000000   COH.V.JP -0.305230
+    PN5.DVJP BCV...JP 0.010960   BI5...JP 0.003850
+    PN5.DVJP BLN...JP 0.019050   BIN...JP 0.080150
+    PN5.DVJP BIP...JP 0.020100   BKE...JP 0.150630
+    PN5.DVJP BHL...JP 0.118680   BHH...JP 0.033930
+    PN5.DVJP BBU...JP 0.058550   BBV...JP 0.029680
+    PN5.DVJP BBE...JP 0.068820   BBC...JP 0.236410
+    PN5.DVJP B50...JP 0.169180   AN5..... -1.000000
+    POM.DVJP CTF.D.JP -1.000000   COH.V.JP -0.262750
+    POM.DVJP BCV...JP 0.012770   BI5...JP 0.007200
+    POM.DVJP BLN...JP 0.040120   BIN...JP 0.028120
+    POM.DVJP BIP...JP 0.100710   BKE...JP 0.178720
+    POM.DVJP BHL...JP 0.085450   BHH...JP 0.071800
+    POM.DVJP BBU...JP 0.038340   BBV...JP 0.024770
+    POM.DVJP BBE...JP 0.025390   BBC...JP 0.237360
+    POM.DVJP BMO...JP 0.149250   AOM..... -1.000000
+    PQA.DVJP CTF.D.JP -1.000000   COH.V.JP -0.221780
+    PQA.DVJP BCV...JP 0.039300   BI5...JP 0.014610
+    PQA.DVJP BLN...JP 0.070060   BIN...JP 0.015740
+    PQA.DVJP BIP...JP 0.149860   BKE...JP 0.188540
+    PQA.DVJP BHL...JP 0.094290   BHH...JP 0.055110
+    PQA.DVJP BBU...JP 0.030760   BBV...JP 0.058250
+    PQA.DVJP BBC...JP 0.158720   BBA...JP 0.063060
+    PQA.DVJP BTQ...JP 0.061700   AQA..... -1.000000
+    PSE.DVJP CTF.D.JP -1.000000   COH.V.JP -0.182300
+    PSE.DVJP ASE..... -1.000000   BCV...JP 0.021570
+    PSE.DVJP BI5...JP 0.009530   BLN...JP 0.031560
+    PSE.DVJP BIN...JP 0.209040   BIP...JP 0.011400
+    PSE.DVJP BKE...JP 0.248820   BHL...JP 0.182260
+    PSE.DVJP BHH...JP -0.004070   BBU...JP 0.098440
+    PSE.DVJP BBV...JP -0.004790   BBE...JP 0.189560
+    PSE.DVJP BBC...JP -0.007260   BSR...JP 0.013960
+    PAH.D1JP CTF.D.JP -1.000000   AAH..... -1.000000
+    PAH.D1JP BCV...JP 0.025790   BI5...JP 0.008120
+    PAH.D1JP BLN...JP 0.039600   BIN...JP -0.007860
+    PAH.D1JP BIP...JP 0.111910   BKE...JP 0.130620
+    PAH.D1JP BHL...JP 0.029870   BHH...JP 0.091860
+    PAH.D1JP BBU...JP 0.003600   BBV...JP 0.071830
+    PAH.D1JP BAH...JP 0.494650
+    PAL.D1JP CTF.D.JP -1.000000   BCV...JP 0.018350
+    PAL.D1JP BI5...JP 0.008650   BLN...JP 0.043700
+    PAL.D1JP BIN...JP 0.004910   BIP...JP 0.124890
+    PAL.D1JP BKE...JP 0.178950   BHL...JP 0.060480
+    PAL.D1JP BHH...JP 0.072710   BBU...JP 0.021080
+    PAL.D1JP BBV...JP 0.065990   BAL...JP 0.400280
+    PAL.D1JP AAL..... -1.000000
+    PAM.D1JP CTF.D.JP -1.000000   BCV...JP 0.012720
+    PAM.D1JP BI5...JP 0.007550   BLN...JP 0.042710
+    PAM.D1JP BIN...JP 0.003590   BIP...JP 0.117680
+    PAM.D1JP BKE...JP 0.144200   BHL...JP 0.046940
+    PAM.D1JP BHH...JP 0.075380   BBU...JP 0.015520
+    PAM.D1JP BBV...JP 0.066500   BAM...JP 0.467210
+    PAM.D1JP AAM..... -1.000000
+    PAX.D1JP CTF.D.JP -1.000000   BCV...JP 0.020370
+    PAX.D1JP BI5...JP 0.009350   BLN...JP 0.052270
+    PAX.D1JP BIN...JP 0.010770   BIP...JP 0.125670
+    PAX.D1JP BKE...JP 0.204480   BHL...JP 0.077910
+    PAX.D1JP BHH...JP 0.040930   BBU...JP 0.050490
+    PAX.D1JP BBV...JP 0.062960   BAX...JP 0.344790
+    PAX.D1JP AAX..... -1.000000
+    PBA.D1JP CTF.D.JP -1.000000   BCV...JP 0.022920
+    PBA.D1JP BI5...JP 0.009360   BLN...JP 0.050930
+    PBA.D1JP BIN...JP 0.001770   BIP...JP 0.128350
+    PBA.D1JP BKE...JP 0.174610   BHL...JP 0.040160
+    PBA.D1JP BHH...JP 0.081800   BBU...JP 0.025150
+    PBA.D1JP BBV...JP 0.058160   BKA...JP 0.406790
+    PBA.D1JP ABA..... -1.000000
+    PDA.D1JP CTF.D.JP -1.000000   BCV...JP 0.028910
+    PDA.D1JP BI5...JP 0.014810   BLN...JP 0.058210
+    PDA.D1JP BIN...JP 0.011910   BIP...JP 0.127890
+    PDA.D1JP BKE...JP 0.156050   BHL...JP 0.016240
+    PDA.D1JP BHH...JP 0.113760   BBU...JP 0.002260
+    PDA.D1JP BBV...JP 0.079970   BIR...JP 0.389990
+    PDA.D1JP ADA..... -1.000000
+    PIH.D1JP CTF.D.JP -1.000000   BCV...JP 0.027600
+    PIH.D1JP BI5...JP 0.010720   BLN...JP 0.041710
+    PIH.D1JP BIN...JP 0.052270   BIP...JP 0.081290
+    PIH.D1JP BKE...JP 0.151290   BHL...JP 0.053670
+    PIH.D1JP BHH...JP 0.068650   BBU...JP 0.035640
+    PIH.D1JP BBV...JP 0.042830   BIH...JP 0.434310
+    PIH.D1JP AIH..... -1.000000
+    PIL.D1JP CTF.D.JP -1.000000   BCV...JP 0.023430
+    PIL.D1JP BI5...JP 0.009760   BLN...JP 0.043810
+    PIL.D1JP BIN...JP 0.046670   BIP...JP 0.091200
+    PIL.D1JP BKE...JP 0.161990   BHL...JP 0.078750
+    PIL.D1JP BHH...JP 0.057420   BBU...JP 0.043960
+    PIL.D1JP BBV...JP 0.041920   BIL...JP 0.401100
+    PIL.D1JP AIL..... -1.000000
+    PKU.D1JP CTF.D.JP -1.000000   BCV...JP 0.026680
+    PKU.D1JP BI5...JP 0.008720   BLN...JP 0.053840
+    PKU.D1JP BIN...JP 0.000250   BIP...JP 0.121660
+    PKU.D1JP BKE...JP 0.141740   BHL...JP 0.040980
+    PKU.D1JP BHH...JP 0.080340   BBU...JP 0.012730
+    PKU.D1JP BBV...JP 0.071090   BKU...JP 0.441950
+    PKU.D1JP AKU..... -1.000000
+    PMI.D1JP CTF.D.JP -1.000000   AMI..... -1.000000
+    PMI.D1JP BCV...JP 0.004550   BI5...JP 0.002820
+    PMI.D1JP BLN...JP 0.020370   BIN...JP 0.017430
+    PMI.D1JP BIP...JP 0.068840   BKE...JP 0.092700
+    PMI.D1JP BHL...JP 0.136890   BHH...JP -0.006920
+    PMI.D1JP BBU...JP 0.054800   BBV...JP -0.003410
+    PMI.D1JP BMI...JP 0.611930
+    PMU.D1JP CTF.D.JP -1.000000   BCV...JP 0.019830
+    PMU.D1JP BI5...JP 0.010950   BLN...JP 0.052370
+    PMU.D1JP BIN...JP 0.026140   BIP...JP 0.134930
+    PMU.D1JP BKE...JP 0.193130   BHL...JP 0.123210
+    PMU.D1JP BHH...JP 0.026600   BBU...JP 0.053960
+    PMU.D1JP BBV...JP 0.041020   BMU...JP 0.317850
+    PMU.D1JP AMU..... -1.000000
+    PN5.D1JP CTF.D.JP -1.000000   BCV...JP 0.010960
+    PN5.D1JP BI5...JP 0.003850   BLN...JP 0.019050
+    PN5.D1JP BIN...JP 0.080150   BIP...JP 0.020100
+    PN5.D1JP BKE...JP 0.150630   BHL...JP 0.118680
+    PN5.D1JP BHH...JP 0.033930   BBU...JP 0.058550
+    PN5.D1JP BBV...JP 0.029680   BA5...JP 0.474420
+    PN5.D1JP AN5..... -1.000000
+    POM.D1JP CTF.D.JP -1.000000   BCV...JP 0.012770
+    POM.D1JP BI5...JP 0.007200   BLN...JP 0.040120
+    POM.D1JP BIN...JP 0.028120   BIP...JP 0.100710
+    POM.D1JP BKE...JP 0.178720   BHL...JP 0.085450
+    POM.D1JP BHH...JP 0.071800   BBU...JP 0.038340
+    POM.D1JP BBV...JP 0.024770   BMN...JP 0.412000
+    POM.D1JP AOM..... -1.000000
+    PQA.D1JP CTF.D.JP -1.000000   BCV...JP 0.039300
+    PQA.D1JP BI5...JP 0.014610   BLN...JP 0.070060
+    PQA.D1JP BIN...JP 0.015740   BIP...JP 0.149860
+    PQA.D1JP BKE...JP 0.188540   BHL...JP 0.094290
+    PQA.D1JP BHH...JP 0.055110   BBU...JP 0.030760
+    PQA.D1JP BBV...JP 0.058250   BQT...JP 0.283480
+    PQA.D1JP AQA..... -1.000000
+    PSE.D1JP CTF.D.JP -1.000000   ASE..... -1.000000
+    PSE.D1JP BCV...JP 0.021570   BI5...JP 0.009530
+    PSE.D1JP BLN...JP 0.031560   BIN...JP 0.209040
+    PSE.D1JP BIP...JP 0.011400   BKE...JP 0.248820
+    PSE.D1JP BHL...JP 0.182260   BHH...JP -0.004070
+    PSE.D1JP BBU...JP 0.098440   BBV...JP -0.004790
+    PSE.D1JP BRS...JP 0.196250
+    PEO.D3JP CTF.D.JP -1.000000   AEO..... -1.000000
+    PEO.D3JP BRG...JP 0.010500   BI5...JP 0.005000
+    PEO.D3JP BLN...JP 0.012300   BIN...JP 0.023200
+    PEO.D3JP BIP...JP 0.025800   BKE...JP 0.107000
+    PEO.D3JP BHL...JP -0.082600   BHH...JP 0.254600
+    PEO.D3JP BEO...JP 0.638000
+    PBL.F1JP BBK...JP 1.000000   CF..F.JP -2.900000
+    PBL.F1JP BBL...JP -1.000000
+    PBN.F1JP BBM...JP 1.000000   CF..F.JP -2.900000
+    PBN.F1JP BBN...JP -1.000000
+    PBV.F1JP BBU...JP 1.000000   CF..F.JP -2.300000
+    PBV.F1JP BBV...JP -1.000000
+    PHH.F1JP BHL...JP 1.000000   CF..F.JP -1.500000
+    PHH.F1JP BHH...JP -1.000000
+    PBA.G2JP BRG...JP 0.003700   BIP...JP 0.003600
+    PBA.G2JP BBB...JP 1.004800   CF..G.JP -1.088400
+    PBA.G2JP BBA...JP -1.000000
+    PBC.G2JP BRG...JP 0.001600   BIP...JP 0.001600
+    PBC.G2JP BBD...JP 1.005500   CF..G.JP -0.933800
+    PBC.G2JP BBC...JP -1.000000
+    PQA.G2JP BSA...JP 1.000000   CF..G.JP -1.184000
+    PQA.G2JP BQA...JP -1.000000
+    PQH.G2JP BSH...JP 1.000000   CF..G.JP -1.309000
+    PQH.G2JP BQH...JP -1.000000
+    PQW.G2JP CF..G.JP -1.339000   BSW...JP 1.000000
+    PQW.G2JP BQW...JP -1.000000
+    PIB.P2JP BRG...JP 0.180200   B5D...JP 0.770000
+    PIB.P2JP CF..P.JP -0.990000   BIB...JP -1.000000
+    PIG.P2JP BRG...JP 0.106800   B5C...JP 0.893000
+    PIG.P2JP CF..P.JP -0.948700   BIG...JP -1.000000
+    PIN.P2JP BRG...JP 0.109800   B5A...JP 0.883000
+    PIN.P2JP CF..P.JP -0.942000   BIN...JP -1.000000
+    PIP.P2JP BRG...JP 0.189000   B5B...JP 0.760000
+    PIP.P2JP CF..P.JP -0.983300   BIP...JP -1.000000
+    PIB.P3JP BRG...JP 0.206200   B5H...JP 0.739000
+    PIB.P3JP CF..P.JP -1.014700   BIB...JP -1.000000
+    PIG.P3JP BRG...JP 0.133800   B5G...JP 0.862000
+    PIG.P3JP CF..P.JP -0.973300   BIG...JP -1.000000
+    PIN.P3JP BRG...JP 0.144400   B5E...JP 0.852000
+    PIN.P3JP CF..P.JP -0.967700   BIN...JP -1.000000
+    PIP.P3JP BRG...JP 0.214800   B5F...JP 0.729000
+    PIP.P3JP CF..P.JP -1.008000   BIP...JP -1.000000
+    PIB.P7JP BRG...JP 0.219000   B5P...JP 0.721000
+    PIB.P7JP CF..P.JP -1.579800   BIB...JP -1.000000
+    PIG.P7JP BRG...JP 0.146800   B5N...JP 0.840000
+    PIG.P7JP CF..P.JP -1.369100   BIG...JP -1.000000
+    PIN.P7JP BRG...JP 0.149100   B5M...JP 0.829000
+    PIN.P7JP CF..P.JP -1.350700   BIN...JP -1.000000
+    PIP.P7JP BRG...JP 0.228800   B5O...JP 0.710000
+    PIP.P7JP CF..P.JP -1.561300   BIP...JP -1.000000
+    PHA.Q1JP BRG...JP 0.326000   B5T...JP 0.140000
+    PHA.Q1JP BBK...JP -0.031000   BBL...JP 0.260000
+    PHA.Q1JP BQH...JP 0.256000   CF..Q.JP -1.066000
+    PHA.Q1JP BHA...JP -1.000000
+    PLA.Q1JP BRG...JP 0.280000   B5T...JP 0.152000
+    PLA.Q1JP BBK...JP 0.036000   BBL...JP 0.213000
+    PLA.Q1JP BQA...JP 0.279000   CF..Q.JP -1.000000
+    PLA.Q1JP BLA...JP -1.000000
+    PUK.Q1JP BRG...JP 0.294000   B5T...JP 0.148000
+    PUK.Q1JP BBK...JP -0.048000   BBL...JP 0.290000
+    PUK.Q1JP BQW...JP 0.272000   CF..Q.JP -1.014000
+    PUK.Q1JP BUK...JP -1.000000
+    PAH.R1JP BRG...JP 0.010700   BIP...JP 0.037500
+    PAH.R1JP BHL...JP 0.100000   B1H...JP 0.885000
+    PAH.R1JP CF..R.JP -1.113300   BAH...JP -1.000000
+    PAL.R1JP BRG...JP 0.004200   BIP...JP 0.015400
+    PAL.R1JP BHL...JP 0.100000   B1A...JP 0.896000
+    PAL.R1JP CF..R.JP -0.883600   BAL...JP -1.000000
+    PAM.R1JP BRG...JP 0.006500   BIP...JP 0.023000
+    PAM.R1JP BHL...JP 0.100000   B1K...JP 0.892000
+    PAM.R1JP CF..R.JP -1.003900   BAM...JP -1.000000
+    PIH.R1JP BRG...JP 0.006400   BIP...JP 0.022800
+    PIH.R1JP BHL...JP 0.100000   B1G...JP 0.892000
+    PIH.R1JP CF..R.JP -0.948700   BIH...JP -1.000000
+    PIL.R1JP BRG...JP 0.004800   BIP...JP 0.017200
+    PIL.R1JP BHL...JP 0.100000   B1I...JP 0.894000
+    PIL.R1JP CF..R.JP -0.879900   BIL...JP -1.000000
+    PKU.R1JP BRG...JP 0.006200   BIP...JP 0.021900
+    PKU.R1JP BHL...JP 0.100000   B1W...JP 0.895000
+    PKU.R1JP CF..R.JP -0.995100   BKU...JP -1.000000
+    PAH.R2JP BRG...JP 0.024600   BIP...JP 0.086900
+    PAH.R2JP BHL...JP 0.100000   CF..R.JP -1.484600
+    PAH.R2JP B2H...JP 0.843000   BAH...JP -1.000000
+    PAL.R2JP BRG...JP 0.010900   BIP...JP 0.038900
+    PAL.R2JP BHL...JP 0.100000   CF..R.JP -1.109400
+    PAL.R2JP B2A...JP 0.879000   BAL...JP -1.000000
+    PAM.R2JP BRG...JP 0.015400   BIP...JP 0.055000
+    PAM.R2JP BHL...JP 0.100000   CF..R.JP -1.279000
+    PAM.R2JP B2K...JP 0.869000   BAM...JP -1.000000
+    PIH.R2JP BRG...JP 0.014700   BIP...JP 0.052800
+    PIH.R2JP BHL...JP 0.100000   CF..R.JP -1.204500
+    PIH.R2JP B2G...JP 0.869000   BIH...JP -1.000000
+    PIL.R2JP BRG...JP 0.011100   BIP...JP 0.040500
+    PIL.R2JP BHL...JP 0.100000   CF..R.JP -1.094000
+    PIL.R2JP B2I...JP 0.877000   BIL...JP -1.000000
+    PKU.R2JP BRG...JP 0.015100   BIP...JP 0.053300
+    PKU.R2JP BHL...JP 0.100000   CF..R.JP -1.285700
+    PKU.R2JP B2W...JP 0.872000   BKU...JP -1.000000
+    PAH.VAJP BAH...JP -1.000000   BOA...JP 0.686200
+    PAH.VAJP BBC...JP 0.064600   BBA...JP 0.249200
+    PAH.VAJP COH.V.JP -0.313800   LOBROW27826 1.000000
+    PKU.VAJP BKU...JP -1.000000   BOA...JP 0.520600
+    PKU.VAJP BBC...JP 0.019600   BBA...JP 0.459800
+    PKU.VAJP COH.V.JP -0.479400   LOBROW27827 1.000000
+    PEO.V1JP COH.V.JP -0.476500   BEO...JP -1.000000
+    PEO.V1JP BBC...JP -0.199000   BBA...JP 0.675500
+    PEO.V1JP BZN...JP 0.523500
+    TBB.PGJP BBB...JP 1.000000   BBB...PG -1.000000
+    TBB.PGJP FAT0..J. 1.549000   KMC.IMJP 1.000000
+    TBB.PGJP KWC..... 4.407000
+    TBD.PGJP BBD...JP 1.000000   BBD...PG -1.000000
+    TBD.PGJP FAT0..J. 1.549000   KMC.IMJP 1.000000
+    TBD.PGJP KWC..... 4.407000
+    TDH.PGJP BDH...JP 1.000000   BDH...PG -1.000000
+    TDH.PGJP FAT0..J. 1.479000   KMC.IMJP 1.000000
+    TDH.PGJP KWC..... 4.544000
+    TDK.PGJP BDK...JP 1.000000   BDK...PG -1.000000
+    TDK.PGJP FAT0..J. 1.416000   KMC.IMJP 1.000000
+    TDK.PGJP KWC..... 4.569000
+    TFO.PGJP BFO...JP 1.000000   BFO...PG -1.000000
+    TFO.PGJP FAT0..J. 1.657000   KMC.IMJP 1.000000
+    TFO.PGJP KWC..... 4.455000
+    TFQ.PGJP BFQ...JP 1.000000   BFQ...PG -1.000000
+    TFQ.PGJP FAT0..J. 1.657000   KMC.IMJP 1.000000
+    TFQ.PGJP KWC..... 4.407000
+    TFY.PGJP BFY...JP 1.000000   BFJ...PG -1.000000
+    TFY.PGJP FAT0..J. 1.691000   KWC..... 1.246000
+    TFY.PGJP KMC.FYJP 1.000000
+    TGP.PGJP BGP...JP 1.000000   BGJ...PG -1.000000
+    TGP.PGJP FAT0..J. 1.402000   KMC.IMJP 1.000000
+    TGP.PGJP KWC..... 4.512000
+    QVO5GSPG BGP.VOPG -1.000000   BGS...PG 0.985000
+    QVO5GSPG NRN.GPPG -0.660000   ND2.GPPG -0.500000
+    QVO5GSPG XVL.GPPG -1.700000
+    TNL.PGJP BNL...JP 1.000000   BNL...PG -1.000000
+    TNL.PGJP FAT0..J. 1.373000   KMC.IMJP 1.000000
+    TNL.PGJP KWC..... 4.323000
+    TNP.PGJP BNP...JP 1.000000   BNP...PG -1.000000
+    TNP.PGJP FAT0..J. 1.382000   KMC.IMJP 1.000000
+    TNP.PGJP KWC..... 4.495000
+    TDH.SGJP BDH...JP 1.000000   BDH...SG -1.000000
+    TDH.SGJP FAT0..J. 0.985000   KMC.IMJP 1.000000
+    TDH.SGJP KWC..... 4.170000
+    TDK.SGJP BDK...JP 1.000000   BDK...SG -1.000000
+    TDK.SGJP FAT0..J. 0.943000   KMC.IMJP 1.000000
+    TDK.SGJP KWC..... 4.187000
+    TFO.SGJP BFO...JP 1.000000   BFO...SG -1.000000
+    TFO.SGJP FAT0..J. 1.104000   KMC.IMJP 1.000000
+    TFO.SGJP KWC..... 4.110000
+    TFQ.SGJP BFQ...JP 1.000000   BFQ...SG -1.000000
+    TFQ.SGJP FAT0..J. 1.104000   KMC.IMJP 1.000000
+    TFQ.SGJP KWC..... 4.074000
+    TFY.SGJP BFY...JP 1.000000   BFY...SG -1.000000
+    TFY.SGJP FAT0..J. 1.126000   KWC..... 0.986000
+    TFY.SGJP KMC.FYJP 1.000000
+    TGP.SGJP BGP...JP 1.000000   BGJ...SG -1.000000
+    TGP.SGJP FAT0..J. 0.935000   KMC.IMJP 1.000000
+    TGP.SGJP KWC..... 4.172000
+    TNL.SGJP BNL...JP 1.000000   BNL...SG -1.000000
+    TNL.SGJP FAT0..J. 0.914000   KMC.IMJP 1.000000
+    TNL.SGJP KWC..... 3.998000
+    TNP.SGJP BNP...JP 1.000000   BNP...SG -1.000000
+    TNP.SGJP FAT0..J. 0.922000   KMC.IMJP 1.000000
+    TNP.SGJP KWC..... 4.126000
+    DCR...LA FAT0..J. -100.000000   AAL..... -1.000000
+    DCR...LA UPBROW27828 1.000000
+    DDH.02LA BDH...LA -1.000000   FAT0..J. -100.000000
+    DDH.02LA UPBROW27829 1.000000
+    DFY.02LA BFY...LA -1.000000   FAT0..J. -100.000000
+    DFY.02LA UPBROW27830 1.000000
+    DGP.02LA BGP...LA -1.000000   FAT0..J. -100.000000
+    DGP.02LA UPBROW27831 1.000000
+    QVO5GPPG BGP...PG 0.985000   BGP.VOPG -1.000000
+    QVO5GPPG NRN.GPPG -0.597000   ND2.GPPG -0.500000
+    QVO5GPPG XVL.GPPG -1.700000
+    QVO5GJPG BGP.VOPG -1.000000   BGJ...PG 0.985000
+    QVO5GJPG NRN.GPPG -0.633000   ND2.GPPG -0.500000
+    QVO5GJPG XVL.GPPG -1.700000
+    TDH.AWLA BDH...LA 1.000000   BDH...AW -1.000000
+    TDH.AWLA FAT0..J. 1.073000
+    TFY.AWLA BFY...LA 1.000000   BFY...AW -1.000000
+    TFY.AWLA FAT0..J. 1.227000
+    TDH.PGLA BDH...LA 1.000000   BDH...PG -1.000000
+    TDH.PGLA FAT0..J. 1.774000
+    TFY.PGLA BFY...LA 1.000000   BFY...PG -1.000000
+    TFY.PGLA FAT0..J. 2.030000
+    TGP.PGLA BGP...LA 1.000000   BGP...PG -1.000000
+    TGP.PGLA FAT0..J. 1.682000
+    TDH.VELA BDH...LA 1.000000   BDH...VE -1.000000
+    TDH.VELA FAT0..J. 1.089000
+    TFY.VELA BFY...LA 1.000000   BFY...VE -1.000000
+    TFY.VELA FAT0..J. 1.245000
+    TGP.VELA BGP...LA 1.000000   BGP...VE -1.000000
+    TGP.VELA FAT0..J. 1.034000
+    DCR...OF FAT0..J. -100.000000   AAL..... -1.000000
+    DCR...OF UPBROW27832 1.000000
+    DDH.02OF BDH...OF -1.000000   FAT0..J. -100.000000
+    DDH.02OF UPBROW27833 1.000000
+    DDP.02OF BDP...OF -1.000000   FAT0..J. -100.000000
+    DDP.02OF UPBROW27834 1.000000
+    DFY.02OF BFY...OF -1.000000   FAT0..J. -100.000000
+    DFY.02OF UPBROW27835 1.000000
+    QVO5GEPG BGP.VOPG -1.000000   BGE...PG 0.985000
+    QVO5GEPG NRN.GPPG -0.652000   ND2.GPPG -0.500000
+    QVO5GEPG XVL.GPPG -1.700000
+    TDH.ANOF BDH...OF 1.000000   BDH...AN -1.000000
+    TDP.ANOF BDP...OF 1.000000   BDP...AN -1.000000
+    TFY.ANOF BFY...OF 1.000000   BFY...AN -1.000000
+    TDH.AWOF BDH...OF 1.000000   BDH...AW -1.000000
+    TDP.AWOF BDP...OF 1.000000   BDP...AW -1.000000
+    TDH.PGOF BDH...OF 1.000000   BDH...PG -1.000000
+    TDP.PGOF BDP...OF 1.000000   BDP...PG -1.000000
+    TFY.PGOF BFY...OF 1.000000   BFY...PG -1.000000
+    DCR...OS FAT0..J. -100.000000   AAL..... -1.000000
+    DCR...OS UPBROW27836 1.000000
+    QVO5FZPG BFZ...PG 1.000000   BFZ.VOPG -1.000000
+    QVO5FZPG XVI.FZPG -1.152000
+    QWT5FYPG BFY.WTPG -1.000000   XSU.FYPG -3.400000
+    QVO5FYPG BFY...PG 1.000000   BFY.VOPG -1.000000
+    QVO5FYPG XVI.FYPG -1.152000   NVI.FYPG -1.095000
+    QWT5FQPG BFQ.WTPG -1.000000   XSU.FQPG -0.630000
+    QVO5FQPG BFQ...PG 1.000000   BFQ.VOPG -1.000000
+    QVO5FQPG XVI.FQPG -1.152000   NVI.FQPG -0.800000
+    QWT5FOPG BFO.WTPG -1.000000   XSU.FOPG -0.180000
+    BBK.DHPG BBK...PG -1.000000   BDH.VOPG 1.000000
+    BBK.DHPG XSU.DHPG 0.100000   XCI.DHPG 1.000000
+    BBL.DHPG BBL...PG -1.000000   BDH.VOPG 1.000000
+    BBL.DHPG XSU.DHPG 3.000000   XCI.DHPG 1.000000
+    BBM.DHPG BBM...PG -1.000000   BDH.VOPG 1.000000
+    BBM.DHPG XSU.DHPG 0.100000   XCI.DHPG 1.500000
+    BBN.DHPG BBN...PG -1.000000   BDH.VOPG 1.000000
+    BBN.DHPG XSU.DHPG 3.000000   XCI.DHPG 1.500000
+    BBU.DHPG BBU...PG -1.000000   BDH.VOPG 1.000000
+    BBU.DHPG XSU.DHPG 0.200000   XCI.DHPG 7.560000
+    BBV.DHPG BBV...PG -1.000000   BDH.VOPG 1.000000
+    BBV.DHPG XSU.DHPG 2.500000   XCI.DHPG 7.070000
+    BHH.DHPG BHH...PG -1.000000   BDH.VOPG 1.000000
+    BHH.DHPG XSU.DHPG 1.600000   XCI.DHPG 0.870000
+    BHL.DHPG BHL...PG -1.000000   BDH.VOPG 1.000000
+    BHL.DHPG XSU.DHPG 0.100000   XCI.DHPG 0.870000
+    BKE.DHPG BKE...PG -1.000000   BDH.VOPG 1.000000
+    BKE.DHPG XSU.DHPG 0.150000   XCI.DHPG 0.120000
+    BKH.DHPG BKH...PG -1.000000   BDH.VOPG 1.000000
+    BKH.DHPG XSU.DHPG 0.150000   XCI.DHPG 0.160000
+    BAX.FOPG BAX...PG -1.000000   BFO.VOPG 1.000000
+    BAX.FOPG BFO.WTPG 0.930250   XSU.FOPG 1.991310
+    BAX.FOPG XVI.FOPG 1.081000   NVI.FOPG 1.081000
+    BBB.FOPG BBB...PG -1.000000   BFO.VOPG 1.000000
+    BBB.FOPG BFO.WTPG 0.893700   XSU.FOPG 0.178740
+    BBB.FOPG XVI.FOPG 0.977000   NVI.FOPG 0.977000
+    BBD.FOPG BBD...PG -1.000000   BFO.VOPG 1.000000
+    BBD.FOPG BFO.WTPG 0.893100   XSU.FOPG 0.178620
+    BBD.FOPG XVI.FOPG 0.990000   NVI.FOPG 0.990000
+    BBO.FOPG BBO...PG -1.000000   BFO.VOPG 1.000000
+    BBO.FOPG BFO.WTPG 0.820000   XSU.FOPG 0.246000
+    BBO.FOPG XVI.FOPG 0.720000   NVI.FOPG 0.720000
+    BBP.FOPG BBP...PG -1.000000   BFO.VOPG 1.000000
+    BBP.FOPG BFO.WTPG 0.820000   XSU.FOPG 1.230000
+    BBP.FOPG XVI.FOPG 0.720000   NVI.FOPG 0.720000
+    BBW.FOPG BBW...PG -1.000000   BFO.VOPG 1.000000
+    BBW.FOPG BFO.WTPG 0.870000   XSU.FOPG 0.435000
+    BBW.FOPG XVI.FOPG 0.870000   NVI.FOPG 0.870000
+    BBY.FOPG BBY...PG -1.000000   BFO.VOPG 1.000000
+    BBY.FOPG BFO.WTPG 0.870000   XSU.FOPG 1.305000
+    BBY.FOPG XVI.FOPG 0.870000   NVI.FOPG 0.870000
+    BHM.FOPG BHM...PG -1.000000   BFO.VOPG 1.000000
+    BHM.FOPG BFO.WTPG 0.820000   XSU.FOPG 0.246000
+    BHM.FOPG XVI.FOPG 0.720000   NVI.FOPG 0.720000
+    BHN.FOPG BHN...PG -1.000000   BFO.VOPG 1.000000
+    BHN.FOPG BFO.WTPG 0.820000   XSU.FOPG 1.066000
+    BHN.FOPG XVI.FOPG 0.720000   NVI.FOPG 0.720000
+    BMU.FOPG BMU...PG -1.000000   BFO.VOPG 1.000000
+    BMU.FOPG BFO.WTPG 0.922450   XSU.FOPG 1.622720
+    BMU.FOPG XVI.FOPG 1.067000   NVI.FOPG 1.067000
+    BSA.FOPG BSA...PG -1.000000   BFO.VOPG 1.000000
+    BSA.FOPG BFO.WTPG 0.963200   XSU.FOPG 0.597180
+    BSA.FOPG XVI.FOPG 1.145000   NVI.FOPG 1.145000
+    BSH.FOPG BSH...PG -1.000000   BFO.VOPG 1.000000
+    BSH.FOPG BFO.WTPG 0.979200   XSU.FOPG 0.802940
+    BSH.FOPG XVI.FOPG 1.145000   NVI.FOPG 1.145000
+    BSW.FOPG BSW...PG -1.000000   BFO.VOPG 1.000000
+    BSW.FOPG BFO.WTPG 0.972500   XSU.FOPG 0.836350
+    BSW.FOPG XVI.FOPG 1.145000   NVI.FOPG 1.145000
+    B1A.FOPG B1A...PG -1.000000   BFO.VOPG 1.000000
+    B1A.FOPG BFO.WTPG 0.932600   XSU.FOPG 0.792710
+    B1A.FOPG XVI.FOPG 1.118000   NVI.FOPG 1.118000
+    B1G.FOPG B1G...PG -1.000000   BFO.VOPG 1.000000
+    B1G.FOPG BFO.WTPG 0.953100   XSU.FOPG 0.695760
+    B1G.FOPG XVI.FOPG 1.200000   NVI.FOPG 1.200000
+    B1H.FOPG B1H...PG -1.000000   BFO.VOPG 1.000000
+    B1H.FOPG BFO.WTPG 0.949200   XSU.FOPG 1.195990
+    B1H.FOPG XVI.FOPG 1.244000   NVI.FOPG 1.244000
+    B1I.FOPG B1I...PG -1.000000   BFO.VOPG 1.000000
+    B1I.FOPG BFO.WTPG 0.939400   XSU.FOPG 0.666970
+    B1I.FOPG XVI.FOPG 1.139000   NVI.FOPG 1.139000
+    B1K.FOPG B1K...PG -1.000000   BFO.VOPG 1.000000
+    B1K.FOPG BFO.WTPG 0.940000   XSU.FOPG 1.081000
+    B1K.FOPG XVI.FOPG 1.138000   NVI.FOPG 1.138000
+    B1W.FOPG B1W...PG -1.000000   BFO.VOPG 1.000000
+    B1W.FOPG BFO.WTPG 0.937200   XSU.FOPG 1.124640
+    B1W.FOPG XVI.FOPG 1.174000   NVI.FOPG 1.174000
+    B2A.FOPG B2A...PG -1.000000   BFO.VOPG 1.000000
+    B2A.FOPG BFO.WTPG 0.921400   XSU.FOPG 0.313280
+    B2A.FOPG XVI.FOPG 1.078000   NVI.FOPG 1.078000
+    B2G.FOPG B2G...PG -1.000000   BFO.VOPG 1.000000
+    B2G.FOPG BFO.WTPG 0.942200   XSU.FOPG 0.282660
+    B2G.FOPG XVI.FOPG 1.152000   NVI.FOPG 1.152000
+    B2H.FOPG B2H...PG -1.000000   BFO.VOPG 1.000000
+    B2H.FOPG BFO.WTPG 0.933600   XSU.FOPG 0.494810
+    B2H.FOPG XVI.FOPG 1.188000   NVI.FOPG 1.188000
+    B2I.FOPG B2I...PG -1.000000   BFO.VOPG 1.000000
+    B2I.FOPG BFO.WTPG 0.929300   XSU.FOPG 0.269500
+    B2I.FOPG XVI.FOPG 1.090000   NVI.FOPG 1.090000
+    B2K.FOPG B2K...PG -1.000000   BFO.VOPG 1.000000
+    B2K.FOPG BFO.WTPG 0.926600   XSU.FOPG 0.435500
+    B2K.FOPG XVI.FOPG 1.092000   NVI.FOPG 1.092000
+    B2W.FOPG B2W...PG -1.000000   BFO.VOPG 1.000000
+    B2W.FOPG BFO.WTPG 0.922600   XSU.FOPG 0.461300
+    B2W.FOPG XVI.FOPG 1.122000   NVI.FOPG 1.122000
+    B9E.FOPG B9E...PG -1.000000   BFO.VOPG 1.000000
+    B9E.FOPG BFO.WTPG 1.012200   XSU.FOPG 0.415000
+    B9E.FOPG XVI.FOPG 1.152000   NVI.FOPG 1.152000
+    B9F.FOPG B9F...PG -1.000000   BFO.VOPG 1.000000
+    B9F.FOPG BFO.WTPG 0.923600   XSU.FOPG 0.240140
+    B9F.FOPG XVI.FOPG 1.169000   NVI.FOPG 1.169000
+    B9L.FOPG B9L...PG -1.000000   BFO.VOPG 1.000000
+    B9L.FOPG BFO.WTPG 1.034400   XSU.FOPG 0.475820
+    B9L.FOPG XVI.FOPG 1.212000   NVI.FOPG 1.212000
+    B9M.FOPG B9M...PG -1.000000   BFO.VOPG 1.000000
+    B9M.FOPG BFO.WTPG 0.944000   XSU.FOPG 0.368160
+    B9M.FOPG XVI.FOPG 1.188000   NVI.FOPG 1.188000
+    B9S.FOPG B9S...PG -1.000000   BFO.VOPG 1.000000
+    B9S.FOPG BFO.WTPG 1.072800   XSU.FOPG 0.354020
+    B9S.FOPG XVI.FOPG 1.035000   NVI.FOPG 1.035000
+    B9V.FOPG B9V...PG -1.000000   BFO.VOPG 1.000000
+    B9V.FOPG BFO.WTPG 0.847300   XSU.FOPG 0.021180
+    B9V.FOPG XVI.FOPG 0.978000   NVI.FOPG 0.978000
+    BAH.FQPG BAH...PG -1.000000   BFQ.VOPG 1.000000
+    BAH.FQPG BFQ.WTPG 0.989360   XSU.FQPG 4.444220
+    BAH.FQPG XVI.FQPG 1.246000   NVI.FQPG 1.246000
+    BAL.FQPG BAL...PG -1.000000   BFQ.VOPG 1.000000
+    BAL.FQPG BFQ.WTPG 0.958370   XSU.FQPG 3.064560
+    BAL.FQPG XVI.FQPG 1.144000   NVI.FQPG 1.144000
+    BAM.FQPG BAM...PG -1.000000   BFQ.VOPG 1.000000
+    BAM.FQPG BFQ.WTPG 0.969970   XSU.FQPG 3.855710
+    BAM.FQPG XVI.FQPG 1.161000   NVI.FQPG 1.161000
+    BAX.FQPG BAX...PG -1.000000   BFQ.VOPG 1.000000
+    BAX.FQPG BFQ.WTPG 0.930250   XSU.FQPG 1.991310
+    BAX.FQPG XVI.FQPG 1.081000   NVI.FQPG 1.081000
+    BBB.FQPG BBB...PG -1.000000   BFQ.VOPG 1.000000
+    BBB.FQPG BFQ.WTPG 0.893700   XSU.FQPG 0.178740
+    BBB.FQPG XVI.FQPG 0.977000   NVI.FQPG 0.977000
+    BBD.FQPG BBD...PG -1.000000   BFQ.VOPG 1.000000
+    BBD.FQPG BFQ.WTPG 0.893100   XSU.FQPG 0.178620
+    BBD.FQPG XVI.FQPG 0.990000   NVI.FQPG 0.990000
+    BBO.FQPG BBO...PG -1.000000   BFQ.VOPG 1.000000
+    BBO.FQPG BFQ.WTPG 0.820000   XSU.FQPG 0.246000
+    BBO.FQPG XVI.FQPG 0.720000   NVI.FQPG 0.720000
+    BBP.FQPG BBP...PG -1.000000   BFQ.VOPG 1.000000
+    BBP.FQPG BFQ.WTPG 0.820000   XSU.FQPG 1.230000
+    BBP.FQPG XVI.FQPG 0.720000   NVI.FQPG 0.720000
+    BBW.FQPG BBW...PG -1.000000   BFQ.VOPG 1.000000
+    BBW.FQPG BFQ.WTPG 0.870000   XSU.FQPG 0.435000
+    BBW.FQPG XVI.FQPG 0.870000   NVI.FQPG 0.870000
+    BBY.FQPG BBY...PG -1.000000   BFQ.VOPG 1.000000
+    BBY.FQPG BFQ.WTPG 0.870000   XSU.FQPG 1.305000
+    BBY.FQPG XVI.FQPG 0.870000   NVI.FQPG 0.870000
+    BHA.FQPG BHA...PG -1.000000   BFQ.VOPG 1.000000
+    BHA.FQPG BFQ.WTPG 1.051520   XSU.FQPG 6.325920
+    BHA.FQPG XVI.FQPG 1.460000   NVI.FQPG 1.460000
+    BHI.FQPG BHI...PG -1.000000   BFQ.VOPG 1.000000
+    BHI.FQPG BFQ.WTPG 1.035270   XSU.FQPG 3.560070
+    BHI.FQPG XVI.FQPG 1.460000   NVI.FQPG 1.460000
+    BHM.FQPG BHM...PG -1.000000   BFQ.VOPG 1.000000
+    BHM.FQPG BFQ.WTPG 0.820000   XSU.FQPG 0.246000
+    BHM.FQPG XVI.FQPG 0.720000   NVI.FQPG 0.720000
+    BHN.FQPG BHN...PG -1.000000   BFQ.VOPG 1.000000
+    BHN.FQPG BFQ.WTPG 0.820000   XSU.FQPG 1.066000
+    BHN.FQPG XVI.FQPG 0.720000   NVI.FQPG 0.720000
+    BIH.FQPG BIH...PG -1.000000   BFQ.VOPG 1.000000
+    BIH.FQPG BFQ.WTPG 0.971950   XSU.FQPG 2.489180
+    BIH.FQPG XVI.FQPG 1.206000   NVI.FQPG 1.206000
+    BIL.FQPG BIL...PG -1.000000   BFQ.VOPG 1.000000
+    BIL.FQPG BFQ.WTPG 0.955070   XSU.FQPG 2.400240
+    BIL.FQPG XVI.FQPG 1.149000   NVI.FQPG 1.149000
+    BKU.FQPG BKU...PG -1.000000   BFQ.VOPG 1.000000
+    BKU.FQPG BFQ.WTPG 0.973400   XSU.FQPG 4.132130
+    BKU.FQPG XVI.FQPG 1.190000   NVI.FQPG 1.190000
+    BLA.FQPG BLA...PG -1.000000   BFQ.VOPG 1.000000
+    BLA.FQPG BFQ.WTPG 1.021730   XSU.FQPG 4.444390
+    BLA.FQPG XVI.FQPG 1.381000   NVI.FQPG 1.381000
+    BLI.FQPG BLI...PG -1.000000   BFQ.VOPG 1.000000
+    BLI.FQPG BFQ.WTPG 1.028430   XSU.FQPG 3.784260
+    BLI.FQPG XVI.FQPG 1.434000   NVI.FQPG 1.434000
+    BMA.FQPG BMA...PG -1.000000   BFQ.VOPG 1.000000
+    BMA.FQPG BFQ.WTPG 1.036740   XSU.FQPG 5.561150
+    BMA.FQPG XVI.FQPG 1.405000   NVI.FQPG 1.405000
+    BMU.FQPG BMU...PG -1.000000   BFQ.VOPG 1.000000
+    BMU.FQPG BFQ.WTPG 0.922450   XSU.FQPG 1.622720
+    BMU.FQPG XVI.FQPG 1.067000   NVI.FQPG 1.067000
+    BQA.FQPG BQA...PG -1.000000   BFQ.VOPG 1.000000
+    BQA.FQPG BFQ.WTPG 0.997000   XSU.FQPG 4.147520
+    BQA.FQPG XVI.FQPG 1.175000   NVI.FQPG 1.175000
+    BQH.FQPG BQH...PG -1.000000   BFQ.VOPG 1.000000
+    BQH.FQPG BFQ.WTPG 1.014000   XSU.FQPG 5.536440
+    BQH.FQPG XVI.FQPG 1.175000   NVI.FQPG 1.175000
+    BQW.FQPG BQW...PG -1.000000   BFQ.VOPG 1.000000
+    BQW.FQPG BFQ.WTPG 1.007000   XSU.FQPG 5.810390
+    BQW.FQPG XVI.FQPG 1.175000   NVI.FQPG 1.175000
+    BSA.FQPG BSA...PG -1.000000   BFQ.VOPG 1.000000
+    BSA.FQPG BFQ.WTPG 0.963200   XSU.FQPG 0.597180
+    BSA.FQPG XVI.FQPG 1.145000   NVI.FQPG 1.145000
+    BSH.FQPG BSH...PG -1.000000   BFQ.VOPG 1.000000
+    BSH.FQPG BFQ.WTPG 0.979200   XSU.FQPG 0.802940
+    BSH.FQPG XVI.FQPG 1.145000   NVI.FQPG 1.145000
+    BSW.FQPG BSW...PG -1.000000   BFQ.VOPG 1.000000
+    BSW.FQPG BFQ.WTPG 0.972500   XSU.FQPG 0.836350
+    BSW.FQPG XVI.FQPG 1.145000   NVI.FQPG 1.145000
+    BUK.FQPG BUK...PG -1.000000   BFQ.VOPG 1.000000
+    BUK.FQPG BFQ.WTPG 1.037550   XSU.FQPG 5.791860
+    BUK.FQPG XVI.FQPG 1.440000   NVI.FQPG 1.440000
+    BUM.FQPG BUM...PG -1.000000   BFQ.VOPG 1.000000
+    BUM.FQPG BFQ.WTPG 0.989990   XSU.FQPG 2.897960
+    BUM.FQPG XVI.FQPG 1.344000   NVI.FQPG 1.344000
+    BXA.FQPG BXA...PG -1.000000   BFQ.VOPG 1.000000
+    BXA.FQPG BFQ.WTPG 0.991990   XSU.FQPG 2.861130
+    BXA.FQPG XVI.FQPG 1.300000   NVI.FQPG 1.300000
+    B1A.FQPG B1A...PG -1.000000   BFQ.VOPG 1.000000
+    B1A.FQPG BFQ.WTPG 0.932600   XSU.FQPG 0.792710
+    B1A.FQPG XVI.FQPG 1.118000   NVI.FQPG 1.118000
+    B1G.FQPG B1G...PG -1.000000   BFQ.VOPG 1.000000
+    B1G.FQPG BFQ.WTPG 0.953100   XSU.FQPG 0.695760
+    B1G.FQPG XVI.FQPG 1.200000   NVI.FQPG 1.200000
+    B1H.FQPG B1H...PG -1.000000   BFQ.VOPG 1.000000
+    B1H.FQPG BFQ.WTPG 0.949200   XSU.FQPG 1.195990
+    B1H.FQPG XVI.FQPG 1.244000   NVI.FQPG 1.244000
+    B1I.FQPG B1I...PG -1.000000   BFQ.VOPG 1.000000
+    B1I.FQPG BFQ.WTPG 0.939400   XSU.FQPG 0.666970
+    B1I.FQPG XVI.FQPG 1.139000   NVI.FQPG 1.139000
+    B1K.FQPG B1K...PG -1.000000   BFQ.VOPG 1.000000
+    B1K.FQPG BFQ.WTPG 0.940000   XSU.FQPG 1.081000
+    B1K.FQPG XVI.FQPG 1.138000   NVI.FQPG 1.138000
+    B1W.FQPG B1W...PG -1.000000   BFQ.VOPG 1.000000
+    B1W.FQPG BFQ.WTPG 0.937200   XSU.FQPG 1.124640
+    B1W.FQPG XVI.FQPG 1.174000   NVI.FQPG 1.174000
+    B2A.FQPG B2A...PG -1.000000   BFQ.VOPG 1.000000
+    B2A.FQPG BFQ.WTPG 0.921400   XSU.FQPG 0.313280
+    B2A.FQPG XVI.FQPG 1.078000   NVI.FQPG 1.078000
+    B2G.FQPG B2G...PG -1.000000   BFQ.VOPG 1.000000
+    B2G.FQPG BFQ.WTPG 0.942200   XSU.FQPG 0.282660
+    B2G.FQPG XVI.FQPG 1.152000   NVI.FQPG 1.152000
+    B2H.FQPG B2H...PG -1.000000   BFQ.VOPG 1.000000
+    B2H.FQPG BFQ.WTPG 0.933600   XSU.FQPG 0.494810
+    B2H.FQPG XVI.FQPG 1.188000   NVI.FQPG 1.188000
+    B2I.FQPG B2I...PG -1.000000   BFQ.VOPG 1.000000
+    B2I.FQPG BFQ.WTPG 0.929300   XSU.FQPG 0.269500
+    B2I.FQPG XVI.FQPG 1.090000   NVI.FQPG 1.090000
+    B2K.FQPG B2K...PG -1.000000   BFQ.VOPG 1.000000
+    B2K.FQPG BFQ.WTPG 0.926600   XSU.FQPG 0.435500
+    B2K.FQPG XVI.FQPG 1.092000   NVI.FQPG 1.092000
+    B2W.FQPG B2W...PG -1.000000   BFQ.VOPG 1.000000
+    B2W.FQPG BFQ.WTPG 0.922600   XSU.FQPG 0.461300
+    B2W.FQPG XVI.FQPG 1.122000   NVI.FQPG 1.122000
+    B9A.FQPG B9A...PG -1.000000   BFQ.VOPG 1.000000
+    B9A.FQPG BFQ.WTPG 1.086800   XSU.FQPG 6.520800
+    B9A.FQPG XVI.FQPG 1.228000   NVI.FQPG 1.228000
+    B9C.FQPG B9C...PG -1.000000   BFQ.VOPG 1.000000
+    B9C.FQPG BFQ.WTPG 1.080600   XSU.FQPG 3.241800
+    B9C.FQPG XVI.FQPG 1.221000   NVI.FQPG 1.221000
+    B9E.FQPG B9E...PG -1.000000   BFQ.VOPG 1.000000
+    B9E.FQPG BFQ.WTPG 1.012200   XSU.FQPG 0.415000
+    B9E.FQPG XVI.FQPG 1.152000   NVI.FQPG 1.152000
+    B9F.FQPG B9F...PG -1.000000   BFQ.VOPG 1.000000
+    B9F.FQPG BFQ.WTPG 0.923600   XSU.FQPG 0.240140
+    B9F.FQPG XVI.FQPG 1.169000   NVI.FQPG 1.169000
+    B9G.FQPG B9G...PG -1.000000   BFQ.VOPG 1.000000
+    B9G.FQPG BFQ.WTPG 0.979200   XSU.FQPG 3.427200
+    B9G.FQPG XVI.FQPG 1.230000   NVI.FQPG 1.230000
+    B9H.FQPG B9H...PG -1.000000   BFQ.VOPG 1.000000
+    B9H.FQPG BFQ.WTPG 1.140500   XSU.FQPG 7.869450
+    B9H.FQPG XVI.FQPG 1.275000   NVI.FQPG 1.275000
+    B9J.FQPG B9J...PG -1.000000   BFQ.VOPG 1.000000
+    B9J.FQPG BFQ.WTPG 1.132800   XSU.FQPG 3.964800
+    B9J.FQPG XVI.FQPG 1.281000   NVI.FQPG 1.281000
+    B9L.FQPG B9L...PG -1.000000   BFQ.VOPG 1.000000
+    B9L.FQPG BFQ.WTPG 1.034400   XSU.FQPG 0.475820
+    B9L.FQPG XVI.FQPG 1.212000   NVI.FQPG 1.212000
+    B9M.FQPG B9M...PG -1.000000   BFQ.VOPG 1.000000
+    B9M.FQPG BFQ.WTPG 0.944000   XSU.FQPG 0.368160
+    B9M.FQPG XVI.FQPG 1.188000   NVI.FQPG 1.188000
+    B9N.FQPG B9N...PG -1.000000   BFQ.VOPG 1.000000
+    B9N.FQPG BFQ.WTPG 1.031300   XSU.FQPG 5.259630
+    B9N.FQPG XVI.FQPG 1.276000   NVI.FQPG 1.276000
+    B9O.FQPG B9O...PG -1.000000   BFQ.VOPG 1.000000
+    B9O.FQPG BFQ.WTPG 1.119500   XSU.FQPG 5.463160
+    B9O.FQPG XVI.FQPG 1.070000   NVI.FQPG 1.070000
+    B9Q.FQPG B9Q...PG -1.000000   BFQ.VOPG 1.000000
+    B9Q.FQPG BFQ.WTPG 1.114200   XSU.FQPG 2.629510
+    B9Q.FQPG XVI.FQPG 1.060000   NVI.FQPG 1.060000
+    B9S.FQPG B9S...PG -1.000000   BFQ.VOPG 1.000000
+    B9S.FQPG BFQ.WTPG 1.072800   XSU.FQPG 0.354020
+    B9S.FQPG XVI.FQPG 1.035000   NVI.FQPG 1.035000
+    B9V.FQPG B9V...PG -1.000000   BFQ.VOPG 1.000000
+    B9V.FQPG BFQ.WTPG 0.847300   XSU.FQPG 0.021180
+    B9V.FQPG XVI.FQPG 0.978000   NVI.FQPG 0.978000
+    BAH.FYPG BAH...PG -1.000000   BFY.VOPG 1.000000
+    BAH.FYPG BFY.WTPG 0.989360   XSU.FYPG 4.444220
+    BAH.FYPG XVI.FYPG 1.246000   NVI.FYPG 1.246000
+    BAL.FYPG BAL...PG -1.000000   BFY.VOPG 1.000000
+    BAL.FYPG BFY.WTPG 0.958370   XSU.FYPG 3.064560
+    BAL.FYPG XVI.FYPG 1.144000   NVI.FYPG 1.144000
+    BAM.FYPG BAM...PG -1.000000   BFY.VOPG 1.000000
+    BAM.FYPG BFY.WTPG 0.969970   XSU.FYPG 3.855710
+    BAM.FYPG XVI.FYPG 1.161000   NVI.FYPG 1.161000
+    BAX.FYPG BAX...PG -1.000000   BFY.VOPG 1.000000
+    BAX.FYPG BFY.WTPG 0.930250   XSU.FYPG 1.991310
+    BAX.FYPG XVI.FYPG 1.081000   NVI.FYPG 1.081000
+    BBO.FYPG BBO...PG -1.000000   BFY.VOPG 1.000000
+    BBO.FYPG BFY.WTPG 0.820000   XSU.FYPG 0.246000
+    BBO.FYPG XVI.FYPG 0.720000   NVI.FYPG 0.720000
+    BBP.FYPG BBP...PG -1.000000   BFY.VOPG 1.000000
+    BBP.FYPG BFY.WTPG 0.820000   XSU.FYPG 1.230000
+    BBP.FYPG XVI.FYPG 0.720000   NVI.FYPG 0.720000
+    BBW.FYPG BBW...PG -1.000000   BFY.VOPG 1.000000
+    BBW.FYPG BFY.WTPG 0.870000   XSU.FYPG 0.435000
+    BBW.FYPG XVI.FYPG 0.870000   NVI.FYPG 0.870000
+    BBY.FYPG BBY...PG -1.000000   BFY.VOPG 1.000000
+    BBY.FYPG BFY.WTPG 0.870000   XSU.FYPG 1.305000
+    BBY.FYPG XVI.FYPG 0.870000   NVI.FYPG 0.870000
+    BHA.FYPG BHA...PG -1.000000   BFY.VOPG 1.000000
+    BHA.FYPG BFY.WTPG 1.051520   XSU.FYPG 6.325920
+    BHA.FYPG XVI.FYPG 1.460000   NVI.FYPG 1.460000
+    BHI.FYPG BHI...PG -1.000000   BFY.VOPG 1.000000
+    BHI.FYPG BFY.WTPG 1.035270   XSU.FYPG 3.560070
+    BHI.FYPG XVI.FYPG 1.460000   NVI.FYPG 1.460000
+    BHM.FYPG BHM...PG -1.000000   BFY.VOPG 1.000000
+    BHM.FYPG BFY.WTPG 0.820000   XSU.FYPG 0.246000
+    BHM.FYPG XVI.FYPG 0.720000   NVI.FYPG 0.720000
+    BHN.FYPG BHN...PG -1.000000   BFY.VOPG 1.000000
+    BHN.FYPG BFY.WTPG 0.820000   XSU.FYPG 1.066000
+    BHN.FYPG XVI.FYPG 0.720000   NVI.FYPG 0.720000
+    BIH.FYPG BIH...PG -1.000000   BFY.VOPG 1.000000
+    BIH.FYPG BFY.WTPG 0.971950   XSU.FYPG 2.489180
+    BIH.FYPG XVI.FYPG 1.206000   NVI.FYPG 1.206000
+    BIL.FYPG BIL...PG -1.000000   BFY.VOPG 1.000000
+    BIL.FYPG BFY.WTPG 0.955070   XSU.FYPG 2.400240
+    BIL.FYPG XVI.FYPG 1.149000   NVI.FYPG 1.149000
+    BKU.FYPG BKU...PG -1.000000   BFY.VOPG 1.000000
+    BKU.FYPG BFY.WTPG 0.973400   XSU.FYPG 4.132130
+    BKU.FYPG XVI.FYPG 1.190000   NVI.FYPG 1.190000
+    BLA.FYPG BLA...PG -1.000000   BFY.VOPG 1.000000
+    BLA.FYPG BFY.WTPG 1.021730   XSU.FYPG 4.444390
+    BLA.FYPG XVI.FYPG 1.381000   NVI.FYPG 1.381000
+    BLI.FYPG BLI...PG -1.000000   BFY.VOPG 1.000000
+    BLI.FYPG BFY.WTPG 1.028430   XSU.FYPG 3.784260
+    BLI.FYPG XVI.FYPG 1.434000   NVI.FYPG 1.434000
+    BMA.FYPG BMA...PG -1.000000   BFY.VOPG 1.000000
+    BMA.FYPG BFY.WTPG 1.036740   XSU.FYPG 5.561150
+    BMA.FYPG XVI.FYPG 1.405000   NVI.FYPG 1.405000
+    BMU.FYPG BMU...PG -1.000000   BFY.VOPG 1.000000
+    BMU.FYPG BFY.WTPG 0.922450   XSU.FYPG 1.622720
+    BMU.FYPG XVI.FYPG 1.067000   NVI.FYPG 1.067000
+    BQA.FYPG BQA...PG -1.000000   BFY.VOPG 1.000000
+    BQA.FYPG BFY.WTPG 0.997000   XSU.FYPG 4.147520
+    BQA.FYPG XVI.FYPG 1.175000   NVI.FYPG 1.175000
+    BQH.FYPG BQH...PG -1.000000   BFY.VOPG 1.000000
+    BQH.FYPG BFY.WTPG 1.014000   XSU.FYPG 5.536440
+    BQH.FYPG XVI.FYPG 1.175000   NVI.FYPG 1.175000
+    BQW.FYPG BQW...PG -1.000000   BFY.VOPG 1.000000
+    BQW.FYPG BFY.WTPG 1.007000   XSU.FYPG 5.810390
+    BQW.FYPG XVI.FYPG 1.175000   NVI.FYPG 1.175000
+    BUK.FYPG BUK...PG -1.000000   BFY.VOPG 1.000000
+    BUK.FYPG BFY.WTPG 1.037550   XSU.FYPG 5.791860
+    BUK.FYPG XVI.FYPG 1.440000   NVI.FYPG 1.440000
+    BUM.FYPG BUM...PG -1.000000   BFY.VOPG 1.000000
+    BUM.FYPG BFY.WTPG 0.989990   XSU.FYPG 2.897960
+    BUM.FYPG XVI.FYPG 1.344000   NVI.FYPG 1.344000
+    BXA.FYPG BXA...PG -1.000000   BFY.VOPG 1.000000
+    BXA.FYPG BFY.WTPG 0.991990   XSU.FYPG 2.861130
+    BXA.FYPG XVI.FYPG 1.300000   NVI.FYPG 1.300000
+    B9A.FYPG B9A...PG -1.000000   BFY.VOPG 1.000000
+    B9A.FYPG BFY.WTPG 1.086800   XSU.FYPG 6.520800
+    B9A.FYPG XVI.FYPG 1.228000   NVI.FYPG 1.228000
+    B9C.FYPG B9C...PG -1.000000   BFY.VOPG 1.000000
+    B9C.FYPG BFY.WTPG 1.080600   XSU.FYPG 3.241800
+    B9C.FYPG XVI.FYPG 1.221000   NVI.FYPG 1.221000
+    B9G.FYPG B9G...PG -1.000000   BFY.VOPG 1.000000
+    B9G.FYPG BFY.WTPG 0.979200   XSU.FYPG 3.427200
+    B9G.FYPG XVI.FYPG 1.230000   NVI.FYPG 1.230000
+    B9H.FYPG B9H...PG -1.000000   BFY.VOPG 1.000000
+    B9H.FYPG BFY.WTPG 1.140500   XSU.FYPG 7.869450
+    B9H.FYPG XVI.FYPG 1.275000   NVI.FYPG 1.275000
+    B9J.FYPG B9J...PG -1.000000   BFY.VOPG 1.000000
+    B9J.FYPG BFY.WTPG 1.132800   XSU.FYPG 3.964800
+    B9J.FYPG XVI.FYPG 1.281000   NVI.FYPG 1.281000
+    B9N.FYPG B9N...PG -1.000000   BFY.VOPG 1.000000
+    B9N.FYPG BFY.WTPG 1.031300   XSU.FYPG 5.259630
+    B9N.FYPG XVI.FYPG 1.276000   NVI.FYPG 1.276000
+    B9O.FYPG B9O...PG -1.000000   BFY.VOPG 1.000000
+    B9O.FYPG BFY.WTPG 1.119500   XSU.FYPG 5.463160
+    B9O.FYPG XVI.FYPG 1.070000   NVI.FYPG 1.070000
+    B9Q.FYPG B9Q...PG -1.000000   BFY.VOPG 1.000000
+    B9Q.FYPG BFY.WTPG 1.114200   XSU.FYPG 2.629510
+    B9Q.FYPG XVI.FYPG 1.060000   NVI.FYPG 1.060000
+    BAH.FZPG BAH...PG -1.000000   BFZ.VOPG 1.000000
+    BAH.FZPG XVI.FZPG 1.246000
+    BAL.FZPG BAL...PG -1.000000   BFZ.VOPG 1.000000
+    BAL.FZPG XVI.FZPG 1.144000
+    BAM.FZPG BAM...PG -1.000000   BFZ.VOPG 1.000000
+    BAM.FZPG XVI.FZPG 1.161000
+    BAX.FZPG BAX...PG -1.000000   BFZ.VOPG 1.000000
+    BAX.FZPG XVI.FZPG 1.081000
+    BBP.FZPG BBP...PG -1.000000   BFZ.VOPG 1.000000
+    BBP.FZPG XVI.FZPG 0.720000
+    BHN.FZPG BHN...PG -1.000000   BFZ.VOPG 1.000000
+    BHN.FZPG XVI.FZPG 0.720000
+    BIH.FZPG BIH...PG -1.000000   BFZ.VOPG 1.000000
+    BIH.FZPG XVI.FZPG 1.206000
+    BIL.FZPG BIL...PG -1.000000   BFZ.VOPG 1.000000
+    BIL.FZPG XVI.FZPG 1.149000
+    BKU.FZPG BKU...PG -1.000000   BFZ.VOPG 1.000000
+    BKU.FZPG XVI.FZPG 1.190000
+    BMU.FZPG BMU...PG -1.000000   BFZ.VOPG 1.000000
+    BMU.FZPG XVI.FZPG 1.067000
+    B/A.GPPG B/A...PG -1.000000   BGP.VOPG 1.000000
+    B/A.GPPG NRN.GPPG 0.639000   ND2.GPPG 0.281000
+    B/A.GPPG WVP.GPPG 0.380000   WD8.GPPG 0.085000
+    BIP.GPPG BIP...PG -1.000000   BGP.VOPG 1.000000
+    BIP.GPPG NRN.GPPG 0.486000   ND2.GPPG 0.137000
+    BIP.GPPG WVP.GPPG 0.110000   WD8.GPPG -0.016000
+    BI5.GPPG BI5...PG -1.000000   BGP.VOPG 1.000000
+    BI5.GPPG NRN.GPPG 0.668000   ND2.GPPG 1.100000
+    BI5.GPPG WVP.GPPG 2.100000   WD8.GPPG 0.865000
+    BLN.GPPG BLN...PG -1.000000   BGP.VOPG 1.000000
+    BLN.GPPG NRN.GPPG 0.555000   ND2.GPPG 1.080000
+    BLN.GPPG WVP.GPPG 1.040000   WD8.GPPG 0.580000
+    BN4.GPPG BN4...PG -1.000000   BGP.VOPG 1.000000
+    BN4.GPPG NRN.GPPG 0.668000   ND2.GPPG 1.000000
+    BN4.GPPG WVP.GPPG 6.500000   WD8.GPPG 1.040000
+    B0A.GPPG B0A...PG -1.000000   BGP.VOPG 1.000000
+    B0A.GPPG NRN.GPPG 0.639000   ND2.GPPG 0.281000
+    B0A.GPPG WVP.GPPG 0.380000   WD8.GPPG 0.085000
+    B4A.GPPG B4A...PG -1.000000   BGP.VOPG 1.000000
+    B4A.GPPG NRN.GPPG 0.643200   ND2.GPPG 0.486000
+    B4A.GPPG WVP.GPPG 0.700000   WD8.GPPG 0.187000
+    B4C.GPPG B4C...PG -1.000000   BGP.VOPG 1.000000
+    B4C.GPPG NRN.GPPG 0.645700   ND2.GPPG 0.551000
+    B4C.GPPG WVP.GPPG 0.790000   WD8.GPPG 0.235000
+    B4E.GPPG B4E...PG -1.000000   BGP.VOPG 1.000000
+    B4E.GPPG NRN.GPPG 0.645200   ND2.GPPG 0.569000
+    B4E.GPPG WVP.GPPG 0.780000   WD8.GPPG 0.226000
+    B4F.GPPG B4F...PG -1.000000   BGP.VOPG 1.000000
+    B4F.GPPG NRN.GPPG 0.644800   ND2.GPPG 0.527000
+    B4F.GPPG WVP.GPPG 0.760000   WD8.GPPG 0.217000
+    B4G.GPPG B4G...PG -1.000000   BGP.VOPG 1.000000
+    B4G.GPPG NRN.GPPG 0.643400   ND2.GPPG 0.492000
+    B4G.GPPG WVP.GPPG 0.710000   WD8.GPPG 0.192000
+    B4H.GPPG B4H...PG -1.000000   BGP.VOPG 1.000000
+    B4H.GPPG NRN.GPPG 0.647500   ND2.GPPG 0.600000
+    B4H.GPPG WVP.GPPG 0.860000   WD8.GPPG 0.271000
+    B4J.GPPG B4J...PG -1.000000   BGP.VOPG 1.000000
+    B4J.GPPG NRN.GPPG 0.640600   ND2.GPPG 0.682000
+    B4J.GPPG WVP.GPPG 0.980000   WD8.GPPG 0.331000
+    B4L.GPPG B4L...PG -1.000000   BGP.VOPG 1.000000
+    B4L.GPPG NRN.GPPG 0.649500   ND2.GPPG 0.654000
+    B4L.GPPG WVP.GPPG 0.940000   WD8.GPPG 0.311000
+    B4M.GPPG B4M...PG -1.000000   BGP.VOPG 1.000000
+    B4M.GPPG NRN.GPPG 0.648900   ND2.GPPG 0.638000
+    B4M.GPPG WVP.GPPG 0.920000   WD8.GPPG 0.299000
+    B4N.GPPG B4N...PG -1.000000   BGP.VOPG 1.000000
+    B4N.GPPG NRN.GPPG 0.647900   ND2.GPPG 0.612000
+    B4N.GPPG WVP.GPPG 0.880000   WD8.GPPG 0.280000
+    B4O.GPPG B4O...PG -1.000000   BGP.VOPG 1.000000
+    B4O.GPPG NRN.GPPG 0.650000   ND2.GPPG 0.462000
+    B4O.GPPG WVP.GPPG 0.580000   WD8.GPPG 0.222000
+    B4Q.GPPG B4Q...PG -1.000000   BGP.VOPG 1.000000
+    B4Q.GPPG NRN.GPPG 0.650000   ND2.GPPG 0.464000
+    B4Q.GPPG WVP.GPPG 0.580000   WD8.GPPG 0.224000
+    B4S.GPPG B4S...PG -1.000000   BGP.VOPG 1.000000
+    B4S.GPPG NRN.GPPG 0.648000   ND2.GPPG 0.489000
+    B4S.GPPG WVP.GPPG 0.600000   WD8.GPPG 0.253000
+    B5A.GPPG B5A...PG -1.000000   BGP.VOPG 1.000000
+    B5A.GPPG NRN.GPPG 0.668000   ND2.GPPG 0.239000
+    B5A.GPPG WVP.GPPG 0.230000   WD8.GPPG -0.040000
+    B5B.GPPG B5B...PG -1.000000   BGP.VOPG 1.000000
+    B5B.GPPG NRN.GPPG 0.672000   ND2.GPPG 0.334000
+    B5B.GPPG WVP.GPPG 0.370000   WD8.GPPG 0.049000
+    B5C.GPPG B5C...PG -1.000000   BGP.VOPG 1.000000
+    B5C.GPPG NRN.GPPG 0.667000   ND2.GPPG 0.191000
+    B5C.GPPG WVP.GPPG 0.220000   WD8.GPPG -0.049000
+    B5D.GPPG B5D...PG -1.000000   BGP.VOPG 1.000000
+    B5D.GPPG NRN.GPPG 0.671000   ND2.GPPG 0.286000
+    B5D.GPPG WVP.GPPG 0.360000   WD8.GPPG 0.040000
+    B5E.GPPG B5E...PG -1.000000   BGP.VOPG 1.000000
+    B5E.GPPG NRN.GPPG 0.701000   ND2.GPPG 0.241000
+    B5E.GPPG WVP.GPPG 0.250000   WD8.GPPG -0.024000
+    B5F.GPPG B5F...PG -1.000000   BGP.VOPG 1.000000
+    B5F.GPPG NRN.GPPG 0.705000   ND2.GPPG 0.336000
+    B5F.GPPG WVP.GPPG 0.390000   WD8.GPPG 0.065000
+    B5G.GPPG B5G...PG -1.000000   BGP.VOPG 1.000000
+    B5G.GPPG NRN.GPPG 0.700000   ND2.GPPG 0.193000
+    B5G.GPPG WVP.GPPG 0.240000   WD8.GPPG -0.033000
+    B5H.GPPG B5H...PG -1.000000   BGP.VOPG 1.000000
+    B5H.GPPG NRN.GPPG 0.704000   ND2.GPPG 0.288000
+    B5H.GPPG WVP.GPPG 0.380000   WD8.GPPG 0.056000
+    CFT.C.PG CFT.C.PG 1.000000   BFR...PG -0.014000
+    CFT.C.PG UPBROW27837 1.000000
+    CTF.D.PG CTF.D.PG 1.000000   KWC..... 0.781000
+    CTF.D.PG FAT0..J. 0.117000   BFR...PG -0.028000
+    CTF.D.PG UPBROW27838 1.000000
+    CF..F.PG CF..F.PG 1.000000   FAT0..J. 0.166000
+    CF..F.PG BFR...PG -0.021000   UPBROW27839 1.000000
+    CF..G.PG CF..G.PG 1.000000   FAT0..J. 0.335000
+    CF..G.PG BFR...PG -0.041000   UPBROW27840 1.000000
+    CF..H.PG CF..H.PG 1.000000   UPBROW27841 1.000000
+    CF..P.PG CF..P.PG 1.000000   FAT0..J. 0.468000
+    CF..P.PG BFR...PG -0.044000   UPBROW27842 1.000000
+    CF..Q.PG CF..Q.PG 1.000000   BFR...PG -0.032000
+    CF..Q.PG UPBROW27843 1.000000
+    CF..R.PG CF..R.PG 1.000000   FAT0..J. 1.180000
+    CF..R.PG BFR...PG -0.085000   UPBROW27844 1.000000
+    COH.V.PG COH.V.PG 1.000000   FAT0..J. 0.203000
+    COH.V.PG BFR...PG -0.014000   UPBROW27845 1.000000
+    DCR...PG BCR...PG -1.000000   FAT0..J. -100.000000
+    DCR...PG UPBROW27846 1.000000
+    DDK...PG BDK...PG -1.000000   FAT0..J. -100.000000
+    DDK...PG UPBROW27847 1.000000
+    DDL...PG BDL...PG -1.000000   FAT0..J. -100.000000
+    DDL...PG UPBROW27848 1.000000
+    DFZ...PG BFZ...PG -1.000000   FAT0..J. -100.000000
+    DFZ...PG UPBROW27849 1.000000
+    DGP...PG BGP...PG -1.000000   FAT0..J. -100.000000
+    DGP...PG UPBROW27850 1.000000
+    DLP...PG BLP...PG -1.000000   FAT0..J. -100.000000
+    DLP...PG UPBROW27851 1.000000
+    DNJ...PG BNJ...PG -1.000000   FAT0..J. -100.000000
+    DNJ...PG UPBROW27852 1.000000
+    DOL...PG BOL...PG -1.000000   FAT0..J. -100.000000
+    DOL...PG UPBROW27853 1.000000
+    IFT.C.PG CFT.C.PG 1.000000   FAT0..J. 1.404000
+    IFT.C.PG BFR...PG -0.014000
+    ITF.D.PG CTF.D.PG 1.000000   KWC..... 0.781000
+    ITF.D.PG FAT0..J. 1.397000   BFR...PG -0.028000
+    ITF.D.PG UPBROW27854 1.000000
+    IF..F.PG CF..F.PG 1.000000   FAT0..J. 0.486000
+    IF..F.PG BFR...PG -0.021000
+    IF..G.PG CF..G.PG 1.000000   FAT0..J. 1.402000
+    IF..G.PG BFR...PG -0.041000
+    IF..H.PG CF..H.PG 1.000000   FAT0..J. 5.305000
+    IF..P.PG CF..P.PG 1.000000   FAT0..J. 1.261000
+    IF..P.PG BFR...PG -0.044000
+    IF..Q.PG CF..Q.PG 1.000000   FAT0..J. 4.657000
+    IF..Q.PG BFR...PG -0.032000
+    IF..R.PG CF..R.PG 1.000000   FAT0..J. 3.876000
+    IF..R.PG BFR...PG -0.085000
+    IOH.V.PG COH.V.PG 1.000000   FAT0..J. 0.732000
+    IOH.V.PG BFR...PG -0.014000
+    KAR.PSPG KAR...PG -1.000000   LOBROW27855 1.000000
+    KIR.PSPG KIR...PG -1.000000   LOBROW27856 1.000000
+    MBK.BLPG BBL...PG 1.000000   BBK...PG -1.000000
+    MBK.BMPG BBM...PG 1.000000   BBK...PG -1.000000
+    MBL.BNPG BBN...PG 1.000000   BBL...PG -1.000000
+    MBM.BOPG BBL...PG -0.034500   BBN...PG -0.034500
+    MBM.BOPG BBK...PG -0.465500   BBM...PG -0.465500
+    MBM.BOPG BBO...PG 1.000000
+    MBN.BPPG BBL...PG -0.241400   BBN...PG -0.241400
+    MBN.BPPG BBK...PG -0.258600   BBM...PG -0.258600
+    MBN.BPPG BBP...PG 1.000000
+    MBU.BVPG BBV...PG 1.000000   BBU...PG -1.000000
+    MBU.BWPG BBV...PG -0.130400   BBU...PG -0.869600
+    MBU.BWPG BBW...PG 1.000000
+    MBV.BYPG BBV...PG -0.565200   BBU...PG -0.434800
+    MBV.BYPG BBY...PG 1.000000
+    MBC.B4PG BB4...PG 1.000000   BBC...PG -0.576500
+    MBC.B4PG BBA...PG -0.423500
+    MBD.B5PG BB5...PG 1.000000   BBD...PG -0.576500
+    MBD.B5PG BBB...PG -0.423500
+    MKE.DKPG BDK...PG 1.000000   BKE...PG -1.005000
+    MDK.DPPG BDK...PG -0.750000   BDH...PG -0.250000
+    MDK.DPPG BDP...PG 1.000000
+    MFY.FJPG BFJ...PG 1.000000   BFY...PG -1.000000
+    MFY.FJPG XVI.FYPG -0.020000
+    MFO.FPPG BFP...PG 1.000000   BFO...PG -0.600000
+    MFO.FPPG BFQ...PG -0.400000
+    MC1.FRPG FAT0..J. 2.700000   BFR...PG 1.000000
+    MRG.FRPG BFR...PG 1.000000   BRG...PG -1.000000
+    MFQ.FSPG BFY...PG -0.071400   BFQ...PG -0.928600
+    MFQ.FSPG BFS...PG 1.000000
+    MFQ.FTPG BFY...PG -0.107100   BFQ...PG -0.892900
+    MFQ.FTPG BFT...PG 1.000000
+    MFY.FZPG BFZ...PG 1.000000   BFY...PG -1.000000
+    MHL.HHPG BHH...PG 1.000000   BHL...PG -1.000000
+    MHL.HMPG BHH...PG -0.133300   BHL...PG -0.866700
+    MHL.HMPG BHM...PG 1.000000
+    MHH.HNPG BHH...PG -0.800000   BHL...PG -0.200000
+    MHH.HNPG BHN...PG 1.000000
+    MIP.IBPG BIP...PG -0.780000   BKE...PG -1.066200
+    MIP.IBPG BIB...PG 1.000000   BKH...PG 0.846200
+    MIN.IGPG BIN...PG -0.780000   BKE...PG -1.066200
+    MIN.IGPG BIG...PG 1.000000   BKH...PG 0.846200
+    MIN.IPPG BIP...PG 1.000000   BIN...PG -1.000000
+    MRG.LPPG BRG...PG -0.657500   BLP...PG 1.000000
+    MDK.NJPG BLN...PG -0.111100   BIN...PG -0.175000
+    MDK.NJPG BIP...PG -0.238900   BDK...PG -0.482400
+    MDK.NJPG BNJ...PG 1.000000
+    MI5.NLPG BI5...PG -1.052000   BNL...PG 1.000000
+    MLN.NLPG BNL...PG 1.000000   BLN...PG -1.015000
+    MIP.NPPG BIN...PG -0.050800   BIP...PG -0.964200
+    MIP.NPPG BNP...PG 1.000000
+    MRG.N4PG BRG...PG -1.000000   BN4...PG 1.414600
+    MFY.OAPG BOA...PG 1.000000   BFY...PG -1.000000
+    MFY.OAPG XVI.FYPG -0.213000   XSU.FYPG -2.490000
+    MBC.OLPG BOL...PG 1.000000   BBC...PG -1.000000
+    MCV.RGPG BRG...PG 0.645000   BCV...PG -1.000000
+    MLG.RGPG BRG...PG 0.657500   BLG...PG -1.000000
+    PBA.C1PG BRG...PG 0.129900   B4A...PG 0.498800
+    PBA.C1PG BBK...PG 0.068800   BBL...PG 0.169900
+    PBA.C1PG BBM...PG 0.036100   BBN...PG 0.089100
+    PBA.C1PG B9A...PG 0.038500   CFT.C.PG -1.756000
+    PBA.C1PG BBA...PG -1.000000
+    PBC.C1PG BRG...PG 0.143700   B4C...PG 0.496400
+    PBC.C1PG BBK...PG 0.151600   BBL...PG 0.075400
+    PBC.C1PG BBM...PG 0.083100   BBN...PG 0.041300
+    PBC.C1PG B9C...PG 0.033900   CFT.C.PG -1.719000
+    PBC.C1PG BBC...PG -1.000000
+    PBE.C1PG BRG...PG 0.141400   BBK...PG 0.130900
+    PBE.C1PG BBL...PG 0.001400   BBM...PG 0.196300
+    PBE.C1PG BBN...PG 0.002000   CFT.C.PG -1.566000
+    PBE.C1PG B4E...PG 0.561300   B9E...PG 0.027500
+    PBE.C1PG BBE...PG -1.000000
+    PBU.C1PG BRG...PG 0.079900   B4F...PG 0.240900
+    PBU.C1PG BBK...PG 0.393300   BBL...PG 0.000900
+    PBU.C1PG BBM...PG 0.289400   BBN...PG 0.000700
+    PBU.C1PG B9F...PG 0.008400   CFT.C.PG -1.330000
+    PBU.C1PG BBU...PG -1.000000
+    PBV.C1PG BBV...PG -1.000000   BRG...PG 0.081200
+    PBV.C1PG B4G...PG 0.265400   BBK...PG -0.004000
+    PBV.C1PG BBL...PG -0.026500   BBM...PG 0.089800
+    PBV.C1PG BBN...PG 0.602900   B9G...PG 0.008600
+    PBV.C1PG CFT.C.PG -1.370000
+    PBA.C3PG BRG...PG 0.217000   BBK...PG 0.049700
+    PBA.C3PG BBL...PG 0.146900   BBM...PG 0.020500
+    PBA.C3PG BBN...PG 0.060600   CFT.C.PG -2.170000
+    PBA.C3PG B4H...PG 0.465000   B9H...PG 0.014000
+    PBA.C3PG BBA...PG -1.000000
+    PBC.C3PG BRG...PG 0.239700   BBK...PG 0.116700
+    PBC.C3PG BBL...PG 0.067800   BBM...PG 0.050900
+    PBC.C3PG BBN...PG 0.029600   CFT.C.PG -2.062000
+    PBC.C3PG B4J...PG 0.458000   B9J...PG 0.012300
+    PBC.C3PG BBC...PG -1.000000
+    PBE.C3PG BRG...PG 0.240700   BBK...PG 0.114300
+    PBE.C3PG BBL...PG 0.001600   BBM...PG 0.131000
+    PBE.C3PG BBN...PG 0.001800   CFT.C.PG -1.506000
+    PBE.C3PG B4L...PG 0.529900   B9L...PG 0.010200
+    PBE.C3PG BBE...PG -1.000000
+    PBU.C3PG BRG...PG 0.161400   BBK...PG 0.356200
+    PBU.C3PG BBL...PG 0.009700   BBM...PG 0.148400
+    PBU.C3PG BBN...PG 0.004100   CFT.C.PG -1.334000
+    PBU.C3PG B4M...PG 0.305400   B9M...PG 0.009600
+    PBU.C3PG BBU...PG -1.000000
+    PBV.C3PG BBV...PG -1.000000   BRG...PG 0.162100
+    PBV.C3PG BBK...PG 0.007300   BBL...PG 0.050700
+    PBV.C3PG BBM...PG 0.056000   BBN...PG 0.386000
+    PBV.C3PG CFT.C.PG -1.368000   B4N...PG 0.334800
+    PBV.C3PG B9N...PG 0.009600
+    PBA.C5PG BRG...PG 0.162300   BBK...PG -0.011800
+    PBA.C5PG BBL...PG 0.125800   BBM...PG -0.001600
+    PBA.C5PG BBN...PG 0.017100   CFT.C.PG -1.521000
+    PBA.C5PG BBA...PG -1.000000   B4O...PG 0.669100
+    PBA.C5PG B9O...PG 0.070500
+    PBC.C5PG BRG...PG 0.160300   BBK...PG 0.054100
+    PBC.C5PG BBL...PG 0.057900   BBM...PG 0.007400
+    PBC.C5PG BBN...PG 0.007900   CFT.C.PG -1.506000
+    PBC.C5PG B4Q...PG 0.672300   B9Q...PG 0.072700
+    PBC.C5PG BBC...PG -1.000000
+    PBE.C5PG BRG...PG 0.146100   BBK...PG 0.050500
+    PBE.C5PG BBL...PG 0.001800   BBM...PG 0.075700
+    PBE.C5PG BBN...PG 0.002700   CFT.C.PG -1.413000
+    PBE.C5PG B4S...PG 0.697200   B9S...PG 0.069300
+    PBE.C5PG BBE...PG -1.000000
+    PAL.DIPG BCR...PG 1.000000   AAL..... -1.000000
+    PAH.DVPG CTF.D.PG -1.000000   COH.V.PG -0.263830
+    PAH.DVPG AAH..... -1.000000   BCV...PG 0.025790
+    PAH.DVPG BI5...PG 0.008120   BLN...PG 0.039600
+    PAH.DVPG BIN...PG -0.007860   BIP...PG 0.111920
+    PAH.DVPG BKE...PG 0.130620   BHL...PG 0.029870
+    PAH.DVPG BHH...PG 0.091860   BBU...PG 0.003600
+    PAH.DVPG BBV...PG 0.071830   BBC...PG 0.047640
+    PAH.DVPG BBA...PG 0.216190   BHA...PG 0.230820
+    PAH.DVPG KAR...PG 1.000000
+    PAL.DVPG CTF.D.PG -1.000000   COH.V.PG -0.253090
+    PAL.DVPG BCV...PG 0.018350   BI5...PG 0.008650
+    PAL.DVPG BLN...PG 0.043700   BIN...PG 0.004910
+    PAL.DVPG BIP...PG 0.124890   BKE...PG 0.178950
+    PAL.DVPG BHL...PG 0.060480   BHH...PG 0.072710
+    PAL.DVPG BBU...PG 0.021080   BBV...PG 0.065990
+    PAL.DVPG BBC...PG 0.125810   BBA...PG 0.127280
+    PAL.DVPG BLA...PG 0.147180   AAL..... -1.000000
+    PAL.DVPG KAR...PG 1.000000
+    PAM.DVPG CTF.D.PG -1.000000   COH.V.PG -0.281070
+    PAM.DVPG BCV...PG 0.012720   BI5...PG 0.007550
+    PAM.DVPG BLN...PG 0.042710   BIN...PG 0.003590
+    PAM.DVPG BIP...PG 0.117680   BKE...PG 0.144210
+    PAM.DVPG BHL...PG 0.046940   BHH...PG 0.075380
+    PAM.DVPG BBU...PG 0.015520   BBV...PG 0.066500
+    PAM.DVPG BBC...PG 0.058490   BBA...PG 0.222580
+    PAM.DVPG BMA...PG 0.186130   AAM..... -1.000000
+    PAM.DVPG KAR...PG 1.000000
+    PAX.DVPG CTF.D.PG -1.000000   COH.V.PG -0.255260
+    PAX.DVPG BCV...PG 0.020370   BI5...PG 0.009350
+    PAX.DVPG BLN...PG 0.052270   BIN...PG 0.010770
+    PAX.DVPG BIP...PG 0.125670   BKE...PG 0.204490
+    PAX.DVPG BHL...PG 0.077920   BHH...PG 0.040930
+    PAX.DVPG BBU...PG 0.050490   BBV...PG 0.062960
+    PAX.DVPG BBC...PG 0.217020   BBA...PG 0.038240
+    PAX.DVPG BXA...PG 0.089520   AAX..... -1.000000
+    PAX.DVPG KAR...PG 1.000000
+    PIH.DVPG CTF.D.PG -1.000000   COH.V.PG -0.248210
+    PIH.DVPG BCV...PG 0.027600   BI5...PG 0.010720
+    PIH.DVPG BLN...PG 0.041710   BIN...PG 0.052270
+    PIH.DVPG BIP...PG 0.081290   BKE...PG 0.151300
+    PIH.DVPG BHL...PG 0.053680   BHH...PG 0.068650
+    PIH.DVPG BBU...PG 0.035650   BBV...PG 0.042830
+    PIH.DVPG BBC...PG 0.215240   BBA...PG 0.032970
+    PIH.DVPG BHI...PG 0.186090   AIH..... -1.000000
+    PIH.DVPG KIR...PG 1.000000
+    PIL.DVPG CTF.D.PG -1.000000   COH.V.PG -0.271680
+    PIL.DVPG BCV...PG 0.023430   BI5...PG 0.009760
+    PIL.DVPG BLN...PG 0.043810   BIN...PG 0.046670
+    PIL.DVPG BIP...PG 0.091200   BKE...PG 0.162000
+    PIL.DVPG BHL...PG 0.078750   BHH...PG 0.057420
+    PIL.DVPG BBU...PG 0.043960   BBV...PG 0.041920
+    PIL.DVPG BBC...PG 0.225030   BBA...PG 0.046650
+    PIL.DVPG BLI...PG 0.129410   AIL..... -1.000000
+    PIL.DVPG KIR...PG 1.000000
+    PKU.DVPG CTF.D.PG -1.000000   COH.V.PG -0.257810
+    PKU.DVPG BCV...PG 0.026680   BI5...PG 0.008720
+    PKU.DVPG BLN...PG 0.053840   BIN...PG 0.000250
+    PKU.DVPG BIP...PG 0.121660   BKE...PG 0.141740
+    PKU.DVPG BHL...PG 0.040980   BHH...PG 0.080340
+    PKU.DVPG BBU...PG 0.012730   BBV...PG 0.071090
+    PKU.DVPG BBC...PG 0.018870   BBA...PG 0.238940
+    PKU.DVPG BUK...PG 0.184140   AKU..... -1.000000
+    PMU.DVPG CTF.D.PG -1.000000   COH.V.PG -0.249190
+    PMU.DVPG BCV...PG 0.019830   BI5...PG 0.010950
+    PMU.DVPG BLN...PG 0.052370   BIN...PG 0.026140
+    PMU.DVPG BIP...PG 0.134930   BKE...PG 0.193130
+    PMU.DVPG BHL...PG 0.123210   BHH...PG 0.026600
+    PMU.DVPG BBU...PG 0.053960   BBV...PG 0.041020
+    PMU.DVPG BBE...PG 0.034520   BBC...PG 0.214670
+    PMU.DVPG BUM...PG 0.068660   AMU..... -1.000000
+    PAH.D1PG CTF.D.PG -1.000000   AAH..... -1.000000
+    PAH.D1PG BCV...PG 0.025790   BI5...PG 0.008120
+    PAH.D1PG BLN...PG 0.039600   BIN...PG -0.007860
+    PAH.D1PG BIP...PG 0.111910   BKE...PG 0.130620
+    PAH.D1PG BHL...PG 0.029870   BHH...PG 0.091860
+    PAH.D1PG BBU...PG 0.003600   BBV...PG 0.071830
+    PAH.D1PG BAH...PG 0.494650   KAR...PG 1.000000
+    PAL.D1PG CTF.D.PG -1.000000   BCV...PG 0.018350
+    PAL.D1PG BI5...PG 0.008650   BLN...PG 0.043700
+    PAL.D1PG BIN...PG 0.004910   BIP...PG 0.124890
+    PAL.D1PG BKE...PG 0.178950   BHL...PG 0.060480
+    PAL.D1PG BHH...PG 0.072710   BBU...PG 0.021080
+    PAL.D1PG BBV...PG 0.065990   BAL...PG 0.400280
+    PAL.D1PG AAL..... -1.000000   KAR...PG 1.000000
+    PAM.D1PG CTF.D.PG -1.000000   BCV...PG 0.012720
+    PAM.D1PG BI5...PG 0.007550   BLN...PG 0.042710
+    PAM.D1PG BIN...PG 0.003590   BIP...PG 0.117680
+    PAM.D1PG BKE...PG 0.144200   BHL...PG 0.046940
+    PAM.D1PG BHH...PG 0.075380   BBU...PG 0.015520
+    PAM.D1PG BBV...PG 0.066500   BAM...PG 0.467210
+    PAM.D1PG AAM..... -1.000000   KAR...PG 1.000000
+    PAX.D1PG CTF.D.PG -1.000000   BCV...PG 0.020370
+    PAX.D1PG BI5...PG 0.009350   BLN...PG 0.052270
+    PAX.D1PG BIN...PG 0.010770   BIP...PG 0.125670
+    PAX.D1PG BKE...PG 0.204480   BHL...PG 0.077910
+    PAX.D1PG BHH...PG 0.040930   BBU...PG 0.050490
+    PAX.D1PG BBV...PG 0.062960   BAX...PG 0.344790
+    PAX.D1PG AAX..... -1.000000   KAR...PG 1.000000
+    PIH.D1PG CTF.D.PG -1.000000   BCV...PG 0.027600
+    PIH.D1PG BI5...PG 0.010720   BLN...PG 0.041710
+    PIH.D1PG BIN...PG 0.052270   BIP...PG 0.081290
+    PIH.D1PG BKE...PG 0.151290   BHL...PG 0.053670
+    PIH.D1PG BHH...PG 0.068650   BBU...PG 0.035640
+    PIH.D1PG BBV...PG 0.042830   BIH...PG 0.434310
+    PIH.D1PG AIH..... -1.000000   KIR...PG 1.000000
+    PIL.D1PG CTF.D.PG -1.000000   BCV...PG 0.023430
+    PIL.D1PG BI5...PG 0.009760   BLN...PG 0.043810
+    PIL.D1PG BIN...PG 0.046670   BIP...PG 0.091200
+    PIL.D1PG BKE...PG 0.161990   BHL...PG 0.078750
+    PIL.D1PG BHH...PG 0.057420   BBU...PG 0.043960
+    PIL.D1PG BBV...PG 0.041920   BIL...PG 0.401100
+    PIL.D1PG AIL..... -1.000000   KIR...PG 1.000000
+    PKU.D1PG CTF.D.PG -1.000000   BCV...PG 0.026680
+    PKU.D1PG BI5...PG 0.008720   BLN...PG 0.053840
+    PKU.D1PG BIN...PG 0.000250   BIP...PG 0.121660
+    PKU.D1PG BKE...PG 0.141740   BHL...PG 0.040980
+    PKU.D1PG BHH...PG 0.080340   BBU...PG 0.012730
+    PKU.D1PG BBV...PG 0.071090   BKU...PG 0.441950
+    PKU.D1PG AKU..... -1.000000   LOBROW27857 1.000000
+    PMU.D1PG CTF.D.PG -1.000000   BCV...PG 0.019830
+    PMU.D1PG BI5...PG 0.010950   BLN...PG 0.052370
+    PMU.D1PG BIN...PG 0.026140   BIP...PG 0.134930
+    PMU.D1PG BKE...PG 0.193130   BHL...PG 0.123210
+    PMU.D1PG BHH...PG 0.026600   BBU...PG 0.053960
+    PMU.D1PG BBV...PG 0.041020   BMU...PG 0.317850
+    PMU.D1PG AMU..... -1.000000   LOBROW27858 1.000000
+    PBL.F1PG BBK...PG 1.000000   CF..F.PG -2.900000
+    PBL.F1PG BBL...PG -1.000000
+    PBN.F1PG BBM...PG 1.000000   CF..F.PG -2.900000
+    PBN.F1PG BBN...PG -1.000000
+    PBV.F1PG BBU...PG 1.000000   CF..F.PG -2.300000
+    PBV.F1PG BBV...PG -1.000000
+    PHH.F1PG BHL...PG 1.000000   CF..F.PG -1.500000
+    PHH.F1PG BHH...PG -1.000000
+    PBA.G2PG BRG...PG 0.003700   BIP...PG 0.003600
+    PBA.G2PG BBB...PG 1.004800   CF..G.PG -1.088400
+    PBA.G2PG BBA...PG -1.000000
+    PBC.G2PG BRG...PG 0.001600   BIP...PG 0.001600
+    PBC.G2PG BBD...PG 1.005500   CF..G.PG -0.933800
+    PBC.G2PG BBC...PG -1.000000
+    PQA.G2PG BSA...PG 1.000000   CF..G.PG -1.184000
+    PQA.G2PG BQA...PG -1.000000
+    PQH.G2PG BSH...PG 1.000000   CF..G.PG -1.309000
+    PQH.G2PG BQH...PG -1.000000
+    PQW.G2PG CF..G.PG -1.339000   BSW...PG 1.000000
+    PQW.G2PG BQW...PG -1.000000
+    PBZ.HBPG BNL...PG -0.084400   BRG...PG 0.035300
+    PBZ.HBPG BFR...PG -0.078000   BI5...PG 0.012000
+    PBZ.HBPG BLN...PG 0.028000   BIN...PG 0.049400
+    PBZ.HBPG BIP...PG 0.033600   BKE...PG 0.180000
+    PBZ.HBPG BHL...PG 0.310100   BHH...PG -0.019500
+    PBZ.HBPG BBU...PG -0.023000   BBV...PG 0.001400
+    PBZ.HBPG B9V...PG 0.500000   CF..H.PG -0.732000
+    PBZ.HBPG BBA...PG -0.573200   BBC...PG -0.426800
+    PBZ.H0PG BNL...PG -0.109100   BRG...PG 0.043300
+    PBZ.H0PG BFR...PG -0.112000   BI5...PG 0.021800
+    PBZ.H0PG BLN...PG 0.050800   BIN...PG 0.105500
+    PBZ.H0PG BIP...PG 0.071900   BKE...PG 0.347000
+    PBZ.H0PG BHL...PG 0.600600   BHH...PG -0.037800
+    PBZ.H0PG BBU...PG -0.044500   BBV...PG 0.002700
+    PBZ.H0PG CF..H.PG -1.000000   BBA...PG -0.573200
+    PBZ.H0PG BBC...PG -0.426800
+    PBZ.H1PG BNL...PG -0.137500   BRG...PG 0.211800
+    PBZ.H1PG BFR...PG -0.112000   BI5...PG 0.102900
+    PBZ.H1PG BLN...PG 0.240100   BIN...PG -0.171800
+    PBZ.H1PG BIP...PG 0.655800   BKE...PG 0.193000
+    PBZ.H1PG CF..H.PG -0.876000   BBA...PG -0.573200
+    PBZ.H1PG BBC...PG -0.426800
+    PBZ.H2PG BNL...PG -0.132100   BRG...PG 0.123100
+    PBZ.H2PG BFR...PG -0.112000   BI5...PG 0.075900
+    PBZ.H2PG BLN...PG 0.177100   BIN...PG -0.218000
+    PBZ.H2PG BIP...PG 0.832000   BKE...PG 0.246000
+    PBZ.H2PG CF..H.PG -0.843000   BBA...PG -0.573200
+    PBZ.H2PG BBC...PG -0.426800
+    PIB.P2PG BRG...PG 0.180200   B5D...PG 0.770000
+    PIB.P2PG CF..P.PG -0.990000   BIB...PG -1.000000
+    PIG.P2PG BRG...PG 0.106800   B5C...PG 0.893000
+    PIG.P2PG CF..P.PG -0.948700   BIG...PG -1.000000
+    PIN.P2PG BRG...PG 0.109800   B5A...PG 0.883000
+    PIN.P2PG CF..P.PG -0.942000   BIN...PG -1.000000
+    PIP.P2PG BRG...PG 0.189000   B5B...PG 0.760000
+    PIP.P2PG CF..P.PG -0.983300   BIP...PG -1.000000
+    PIB.P3PG BRG...PG 0.206200   B5H...PG 0.739000
+    PIB.P3PG CF..P.PG -1.014700   BIB...PG -1.000000
+    PIG.P3PG BRG...PG 0.133800   B5G...PG 0.862000
+    PIG.P3PG CF..P.PG -0.973300   BIG...PG -1.000000
+    PIN.P3PG BRG...PG 0.144400   B5E...PG 0.852000
+    PIN.P3PG CF..P.PG -0.967700   BIN...PG -1.000000
+    PIP.P3PG BRG...PG 0.214800   B5F...PG 0.729000
+    PIP.P3PG CF..P.PG -1.008000   BIP...PG -1.000000
+    PHA.Q1PG BRG...PG 0.326000   B5T...PG 0.140000
+    PHA.Q1PG BBK...PG -0.031000   BBL...PG 0.260000
+    PHA.Q1PG BQH...PG 0.256000   CF..Q.PG -1.066000
+    PHA.Q1PG BHA...PG -1.000000
+    PLA.Q1PG BRG...PG 0.280000   B5T...PG 0.152000
+    PLA.Q1PG BBK...PG 0.036000   BBL...PG 0.213000
+    PLA.Q1PG BQA...PG 0.279000   CF..Q.PG -1.000000
+    PLA.Q1PG BLA...PG -1.000000
+    PUK.Q1PG BRG...PG 0.294000   B5T...PG 0.148000
+    PUK.Q1PG BBK...PG -0.048000   BBL...PG 0.290000
+    PUK.Q1PG BQW...PG 0.272000   CF..Q.PG -1.014000
+    PUK.Q1PG BUK...PG -1.000000
+    PAH.R1PG BRG...PG 0.010700   BIP...PG 0.037500
+    PAH.R1PG BHL...PG 0.100000   B1H...PG 0.885000
+    PAH.R1PG CF..R.PG -1.113300   BAH...PG -1.000000
+    PAL.R1PG BRG...PG 0.004200   BIP...PG 0.015400
+    PAL.R1PG BHL...PG 0.100000   B1A...PG 0.896000
+    PAL.R1PG CF..R.PG -0.883600   BAL...PG -1.000000
+    PAM.R1PG BRG...PG 0.006500   BIP...PG 0.023000
+    PAM.R1PG BHL...PG 0.100000   B1K...PG 0.892000
+    PAM.R1PG CF..R.PG -1.003900   BAM...PG -1.000000
+    PIH.R1PG BRG...PG 0.006400   BIP...PG 0.022800
+    PIH.R1PG BHL...PG 0.100000   B1G...PG 0.892000
+    PIH.R1PG CF..R.PG -0.948700   BIH...PG -1.000000
+    PIL.R1PG BRG...PG 0.004800   BIP...PG 0.017200
+    PIL.R1PG BHL...PG 0.100000   B1I...PG 0.894000
+    PIL.R1PG CF..R.PG -0.879900   BIL...PG -1.000000
+    PKU.R1PG BRG...PG 0.006200   BIP...PG 0.021900
+    PKU.R1PG BHL...PG 0.100000   B1W...PG 0.895000
+    PKU.R1PG CF..R.PG -0.995100   BKU...PG -1.000000
+    PAH.R2PG BRG...PG 0.024600   BIP...PG 0.086900
+    PAH.R2PG BHL...PG 0.100000   CF..R.PG -1.484600
+    PAH.R2PG B2H...PG 0.843000   BAH...PG -1.000000
+    PAL.R2PG BRG...PG 0.010900   BIP...PG 0.038900
+    PAL.R2PG BHL...PG 0.100000   CF..R.PG -1.109400
+    PAL.R2PG B2A...PG 0.879000   BAL...PG -1.000000
+    PAM.R2PG BRG...PG 0.015400   BIP...PG 0.055000
+    PAM.R2PG BHL...PG 0.100000   CF..R.PG -1.279000
+    PAM.R2PG B2K...PG 0.869000   BAM...PG -1.000000
+    PIH.R2PG BRG...PG 0.014700   BIP...PG 0.052800
+    PIH.R2PG BHL...PG 0.100000   CF..R.PG -1.204500
+    PIH.R2PG B2G...PG 0.869000   BIH...PG -1.000000
+    PIL.R2PG BRG...PG 0.011100   BIP...PG 0.040500
+    PIL.R2PG BHL...PG 0.100000   CF..R.PG -1.094000
+    PIL.R2PG B2I...PG 0.877000   BIL...PG -1.000000
+    PKU.R2PG BRG...PG 0.015100   BIP...PG 0.053300
+    PKU.R2PG BHL...PG 0.100000   CF..R.PG -1.285700
+    PKU.R2PG B2W...PG 0.872000   BKU...PG -1.000000
+    BBK.DHSG BBK...SG -1.000000   BDH.VOSG 1.000000
+    BBK.DHSG XSU.DHSG 0.100000   XCI.DHSG 1.000000
+    BBL.DHSG BBL...SG -1.000000   BDH.VOSG 1.000000
+    BBL.DHSG XSU.DHSG 3.000000   XCI.DHSG 1.000000
+    BBM.DHSG BBM...SG -1.000000   BDH.VOSG 1.000000
+    BBM.DHSG XSU.DHSG 0.100000   XCI.DHSG 1.500000
+    BBN.DHSG BBN...SG -1.000000   BDH.VOSG 1.000000
+    BBN.DHSG XSU.DHSG 3.000000   XCI.DHSG 1.500000
+    BBU.DHSG BBU...SG -1.000000   BDH.VOSG 1.000000
+    BBU.DHSG XSU.DHSG 0.200000   XCI.DHSG 7.560000
+    BBV.DHSG BBV...SG -1.000000   BDH.VOSG 1.000000
+    BBV.DHSG XSU.DHSG 2.500000   XCI.DHSG 7.070000
+    BHH.DHSG BHH...SG -1.000000   BDH.VOSG 1.000000
+    BHH.DHSG XSU.DHSG 1.600000   XCI.DHSG 0.870000
+    BHL.DHSG BHL...SG -1.000000   BDH.VOSG 1.000000
+    BHL.DHSG XSU.DHSG 0.100000   XCI.DHSG 0.870000
+    BKE.DHSG BKE...SG -1.000000   BDH.VOSG 1.000000
+    BKE.DHSG XSU.DHSG 0.150000   XCI.DHSG 0.120000
+    BKH.DHSG BKH...SG -1.000000   BDH.VOSG 1.000000
+    BKH.DHSG XSU.DHSG 0.150000   XCI.DHSG 0.160000
+    BBB.FOSG BBB...SG -1.000000   BFO.VOSG 1.000000
+    BBB.FOSG BFO.WTSG 0.893700   XSU.FOSG 0.178740
+    BBB.FOSG XVI.FOSG 0.977000   NVI.FOSG 0.977000
+    BBD.FOSG BBD...SG -1.000000   BFO.VOSG 1.000000
+    BBD.FOSG BFO.WTSG 0.893100   XSU.FOSG 0.178620
+    BBD.FOSG XVI.FOSG 0.990000   NVI.FOSG 0.990000
+    BBO.FOSG BBO...SG -1.000000   BFO.VOSG 1.000000
+    BBO.FOSG BFO.WTSG 0.820000   XSU.FOSG 0.246000
+    BBO.FOSG XVI.FOSG 0.720000   NVI.FOSG 0.720000
+    BBP.FOSG BBP...SG -1.000000   BFO.VOSG 1.000000
+    BBP.FOSG BFO.WTSG 0.820000   XSU.FOSG 1.230000
+    BBP.FOSG XVI.FOSG 0.720000   NVI.FOSG 0.720000
+    BBW.FOSG BBW...SG -1.000000   BFO.VOSG 1.000000
+    BBW.FOSG BFO.WTSG 0.870000   XSU.FOSG 0.435000
+    BBW.FOSG XVI.FOSG 0.870000   NVI.FOSG 0.870000
+    BBY.FOSG BBY...SG -1.000000   BFO.VOSG 1.000000
+    BBY.FOSG BFO.WTSG 0.870000   XSU.FOSG 1.305000
+    BBY.FOSG XVI.FOSG 0.870000   NVI.FOSG 0.870000
+    BHM.FOSG BHM...SG -1.000000   BFO.VOSG 1.000000
+    BHM.FOSG BFO.WTSG 0.820000   XSU.FOSG 0.246000
+    BHM.FOSG XVI.FOSG 0.720000   NVI.FOSG 0.720000
+    BHN.FOSG BHN...SG -1.000000   BFO.VOSG 1.000000
+    BHN.FOSG BFO.WTSG 0.820000   XSU.FOSG 1.066000
+    BHN.FOSG XVI.FOSG 0.720000   NVI.FOSG 0.720000
+    BIM.FOSG BIM...SG -1.000000   BFO.VOSG 1.000000
+    BIM.FOSG BFO.WTSG 0.941360   XSU.FOSG 0.178930
+    BIM.FOSG XVI.FOSG 1.262000   NVI.FOSG 1.262000
+    BMI.FOSG BMI...SG -1.000000   BFO.VOSG 1.000000
+    BMI.FOSG BFO.WTSG 0.889620   XSU.FOSG 0.118150
+    BMI.FOSG XVI.FOSG 1.056000   NVI.FOSG 1.056000
+    BRS.FOSG BRS...SG -1.000000   BFO.VOSG 1.000000
+    BRS.FOSG BFO.WTSG 0.916320   XSU.FOSG 0.151180
+    BRS.FOSG XVI.FOSG 1.023000   NVI.FOSG 1.023000
+    BSA.FOSG BSA...SG -1.000000   BFO.VOSG 1.000000
+    BSA.FOSG BFO.WTSG 0.963200   XSU.FOSG 0.597180
+    BSA.FOSG XVI.FOSG 1.145000   NVI.FOSG 1.145000
+    BSH.FOSG BSH...SG -1.000000   BFO.VOSG 1.000000
+    BSH.FOSG BFO.WTSG 0.979200   XSU.FOSG 0.802940
+    BSH.FOSG XVI.FOSG 1.145000   NVI.FOSG 1.145000
+    BSR.FOSG BSR...SG -1.000000   BFO.VOSG 1.000000
+    BSR.FOSG BFO.WTSG 1.006080   XSU.FOSG 0.420740
+    BSR.FOSG XVI.FOSG 1.400000   NVI.FOSG 1.400000
+    BSW.FOSG BSW...SG -1.000000   BFO.VOSG 1.000000
+    BSW.FOSG BFO.WTSG 0.972500   XSU.FOSG 0.836350
+    BSW.FOSG XVI.FOSG 1.145000   NVI.FOSG 1.145000
+    B1A.FOSG B1A...SG -1.000000   BFO.VOSG 1.000000
+    B1A.FOSG BFO.WTSG 0.932600   XSU.FOSG 0.792710
+    B1A.FOSG XVI.FOSG 1.118000   NVI.FOSG 1.118000
+    B1G.FOSG B1G...SG -1.000000   BFO.VOSG 1.000000
+    B1G.FOSG BFO.WTSG 0.953100   XSU.FOSG 0.695760
+    B1G.FOSG XVI.FOSG 1.200000   NVI.FOSG 1.200000
+    B1H.FOSG B1H...SG -1.000000   BFO.VOSG 1.000000
+    B1H.FOSG BFO.WTSG 0.949200   XSU.FOSG 1.195990
+    B1H.FOSG XVI.FOSG 1.244000   NVI.FOSG 1.244000
+    B1I.FOSG B1I...SG -1.000000   BFO.VOSG 1.000000
+    B1I.FOSG BFO.WTSG 0.939400   XSU.FOSG 0.666970
+    B1I.FOSG XVI.FOSG 1.139000   NVI.FOSG 1.139000
+    B1K.FOSG B1K...SG -1.000000   BFO.VOSG 1.000000
+    B1K.FOSG BFO.WTSG 0.940000   XSU.FOSG 1.081000
+    B1K.FOSG XVI.FOSG 1.138000   NVI.FOSG 1.138000
+    B1W.FOSG B1W...SG -1.000000   BFO.VOSG 1.000000
+    B1W.FOSG BFO.WTSG 0.937200   XSU.FOSG 1.124640
+    B1W.FOSG XVI.FOSG 1.174000   NVI.FOSG 1.174000
+    B2A.FOSG B2A...SG -1.000000   BFO.VOSG 1.000000
+    B2A.FOSG BFO.WTSG 0.921400   XSU.FOSG 0.313280
+    B2A.FOSG XVI.FOSG 1.078000   NVI.FOSG 1.078000
+    B2G.FOSG B2G...SG -1.000000   BFO.VOSG 1.000000
+    B2G.FOSG BFO.WTSG 0.942200   XSU.FOSG 0.282660
+    B2G.FOSG XVI.FOSG 1.152000   NVI.FOSG 1.152000
+    B2H.FOSG B2H...SG -1.000000   BFO.VOSG 1.000000
+    B2H.FOSG BFO.WTSG 0.933600   XSU.FOSG 0.494810
+    B2H.FOSG XVI.FOSG 1.188000   NVI.FOSG 1.188000
+    B2I.FOSG B2I...SG -1.000000   BFO.VOSG 1.000000
+    B2I.FOSG BFO.WTSG 0.929300   XSU.FOSG 0.269500
+    B2I.FOSG XVI.FOSG 1.090000   NVI.FOSG 1.090000
+    B2K.FOSG B2K...SG -1.000000   BFO.VOSG 1.000000
+    B2K.FOSG BFO.WTSG 0.926600   XSU.FOSG 0.435500
+    B2K.FOSG XVI.FOSG 1.092000   NVI.FOSG 1.092000
+    B2W.FOSG B2W...SG -1.000000   BFO.VOSG 1.000000
+    B2W.FOSG BFO.WTSG 0.922600   XSU.FOSG 0.461300
+    B2W.FOSG XVI.FOSG 1.122000   NVI.FOSG 1.122000
+    B9E.FOSG B9E...SG -1.000000   BFO.VOSG 1.000000
+    B9E.FOSG BFO.WTSG 1.012200   XSU.FOSG 0.415000
+    B9E.FOSG XVI.FOSG 1.152000   NVI.FOSG 1.152000
+    B9F.FOSG B9F...SG -1.000000   BFO.VOSG 1.000000
+    B9F.FOSG BFO.WTSG 0.923600   XSU.FOSG 0.240140
+    B9F.FOSG XVI.FOSG 1.169000   NVI.FOSG 1.169000
+    B9L.FOSG B9L...SG -1.000000   BFO.VOSG 1.000000
+    B9L.FOSG BFO.WTSG 1.034400   XSU.FOSG 0.475820
+    B9L.FOSG XVI.FOSG 1.212000   NVI.FOSG 1.212000
+    B9M.FOSG B9M...SG -1.000000   BFO.VOSG 1.000000
+    B9M.FOSG BFO.WTSG 0.944000   XSU.FOSG 0.368160
+    B9M.FOSG XVI.FOSG 1.188000   NVI.FOSG 1.188000
+    B9S.FOSG B9S...SG -1.000000   BFO.VOSG 1.000000
+    B9S.FOSG BFO.WTSG 1.072800   XSU.FOSG 0.354020
+    B9S.FOSG XVI.FOSG 1.035000   NVI.FOSG 1.035000
+    BAH.FQSG BAH...SG -1.000000   BFQ.VOSG 1.000000
+    BAH.FQSG BFQ.WTSG 0.989360   XSU.FQSG 4.444220
+    BAH.FQSG XVI.FQSG 1.246000   NVI.FQSG 1.246000
+    BAK.FQSG BAK...SG -1.000000   BFQ.VOSG 1.000000
+    BAK.FQSG BFQ.WTSG 1.026940   XSU.FQSG 4.681760
+    BAK.FQSG XVI.FQSG 1.423000   NVI.FQSG 1.423000
+    BAL.FQSG BAL...SG -1.000000   BFQ.VOSG 1.000000
+    BAL.FQSG BFQ.WTSG 0.958370   XSU.FQSG 3.064560
+    BAL.FQSG XVI.FQSG 1.144000   NVI.FQSG 1.144000
+    BAM.FQSG BAM...SG -1.000000   BFQ.VOSG 1.000000
+    BAM.FQSG BFQ.WTSG 0.969970   XSU.FQSG 3.855710
+    BAM.FQSG XVI.FQSG 1.161000   NVI.FQSG 1.161000
+    BAX.FQSG BAX...SG -1.000000   BFQ.VOSG 1.000000
+    BAX.FQSG BFQ.WTSG 0.930250   XSU.FQSG 1.991310
+    BAX.FQSG XVI.FQSG 1.081000   NVI.FQSG 1.081000
+    BBB.FQSG BBB...SG -1.000000   BFQ.VOSG 1.000000
+    BBB.FQSG BFQ.WTSG 0.893700   XSU.FQSG 0.178740
+    BBB.FQSG XVI.FQSG 0.977000   NVI.FQSG 0.977000
+    BBD.FQSG BBD...SG -1.000000   BFQ.VOSG 1.000000
+    BBD.FQSG BFQ.WTSG 0.893100   XSU.FQSG 0.178620
+    BBD.FQSG XVI.FQSG 0.990000   NVI.FQSG 0.990000
+    BBO.FQSG BBO...SG -1.000000   BFQ.VOSG 1.000000
+    BBO.FQSG BFQ.WTSG 0.820000   XSU.FQSG 0.246000
+    BBO.FQSG XVI.FQSG 0.720000   NVI.FQSG 0.720000
+    BBP.FQSG BBP...SG -1.000000   BFQ.VOSG 1.000000
+    BBP.FQSG BFQ.WTSG 0.820000   XSU.FQSG 1.230000
+    BBP.FQSG XVI.FQSG 0.720000   NVI.FQSG 0.720000
+    BBW.FQSG BBW...SG -1.000000   BFQ.VOSG 1.000000
+    BBW.FQSG BFQ.WTSG 0.870000   XSU.FQSG 0.435000
+    BBW.FQSG XVI.FQSG 0.870000   NVI.FQSG 0.870000
+    BBY.FQSG BBY...SG -1.000000   BFQ.VOSG 1.000000
+    BBY.FQSG BFQ.WTSG 0.870000   XSU.FQSG 1.305000
+    BBY.FQSG XVI.FQSG 0.870000   NVI.FQSG 0.870000
+    BHA.FQSG BHA...SG -1.000000   BFQ.VOSG 1.000000
+    BHA.FQSG BFQ.WTSG 1.051520   XSU.FQSG 6.325920
+    BHA.FQSG XVI.FQSG 1.460000   NVI.FQSG 1.460000
+    BHI.FQSG BHI...SG -1.000000   BFQ.VOSG 1.000000
+    BHI.FQSG BFQ.WTSG 1.035270   XSU.FQSG 3.560070
+    BHI.FQSG XVI.FQSG 1.460000   NVI.FQSG 1.460000
+    BHM.FQSG BHM...SG -1.000000   BFQ.VOSG 1.000000
+    BHM.FQSG BFQ.WTSG 0.820000   XSU.FQSG 0.246000
+    BHM.FQSG XVI.FQSG 0.720000   NVI.FQSG 0.720000
+    BHN.FQSG BHN...SG -1.000000   BFQ.VOSG 1.000000
+    BHN.FQSG BFQ.WTSG 0.820000   XSU.FQSG 1.066000
+    BHN.FQSG XVI.FQSG 0.720000   NVI.FQSG 0.720000
+    BIH.FQSG BIH...SG -1.000000   BFQ.VOSG 1.000000
+    BIH.FQSG BFQ.WTSG 0.971950   XSU.FQSG 2.489180
+    BIH.FQSG XVI.FQSG 1.206000   NVI.FQSG 1.206000
+    BIL.FQSG BIL...SG -1.000000   BFQ.VOSG 1.000000
+    BIL.FQSG BFQ.WTSG 0.955070   XSU.FQSG 2.400240
+    BIL.FQSG XVI.FQSG 1.149000   NVI.FQSG 1.149000
+    BIM.FQSG BIM...SG -1.000000   BFQ.VOSG 1.000000
+    BIM.FQSG BFQ.WTSG 0.941360   XSU.FQSG 0.178930
+    BIM.FQSG XVI.FQSG 1.262000   NVI.FQSG 1.262000
+    BKA.FQSG BKA...SG -1.000000   BFQ.VOSG 1.000000
+    BKA.FQSG BFQ.WTSG 0.961630   XSU.FQSG 3.349490
+    BKA.FQSG XVI.FQSG 1.162000   NVI.FQSG 1.162000
+    BKU.FQSG BKU...SG -1.000000   BFQ.VOSG 1.000000
+    BKU.FQSG BFQ.WTSG 0.973400   XSU.FQSG 4.132130
+    BKU.FQSG XVI.FQSG 1.190000   NVI.FQSG 1.190000
+    BLA.FQSG BLA...SG -1.000000   BFQ.VOSG 1.000000
+    BLA.FQSG BFQ.WTSG 1.021730   XSU.FQSG 4.444390
+    BLA.FQSG XVI.FQSG 1.381000   NVI.FQSG 1.381000
+    BLI.FQSG BLI...SG -1.000000   BFQ.VOSG 1.000000
+    BLI.FQSG BFQ.WTSG 1.028430   XSU.FQSG 3.784260
+    BLI.FQSG XVI.FQSG 1.434000   NVI.FQSG 1.434000
+    BMA.FQSG BMA...SG -1.000000   BFQ.VOSG 1.000000
+    BMA.FQSG BFQ.WTSG 1.036740   XSU.FQSG 5.561150
+    BMA.FQSG XVI.FQSG 1.405000   NVI.FQSG 1.405000
+    BMI.FQSG BMI...SG -1.000000   BFQ.VOSG 1.000000
+    BMI.FQSG BFQ.WTSG 0.889620   XSU.FQSG 0.118150
+    BMI.FQSG XVI.FQSG 1.056000   NVI.FQSG 1.056000
+    BMN.FQSG BMN...SG -1.000000   BFQ.VOSG 1.000000
+    BMN.FQSG BFQ.WTSG 0.944950   XSU.FQSG 1.778980
+    BMN.FQSG XVI.FQSG 1.152000   NVI.FQSG 1.152000
+    BMO.FQSG BMO...SG -1.000000   BFQ.VOSG 1.000000
+    BMO.FQSG BFQ.WTSG 1.000830   XSU.FQSG 2.555180
+    BMO.FQSG XVI.FQSG 1.384000   NVI.FQSG 1.384000
+    BMU.FQSG BMU...SG -1.000000   BFQ.VOSG 1.000000
+    BMU.FQSG BFQ.WTSG 0.922450   XSU.FQSG 1.622720
+    BMU.FQSG XVI.FQSG 1.067000   NVI.FQSG 1.067000
+    BQA.FQSG BQA...SG -1.000000   BFQ.VOSG 1.000000
+    BQA.FQSG BFQ.WTSG 0.997000   XSU.FQSG 4.147520
+    BQA.FQSG XVI.FQSG 1.175000   NVI.FQSG 1.175000
+    BQH.FQSG BQH...SG -1.000000   BFQ.VOSG 1.000000
+    BQH.FQSG BFQ.WTSG 1.014000   XSU.FQSG 5.536440
+    BQH.FQSG XVI.FQSG 1.175000   NVI.FQSG 1.175000
+    BQT.FQSG BQT...SG -1.000000   BFQ.VOSG 1.000000
+    BQT.FQSG BFQ.WTSG 0.933200   XSU.FQSG 2.347740
+    BQT.FQSG XVI.FQSG 1.090000   NVI.FQSG 1.090000
+    BQW.FQSG BQW...SG -1.000000   BFQ.VOSG 1.000000
+    BQW.FQSG BFQ.WTSG 1.007000   XSU.FQSG 5.810390
+    BQW.FQSG XVI.FQSG 1.175000   NVI.FQSG 1.175000
+    BRS.FQSG BRS...SG -1.000000   BFQ.VOSG 1.000000
+    BRS.FQSG BFQ.WTSG 0.916320   XSU.FQSG 0.151180
+    BRS.FQSG XVI.FQSG 1.023000   NVI.FQSG 1.023000
+    BSA.FQSG BSA...SG -1.000000   BFQ.VOSG 1.000000
+    BSA.FQSG BFQ.WTSG 0.963200   XSU.FQSG 0.597180
+    BSA.FQSG XVI.FQSG 1.145000   NVI.FQSG 1.145000
+    BSH.FQSG BSH...SG -1.000000   BFQ.VOSG 1.000000
+    BSH.FQSG BFQ.WTSG 0.979200   XSU.FQSG 0.802940
+    BSH.FQSG XVI.FQSG 1.145000   NVI.FQSG 1.145000
+    BSR.FQSG BSR...SG -1.000000   BFQ.VOSG 1.000000
+    BSR.FQSG BFQ.WTSG 1.006080   XSU.FQSG 0.420740
+    BSR.FQSG XVI.FQSG 1.400000   NVI.FQSG 1.400000
+    BSW.FQSG BSW...SG -1.000000   BFQ.VOSG 1.000000
+    BSW.FQSG BFQ.WTSG 0.972500   XSU.FQSG 0.836350
+    BSW.FQSG XVI.FQSG 1.145000   NVI.FQSG 1.145000
+    BTQ.FQSG BTQ...SG -1.000000   BFQ.VOSG 1.000000
+    BTQ.FQSG BFQ.WTSG 0.999180   XSU.FQSG 3.936200
+    BTQ.FQSG XVI.FQSG 1.395000   NVI.FQSG 1.395000
+    BUK.FQSG BUK...SG -1.000000   BFQ.VOSG 1.000000
+    BUK.FQSG BFQ.WTSG 1.037550   XSU.FQSG 5.791860
+    BUK.FQSG XVI.FQSG 1.440000   NVI.FQSG 1.440000
+    BUM.FQSG BUM...SG -1.000000   BFQ.VOSG 1.000000
+    BUM.FQSG BFQ.WTSG 0.989990   XSU.FQSG 2.897960
+    BUM.FQSG XVI.FQSG 1.344000   NVI.FQSG 1.344000
+    BXA.FQSG BXA...SG -1.000000   BFQ.VOSG 1.000000
+    BXA.FQSG BFQ.WTSG 0.991990   XSU.FQSG 2.861130
+    BXA.FQSG XVI.FQSG 1.300000   NVI.FQSG 1.300000
+    B1A.FQSG B1A...SG -1.000000   BFQ.VOSG 1.000000
+    B1A.FQSG BFQ.WTSG 0.932600   XSU.FQSG 0.792710
+    B1A.FQSG XVI.FQSG 1.118000   NVI.FQSG 1.118000
+    B1G.FQSG B1G...SG -1.000000   BFQ.VOSG 1.000000
+    B1G.FQSG BFQ.WTSG 0.953100   XSU.FQSG 0.695760
+    B1G.FQSG XVI.FQSG 1.200000   NVI.FQSG 1.200000
+    B1H.FQSG B1H...SG -1.000000   BFQ.VOSG 1.000000
+    B1H.FQSG BFQ.WTSG 0.949200   XSU.FQSG 1.195990
+    B1H.FQSG XVI.FQSG 1.244000   NVI.FQSG 1.244000
+    B1I.FQSG B1I...SG -1.000000   BFQ.VOSG 1.000000
+    B1I.FQSG BFQ.WTSG 0.939400   XSU.FQSG 0.666970
+    B1I.FQSG XVI.FQSG 1.139000   NVI.FQSG 1.139000
+    B1K.FQSG B1K...SG -1.000000   BFQ.VOSG 1.000000
+    B1K.FQSG BFQ.WTSG 0.940000   XSU.FQSG 1.081000
+    B1K.FQSG XVI.FQSG 1.138000   NVI.FQSG 1.138000
+    B1W.FQSG B1W...SG -1.000000   BFQ.VOSG 1.000000
+    B1W.FQSG BFQ.WTSG 0.937200   XSU.FQSG 1.124640
+    B1W.FQSG XVI.FQSG 1.174000   NVI.FQSG 1.174000
+    B2A.FQSG B2A...SG -1.000000   BFQ.VOSG 1.000000
+    B2A.FQSG BFQ.WTSG 0.921400   XSU.FQSG 0.313280
+    B2A.FQSG XVI.FQSG 1.078000   NVI.FQSG 1.078000
+    B2G.FQSG B2G...SG -1.000000   BFQ.VOSG 1.000000
+    B2G.FQSG BFQ.WTSG 0.942200   XSU.FQSG 0.282660
+    B2G.FQSG XVI.FQSG 1.152000   NVI.FQSG 1.152000
+    B2H.FQSG B2H...SG -1.000000   BFQ.VOSG 1.000000
+    B2H.FQSG BFQ.WTSG 0.933600   XSU.FQSG 0.494810
+    B2H.FQSG XVI.FQSG 1.188000   NVI.FQSG 1.188000
+    B2I.FQSG B2I...SG -1.000000   BFQ.VOSG 1.000000
+    B2I.FQSG BFQ.WTSG 0.929300   XSU.FQSG 0.269500
+    B2I.FQSG XVI.FQSG 1.090000   NVI.FQSG 1.090000
+    B2K.FQSG B2K...SG -1.000000   BFQ.VOSG 1.000000
+    B2K.FQSG BFQ.WTSG 0.926600   XSU.FQSG 0.435500
+    B2K.FQSG XVI.FQSG 1.092000   NVI.FQSG 1.092000
+    B2W.FQSG B2W...SG -1.000000   BFQ.VOSG 1.000000
+    B2W.FQSG BFQ.WTSG 0.922600   XSU.FQSG 0.461300
+    B2W.FQSG XVI.FQSG 1.122000   NVI.FQSG 1.122000
+    B8A.FQSG B8A...SG -1.000000   BFQ.VOSG 1.000000
+    B8A.FQSG BFQ.WTSG 1.107000   XSU.FQSG 7.859700
+    B8A.FQSG XVI.FQSG 1.113000   NVI.FQSG 1.113000
+    B8H.FQSG B8H...SG -1.000000   BFQ.VOSG 1.000000
+    B8H.FQSG BFQ.WTSG 1.107000   XSU.FQSG 6.475950
+    B8H.FQSG XVI.FQSG 1.113000   NVI.FQSG 1.113000
+    B8W.FQSG B8W...SG -1.000000   BFQ.VOSG 1.000000
+    B8W.FQSG BFQ.WTSG 1.107000   XSU.FQSG 8.202870
+    B8W.FQSG XVI.FQSG 1.113000   NVI.FQSG 1.113000
+    B9A.FQSG B9A...SG -1.000000   BFQ.VOSG 1.000000
+    B9A.FQSG BFQ.WTSG 1.086800   XSU.FQSG 6.520800
+    B9A.FQSG XVI.FQSG 1.228000   NVI.FQSG 1.228000
+    B9C.FQSG B9C...SG -1.000000   BFQ.VOSG 1.000000
+    B9C.FQSG BFQ.WTSG 1.080600   XSU.FQSG 3.241800
+    B9C.FQSG XVI.FQSG 1.221000   NVI.FQSG 1.221000
+    B9E.FQSG B9E...SG -1.000000   BFQ.VOSG 1.000000
+    B9E.FQSG BFQ.WTSG 1.012200   XSU.FQSG 0.415000
+    B9E.FQSG XVI.FQSG 1.152000   NVI.FQSG 1.152000
+    B9F.FQSG B9F...SG -1.000000   BFQ.VOSG 1.000000
+    B9F.FQSG BFQ.WTSG 0.923600   XSU.FQSG 0.240140
+    B9F.FQSG XVI.FQSG 1.169000   NVI.FQSG 1.169000
+    B9G.FQSG B9G...SG -1.000000   BFQ.VOSG 1.000000
+    B9G.FQSG BFQ.WTSG 0.979200   XSU.FQSG 3.427200
+    B9G.FQSG XVI.FQSG 1.230000   NVI.FQSG 1.230000
+    B9H.FQSG B9H...SG -1.000000   BFQ.VOSG 1.000000
+    B9H.FQSG BFQ.WTSG 1.140500   XSU.FQSG 7.869450
+    B9H.FQSG XVI.FQSG 1.275000   NVI.FQSG 1.275000
+    B9J.FQSG B9J...SG -1.000000   BFQ.VOSG 1.000000
+    B9J.FQSG BFQ.WTSG 1.132800   XSU.FQSG 3.964800
+    B9J.FQSG XVI.FQSG 1.281000   NVI.FQSG 1.281000
+    B9L.FQSG B9L...SG -1.000000   BFQ.VOSG 1.000000
+    B9L.FQSG BFQ.WTSG 1.034400   XSU.FQSG 0.475820
+    B9L.FQSG XVI.FQSG 1.212000   NVI.FQSG 1.212000
+    B9M.FQSG B9M...SG -1.000000   BFQ.VOSG 1.000000
+    B9M.FQSG BFQ.WTSG 0.944000   XSU.FQSG 0.368160
+    B9M.FQSG XVI.FQSG 1.188000   NVI.FQSG 1.188000
+    B9N.FQSG B9N...SG -1.000000   BFQ.VOSG 1.000000
+    B9N.FQSG BFQ.WTSG 1.031300   XSU.FQSG 5.259630
+    B9N.FQSG XVI.FQSG 1.276000   NVI.FQSG 1.276000
+    B9O.FQSG B9O...SG -1.000000   BFQ.VOSG 1.000000
+    B9O.FQSG BFQ.WTSG 1.119500   XSU.FQSG 5.463160
+    B9O.FQSG XVI.FQSG 1.070000   NVI.FQSG 1.070000
+    B9Q.FQSG B9Q...SG -1.000000   BFQ.VOSG 1.000000
+    B9Q.FQSG BFQ.WTSG 1.114200   XSU.FQSG 2.629510
+    B9Q.FQSG XVI.FQSG 1.060000   NVI.FQSG 1.060000
+    B9S.FQSG B9S...SG -1.000000   BFQ.VOSG 1.000000
+    B9S.FQSG BFQ.WTSG 1.072800   XSU.FQSG 0.354020
+    B9S.FQSG XVI.FQSG 1.035000   NVI.FQSG 1.035000
+    BAH.FYSG BAH...SG -1.000000   BFY.VOSG 1.000000
+    BAH.FYSG BFY.WTSG 0.989360   XSU.FYSG 4.444220
+    BAH.FYSG XVI.FYSG 1.246000   NVI.FYSG 1.246000
+    BAK.FYSG BAK...SG -1.000000   BFY.VOSG 1.000000
+    BAK.FYSG BFY.WTSG 1.026940   XSU.FYSG 4.681760
+    BAK.FYSG XVI.FYSG 1.423000   NVI.FYSG 1.423000
+    BAL.FYSG BAL...SG -1.000000   BFY.VOSG 1.000000
+    BAL.FYSG BFY.WTSG 0.958370   XSU.FYSG 3.064560
+    BAL.FYSG XVI.FYSG 1.144000   NVI.FYSG 1.144000
+    BAM.FYSG BAM...SG -1.000000   BFY.VOSG 1.000000
+    BAM.FYSG BFY.WTSG 0.969970   XSU.FYSG 3.855710
+    BAM.FYSG XVI.FYSG 1.161000   NVI.FYSG 1.161000
+    BAX.FYSG BAX...SG -1.000000   BFY.VOSG 1.000000
+    BAX.FYSG BFY.WTSG 0.930250   XSU.FYSG 1.991310
+    BAX.FYSG XVI.FYSG 1.081000   NVI.FYSG 1.081000
+    BBO.FYSG BBO...SG -1.000000   BFY.VOSG 1.000000
+    BBO.FYSG BFY.WTSG 0.820000   XSU.FYSG 0.246000
+    BBO.FYSG XVI.FYSG 0.720000   NVI.FYSG 0.720000
+    BBP.FYSG BBP...SG -1.000000   BFY.VOSG 1.000000
+    BBP.FYSG BFY.WTSG 0.820000   XSU.FYSG 1.230000
+    BBP.FYSG XVI.FYSG 0.720000   NVI.FYSG 0.720000
+    BBW.FYSG BBW...SG -1.000000   BFY.VOSG 1.000000
+    BBW.FYSG BFY.WTSG 0.870000   XSU.FYSG 0.435000
+    BBW.FYSG XVI.FYSG 0.870000   NVI.FYSG 0.870000
+    BBY.FYSG BBY...SG -1.000000   BFY.VOSG 1.000000
+    BBY.FYSG BFY.WTSG 0.870000   XSU.FYSG 1.305000
+    BBY.FYSG XVI.FYSG 0.870000   NVI.FYSG 0.870000
+    BEO.FYSG BEO...SG -1.000000   BFY.VOSG 1.000000
+    BEO.FYSG BFY.WTSG 1.008600   XSU.FYSG 5.627990
+    BEO.FYSG XVI.FYSG 1.284000   NVI.FYSG 1.284000
+    BHA.FYSG BHA...SG -1.000000   BFY.VOSG 1.000000
+    BHA.FYSG BFY.WTSG 1.051520   XSU.FYSG 6.325920
+    BHA.FYSG XVI.FYSG 1.460000   NVI.FYSG 1.460000
+    BHI.FYSG BHI...SG -1.000000   BFY.VOSG 1.000000
+    BHI.FYSG BFY.WTSG 1.035270   XSU.FYSG 3.560070
+    BHI.FYSG XVI.FYSG 1.460000   NVI.FYSG 1.460000
+    BHM.FYSG BHM...SG -1.000000   BFY.VOSG 1.000000
+    BHM.FYSG BFY.WTSG 0.820000   XSU.FYSG 0.246000
+    BHM.FYSG XVI.FYSG 0.720000   NVI.FYSG 0.720000
+    BHN.FYSG BHN...SG -1.000000   BFY.VOSG 1.000000
+    BHN.FYSG BFY.WTSG 0.820000   XSU.FYSG 1.066000
+    BHN.FYSG XVI.FYSG 0.720000   NVI.FYSG 0.720000
+    BIH.FYSG BIH...SG -1.000000   BFY.VOSG 1.000000
+    BIH.FYSG BFY.WTSG 0.971950   XSU.FYSG 2.489180
+    BIH.FYSG XVI.FYSG 1.206000   NVI.FYSG 1.206000
+    BIL.FYSG BIL...SG -1.000000   BFY.VOSG 1.000000
+    BIL.FYSG BFY.WTSG 0.955070   XSU.FYSG 2.400240
+    BIL.FYSG XVI.FYSG 1.149000   NVI.FYSG 1.149000
+    BIR.FYSG BIR...SG -1.000000   BFY.VOSG 1.000000
+    BIR.FYSG BFY.WTSG 0.967590   XSU.FYSG 4.163000
+    BIR.FYSG XVI.FYSG 1.165000   NVI.FYSG 1.165000
+    BKA.FYSG BKA...SG -1.000000   BFY.VOSG 1.000000
+    BKA.FYSG BFY.WTSG 0.961630   XSU.FYSG 3.349490
+    BKA.FYSG XVI.FYSG 1.162000   NVI.FYSG 1.162000
+    BKU.FYSG BKU...SG -1.000000   BFY.VOSG 1.000000
+    BKU.FYSG BFY.WTSG 0.973400   XSU.FYSG 4.132130
+    BKU.FYSG XVI.FYSG 1.190000   NVI.FYSG 1.190000
+    BLA.FYSG BLA...SG -1.000000   BFY.VOSG 1.000000
+    BLA.FYSG BFY.WTSG 1.021730   XSU.FYSG 4.444390
+    BLA.FYSG XVI.FYSG 1.381000   NVI.FYSG 1.381000
+    BLI.FYSG BLI...SG -1.000000   BFY.VOSG 1.000000
+    BLI.FYSG BFY.WTSG 1.028430   XSU.FYSG 3.784260
+    BLI.FYSG XVI.FYSG 1.434000   NVI.FYSG 1.434000
+    BMA.FYSG BMA...SG -1.000000   BFY.VOSG 1.000000
+    BMA.FYSG BFY.WTSG 1.036740   XSU.FYSG 5.561150
+    BMA.FYSG XVI.FYSG 1.405000   NVI.FYSG 1.405000
+    BMN.FYSG BMN...SG -1.000000   BFY.VOSG 1.000000
+    BMN.FYSG BFY.WTSG 0.944950   XSU.FYSG 1.778980
+    BMN.FYSG XVI.FYSG 1.152000   NVI.FYSG 1.152000
+    BMO.FYSG BMO...SG -1.000000   BFY.VOSG 1.000000
+    BMO.FYSG BFY.WTSG 1.000830   XSU.FYSG 2.555180
+    BMO.FYSG XVI.FYSG 1.384000   NVI.FYSG 1.384000
+    BMU.FYSG BMU...SG -1.000000   BFY.VOSG 1.000000
+    BMU.FYSG BFY.WTSG 0.922450   XSU.FYSG 1.622720
+    BMU.FYSG XVI.FYSG 1.067000   NVI.FYSG 1.067000
+    BQA.FYSG BQA...SG -1.000000   BFY.VOSG 1.000000
+    BQA.FYSG BFY.WTSG 0.997000   XSU.FYSG 4.147520
+    BQA.FYSG XVI.FYSG 1.175000   NVI.FYSG 1.175000
+    BQH.FYSG BQH...SG -1.000000   BFY.VOSG 1.000000
+    BQH.FYSG BFY.WTSG 1.014000   XSU.FYSG 5.536440
+    BQH.FYSG XVI.FYSG 1.175000   NVI.FYSG 1.175000
+    BQT.FYSG BQT...SG -1.000000   BFY.VOSG 1.000000
+    BQT.FYSG BFY.WTSG 0.933200   XSU.FYSG 2.347740
+    BQT.FYSG XVI.FYSG 1.090000   NVI.FYSG 1.090000
+    BQW.FYSG BQW...SG -1.000000   BFY.VOSG 1.000000
+    BQW.FYSG BFY.WTSG 1.007000   XSU.FYSG 5.810390
+    BQW.FYSG XVI.FYSG 1.175000   NVI.FYSG 1.175000
+    BRI.FYSG BRI...SG -1.000000   BFY.VOSG 1.000000
+    BRI.FYSG BFY.WTSG 1.031500   XSU.FYSG 6.043990
+    BRI.FYSG XVI.FYSG 1.420000   NVI.FYSG 1.420000
+    BTQ.FYSG BTQ...SG -1.000000   BFY.VOSG 1.000000
+    BTQ.FYSG BFY.WTSG 0.999180   XSU.FYSG 3.936200
+    BTQ.FYSG XVI.FYSG 1.395000   NVI.FYSG 1.395000
+    BUK.FYSG BUK...SG -1.000000   BFY.VOSG 1.000000
+    BUK.FYSG BFY.WTSG 1.037550   XSU.FYSG 5.791860
+    BUK.FYSG XVI.FYSG 1.440000   NVI.FYSG 1.440000
+    BUM.FYSG BUM...SG -1.000000   BFY.VOSG 1.000000
+    BUM.FYSG BFY.WTSG 0.989990   XSU.FYSG 2.897960
+    BUM.FYSG XVI.FYSG 1.344000   NVI.FYSG 1.344000
+    BXA.FYSG BXA...SG -1.000000   BFY.VOSG 1.000000
+    BXA.FYSG BFY.WTSG 0.991990   XSU.FYSG 2.861130
+    BXA.FYSG XVI.FYSG 1.300000   NVI.FYSG 1.300000
+    BZN.FYSG BZN...SG -1.000000   BFY.VOSG 1.000000
+    BZN.FYSG BFY.WTSG 1.061500   XSU.FYSG 6.899750
+    BZN.FYSG XVI.FYSG 1.460000   NVI.FYSG 1.460000
+    B8A.FYSG B8A...SG -1.000000   BFY.VOSG 1.000000
+    B8A.FYSG BFY.WTSG 1.107000   XSU.FYSG 7.859700
+    B8A.FYSG XVI.FYSG 1.113000   NVI.FYSG 1.113000
+    B8H.FYSG B8H...SG -1.000000   BFY.VOSG 1.000000
+    B8H.FYSG BFY.WTSG 1.107000   XSU.FYSG 6.475950
+    B8H.FYSG XVI.FYSG 1.113000   NVI.FYSG 1.113000
+    B8W.FYSG B8W...SG -1.000000   BFY.VOSG 1.000000
+    B8W.FYSG BFY.WTSG 1.107000   XSU.FYSG 8.202870
+    B8W.FYSG XVI.FYSG 1.113000   NVI.FYSG 1.113000
+    B9A.FYSG B9A...SG -1.000000   BFY.VOSG 1.000000
+    B9A.FYSG BFY.WTSG 1.086800   XSU.FYSG 6.520800
+    B9A.FYSG XVI.FYSG 1.228000   NVI.FYSG 1.228000
+    B9C.FYSG B9C...SG -1.000000   BFY.VOSG 1.000000
+    B9C.FYSG BFY.WTSG 1.080600   XSU.FYSG 3.241800
+    B9C.FYSG XVI.FYSG 1.221000   NVI.FYSG 1.221000
+    B9G.FYSG B9G...SG -1.000000   BFY.VOSG 1.000000
+    B9G.FYSG BFY.WTSG 0.979200   XSU.FYSG 3.427200
+    B9G.FYSG XVI.FYSG 1.230000   NVI.FYSG 1.230000
+    B9H.FYSG B9H...SG -1.000000   BFY.VOSG 1.000000
+    B9H.FYSG BFY.WTSG 1.140500   XSU.FYSG 7.869450
+    B9H.FYSG XVI.FYSG 1.275000   NVI.FYSG 1.275000
+    B9J.FYSG B9J...SG -1.000000   BFY.VOSG 1.000000
+    B9J.FYSG BFY.WTSG 1.132800   XSU.FYSG 3.964800
+    B9J.FYSG XVI.FYSG 1.281000   NVI.FYSG 1.281000
+    B9N.FYSG B9N...SG -1.000000   BFY.VOSG 1.000000
+    B9N.FYSG BFY.WTSG 1.031300   XSU.FYSG 5.259630
+    B9N.FYSG XVI.FYSG 1.276000   NVI.FYSG 1.276000
+    B9O.FYSG B9O...SG -1.000000   BFY.VOSG 1.000000
+    B9O.FYSG BFY.WTSG 1.119500   XSU.FYSG 5.463160
+    B9O.FYSG XVI.FYSG 1.070000   NVI.FYSG 1.070000
+    B9Q.FYSG B9Q...SG -1.000000   BFY.VOSG 1.000000
+    B9Q.FYSG BFY.WTSG 1.114200   XSU.FYSG 2.629510
+    B9Q.FYSG XVI.FYSG 1.060000   NVI.FYSG 1.060000
+    B/A.GPSG B/A...SG -1.000000   BGP.VOSG 1.000000
+    B/A.GPSG NRN.GPSG 0.639000   ND2.GPSG 0.281000
+    B/A.GPSG WVP.GPSG 0.380000   WD8.GPSG 0.085000
+    BIP.GPSG BIP...SG -1.000000   BGP.VOSG 1.000000
+    BIP.GPSG NRN.GPSG 0.486000   ND2.GPSG 0.137000
+    BIP.GPSG WVP.GPSG 0.110000   WD8.GPSG -0.016000
+    BLN.GPSG BLN...SG -1.000000   BGP.VOSG 1.000000
+    BLN.GPSG NRN.GPSG 0.555000   ND2.GPSG 1.080000
+    BLN.GPSG WVP.GPSG 1.040000   WD8.GPSG 0.580000
+    BN4.GPSG BN4...SG -1.000000   BGP.VOSG 1.000000
+    BN4.GPSG NRN.GPSG 0.668000   ND2.GPSG 1.000000
+    BN4.GPSG WVP.GPSG 6.500000   WD8.GPSG 1.040000
+    B0A.GPSG B0A...SG -1.000000   BGP.VOSG 1.000000
+    B0A.GPSG NRN.GPSG 0.639000   ND2.GPSG 0.281000
+    B0A.GPSG WVP.GPSG 0.380000   WD8.GPSG 0.085000
+    B4A.GPSG B4A...SG -1.000000   BGP.VOSG 1.000000
+    B4A.GPSG NRN.GPSG 0.643200   ND2.GPSG 0.486000
+    B4A.GPSG WVP.GPSG 0.700000   WD8.GPSG 0.187000
+    B4C.GPSG B4C...SG -1.000000   BGP.VOSG 1.000000
+    B4C.GPSG NRN.GPSG 0.645700   ND2.GPSG 0.551000
+    B4C.GPSG WVP.GPSG 0.790000   WD8.GPSG 0.235000
+    B4E.GPSG B4E...SG -1.000000   BGP.VOSG 1.000000
+    B4E.GPSG NRN.GPSG 0.645200   ND2.GPSG 0.569000
+    B4E.GPSG WVP.GPSG 0.780000   WD8.GPSG 0.226000
+    B4F.GPSG B4F...SG -1.000000   BGP.VOSG 1.000000
+    B4F.GPSG NRN.GPSG 0.644800   ND2.GPSG 0.527000
+    B4F.GPSG WVP.GPSG 0.760000   WD8.GPSG 0.217000
+    B4G.GPSG B4G...SG -1.000000   BGP.VOSG 1.000000
+    B4G.GPSG NRN.GPSG 0.643400   ND2.GPSG 0.492000
+    B4G.GPSG WVP.GPSG 0.710000   WD8.GPSG 0.192000
+    B4H.GPSG B4H...SG -1.000000   BGP.VOSG 1.000000
+    B4H.GPSG NRN.GPSG 0.647500   ND2.GPSG 0.600000
+    B4H.GPSG WVP.GPSG 0.860000   WD8.GPSG 0.271000
+    B4J.GPSG B4J...SG -1.000000   BGP.VOSG 1.000000
+    B4J.GPSG NRN.GPSG 0.640600   ND2.GPSG 0.682000
+    B4J.GPSG WVP.GPSG 0.980000   WD8.GPSG 0.331000
+    B4L.GPSG B4L...SG -1.000000   BGP.VOSG 1.000000
+    B4L.GPSG NRN.GPSG 0.649500   ND2.GPSG 0.654000
+    B4L.GPSG WVP.GPSG 0.940000   WD8.GPSG 0.311000
+    B4M.GPSG B4M...SG -1.000000   BGP.VOSG 1.000000
+    B4M.GPSG NRN.GPSG 0.648900   ND2.GPSG 0.638000
+    B4M.GPSG WVP.GPSG 0.920000   WD8.GPSG 0.299000
+    B4N.GPSG B4N...SG -1.000000   BGP.VOSG 1.000000
+    B4N.GPSG NRN.GPSG 0.647900   ND2.GPSG 0.612000
+    B4N.GPSG WVP.GPSG 0.880000   WD8.GPSG 0.280000
+    B4O.GPSG B4O...SG -1.000000   BGP.VOSG 1.000000
+    B4O.GPSG NRN.GPSG 0.650000   ND2.GPSG 0.462000
+    B4O.GPSG WVP.GPSG 0.580000   WD8.GPSG 0.222000
+    B4Q.GPSG B4Q...SG -1.000000   BGP.VOSG 1.000000
+    B4Q.GPSG NRN.GPSG 0.650000   ND2.GPSG 0.464000
+    B4Q.GPSG WVP.GPSG 0.580000   WD8.GPSG 0.224000
+    B4S.GPSG B4S...SG -1.000000   BGP.VOSG 1.000000
+    B4S.GPSG NRN.GPSG 0.648000   ND2.GPSG 0.489000
+    B4S.GPSG WVP.GPSG 0.600000   WD8.GPSG 0.253000
+    B5A.GPSG B5A...SG -1.000000   BGP.VOSG 1.000000
+    B5A.GPSG NRN.GPSG 0.668000   ND2.GPSG 0.239000
+    B5A.GPSG WVP.GPSG 0.230000   WD8.GPSG -0.040000
+    B5B.GPSG B5B...SG -1.000000   BGP.VOSG 1.000000
+    B5B.GPSG NRN.GPSG 0.672000   ND2.GPSG 0.334000
+    B5B.GPSG WVP.GPSG 0.370000   WD8.GPSG 0.049000
+    B5C.GPSG B5C...SG -1.000000   BGP.VOSG 1.000000
+    B5C.GPSG NRN.GPSG 0.667000   ND2.GPSG 0.191000
+    B5C.GPSG WVP.GPSG 0.220000   WD8.GPSG -0.049000
+    B5D.GPSG B5D...SG -1.000000   BGP.VOSG 1.000000
+    B5D.GPSG NRN.GPSG 0.671000   ND2.GPSG 0.286000
+    B5D.GPSG WVP.GPSG 0.360000   WD8.GPSG 0.040000
+    B5E.GPSG B5E...SG -1.000000   BGP.VOSG 1.000000
+    B5E.GPSG NRN.GPSG 0.701000   ND2.GPSG 0.241000
+    B5E.GPSG WVP.GPSG 0.250000   WD8.GPSG -0.024000
+    B5F.GPSG B5F...SG -1.000000   BGP.VOSG 1.000000
+    B5F.GPSG NRN.GPSG 0.705000   ND2.GPSG 0.336000
+    B5F.GPSG WVP.GPSG 0.390000   WD8.GPSG 0.065000
+    B5G.GPSG B5G...SG -1.000000   BGP.VOSG 1.000000
+    B5G.GPSG NRN.GPSG 0.700000   ND2.GPSG 0.193000
+    B5G.GPSG WVP.GPSG 0.240000   WD8.GPSG -0.033000
+    B5H.GPSG B5H...SG -1.000000   BGP.VOSG 1.000000
+    B5H.GPSG NRN.GPSG 0.704000   ND2.GPSG 0.288000
+    B5H.GPSG WVP.GPSG 0.380000   WD8.GPSG 0.056000
+    CFT.C.SG CFT.C.SG 1.000000   BFR...SG -0.012000
+    CFT.C.SG UPBROW27859 1.000000
+    CTF.D.SG CTF.D.SG 1.000000   KWC..... 0.999000
+    CTF.D.SG FAT0..J. 0.063000   BFR...SG -0.025000
+    CTF.D.SG UPBROW27860 1.000000
+    CF..G.SG CF..G.SG 1.000000   FAT0..J. 0.245000
+    CF..G.SG BFR...SG -0.024000   BNL...SG -0.022100
+    CF..G.SG UPBROW27861 1.000000
+    CF..P.SG CF..P.SG 1.000000   FAT0..J. 0.468000
+    CF..P.SG BFR...SG -0.044000   UPBROW27862 1.000000
+    COH.V.SG COH.V.SG 1.000000   FAT0..J. 0.125000
+    COH.V.SG BFR...SG -0.014000   UPBROW27863 1.000000
+    DDH...SG BDH...SG -1.000000   FAT0..J. -100.000000
+    DDH...SG UPBROW27864 1.000000
+    DDK...SG BDK...SG -1.000000   FAT0..J. -100.000000
+    DDK...SG UPBROW27865 1.000000
+    DFU...SG BFU...SG -1.000000   FAT0..J. -100.000000
+    DFU...SG UPBROW27866 1.000000
+    DFY...SG BFY...SG -1.000000   FAT0..J. -100.000000
+    DFY...SG UPBROW27867 1.000000
+    DGP...SG BGP...SG -1.000000   FAT0..J. -100.000000
+    DGP...SG UPBROW27868 1.000000
+    DLG...SG BLG...SG -1.000000   FAT0..J. -100.000000
+    DLG...SG UPBROW27869 1.000000
+    DNJ...SG BNJ...SG -1.000000   FAT0..J. -100.000000
+    DNJ...SG LOBROW27870 1.000000
+    DNL...SG BNL...SG -1.000000   FAT0..J. -100.000000
+    DNL...SG UPBROW27871 1.000000
+    DNP...SG BNP...SG -1.000000   FAT0..J. -100.000000
+    DNP...SG UPBROW27872 1.000000
+    DOA...SG BOA...SG -1.000000   FAT0..J. -100.000000
+    DOA...SG UPBROW27873 1.000000
+    DOL...SG BOL...SG -1.000000   FAT0..J. -100.000000
+    DOL...SG UPBROW27874 1.000000
+    IFT.C.SG CFT.C.SG 1.000000   FAT0..J. 1.204000
+    IFT.C.SG BFR...SG -0.012000
+    ITF.D.SG CTF.D.SG 1.000000   KWC..... 0.999000
+    ITF.D.SG FAT0..J. 0.822000   BFR...SG -0.025000
+    IF..F.SG CF..F.SG 1.000000   FAT0..J. 0.473000
+    IF..F.SG BFR...SG -0.015000   BRG...SG -0.006000
+    IF..G.SG CF..G.SG 1.000000   FAT0..J. 1.406000
+    IF..G.SG BFR...SG -0.024000   BNL...SG -0.022100
+    IF..P.SG CF..P.SG 1.000000   FAT0..J. 1.322000
+    IF..P.SG BFR...SG -0.044000
+    IF..Q.SG CF..Q.SG 1.000000   FAT0..J. 3.470000
+    IF..Q.SG BFR...SG -0.032000
+    IF..R.SG CF..R.SG 1.000000   FAT0..J. 2.595000
+    IF..R.SG BFR...SG -0.050000   BNL...SG -0.044200
+    IOH.V.SG COH.V.SG 1.000000   FAT0..J. 1.204000
+    IOH.V.SG BFR...SG -0.014000
+    MBK.BLSG BBL...SG 1.000000   BBK...SG -1.000000
+    MBK.BMSG BBM...SG 1.000000   BBK...SG -1.000000
+    MBL.BNSG BBN...SG 1.000000   BBL...SG -1.000000
+    MBM.BOSG BBL...SG -0.034500   BBN...SG -0.034500
+    MBM.BOSG BBK...SG -0.465500   BBM...SG -0.465500
+    MBM.BOSG BBO...SG 1.000000
+    MBN.BPSG BBL...SG -0.241400   BBN...SG -0.241400
+    MBN.BPSG BBK...SG -0.258600   BBM...SG -0.258600
+    MBN.BPSG BBP...SG 1.000000
+    MBU.BVSG BBV...SG 1.000000   BBU...SG -1.000000
+    MBU.BWSG BBV...SG -0.130400   BBU...SG -0.869600
+    MBU.BWSG BBW...SG 1.000000
+    MBV.BYSG BBV...SG -0.565200   BBU...SG -0.434800
+    MBV.BYSG BBY...SG 1.000000
+    MKE.DKSG BDK...SG 1.000000   BKE...SG -1.005000
+    MFY.FJSG BFJ...SG 1.000000   BFY...SG -1.000000
+    MFY.FJSG XVI.FYSG -0.020000
+    MFO.FPSG BFP...SG 1.000000   BFO...SG -0.600000
+    MFO.FPSG BFQ...SG -0.400000
+    MFU.FRSG BFR...SG 1.000000   BFU...SG -1.000000
+    MRG.FRSG BFR...SG 1.000000   BRG...SG -1.000000
+    MFQ.FSSG BFY...SG -0.071400   BFQ...SG -0.928600
+    MFQ.FSSG BFS...SG 1.000000
+    MFQ.FUSG BFY...SG -0.285700   BFQ...SG -0.714300
+    MFQ.FUSG BFU...SG 1.000000
+    MFY.FWSG BFY...SG -0.642900   BFQ...SG -0.297700
+    MFY.FWSG BFW...SG 1.000000
+    MHL.HHSG BHH...SG 1.000000   BHL...SG -1.000000
+    MHL.HMSG BHH...SG -0.133300   BHL...SG -0.866700
+    MHL.HMSG BHM...SG 1.000000
+    MHH.HNSG BHH...SG -0.800000   BHL...SG -0.200000
+    MHH.HNSG BHN...SG 1.000000
+    MIP.IBSG BIP...SG -0.780000   BKE...SG -1.066200
+    MIP.IBSG BIB...SG 1.000000   BKH...SG 0.846200
+    MIN.IGSG BIN...SG -0.780000   BKE...SG -1.066200
+    MIN.IGSG BIG...SG 1.000000   BKH...SG 0.846200
+    MIN.IPSG BIP...SG 1.000000   BIN...SG -1.000000
+    MRG.LGSG BRG...SG -0.657500   BLG...SG 1.000000
+    MDK.NJSG BLN...SG -0.111100   BIN...SG -0.175000
+    MDK.NJSG BIP...SG -0.238900   BDK...SG -0.482400
+    MDK.NJSG BNJ...SG 1.000000
+    MI5.NLSG BI5...SG -1.052000   BNL...SG 1.000000
+    MLN.NLSG BNL...SG 1.000000   BLN...SG -1.015000
+    MIP.NPSG BIN...SG -0.050800   BIP...SG -0.964200
+    MIP.NPSG BNP...SG 1.000000
+    MRG.N4SG BRG...SG -1.000000   BN4...SG 1.414600
+    MFY.OASG BOA...SG 1.000000   BFY...SG -1.000000
+    MFY.OASG XVI.FYSG -0.213000   XSU.FYSG -2.490000
+    MBC.OLSG BOL...SG 1.000000   BBC...SG -1.000000
+    MCV.RGSG BRG...SG 0.645000   BCV...SG -1.000000
+    PBA.C1SG BRG...SG 0.129900   B4A...SG 0.498800
+    PBA.C1SG BBK...SG 0.068800   BBL...SG 0.169900
+    PBA.C1SG BBM...SG 0.036100   BBN...SG 0.089100
+    PBA.C1SG B9A...SG 0.038500   CFT.C.SG -1.756000
+    PBA.C1SG BBA...SG -1.000000
+    PBC.C1SG BRG...SG 0.143700   B4C...SG 0.496400
+    PBC.C1SG BBK...SG 0.151600   BBL...SG 0.075400
+    PBC.C1SG BBM...SG 0.083100   BBN...SG 0.041300
+    PBC.C1SG B9C...SG 0.033900   CFT.C.SG -1.719000
+    PBC.C1SG BBC...SG -1.000000
+    PBE.C1SG BRG...SG 0.141400   BBK...SG 0.130900
+    PBE.C1SG BBL...SG 0.001400   BBM...SG 0.196300
+    PBE.C1SG BBN...SG 0.002000   CFT.C.SG -1.566000
+    PBE.C1SG B4E...SG 0.561300   B9E...SG 0.027500
+    PBE.C1SG BBE...SG -1.000000
+    PBU.C1SG BRG...SG 0.079900   B4F...SG 0.240900
+    PBU.C1SG BBK...SG 0.393300   BBL...SG 0.000900
+    PBU.C1SG BBM...SG 0.289400   BBN...SG 0.000700
+    PBU.C1SG B9F...SG 0.008400   CFT.C.SG -1.330000
+    PBU.C1SG BBU...SG -1.000000
+    PBV.C1SG BBV...SG -1.000000   BRG...SG 0.081200
+    PBV.C1SG B4G...SG 0.265400   BBK...SG -0.004000
+    PBV.C1SG BBL...SG -0.026500   BBM...SG 0.089800
+    PBV.C1SG BBN...SG 0.602900   B9G...SG 0.008600
+    PBV.C1SG CFT.C.SG -1.370000
+    PBA.C3SG BRG...SG 0.217000   BBK...SG 0.049700
+    PBA.C3SG BBL...SG 0.146900   BBM...SG 0.020500
+    PBA.C3SG BBN...SG 0.060600   CFT.C.SG -2.170000
+    PBA.C3SG B4H...SG 0.465000   B9H...SG 0.014000
+    PBA.C3SG BBA...SG -1.000000
+    PBC.C3SG BRG...SG 0.239700   BBK...SG 0.116700
+    PBC.C3SG BBL...SG 0.067800   BBM...SG 0.050900
+    PBC.C3SG BBN...SG 0.029600   CFT.C.SG -2.062000
+    PBC.C3SG B4J...SG 0.458000   B9J...SG 0.012300
+    PBC.C3SG BBC...SG -1.000000
+    PBE.C3SG BRG...SG 0.240700   BBK...SG 0.114300
+    PBE.C3SG BBL...SG 0.001600   BBM...SG 0.131000
+    PBE.C3SG BBN...SG 0.001800   CFT.C.SG -1.506000
+    PBE.C3SG B4L...SG 0.529900   B9L...SG 0.010200
+    PBE.C3SG BBE...SG -1.000000
+    PBU.C3SG BRG...SG 0.161400   BBK...SG 0.356200
+    PBU.C3SG BBL...SG 0.009700   BBM...SG 0.148400
+    PBU.C3SG BBN...SG 0.004100   CFT.C.SG -1.334000
+    PBU.C3SG B4M...SG 0.305400   B9M...SG 0.009600
+    PBU.C3SG BBU...SG -1.000000
+    PBV.C3SG BBV...SG -1.000000   BRG...SG 0.162100
+    PBV.C3SG BBK...SG 0.007300   BBL...SG 0.050700
+    PBV.C3SG BBM...SG 0.056000   BBN...SG 0.386000
+    PBV.C3SG CFT.C.SG -1.368000   B4N...SG 0.334800
+    PBV.C3SG B9N...SG 0.009600
+    PBA.C5SG BRG...SG 0.162300   BBK...SG -0.011800
+    PBA.C5SG BBL...SG 0.125800   BBM...SG -0.001600
+    PBA.C5SG BBN...SG 0.017100   CFT.C.SG -1.521000
+    PBA.C5SG BBA...SG -1.000000   B4O...SG 0.669100
+    PBA.C5SG B9O...SG 0.070500
+    PBC.C5SG BRG...SG 0.160300   BBK...SG 0.054100
+    PBC.C5SG BBL...SG 0.057900   BBM...SG 0.007400
+    PBC.C5SG BBN...SG 0.007900   CFT.C.SG -1.506000
+    PBC.C5SG B4Q...SG 0.672300   B9Q...SG 0.072700
+    PBC.C5SG BBC...SG -1.000000
+    PBE.C5SG BRG...SG 0.146100   BBK...SG 0.050500
+    PBE.C5SG BBL...SG 0.001800   BBM...SG 0.075700
+    PBE.C5SG BBN...SG 0.002700   CFT.C.SG -1.413000
+    PBE.C5SG B4S...SG 0.697200   B9S...SG 0.069300
+    PBE.C5SG BBE...SG -1.000000
+    PAH.DVSG CTF.D.SG -1.000000   COH.V.SG -0.263830
+    PAH.DVSG AAH..... -1.000000   BCV...SG 0.025790
+    PAH.DVSG BI5...SG 0.008120   BLN...SG 0.039600
+    PAH.DVSG BIN...SG -0.007860   BIP...SG 0.111920
+    PAH.DVSG BKE...SG 0.130620   BHL...SG 0.029870
+    PAH.DVSG BHH...SG 0.091860   BBU...SG 0.003600
+    PAH.DVSG BBV...SG 0.071830   BBC...SG 0.047640
+    PAH.DVSG BBA...SG 0.216190   BHA...SG 0.230820
+    PAL.DVSG CTF.D.SG -1.000000   COH.V.SG -0.253090
+    PAL.DVSG BCV...SG 0.018350   BI5...SG 0.008650
+    PAL.DVSG BLN...SG 0.043700   BIN...SG 0.004910
+    PAL.DVSG BIP...SG 0.124890   BKE...SG 0.178950
+    PAL.DVSG BHL...SG 0.060480   BHH...SG 0.072710
+    PAL.DVSG BBU...SG 0.021080   BBV...SG 0.065990
+    PAL.DVSG BBC...SG 0.125810   BBA...SG 0.127280
+    PAL.DVSG BLA...SG 0.147180   AAL..... -1.000000
+    PAM.DVSG CTF.D.SG -1.000000   COH.V.SG -0.281070
+    PAM.DVSG BCV...SG 0.012720   BI5...SG 0.007550
+    PAM.DVSG BLN...SG 0.042710   BIN...SG 0.003590
+    PAM.DVSG BIP...SG 0.117680   BKE...SG 0.144210
+    PAM.DVSG BHL...SG 0.046940   BHH...SG 0.075380
+    PAM.DVSG BBU...SG 0.015520   BBV...SG 0.066500
+    PAM.DVSG BBC...SG 0.058490   BBA...SG 0.222580
+    PAM.DVSG BMA...SG 0.186130   AAM..... -1.000000
+    PAX.DVSG CTF.D.SG -1.000000   COH.V.SG -0.255260
+    PAX.DVSG BCV...SG 0.020370   BI5...SG 0.009350
+    PAX.DVSG BLN...SG 0.052270   BIN...SG 0.010770
+    PAX.DVSG BIP...SG 0.125670   BKE...SG 0.204490
+    PAX.DVSG BHL...SG 0.077920   BHH...SG 0.040930
+    PAX.DVSG BBU...SG 0.050490   BBV...SG 0.062960
+    PAX.DVSG BBC...SG 0.217020   BBA...SG 0.038240
+    PAX.DVSG BXA...SG 0.089520   AAX..... -1.000000
+    PBA.DVSG CTF.D.SG -1.000000   COH.V.SG -0.244570
+    PBA.DVSG BCV...SG 0.022920   BI5...SG 0.009360
+    PBA.DVSG BLN...SG 0.050930   BIN...SG 0.001770
+    PBA.DVSG BIP...SG 0.128360   BKE...SG 0.174610
+    PBA.DVSG BHL...SG 0.040170   BHH...SG 0.081800
+    PBA.DVSG BBU...SG 0.025150   BBV...SG 0.058160
+    PBA.DVSG BBC...SG 0.087600   BBA...SG 0.156970
+    PBA.DVSG BAK...SG 0.162210   ABA..... -1.000000
+    PDA.DVSG CTF.D.SG -1.000000   COH.V.SG -0.233880
+    PDA.DVSG BCV...SG 0.028910   BI5...SG 0.014810
+    PDA.DVSG BLN...SG 0.058210   BIN...SG 0.011910
+    PDA.DVSG BIP...SG 0.127900   BKE...SG 0.156050
+    PDA.DVSG BHL...SG 0.016240   BHH...SG 0.113760
+    PDA.DVSG BBU...SG 0.002260   BBV...SG 0.079970
+    PDA.DVSG BBC...SG 0.022680   BBA...SG 0.211200
+    PDA.DVSG BRI...SG 0.156110   ADA..... -1.000000
+    PIH.DVSG CTF.D.SG -1.000000   COH.V.SG -0.248210
+    PIH.DVSG BCV...SG 0.027600   BI5...SG 0.010720
+    PIH.DVSG BLN...SG 0.041710   BIN...SG 0.052270
+    PIH.DVSG BIP...SG 0.081290   BKE...SG 0.151300
+    PIH.DVSG BHL...SG 0.053680   BHH...SG 0.068650
+    PIH.DVSG BBU...SG 0.035650   BBV...SG 0.042830
+    PIH.DVSG BBC...SG 0.215240   BBA...SG 0.032970
+    PIH.DVSG BHI...SG 0.186090   AIH..... -1.000000
+    PIL.DVSG CTF.D.SG -1.000000   COH.V.SG -0.271680
+    PIL.DVSG BCV...SG 0.023430   BI5...SG 0.009760
+    PIL.DVSG BLN...SG 0.043810   BIN...SG 0.046670
+    PIL.DVSG BIP...SG 0.091200   BKE...SG 0.162000
+    PIL.DVSG BHL...SG 0.078750   BHH...SG 0.057420
+    PIL.DVSG BBU...SG 0.043960   BBV...SG 0.041920
+    PIL.DVSG BBC...SG 0.225030   BBA...SG 0.046650
+    PIL.DVSG BLI...SG 0.129410   AIL..... -1.000000
+    PKU.DVSG CTF.D.SG -1.000000   COH.V.SG -0.257810
+    PKU.DVSG BCV...SG 0.026680   BI5...SG 0.008720
+    PKU.DVSG BLN...SG 0.053840   BIN...SG 0.000250
+    PKU.DVSG BIP...SG 0.121660   BKE...SG 0.141740
+    PKU.DVSG BHL...SG 0.040980   BHH...SG 0.080340
+    PKU.DVSG BBU...SG 0.012730   BBV...SG 0.071090
+    PKU.DVSG BBC...SG 0.018870   BBA...SG 0.238940
+    PKU.DVSG BUK...SG 0.184140   AKU..... -1.000000
+    PMI.DVSG CTF.D.SG -1.000000   COH.V.SG -0.400990
+    PMI.DVSG AMI..... -1.000000   BCV...SG 0.004550
+    PMI.DVSG BI5...SG 0.002820   BLN...SG 0.020370
+    PMI.DVSG BIN...SG 0.017430   BIP...SG 0.068840
+    PMI.DVSG BKE...SG 0.092700   BHL...SG 0.136890
+    PMI.DVSG BHH...SG -0.006920   BBU...SG 0.054800
+    PMI.DVSG BBV...SG -0.003410   BBE...SG 0.429830
+    PMI.DVSG BBC...SG -0.028840   BIM...SG 0.210940
+    PMU.DVSG CTF.D.SG -1.000000   COH.V.SG -0.249190
+    PMU.DVSG BCV...SG 0.019830   BI5...SG 0.010950
+    PMU.DVSG BLN...SG 0.052370   BIN...SG 0.026140
+    PMU.DVSG BIP...SG 0.134930   BKE...SG 0.193130
+    PMU.DVSG BHL...SG 0.123210   BHH...SG 0.026600
+    PMU.DVSG BBU...SG 0.053960   BBV...SG 0.041020
+    PMU.DVSG BBE...SG 0.034520   BBC...SG 0.214670
+    PMU.DVSG BUM...SG 0.068660   AMU..... -1.000000
+    POM.DVSG CTF.D.SG -1.000000   COH.V.SG -0.262750
+    POM.DVSG BCV...SG 0.012770   BI5...SG 0.007200
+    POM.DVSG BLN...SG 0.040120   BIN...SG 0.028120
+    POM.DVSG BIP...SG 0.100710   BKE...SG 0.178720
+    POM.DVSG BHL...SG 0.085450   BHH...SG 0.071800
+    POM.DVSG BBU...SG 0.038340   BBV...SG 0.024770
+    POM.DVSG BBE...SG 0.025390   BBC...SG 0.237360
+    POM.DVSG BMO...SG 0.149250   AOM..... -1.000000
+    PQA.DVSG CTF.D.SG -1.000000   COH.V.SG -0.221780
+    PQA.DVSG BCV...SG 0.039300   BI5...SG 0.014610
+    PQA.DVSG BLN...SG 0.070060   BIN...SG 0.015740
+    PQA.DVSG BIP...SG 0.149860   BKE...SG 0.188540
+    PQA.DVSG BHL...SG 0.094290   BHH...SG 0.055110
+    PQA.DVSG BBU...SG 0.030760   BBV...SG 0.058250
+    PQA.DVSG BBC...SG 0.158720   BBA...SG 0.063060
+    PQA.DVSG BTQ...SG 0.061700   AQA..... -1.000000
+    PSE.DVSG CTF.D.SG -1.000000   COH.V.SG -0.182300
+    PSE.DVSG ASE..... -1.000000   BCV...SG 0.021570
+    PSE.DVSG BI5...SG 0.009530   BLN...SG 0.031560
+    PSE.DVSG BIN...SG 0.209040   BIP...SG 0.011400
+    PSE.DVSG BKE...SG 0.248820   BHL...SG 0.182260
+    PSE.DVSG BHH...SG -0.004070   BBU...SG 0.098440
+    PSE.DVSG BBV...SG -0.004790   BBE...SG 0.189560
+    PSE.DVSG BBC...SG -0.007260   BSR...SG 0.013960
+    PAH.D1SG CTF.D.SG -1.000000   AAH..... -1.000000
+    PAH.D1SG BCV...SG 0.025790   BI5...SG 0.008120
+    PAH.D1SG BLN...SG 0.039600   BIN...SG -0.007860
+    PAH.D1SG BIP...SG 0.111910   BKE...SG 0.130620
+    PAH.D1SG BHL...SG 0.029870   BHH...SG 0.091860
+    PAH.D1SG BBU...SG 0.003600   BBV...SG 0.071830
+    PAH.D1SG BAH...SG 0.494650
+    PAL.D1SG CTF.D.SG -1.000000   BCV...SG 0.018350
+    PAL.D1SG BI5...SG 0.008650   BLN...SG 0.043700
+    PAL.D1SG BIN...SG 0.004910   BIP...SG 0.124890
+    PAL.D1SG BKE...SG 0.178950   BHL...SG 0.060480
+    PAL.D1SG BHH...SG 0.072710   BBU...SG 0.021080
+    PAL.D1SG BBV...SG 0.065990   BAL...SG 0.400280
+    PAL.D1SG AAL..... -1.000000
+    PAM.D1SG CTF.D.SG -1.000000   BCV...SG 0.012720
+    PAM.D1SG BI5...SG 0.007550   BLN...SG 0.042710
+    PAM.D1SG BIN...SG 0.003590   BIP...SG 0.117680
+    PAM.D1SG BKE...SG 0.144200   BHL...SG 0.046940
+    PAM.D1SG BHH...SG 0.075380   BBU...SG 0.015520
+    PAM.D1SG BBV...SG 0.066500   BAM...SG 0.467210
+    PAM.D1SG AAM..... -1.000000
+    PAX.D1SG CTF.D.SG -1.000000   BCV...SG 0.020370
+    PAX.D1SG BI5...SG 0.009350   BLN...SG 0.052270
+    PAX.D1SG BIN...SG 0.010770   BIP...SG 0.125670
+    PAX.D1SG BKE...SG 0.204480   BHL...SG 0.077910
+    PAX.D1SG BHH...SG 0.040930   BBU...SG 0.050490
+    PAX.D1SG BBV...SG 0.062960   BAX...SG 0.344790
+    PAX.D1SG AAX..... -1.000000
+    PBA.D1SG CTF.D.SG -1.000000   BCV...SG 0.022920
+    PBA.D1SG BI5...SG 0.009360   BLN...SG 0.050930
+    PBA.D1SG BIN...SG 0.001770   BIP...SG 0.128350
+    PBA.D1SG BKE...SG 0.174610   BHL...SG 0.040160
+    PBA.D1SG BHH...SG 0.081800   BBU...SG 0.025150
+    PBA.D1SG BBV...SG 0.058160   BKA...SG 0.406790
+    PBA.D1SG ABA..... -1.000000
+    PDA.D1SG CTF.D.SG -1.000000   BCV...SG 0.028910
+    PDA.D1SG BI5...SG 0.014810   BLN...SG 0.058210
+    PDA.D1SG BIN...SG 0.011910   BIP...SG 0.127890
+    PDA.D1SG BKE...SG 0.156050   BHL...SG 0.016240
+    PDA.D1SG BHH...SG 0.113760   BBU...SG 0.002260
+    PDA.D1SG BBV...SG 0.079970   BIR...SG 0.389990
+    PDA.D1SG ADA..... -1.000000
+    PIH.D1SG CTF.D.SG -1.000000   BCV...SG 0.027600
+    PIH.D1SG BI5...SG 0.010720   BLN...SG 0.041710
+    PIH.D1SG BIN...SG 0.052270   BIP...SG 0.081290
+    PIH.D1SG BKE...SG 0.151290   BHL...SG 0.053670
+    PIH.D1SG BHH...SG 0.068650   BBU...SG 0.035640
+    PIH.D1SG BBV...SG 0.042830   BIH...SG 0.434310
+    PIH.D1SG AIH..... -1.000000
+    PIL.D1SG CTF.D.SG -1.000000   BCV...SG 0.023430
+    PIL.D1SG BI5...SG 0.009760   BLN...SG 0.043810
+    PIL.D1SG BIN...SG 0.046670   BIP...SG 0.091200
+    PIL.D1SG BKE...SG 0.161990   BHL...SG 0.078750
+    PIL.D1SG BHH...SG 0.057420   BBU...SG 0.043960
+    PIL.D1SG BBV...SG 0.041920   BIL...SG 0.401100
+    PIL.D1SG AIL..... -1.000000
+    PKU.D1SG CTF.D.SG -1.000000   BCV...SG 0.026680
+    PKU.D1SG BI5...SG 0.008720   BLN...SG 0.053840
+    PKU.D1SG BIN...SG 0.000250   BIP...SG 0.121660
+    PKU.D1SG BKE...SG 0.141740   BHL...SG 0.040980
+    PKU.D1SG BHH...SG 0.080340   BBU...SG 0.012730
+    PKU.D1SG BBV...SG 0.071090   BKU...SG 0.441950
+    PKU.D1SG AKU..... -1.000000
+    PMI.D1SG CTF.D.SG -1.000000   AMI..... -1.000000
+    PMI.D1SG BCV...SG 0.004550   BI5...SG 0.002820
+    PMI.D1SG BLN...SG 0.020370   BIN...SG 0.017430
+    PMI.D1SG BIP...SG 0.068840   BKE...SG 0.092700
+    PMI.D1SG BHL...SG 0.136890   BHH...SG -0.006920
+    PMI.D1SG BBU...SG 0.054800   BBV...SG -0.003410
+    PMI.D1SG BMI...SG 0.611930
+    PMU.D1SG CTF.D.SG -1.000000   BCV...SG 0.019830
+    PMU.D1SG BI5...SG 0.010950   BLN...SG 0.052370
+    PMU.D1SG BIN...SG 0.026140   BIP...SG 0.134930
+    PMU.D1SG BKE...SG 0.193130   BHL...SG 0.123210
+    PMU.D1SG BHH...SG 0.026600   BBU...SG 0.053960
+    PMU.D1SG BBV...SG 0.041020   BMU...SG 0.317850
+    PMU.D1SG AMU..... -1.000000
+    POM.D1SG CTF.D.SG -1.000000   BCV...SG 0.012770
+    POM.D1SG BI5...SG 0.007200   BLN...SG 0.040120
+    POM.D1SG BIN...SG 0.028120   BIP...SG 0.100710
+    POM.D1SG BKE...SG 0.178720   BHL...SG 0.085450
+    POM.D1SG BHH...SG 0.071800   BBU...SG 0.038340
+    POM.D1SG BBV...SG 0.024770   BMN...SG 0.412000
+    POM.D1SG AOM..... -1.000000
+    PQA.D1SG CTF.D.SG -1.000000   BCV...SG 0.039300
+    PQA.D1SG BI5...SG 0.014610   BLN...SG 0.070060
+    PQA.D1SG BIN...SG 0.015740   BIP...SG 0.149860
+    PQA.D1SG BKE...SG 0.188540   BHL...SG 0.094290
+    PQA.D1SG BHH...SG 0.055110   BBU...SG 0.030760
+    PQA.D1SG BBV...SG 0.058250   BQT...SG 0.283480
+    PQA.D1SG AQA..... -1.000000
+    PSE.D1SG CTF.D.SG -1.000000   ASE..... -1.000000
+    PSE.D1SG BCV...SG 0.021570   BI5...SG 0.009530
+    PSE.D1SG BLN...SG 0.031560   BIN...SG 0.209040
+    PSE.D1SG BIP...SG 0.011400   BKE...SG 0.248820
+    PSE.D1SG BHL...SG 0.182260   BHH...SG -0.004070
+    PSE.D1SG BBU...SG 0.098440   BBV...SG -0.004790
+    PSE.D1SG BRS...SG 0.196250
+    PEO.D3SG CTF.D.SG -1.000000   AEO..... -1.000000
+    PEO.D3SG BRG...SG 0.010500   BI5...SG 0.005000
+    PEO.D3SG BLN...SG 0.012300   BIN...SG 0.023200
+    PEO.D3SG BIP...SG 0.025800   BKE...SG 0.107000
+    PEO.D3SG BHL...SG -0.082600   BHH...SG 0.254600
+    PEO.D3SG BEO...SG 0.638000
+    PBL.F1SG BBK...SG 1.000000   CF..F.SG -2.900000
+    PBL.F1SG BBL...SG -1.000000
+    PBN.F1SG BBM...SG 1.000000   CF..F.SG -2.900000
+    PBN.F1SG BBN...SG -1.000000
+    PBV.F1SG BBU...SG 1.000000   CF..F.SG -2.300000
+    PBV.F1SG BBV...SG -1.000000
+    PHH.F1SG BHL...SG 1.000000   CF..F.SG -1.500000
+    PHH.F1SG BHH...SG -1.000000
+    PBA.G2SG BRG...SG 0.003700   BIP...SG 0.003600
+    PBA.G2SG BBB...SG 1.004800   CF..G.SG -1.088400
+    PBA.G2SG BBA...SG -1.000000
+    PBC.G2SG BRG...SG 0.001600   BIP...SG 0.001600
+    PBC.G2SG BBD...SG 1.005500   CF..G.SG -0.933800
+    PBC.G2SG BBC...SG -1.000000
+    PQA.G2SG BSA...SG 1.000000   CF..G.SG -1.184000
+    PQA.G2SG BQA...SG -1.000000
+    PQH.G2SG BSH...SG 1.000000   CF..G.SG -1.309000
+    PQH.G2SG BQH...SG -1.000000
+    PQW.G2SG CF..G.SG -1.339000   BSW...SG 1.000000
+    PQW.G2SG BQW...SG -1.000000
+    PIB.P2SG BRG...SG 0.180200   B5D...SG 0.770000
+    PIB.P2SG CF..P.SG -0.990000   BIB...SG -1.000000
+    PIG.P2SG BRG...SG 0.106800   B5C...SG 0.893000
+    PIG.P2SG CF..P.SG -0.948700   BIG...SG -1.000000
+    PIN.P2SG BRG...SG 0.109800   B5A...SG 0.883000
+    PIN.P2SG CF..P.SG -0.942000   BIN...SG -1.000000
+    PIP.P2SG BRG...SG 0.189000   B5B...SG 0.760000
+    PIP.P2SG CF..P.SG -0.983300   BIP...SG -1.000000
+    PIB.P3SG BRG...SG 0.206200   B5H...SG 0.739000
+    PIB.P3SG CF..P.SG -1.014700   BIB...SG -1.000000
+    PIG.P3SG BRG...SG 0.133800   B5G...SG 0.862000
+    PIG.P3SG CF..P.SG -0.973300   BIG...SG -1.000000
+    PIN.P3SG BRG...SG 0.144400   B5E...SG 0.852000
+    PIN.P3SG CF..P.SG -0.967700   BIN...SG -1.000000
+    PIP.P3SG BRG...SG 0.214800   B5F...SG 0.729000
+    PIP.P3SG CF..P.SG -1.008000   BIP...SG -1.000000
+    PHA.Q1SG BRG...SG 0.326000   B5T...SG 0.140000
+    PHA.Q1SG BBK...SG -0.031000   BBL...SG 0.260000
+    PHA.Q1SG BQH...SG 0.256000   CF..Q.SG -1.066000
+    PHA.Q1SG BHA...SG -1.000000
+    PLA.Q1SG BRG...SG 0.280000   B5T...SG 0.152000
+    PLA.Q1SG BBK...SG 0.036000   BBL...SG 0.213000
+    PLA.Q1SG BQA...SG 0.279000   CF..Q.SG -1.000000
+    PLA.Q1SG BLA...SG -1.000000
+    PUK.Q1SG BRG...SG 0.294000   B5T...SG 0.148000
+    PUK.Q1SG BBK...SG -0.048000   BBL...SG 0.290000
+    PUK.Q1SG BQW...SG 0.272000   CF..Q.SG -1.014000
+    PUK.Q1SG BUK...SG -1.000000
+    PAH.R1SG BRG...SG 0.010700   BIP...SG 0.037500
+    PAH.R1SG BHL...SG 0.100000   B1H...SG 0.885000
+    PAH.R1SG CF..R.SG -1.113300   BAH...SG -1.000000
+    PAL.R1SG BRG...SG 0.004200   BIP...SG 0.015400
+    PAL.R1SG BHL...SG 0.100000   B1A...SG 0.896000
+    PAL.R1SG CF..R.SG -0.883600   BAL...SG -1.000000
+    PAM.R1SG BRG...SG 0.006500   BIP...SG 0.023000
+    PAM.R1SG BHL...SG 0.100000   B1K...SG 0.892000
+    PAM.R1SG CF..R.SG -1.003900   BAM...SG -1.000000
+    PIH.R1SG BRG...SG 0.006400   BIP...SG 0.022800
+    PIH.R1SG BHL...SG 0.100000   B1G...SG 0.892000
+    PIH.R1SG CF..R.SG -0.948700   BIH...SG -1.000000
+    PIL.R1SG BRG...SG 0.004800   BIP...SG 0.017200
+    PIL.R1SG BHL...SG 0.100000   B1I...SG 0.894000
+    PIL.R1SG CF..R.SG -0.879900   BIL...SG -1.000000
+    PKU.R1SG BRG...SG 0.006200   BIP...SG 0.021900
+    PKU.R1SG BHL...SG 0.100000   B1W...SG 0.895000
+    PKU.R1SG CF..R.SG -0.995100   BKU...SG -1.000000
+    PAH.R2SG BRG...SG 0.024600   BIP...SG 0.086900
+    PAH.R2SG BHL...SG 0.100000   CF..R.SG -1.484600
+    PAH.R2SG B2H...SG 0.843000   BAH...SG -1.000000
+    PAL.R2SG BRG...SG 0.010900   BIP...SG 0.038900
+    PAL.R2SG BHL...SG 0.100000   CF..R.SG -1.109400
+    PAL.R2SG B2A...SG 0.879000   BAL...SG -1.000000
+    PAM.R2SG BRG...SG 0.015400   BIP...SG 0.055000
+    PAM.R2SG BHL...SG 0.100000   CF..R.SG -1.279000
+    PAM.R2SG B2K...SG 0.869000   BAM...SG -1.000000
+    PIH.R2SG BRG...SG 0.014700   BIP...SG 0.052800
+    PIH.R2SG BHL...SG 0.100000   CF..R.SG -1.204500
+    PIH.R2SG B2G...SG 0.869000   BIH...SG -1.000000
+    PIL.R2SG BRG...SG 0.011100   BIP...SG 0.040500
+    PIL.R2SG BHL...SG 0.100000   CF..R.SG -1.094000
+    PIL.R2SG B2I...SG 0.877000   BIL...SG -1.000000
+    PKU.R2SG BRG...SG 0.015100   BIP...SG 0.053300
+    PKU.R2SG BHL...SG 0.100000   CF..R.SG -1.285700
+    PKU.R2SG B2W...SG 0.872000   BKU...SG -1.000000
+    PEO.V1SG COH.V.SG -0.476500   BEO...SG -1.000000
+    PEO.V1SG BBC...SG -0.199000   BBA...SG 0.675500
+    PEO.V1SG BZN...SG 0.523500
+    TDH.PGSG BDH...SG 1.000000   BDH...PG -1.000000
+    TDH.PGSG FAT0..J. 0.865000   KMC.IMSG 1.000000
+    TDH.PGSG KWC..... 0.917000   UPBROW27875 1.000000
+    TDK.PGSG BDK...SG 1.000000   BDK...PG -1.000000
+    TDK.PGSG FAT0..J. 0.829000   KMC.IMSG 1.000000
+    TDK.PGSG KWC..... 0.929000   UPBROW27876 1.000000
+    TFQ.PGSG BFQ...SG 1.000000   BFQ...PG -1.000000
+    TFQ.PGSG FAT0..J. 0.970000   KMC.IMSG 1.000000
+    TFQ.PGSG KWC..... 0.834000
+    TFY.PGSG BFY...SG 1.000000   BFJ...PG -1.000000
+    TFY.PGSG FAT0..J. 0.990000   KMC.IMSG 1.000000
+    TFY.PGSG KWC..... 0.723000   UPBROW27877 1.000000
+    TGP.PGSG BGP...SG 1.000000   BGS...PG -1.000000
+    TGP.PGSG FAT0..J. 0.820000   KMC.IMSG 1.000000
+    TGP.PGSG KWC..... 0.903000   UPBROW27878 1.000000
+    BBK.DHU1 BBK...U1 -1.000000   BDH.VOU1 1.000000
+    BBK.DHU1 XSU.DHU1 0.100000
+    BBL.DHU1 BBL...U1 -1.000000   BDH.VOU1 1.000000
+    BBL.DHU1 XSU.DHU1 3.000000
+    BBU.DHU1 BBU...U1 -1.000000   BDH.VOU1 1.000000
+    BBU.DHU1 XSU.DHU1 0.200000
+    BBV.DHU1 BBV...U1 -1.000000   BDH.VOU1 1.000000
+    BBV.DHU1 XSU.DHU1 2.500000
+    BKB.DHU1 BKB...U1 -1.000000   BDH.VOU1 1.000000
+    BKB.DHU1 XSU.DHU1 0.150000
+    BKG.DHU1 BKG...U1 -1.000000   BDH.VOU1 1.000000
+    BKG.DHU1 XSU.DHU1 0.150000
+    BKB.DKU1 BKB...U1 -1.000000   BDK.VOU1 1.000000
+    BKB.DKU1 NLI.DKU1 0.350000
+    BKG.DKU1 BKG...U1 -1.000000   BDK.VOU1 1.000000
+    BKG.DKU1 NLI.DKU1 0.700000
+    BAC.FPU1 BAC...U1 -1.000000   BFP.VOU1 1.000000
+    BAC.FPU1 BFP.WTU1 0.954030   XSU.FPU1 0.238740
+    BAC.FPU1 XVI.FPU1 1.342000   NVI.FPU1 1.342000
+    BAG.FPU1 BAG...U1 -1.000000   BFP.VOU1 1.000000
+    BAG.FPU1 BFP.WTU1 0.845940   XSU.FPU1 0.015950
+    BAG.FPU1 XVI.FPU1 0.983000   NVI.FPU1 0.983000
+    BAP.FPU1 BAP...U1 -1.000000   BFP.VOU1 1.000000
+    BAP.FPU1 BFP.WTU1 0.886270   XSU.FPU1 0.030780
+    BAP.FPU1 XVI.FPU1 1.215000   NVI.FPU1 1.215000
+    BAS.FPU1 BAS...U1 -1.000000   BFP.VOU1 1.000000
+    BAS.FPU1 BFP.WTU1 0.995250   XSU.FPU1 0.498860
+    BAS.FPU1 XVI.FPU1 1.435000   NVI.FPU1 1.435000
+    BAW.FPU1 BAW...U1 -1.000000   BFP.VOU1 1.000000
+    BAW.FPU1 BFP.WTU1 0.902180   XSU.FPU1 0.296020
+    BAW.FPU1 XVI.FPU1 1.045000   NVI.FPU1 1.045000
+    BBG.FPU1 BBG...U1 -1.000000   BFP.VOU1 1.000000
+    BBG.FPU1 BFP.WTU1 0.918600   XSU.FPU1 0.183720
+    BBG.FPU1 XVI.FPU1 1.034000   NVI.FPU1 1.034000
+    BBI.FPU1 BBI...U1 -1.000000   BFP.VOU1 1.000000
+    BBI.FPU1 BFP.WTU1 0.889000   XSU.FPU1 0.177800
+    BBI.FPU1 XVI.FPU1 0.965000   NVI.FPU1 0.965000
+    BBO.FPU1 BBO...U1 -1.000000   BFP.VOU1 1.000000
+    BBO.FPU1 BFP.WTU1 0.820000   XSU.FPU1 0.246000
+    BBO.FPU1 XVI.FPU1 0.720000   NVI.FPU1 0.720000
+    BBP.FPU1 BBP...U1 -1.000000   BFP.VOU1 1.000000
+    BBP.FPU1 BFP.WTU1 0.820000   XSU.FPU1 1.230000
+    BBP.FPU1 XVI.FPU1 0.720000   NVI.FPU1 0.720000
+    BBW.FPU1 BBW...U1 -1.000000   BFP.VOU1 1.000000
+    BBW.FPU1 BFP.WTU1 0.870000   XSU.FPU1 0.435000
+    BBW.FPU1 XVI.FPU1 0.870000   NVI.FPU1 0.870000
+    BBY.FPU1 BBY...U1 -1.000000   BFP.VOU1 1.000000
+    BBY.FPU1 BFP.WTU1 0.870000   XSU.FPU1 1.305000
+    BBY.FPU1 XVI.FPU1 0.870000   NVI.FPU1 0.870000
+    BCA.FPU1 BCA...U1 -1.000000   BFP.VOU1 1.000000
+    BCA.FPU1 BFP.WTU1 0.911500   XSU.FPU1 0.155200
+    BCA.FPU1 XVI.FPU1 1.116000   NVI.FPU1 1.116000
+    BES.FPU1 BES...U1 -1.000000   BFP.VOU1 1.000000
+    BES.FPU1 BFP.WTU1 0.924250   XSU.FPU1 0.646940
+    BES.FPU1 XVI.FPU1 1.090000   NVI.FPU1 1.090000
+    BF2.FPU1 BF2...U1 -1.000000   BFP.VOU1 1.000000
+    BF2.FPU1 BFP.WTU1 0.950000   XSU.FPU1 1.786000
+    BF2.FPU1 XVI.FPU1 1.152000   NVI.FPU1 1.152000
+    BHY.FPU1 BHY...U1 -1.000000   BFP.VOU1 1.000000
+    BHY.FPU1 BFP.WTU1 0.955630   XSU.FPU1 0.319650
+    BHY.FPU1 XVI.FPU1 1.129000   NVI.FPU1 1.129000
+    BJL.FPU1 BJL...U1 -1.000000   BFP.VOU1 1.000000
+    BJL.FPU1 BFP.WTU1 0.949360   XSU.FPU1 1.831570
+    BJL.FPU1 XVI.FPU1 1.151000   NVI.FPU1 1.151000
+    BLB.FPU1 BLB...U1 -1.000000   BFP.VOU1 1.000000
+    BLB.FPU1 BFP.WTU1 0.911690   XSU.FPU1 0.370120
+    BLB.FPU1 XVI.FPU1 1.063000   NVI.FPU1 1.063000
+    BLS.FPU1 BLS...U1 -1.000000   BFP.VOU1 1.000000
+    BLS.FPU1 BFP.WTU1 0.912290   XSU.FPU1 0.296090
+    BLS.FPU1 XVI.FPU1 1.102000   NVI.FPU1 1.102000
+    BLT.FPU1 BLT...U1 -1.000000   BFP.VOU1 1.000000
+    BLT.FPU1 BFP.WTU1 0.921090   XSU.FPU1 0.235530
+    BLT.FPU1 XVI.FPU1 1.056000   NVI.FPU1 1.056000
+    BLU.FPU1 BLU...U1 -1.000000   BFP.VOU1 1.000000
+    BLU.FPU1 BFP.WTU1 0.987000   XSU.FPU1 0.770460
+    BLU.FPU1 XVI.FPU1 1.346000   NVI.FPU1 1.346000
+    BMD.FPU1 BMD...U1 -1.000000   BFP.VOU1 1.000000
+    BMD.FPU1 BFP.WTU1 0.948040   XSU.FPU1 0.342320
+    BMD.FPU1 XVI.FPU1 1.109000   NVI.FPU1 1.109000
+    BMF.FPU1 BMF...U1 -1.000000   BFP.VOU1 1.000000
+    BMF.FPU1 BFP.WTU1 1.017900   XSU.FPU1 0.796850
+    BMF.FPU1 XVI.FPU1 1.415000   NVI.FPU1 1.415000
+    BON.FPU1 BON...U1 -1.000000   BFP.VOU1 1.000000
+    BON.FPU1 BFP.WTU1 0.953460   XSU.FPU1 1.417210
+    BON.FPU1 XVI.FPU1 1.166000   NVI.FPU1 1.166000
+    BQS.FPU1 BQS...U1 -1.000000   BFP.VOU1 1.000000
+    BQS.FPU1 BFP.WTU1 0.997000   XSU.FPU1 0.319040
+    BQS.FPU1 XVI.FPU1 1.175000   NVI.FPU1 1.175000
+    BRB.FPU1 BRB...U1 -1.000000   BFP.VOU1 1.000000
+    BRB.FPU1 BFP.WTU1 0.983160   XSU.FPU1 0.680810
+    BRB.FPU1 XVI.FPU1 1.339000   NVI.FPU1 1.339000
+    BRT.FPU1 BRT...U1 -1.000000   BFP.VOU1 1.000000
+    BRT.FPU1 BFP.WTU1 1.046090   XSU.FPU1 2.030480
+    BRT.FPU1 XVI.FPU1 1.430000   NVI.FPU1 1.430000
+    BSA.FPU1 BSA...U1 -1.000000   BFP.VOU1 1.000000
+    BSA.FPU1 BFP.WTU1 0.963200   XSU.FPU1 0.597180
+    BSA.FPU1 XVI.FPU1 1.145000   NVI.FPU1 1.145000
+    BSB.FPU1 BSB...U1 -1.000000   BFP.VOU1 1.000000
+    BSB.FPU1 BFP.WTU1 0.993000   XSU.FPU1 0.566010
+    BSB.FPU1 XVI.FPU1 1.145000   NVI.FPU1 1.145000
+    BSE.FPU1 BSE...U1 -1.000000   BFP.VOU1 1.000000
+    BSE.FPU1 BFP.WTU1 1.004360   XSU.FPU1 1.209020
+    BSE.FPU1 XVI.FPU1 1.382000   NVI.FPU1 1.382000
+    BSH.FPU1 BSH...U1 -1.000000   BFP.VOU1 1.000000
+    BSH.FPU1 BFP.WTU1 0.979200   XSU.FPU1 0.802940
+    BSH.FPU1 XVI.FPU1 1.145000   NVI.FPU1 1.145000
+    BSJ.FPU1 BSJ...U1 -1.000000   BFP.VOU1 1.000000
+    BSJ.FPU1 BFP.WTU1 0.979200   XSU.FPU1 0.479810
+    BSJ.FPU1 XVI.FPU1 1.145000   NVI.FPU1 1.145000
+    BSM.FPU1 BSM...U1 -1.000000   BFP.VOU1 1.000000
+    BSM.FPU1 BFP.WTU1 0.963200   XSU.FPU1 0.597180
+    BSM.FPU1 XVI.FPU1 1.145000   NVI.FPU1 1.145000
+    BSW.FPU1 BSW...U1 -1.000000   BFP.VOU1 1.000000
+    BSW.FPU1 BFP.WTU1 0.972500   XSU.FPU1 0.836350
+    BSW.FPU1 XVI.FPU1 1.145000   NVI.FPU1 1.145000
+    BS1.FPU1 BS1...U1 -1.000000   BFP.VOU1 1.000000
+    BS1.FPU1 BFP.WTU1 0.928280   XSU.FPU1 0.649560
+    BS1.FPU1 XVI.FPU1 1.088000   NVI.FPU1 1.088000
+    BTL.FPU1 BTL...U1 -1.000000   BFP.VOU1 1.000000
+    BTL.FPU1 BFP.WTU1 1.023110   XSU.FPU1 0.553770
+    BTL.FPU1 XVI.FPU1 1.388000   NVI.FPU1 1.388000
+    BTM.FPU1 BTM...U1 -1.000000   BFP.VOU1 1.000000
+    BTM.FPU1 BFP.WTU1 0.976340   XSU.FPU1 2.329660
+    BTM.FPU1 XVI.FPU1 1.220000   NVI.FPU1 1.220000
+    BUL.FPU1 BUL...U1 -1.000000   BFP.VOU1 1.000000
+    BUL.FPU1 BFP.WTU1 0.919680   XSU.FPU1 0.452120
+    BUL.FPU1 XVI.FPU1 1.081000   NVI.FPU1 1.081000
+    BVY.FPU1 BVY...U1 -1.000000   BFP.VOU1 1.000000
+    BVY.FPU1 BFP.WTU1 1.015800   XSU.FPU1 1.117380
+    BVY.FPU1 XVI.FPU1 1.385000   NVI.FPU1 1.385000
+    BWA.FPU1 BWA...U1 -1.000000   BFP.VOU1 1.000000
+    BWA.FPU1 BFP.WTU1 0.969370   XSU.FPU1 0.602190
+    BWA.FPU1 XVI.FPU1 1.340000   NVI.FPU1 1.340000
+    BWT.FPU1 BWT...U1 -1.000000   BFP.VOU1 1.000000
+    BWT.FPU1 BFP.WTU1 1.017990   XSU.FPU1 3.183470
+    BWT.FPU1 XVI.FPU1 1.418000   NVI.FPU1 1.418000
+    BYH.FPU1 BYH...U1 -1.000000   BFP.VOU1 1.000000
+    BYH.FPU1 BFP.WTU1 1.023810   XSU.FPU1 0.666860
+    BYH.FPU1 XVI.FPU1 1.455000   NVI.FPU1 1.455000
+    BYV.FPU1 BYV...U1 -1.000000   BFP.VOU1 1.000000
+    BYV.FPU1 BFP.WTU1 0.969800   XSU.FPU1 0.649770
+    BYV.FPU1 XVI.FPU1 1.168000   NVI.FPU1 1.168000
+    BZA.FPU1 BZA...U1 -1.000000   BFP.VOU1 1.000000
+    BZA.FPU1 BFP.WTU1 0.898310   XSU.FPU1 0.141510
+    BZA.FPU1 XVI.FPU1 1.053000   NVI.FPU1 1.053000
+    B1A.FPU1 B1A...U1 -1.000000   BFP.VOU1 1.000000
+    B1A.FPU1 BFP.WTU1 0.932600   XSU.FPU1 0.792710
+    B1A.FPU1 XVI.FPU1 1.118000   NVI.FPU1 1.118000
+    B1G.FPU1 B1G...U1 -1.000000   BFP.VOU1 1.000000
+    B1G.FPU1 BFP.WTU1 0.953100   XSU.FPU1 0.695760
+    B1G.FPU1 XVI.FPU1 1.200000   NVI.FPU1 1.200000
+    B1H.FPU1 B1H...U1 -1.000000   BFP.VOU1 1.000000
+    B1H.FPU1 BFP.WTU1 0.949200   XSU.FPU1 1.195990
+    B1H.FPU1 XVI.FPU1 1.244000   NVI.FPU1 1.244000
+    B1I.FPU1 B1I...U1 -1.000000   BFP.VOU1 1.000000
+    B1I.FPU1 BFP.WTU1 0.939400   XSU.FPU1 0.666970
+    B1I.FPU1 XVI.FPU1 1.139000   NVI.FPU1 1.139000
+    B1K.FPU1 B1K...U1 -1.000000   BFP.VOU1 1.000000
+    B1K.FPU1 BFP.WTU1 0.940000   XSU.FPU1 1.081000
+    B1K.FPU1 XVI.FPU1 1.138000   NVI.FPU1 1.138000
+    B1S.FPU1 B1S...U1 -1.000000   BFP.VOU1 1.000000
+    B1S.FPU1 BFP.WTU1 1.004210   XSU.FPU1 1.298100
+    B1S.FPU1 XVI.FPU1 1.395000   NVI.FPU1 1.395000
+    B1W.FPU1 B1W...U1 -1.000000   BFP.VOU1 1.000000
+    B1W.FPU1 BFP.WTU1 0.937200   XSU.FPU1 1.124640
+    B1W.FPU1 XVI.FPU1 1.174000   NVI.FPU1 1.174000
+    B2A.FPU1 B2A...U1 -1.000000   BFP.VOU1 1.000000
+    B2A.FPU1 BFP.WTU1 0.921400   XSU.FPU1 0.313280
+    B2A.FPU1 XVI.FPU1 1.078000   NVI.FPU1 1.078000
+    B2G.FPU1 B2G...U1 -1.000000   BFP.VOU1 1.000000
+    B2G.FPU1 BFP.WTU1 0.942200   XSU.FPU1 0.282660
+    B2G.FPU1 XVI.FPU1 1.152000   NVI.FPU1 1.152000
+    B2H.FPU1 B2H...U1 -1.000000   BFP.VOU1 1.000000
+    B2H.FPU1 BFP.WTU1 0.933600   XSU.FPU1 0.494810
+    B2H.FPU1 XVI.FPU1 1.188000   NVI.FPU1 1.188000
+    B2I.FPU1 B2I...U1 -1.000000   BFP.VOU1 1.000000
+    B2I.FPU1 BFP.WTU1 0.929300   XSU.FPU1 0.269500
+    B2I.FPU1 XVI.FPU1 1.090000   NVI.FPU1 1.090000
+    B2K.FPU1 B2K...U1 -1.000000   BFP.VOU1 1.000000
+    B2K.FPU1 BFP.WTU1 0.926600   XSU.FPU1 0.435500
+    B2K.FPU1 XVI.FPU1 1.092000   NVI.FPU1 1.092000
+    B2W.FPU1 B2W...U1 -1.000000   BFP.VOU1 1.000000
+    B2W.FPU1 BFP.WTU1 0.922600   XSU.FPU1 0.461300
+    B2W.FPU1 XVI.FPU1 1.122000   NVI.FPU1 1.122000
+    B6A.FPU1 B6A...U1 -1.000000   BFP.VOU1 1.000000
+    B6A.FPU1 BFP.WTU1 1.108000   XSU.FPU1 0.675880
+    B6A.FPU1 XVI.FPU1 1.113000   NVI.FPU1 1.113000
+    B6B.FPU1 B6B...U1 -1.000000   BFP.VOU1 1.000000
+    B6B.FPU1 BFP.WTU1 1.071000   XSU.FPU1 0.364140
+    B6B.FPU1 XVI.FPU1 1.116000   NVI.FPU1 1.116000
+    B6H.FPU1 B6H...U1 -1.000000   BFP.VOU1 1.000000
+    B6H.FPU1 BFP.WTU1 1.108000   XSU.FPU1 0.565080
+    B6H.FPU1 XVI.FPU1 1.113000   NVI.FPU1 1.113000
+    B6J.FPU1 B6J...U1 -1.000000   BFP.VOU1 1.000000
+    B6J.FPU1 BFP.WTU1 1.095700   XSU.FPU1 0.317750
+    B6J.FPU1 XVI.FPU1 1.114000   NVI.FPU1 1.114000
+    B6W.FPU1 B6W...U1 -1.000000   BFP.VOU1 1.000000
+    B6W.FPU1 BFP.WTU1 1.108000   XSU.FPU1 0.709120
+    B6W.FPU1 XVI.FPU1 1.113000   NVI.FPU1 1.113000
+    B8L.FPU1 B8L...U1 -1.000000   BFP.VOU1 1.000000
+    B8L.FPU1 BFP.WTU1 1.108000   XSU.FPU1 0.221600
+    B8L.FPU1 XVI.FPU1 1.113000   NVI.FPU1 1.113000
+    B9B.FPU1 B9B...U1 -1.000000   BFP.VOU1 1.000000
+    B9B.FPU1 BFP.WTU1 1.078500   XSU.FPU1 0.323550
+    B9B.FPU1 XVI.FPU1 1.172000   NVI.FPU1 1.172000
+    B9D.FPU1 B9D...U1 -1.000000   BFP.VOU1 1.000000
+    B9D.FPU1 BFP.WTU1 1.038900   XSU.FPU1 0.311670
+    B9D.FPU1 XVI.FPU1 1.132000   NVI.FPU1 1.132000
+    B9E.FPU1 B9E...U1 -1.000000   BFP.VOU1 1.000000
+    B9E.FPU1 BFP.WTU1 0.997900   XSU.FPU1 0.299370
+    B9E.FPU1 XVI.FPU1 1.123000   NVI.FPU1 1.123000
+    B9P.FPU1 B9P...U1 -1.000000   BFP.VOU1 1.000000
+    B9P.FPU1 BFP.WTU1 1.178800   XSU.FPU1 0.353640
+    B9P.FPU1 XVI.FPU1 1.063000   NVI.FPU1 1.063000
+    B9R.FPU1 B9R...U1 -1.000000   BFP.VOU1 1.000000
+    B9R.FPU1 BFP.WTU1 1.152800   XSU.FPU1 0.345840
+    B9R.FPU1 XVI.FPU1 1.078000   NVI.FPU1 1.078000
+    B9S.FPU1 B9S...U1 -1.000000   BFP.VOU1 1.000000
+    B9S.FPU1 BFP.WTU1 1.116500   XSU.FPU1 0.334950
+    B9S.FPU1 XVI.FPU1 1.073000   NVI.FPU1 1.073000
+    B9V.FPU1 B9V...U1 -1.000000   BFP.VOU1 1.000000
+    B9V.FPU1 BFP.WTU1 0.847300   XSU.FPU1 0.021180
+    B9V.FPU1 XVI.FPU1 0.978000   NVI.FPU1 0.978000
+    BAC.FSU1 BAC...U1 -1.000000   BFS.VOU1 1.000000
+    BAC.FSU1 BFS.WTU1 0.954030   XSU.FSU1 0.238740
+    BAC.FSU1 XVI.FSU1 1.342000   NVI.FSU1 1.342000
+    BAG.FSU1 BAG...U1 -1.000000   BFS.VOU1 1.000000
+    BAG.FSU1 BFS.WTU1 0.845940   XSU.FSU1 0.015950
+    BAG.FSU1 XVI.FSU1 0.983000   NVI.FSU1 0.983000
+    BAH.FSU1 BAH...U1 -1.000000   BFS.VOU1 1.000000
+    BAH.FSU1 BFS.WTU1 0.981340   XSU.FSU1 4.265880
+    BAH.FSU1 XVI.FSU1 1.213000   NVI.FSU1 1.213000
+    BAL.FSU1 BAL...U1 -1.000000   BFS.VOU1 1.000000
+    BAL.FSU1 BFS.WTU1 0.951140   XSU.FSU1 2.945650
+    BAL.FSU1 XVI.FSU1 1.114000   NVI.FSU1 1.114000
+    BAM.FSU1 BAM...U1 -1.000000   BFS.VOU1 1.000000
+    BAM.FSU1 BFS.WTU1 0.965360   XSU.FSU1 3.762470
+    BAM.FSU1 XVI.FSU1 1.142000   NVI.FSU1 1.142000
+    BAP.FSU1 BAP...U1 -1.000000   BFS.VOU1 1.000000
+    BAP.FSU1 BFS.WTU1 0.886270   XSU.FSU1 0.030780
+    BAP.FSU1 XVI.FSU1 1.215000   NVI.FSU1 1.215000
+    BAS.FSU1 BAS...U1 -1.000000   BFS.VOU1 1.000000
+    BAS.FSU1 BFS.WTU1 0.995250   XSU.FSU1 0.498860
+    BAS.FSU1 XVI.FSU1 1.435000   NVI.FSU1 1.435000
+    BAW.FSU1 BAW...U1 -1.000000   BFS.VOU1 1.000000
+    BAW.FSU1 BFS.WTU1 0.902180   XSU.FSU1 0.296020
+    BAW.FSU1 XVI.FSU1 1.045000   NVI.FSU1 1.045000
+    BAX.FSU1 BAX...U1 -1.000000   BFS.VOU1 1.000000
+    BAX.FSU1 BFS.WTU1 0.923870   XSU.FSU1 1.927230
+    BAX.FSU1 XVI.FSU1 1.055000   NVI.FSU1 1.055000
+    BBG.FSU1 BBG...U1 -1.000000   BFS.VOU1 1.000000
+    BBG.FSU1 BFS.WTU1 0.918600   XSU.FSU1 0.183720
+    BBG.FSU1 XVI.FSU1 1.034000   NVI.FSU1 1.034000
+    BBI.FSU1 BBI...U1 -1.000000   BFS.VOU1 1.000000
+    BBI.FSU1 BFS.WTU1 0.889000   XSU.FSU1 0.177800
+    BBI.FSU1 XVI.FSU1 0.965000   NVI.FSU1 0.965000
+    BBO.FSU1 BBO...U1 -1.000000   BFS.VOU1 1.000000
+    BBO.FSU1 BFS.WTU1 0.820000   XSU.FSU1 0.246000
+    BBO.FSU1 XVI.FSU1 0.720000   NVI.FSU1 0.720000
+    BBP.FSU1 BBP...U1 -1.000000   BFS.VOU1 1.000000
+    BBP.FSU1 BFS.WTU1 0.820000   XSU.FSU1 1.230000
+    BBP.FSU1 XVI.FSU1 0.720000   NVI.FSU1 0.720000
+    BBW.FSU1 BBW...U1 -1.000000   BFS.VOU1 1.000000
+    BBW.FSU1 BFS.WTU1 0.870000   XSU.FSU1 0.435000
+    BBW.FSU1 XVI.FSU1 0.870000   NVI.FSU1 0.870000
+    BBY.FSU1 BBY...U1 -1.000000   BFS.VOU1 1.000000
+    BBY.FSU1 BFS.WTU1 0.870000   XSU.FSU1 1.305000
+    BBY.FSU1 XVI.FSU1 0.870000   NVI.FSU1 0.870000
+    BCA.FSU1 BCA...U1 -1.000000   BFS.VOU1 1.000000
+    BCA.FSU1 BFS.WTU1 0.911500   XSU.FSU1 0.155200
+    BCA.FSU1 XVI.FSU1 1.116000   NVI.FSU1 1.116000
+    BES.FSU1 BES...U1 -1.000000   BFS.VOU1 1.000000
+    BES.FSU1 BFS.WTU1 0.924250   XSU.FSU1 0.646940
+    BES.FSU1 XVI.FSU1 1.090000   NVI.FSU1 1.090000
+    BF2.FSU1 BF2...U1 -1.000000   BFS.VOU1 1.000000
+    BF2.FSU1 BFS.WTU1 0.950000   XSU.FSU1 1.786000
+    BF2.FSU1 XVI.FSU1 1.152000   NVI.FSU1 1.152000
+    BHA.FSU1 BHA...U1 -1.000000   BFS.VOU1 1.000000
+    BHA.FSU1 BFS.WTU1 1.051520   XSU.FSU1 6.325920
+    BHA.FSU1 XVI.FSU1 1.460000   NVI.FSU1 1.460000
+    BHI.FSU1 BHI...U1 -1.000000   BFS.VOU1 1.000000
+    BHI.FSU1 BFS.WTU1 1.035270   XSU.FSU1 3.560070
+    BHI.FSU1 XVI.FSU1 1.460000   NVI.FSU1 1.460000
+    BHU.FSU1 BHU...U1 -1.000000   BFS.VOU1 1.000000
+    BHU.FSU1 BFS.WTU1 1.000260   XSU.FSU1 2.569830
+    BHU.FSU1 XVI.FSU1 1.371000   NVI.FSU1 1.371000
+    BHV.FSU1 BHV...U1 -1.000000   BFS.VOU1 1.000000
+    BHV.FSU1 BFS.WTU1 1.054570   XSU.FSU1 3.887300
+    BHV.FSU1 XVI.FSU1 1.460000   NVI.FSU1 1.460000
+    BHY.FSU1 BHY...U1 -1.000000   BFS.VOU1 1.000000
+    BHY.FSU1 BFS.WTU1 0.955630   XSU.FSU1 0.319650
+    BHY.FSU1 XVI.FSU1 1.129000   NVI.FSU1 1.129000
+    BIH.FSU1 BIH...U1 -1.000000   BFS.VOU1 1.000000
+    BIH.FSU1 BFS.WTU1 0.965550   XSU.FSU1 2.408160
+    BIH.FSU1 XVI.FSU1 1.180000   NVI.FSU1 1.180000
+    BIL.FSU1 BIL...U1 -1.000000   BFS.VOU1 1.000000
+    BIL.FSU1 BFS.WTU1 0.947960   XSU.FSU1 2.287400
+    BIL.FSU1 XVI.FSU1 1.120000   NVI.FSU1 1.120000
+    BJL.FSU1 BJL...U1 -1.000000   BFS.VOU1 1.000000
+    BJL.FSU1 BFS.WTU1 0.949360   XSU.FSU1 1.831570
+    BJL.FSU1 XVI.FSU1 1.151000   NVI.FSU1 1.151000
+    BKU.FSU1 BKU...U1 -1.000000   BFS.VOU1 1.000000
+    BKU.FSU1 BFS.WTU1 0.966410   XSU.FSU1 3.973220
+    BKU.FSU1 XVI.FSU1 1.163000   NVI.FSU1 1.163000
+    BLA.FSU1 BLA...U1 -1.000000   BFS.VOU1 1.000000
+    BLA.FSU1 BFS.WTU1 1.021730   XSU.FSU1 4.444390
+    BLA.FSU1 XVI.FSU1 1.381000   NVI.FSU1 1.381000
+    BLB.FSU1 BLB...U1 -1.000000   BFS.VOU1 1.000000
+    BLB.FSU1 BFS.WTU1 0.911690   XSU.FSU1 0.370120
+    BLB.FSU1 XVI.FSU1 1.063000   NVI.FSU1 1.063000
+    BLI.FSU1 BLI...U1 -1.000000   BFS.VOU1 1.000000
+    BLI.FSU1 BFS.WTU1 1.028430   XSU.FSU1 3.784260
+    BLI.FSU1 XVI.FSU1 1.434000   NVI.FSU1 1.434000
+    BLJ.FSU1 BLJ...U1 -1.000000   BFS.VOU1 1.000000
+    BLJ.FSU1 BFS.WTU1 1.013610   XSU.FSU1 2.784670
+    BLJ.FSU1 XVI.FSU1 1.430000   NVI.FSU1 1.430000
+    BLS.FSU1 BLS...U1 -1.000000   BFS.VOU1 1.000000
+    BLS.FSU1 BFS.WTU1 0.912290   XSU.FSU1 0.296090
+    BLS.FSU1 XVI.FSU1 1.102000   NVI.FSU1 1.102000
+    BLT.FSU1 BLT...U1 -1.000000   BFS.VOU1 1.000000
+    BLT.FSU1 BFS.WTU1 0.921090   XSU.FSU1 0.235530
+    BLT.FSU1 XVI.FSU1 1.056000   NVI.FSU1 1.056000
+    BLU.FSU1 BLU...U1 -1.000000   BFS.VOU1 1.000000
+    BLU.FSU1 BFS.WTU1 0.987000   XSU.FSU1 0.770460
+    BLU.FSU1 XVI.FSU1 1.346000   NVI.FSU1 1.346000
+    BMA.FSU1 BMA...U1 -1.000000   BFS.VOU1 1.000000
+    BMA.FSU1 BFS.WTU1 1.036740   XSU.FSU1 5.561150
+    BMA.FSU1 XVI.FSU1 1.405000   NVI.FSU1 1.405000
+    BMD.FSU1 BMD...U1 -1.000000   BFS.VOU1 1.000000
+    BMD.FSU1 BFS.WTU1 0.948040   XSU.FSU1 0.342320
+    BMD.FSU1 XVI.FSU1 1.109000   NVI.FSU1 1.109000
+    BMF.FSU1 BMF...U1 -1.000000   BFS.VOU1 1.000000
+    BMF.FSU1 BFS.WTU1 1.017900   XSU.FSU1 0.796850
+    BMF.FSU1 XVI.FSU1 1.415000   NVI.FSU1 1.415000
+    BMT.FSU1 BMT...U1 -1.000000   BFS.VOU1 1.000000
+    BMT.FSU1 BFS.WTU1 1.039070   XSU.FSU1 3.268510
+    BMT.FSU1 XVI.FSU1 1.460000   NVI.FSU1 1.460000
+    BMU.FSU1 BMU...U1 -1.000000   BFS.VOU1 1.000000
+    BMU.FSU1 BFS.WTU1 0.917020   XSU.FSU1 1.561400
+    BMU.FSU1 XVI.FSU1 1.042000   NVI.FSU1 1.042000
+    BON.FSU1 BON...U1 -1.000000   BFS.VOU1 1.000000
+    BON.FSU1 BFS.WTU1 0.953460   XSU.FSU1 1.417210
+    BON.FSU1 XVI.FSU1 1.166000   NVI.FSU1 1.166000
+    BQA.FSU1 BQA...U1 -1.000000   BFS.VOU1 1.000000
+    BQA.FSU1 BFS.WTU1 0.997000   XSU.FSU1 4.147520
+    BQA.FSU1 XVI.FSU1 1.175000   NVI.FSU1 1.175000
+    BQB.FSU1 BQB...U1 -1.000000   BFS.VOU1 1.000000
+    BQB.FSU1 BFS.WTU1 1.014000   XSU.FSU1 3.315780
+    BQB.FSU1 XVI.FSU1 1.175000   NVI.FSU1 1.175000
+    BQH.FSU1 BQH...U1 -1.000000   BFS.VOU1 1.000000
+    BQH.FSU1 BFS.WTU1 1.014000   XSU.FSU1 5.536440
+    BQH.FSU1 XVI.FSU1 1.175000   NVI.FSU1 1.175000
+    BQJ.FSU1 BQJ...U1 -1.000000   BFS.VOU1 1.000000
+    BQJ.FSU1 BFS.WTU1 1.029000   XSU.FSU1 3.920490
+    BQJ.FSU1 XVI.FSU1 1.175000   NVI.FSU1 1.175000
+    BQM.FSU1 BQM...U1 -1.000000   BFS.VOU1 1.000000
+    BQM.FSU1 BFS.WTU1 0.997000   XSU.FSU1 4.147520
+    BQM.FSU1 XVI.FSU1 1.175000   NVI.FSU1 1.175000
+    BQS.FSU1 BQS...U1 -1.000000   BFS.VOU1 1.000000
+    BQS.FSU1 BFS.WTU1 0.997000   XSU.FSU1 0.319040
+    BQS.FSU1 XVI.FSU1 1.175000   NVI.FSU1 1.175000
+    BQT.FSU1 BQT...U1 -1.000000   BFS.VOU1 1.000000
+    BQT.FSU1 BFS.WTU1 0.926240   XSU.FSU1 2.243010
+    BQT.FSU1 XVI.FSU1 1.058000   NVI.FSU1 1.058000
+    BQW.FSU1 BQW...U1 -1.000000   BFS.VOU1 1.000000
+    BQW.FSU1 BFS.WTU1 1.007000   XSU.FSU1 5.810390
+    BQW.FSU1 XVI.FSU1 1.175000   NVI.FSU1 1.175000
+    BQ2.FSU1 BQ2...U1 -1.000000   BFS.VOU1 1.000000
+    BQ2.FSU1 BFS.WTU1 0.997000   XSU.FSU1 2.761690
+    BQ2.FSU1 XVI.FSU1 1.175000   NVI.FSU1 1.175000
+    BRB.FSU1 BRB...U1 -1.000000   BFS.VOU1 1.000000
+    BRB.FSU1 BFS.WTU1 0.983160   XSU.FSU1 0.680810
+    BRB.FSU1 XVI.FSU1 1.339000   NVI.FSU1 1.339000
+    BRT.FSU1 BRT...U1 -1.000000   BFS.VOU1 1.000000
+    BRT.FSU1 BFS.WTU1 1.046090   XSU.FSU1 2.030480
+    BRT.FSU1 XVI.FSU1 1.430000   NVI.FSU1 1.430000
+    BSA.FSU1 BSA...U1 -1.000000   BFS.VOU1 1.000000
+    BSA.FSU1 BFS.WTU1 0.963200   XSU.FSU1 0.597180
+    BSA.FSU1 XVI.FSU1 1.145000   NVI.FSU1 1.145000
+    BSB.FSU1 BSB...U1 -1.000000   BFS.VOU1 1.000000
+    BSB.FSU1 BFS.WTU1 0.993000   XSU.FSU1 0.566010
+    BSB.FSU1 XVI.FSU1 1.145000   NVI.FSU1 1.145000
+    BSE.FSU1 BSE...U1 -1.000000   BFS.VOU1 1.000000
+    BSE.FSU1 BFS.WTU1 1.004360   XSU.FSU1 1.209020
+    BSE.FSU1 XVI.FSU1 1.382000   NVI.FSU1 1.382000
+    BSH.FSU1 BSH...U1 -1.000000   BFS.VOU1 1.000000
+    BSH.FSU1 BFS.WTU1 0.979200   XSU.FSU1 0.802940
+    BSH.FSU1 XVI.FSU1 1.145000   NVI.FSU1 1.145000
+    BSJ.FSU1 BSJ...U1 -1.000000   BFS.VOU1 1.000000
+    BSJ.FSU1 BFS.WTU1 0.979200   XSU.FSU1 0.479810
+    BSJ.FSU1 XVI.FSU1 1.145000   NVI.FSU1 1.145000
+    BSM.FSU1 BSM...U1 -1.000000   BFS.VOU1 1.000000
+    BSM.FSU1 BFS.WTU1 0.963200   XSU.FSU1 0.597180
+    BSM.FSU1 XVI.FSU1 1.145000   NVI.FSU1 1.145000
+    BSW.FSU1 BSW...U1 -1.000000   BFS.VOU1 1.000000
+    BSW.FSU1 BFS.WTU1 0.972500   XSU.FSU1 0.836350
+    BSW.FSU1 XVI.FSU1 1.145000   NVI.FSU1 1.145000
+    BS1.FSU1 BS1...U1 -1.000000   BFS.VOU1 1.000000
+    BS1.FSU1 BFS.WTU1 0.928280   XSU.FSU1 0.649560
+    BS1.FSU1 XVI.FSU1 1.088000   NVI.FSU1 1.088000
+    BTL.FSU1 BTL...U1 -1.000000   BFS.VOU1 1.000000
+    BTL.FSU1 BFS.WTU1 1.023110   XSU.FSU1 0.553770
+    BTL.FSU1 XVI.FSU1 1.388000   NVI.FSU1 1.388000
+    BTM.FSU1 BTM...U1 -1.000000   BFS.VOU1 1.000000
+    BTM.FSU1 BFS.WTU1 0.976340   XSU.FSU1 2.329660
+    BTM.FSU1 XVI.FSU1 1.220000   NVI.FSU1 1.220000
+    BUH.FSU1 BUH...U1 -1.000000   BFS.VOU1 1.000000
+    BUH.FSU1 BFS.WTU1 0.929870   XSU.FSU1 1.349460
+    BUH.FSU1 XVI.FSU1 1.093000   NVI.FSU1 1.093000
+    BUK.FSU1 BUK...U1 -1.000000   BFS.VOU1 1.000000
+    BUK.FSU1 BFS.WTU1 1.037550   XSU.FSU1 5.791860
+    BUK.FSU1 XVI.FSU1 1.440000   NVI.FSU1 1.440000
+    BUL.FSU1 BUL...U1 -1.000000   BFS.VOU1 1.000000
+    BUL.FSU1 BFS.WTU1 0.919680   XSU.FSU1 0.452120
+    BUL.FSU1 XVI.FSU1 1.081000   NVI.FSU1 1.081000
+    BUM.FSU1 BUM...U1 -1.000000   BFS.VOU1 1.000000
+    BUM.FSU1 BFS.WTU1 0.989990   XSU.FSU1 2.897960
+    BUM.FSU1 XVI.FSU1 1.344000   NVI.FSU1 1.344000
+    BVH.FSU1 BVH...U1 -1.000000   BFS.VOU1 1.000000
+    BVH.FSU1 BFS.WTU1 1.000220   XSU.FSU1 3.008870
+    BVH.FSU1 XVI.FSU1 1.263000   NVI.FSU1 1.263000
+    BVY.FSU1 BVY...U1 -1.000000   BFS.VOU1 1.000000
+    BVY.FSU1 BFS.WTU1 1.015800   XSU.FSU1 1.117380
+    BVY.FSU1 XVI.FSU1 1.385000   NVI.FSU1 1.385000
+    BWA.FSU1 BWA...U1 -1.000000   BFS.VOU1 1.000000
+    BWA.FSU1 BFS.WTU1 0.969370   XSU.FSU1 0.602190
+    BWA.FSU1 XVI.FSU1 1.340000   NVI.FSU1 1.340000
+    BWT.FSU1 BWT...U1 -1.000000   BFS.VOU1 1.000000
+    BWT.FSU1 BFS.WTU1 1.017990   XSU.FSU1 3.183470
+    BWT.FSU1 XVI.FSU1 1.418000   NVI.FSU1 1.418000
+    BW3.FSU1 BW3...U1 -1.000000   BFS.VOU1 1.000000
+    BW3.FSU1 BFS.WTU1 0.948920   XSU.FSU1 2.021600
+    BW3.FSU1 XVI.FSU1 1.123000   NVI.FSU1 1.123000
+    BXA.FSU1 BXA...U1 -1.000000   BFS.VOU1 1.000000
+    BXA.FSU1 BFS.WTU1 0.991990   XSU.FSU1 2.861130
+    BXA.FSU1 XVI.FSU1 1.300000   NVI.FSU1 1.300000
+    BYH.FSU1 BYH...U1 -1.000000   BFS.VOU1 1.000000
+    BYH.FSU1 BFS.WTU1 1.023810   XSU.FSU1 0.666860
+    BYH.FSU1 XVI.FSU1 1.455000   NVI.FSU1 1.455000
+    BYV.FSU1 BYV...U1 -1.000000   BFS.VOU1 1.000000
+    BYV.FSU1 BFS.WTU1 0.969800   XSU.FSU1 0.649770
+    BYV.FSU1 XVI.FSU1 1.168000   NVI.FSU1 1.168000
+    BZA.FSU1 BZA...U1 -1.000000   BFS.VOU1 1.000000
+    BZA.FSU1 BFS.WTU1 0.898310   XSU.FSU1 0.141510
+    BZA.FSU1 XVI.FSU1 1.053000   NVI.FSU1 1.053000
+    B1A.FSU1 B1A...U1 -1.000000   BFS.VOU1 1.000000
+    B1A.FSU1 BFS.WTU1 0.932600   XSU.FSU1 0.792710
+    B1A.FSU1 XVI.FSU1 1.118000   NVI.FSU1 1.118000
+    B1G.FSU1 B1G...U1 -1.000000   BFS.VOU1 1.000000
+    B1G.FSU1 BFS.WTU1 0.953100   XSU.FSU1 0.695760
+    B1G.FSU1 XVI.FSU1 1.200000   NVI.FSU1 1.200000
+    B1H.FSU1 B1H...U1 -1.000000   BFS.VOU1 1.000000
+    B1H.FSU1 BFS.WTU1 0.949200   XSU.FSU1 1.195990
+    B1H.FSU1 XVI.FSU1 1.244000   NVI.FSU1 1.244000
+    B1I.FSU1 B1I...U1 -1.000000   BFS.VOU1 1.000000
+    B1I.FSU1 BFS.WTU1 0.939400   XSU.FSU1 0.666970
+    B1I.FSU1 XVI.FSU1 1.139000   NVI.FSU1 1.139000
+    B1K.FSU1 B1K...U1 -1.000000   BFS.VOU1 1.000000
+    B1K.FSU1 BFS.WTU1 0.940000   XSU.FSU1 1.081000
+    B1K.FSU1 XVI.FSU1 1.138000   NVI.FSU1 1.138000
+    B1S.FSU1 B1S...U1 -1.000000   BFS.VOU1 1.000000
+    B1S.FSU1 BFS.WTU1 1.004210   XSU.FSU1 1.298100
+    B1S.FSU1 XVI.FSU1 1.395000   NVI.FSU1 1.395000
+    B1W.FSU1 B1W...U1 -1.000000   BFS.VOU1 1.000000
+    B1W.FSU1 BFS.WTU1 0.937200   XSU.FSU1 1.124640
+    B1W.FSU1 XVI.FSU1 1.174000   NVI.FSU1 1.174000
+    B2A.FSU1 B2A...U1 -1.000000   BFS.VOU1 1.000000
+    B2A.FSU1 BFS.WTU1 0.921400   XSU.FSU1 0.313280
+    B2A.FSU1 XVI.FSU1 1.078000   NVI.FSU1 1.078000
+    B2G.FSU1 B2G...U1 -1.000000   BFS.VOU1 1.000000
+    B2G.FSU1 BFS.WTU1 0.942200   XSU.FSU1 0.282660
+    B2G.FSU1 XVI.FSU1 1.152000   NVI.FSU1 1.152000
+    B2H.FSU1 B2H...U1 -1.000000   BFS.VOU1 1.000000
+    B2H.FSU1 BFS.WTU1 0.933600   XSU.FSU1 0.494810
+    B2H.FSU1 XVI.FSU1 1.188000   NVI.FSU1 1.188000
+    B2I.FSU1 B2I...U1 -1.000000   BFS.VOU1 1.000000
+    B2I.FSU1 BFS.WTU1 0.929300   XSU.FSU1 0.269500
+    B2I.FSU1 XVI.FSU1 1.090000   NVI.FSU1 1.090000
+    B2K.FSU1 B2K...U1 -1.000000   BFS.VOU1 1.000000
+    B2K.FSU1 BFS.WTU1 0.926600   XSU.FSU1 0.435500
+    B2K.FSU1 XVI.FSU1 1.092000   NVI.FSU1 1.092000
+    B2W.FSU1 B2W...U1 -1.000000   BFS.VOU1 1.000000
+    B2W.FSU1 BFS.WTU1 0.922600   XSU.FSU1 0.461300
+    B2W.FSU1 XVI.FSU1 1.122000   NVI.FSU1 1.122000
+    B6A.FSU1 B6A...U1 -1.000000   BFS.VOU1 1.000000
+    B6A.FSU1 BFS.WTU1 1.108000   XSU.FSU1 0.675880
+    B6A.FSU1 XVI.FSU1 1.113000   NVI.FSU1 1.113000
+    B6B.FSU1 B6B...U1 -1.000000   BFS.VOU1 1.000000
+    B6B.FSU1 BFS.WTU1 1.071000   XSU.FSU1 0.364140
+    B6B.FSU1 XVI.FSU1 1.116000   NVI.FSU1 1.116000
+    B6H.FSU1 B6H...U1 -1.000000   BFS.VOU1 1.000000
+    B6H.FSU1 BFS.WTU1 1.108000   XSU.FSU1 0.565080
+    B6H.FSU1 XVI.FSU1 1.113000   NVI.FSU1 1.113000
+    B6J.FSU1 B6J...U1 -1.000000   BFS.VOU1 1.000000
+    B6J.FSU1 BFS.WTU1 1.095700   XSU.FSU1 0.317750
+    B6J.FSU1 XVI.FSU1 1.114000   NVI.FSU1 1.114000
+    B6W.FSU1 B6W...U1 -1.000000   BFS.VOU1 1.000000
+    B6W.FSU1 BFS.WTU1 1.108000   XSU.FSU1 0.709120
+    B6W.FSU1 XVI.FSU1 1.113000   NVI.FSU1 1.113000
+    B8A.FSU1 B8A...U1 -1.000000   BFS.VOU1 1.000000
+    B8A.FSU1 BFS.WTU1 1.107000   XSU.FSU1 7.859700
+    B8A.FSU1 XVI.FSU1 1.113000   NVI.FSU1 1.113000
+    B8B.FSU1 B8B...U1 -1.000000   BFS.VOU1 1.000000
+    B8B.FSU1 BFS.WTU1 1.107000   XSU.FSU1 4.317300
+    B8B.FSU1 XVI.FSU1 1.116000   NVI.FSU1 1.116000
+    B8H.FSU1 B8H...U1 -1.000000   BFS.VOU1 1.000000
+    B8H.FSU1 BFS.WTU1 1.107000   XSU.FSU1 6.475950
+    B8H.FSU1 XVI.FSU1 1.113000   NVI.FSU1 1.113000
+    B8J.FSU1 B8J...U1 -1.000000   BFS.VOU1 1.000000
+    B8J.FSU1 BFS.WTU1 1.107000   XSU.FSU1 3.708450
+    B8J.FSU1 XVI.FSU1 1.114000   NVI.FSU1 1.114000
+    B8L.FSU1 B8L...U1 -1.000000   BFS.VOU1 1.000000
+    B8L.FSU1 BFS.WTU1 1.108000   XSU.FSU1 0.221600
+    B8L.FSU1 XVI.FSU1 1.113000   NVI.FSU1 1.113000
+    B8M.FSU1 B8M...U1 -1.000000   BFS.VOU1 1.000000
+    B8M.FSU1 BFS.WTU1 1.108000   XSU.FSU1 0.565080
+    B8M.FSU1 XVI.FSU1 1.113000   NVI.FSU1 1.113000
+    B8W.FSU1 B8W...U1 -1.000000   BFS.VOU1 1.000000
+    B8W.FSU1 BFS.WTU1 1.107000   XSU.FSU1 8.202870
+    B8W.FSU1 XVI.FSU1 1.113000   NVI.FSU1 1.113000
+    B82.FSU1 B82...U1 -1.000000   BFS.VOU1 1.000000
+    B82.FSU1 BFS.WTU1 1.108000   XSU.FSU1 0.299160
+    B82.FSU1 XVI.FSU1 1.113000   NVI.FSU1 1.113000
+    B9A.FSU1 B9A...U1 -1.000000   BFS.VOU1 1.000000
+    B9A.FSU1 BFS.WTU1 1.078500   XSU.FSU1 3.882600
+    B9A.FSU1 XVI.FSU1 1.172000   NVI.FSU1 1.172000
+    B9B.FSU1 B9B...U1 -1.000000   BFS.VOU1 1.000000
+    B9B.FSU1 BFS.WTU1 1.078500   XSU.FSU1 0.323550
+    B9B.FSU1 XVI.FSU1 1.172000   NVI.FSU1 1.172000
+    B9C.FSU1 B9C...U1 -1.000000   BFS.VOU1 1.000000
+    B9C.FSU1 BFS.WTU1 1.038900   XSU.FSU1 3.740040
+    B9C.FSU1 XVI.FSU1 1.132000   NVI.FSU1 1.132000
+    B9D.FSU1 B9D...U1 -1.000000   BFS.VOU1 1.000000
+    B9D.FSU1 BFS.WTU1 1.038900   XSU.FSU1 0.311670
+    B9D.FSU1 XVI.FSU1 1.132000   NVI.FSU1 1.132000
+    B9E.FSU1 B9E...U1 -1.000000   BFS.VOU1 1.000000
+    B9E.FSU1 BFS.WTU1 0.997900   XSU.FSU1 0.299370
+    B9E.FSU1 XVI.FSU1 1.123000   NVI.FSU1 1.123000
+    B9O.FSU1 B9O...U1 -1.000000   BFS.VOU1 1.000000
+    B9O.FSU1 BFS.WTU1 1.178800   XSU.FSU1 4.243680
+    B9O.FSU1 XVI.FSU1 1.063000   NVI.FSU1 1.063000
+    B9P.FSU1 B9P...U1 -1.000000   BFS.VOU1 1.000000
+    B9P.FSU1 BFS.WTU1 1.178800   XSU.FSU1 0.353640
+    B9P.FSU1 XVI.FSU1 1.063000   NVI.FSU1 1.063000
+    B9Q.FSU1 B9Q...U1 -1.000000   BFS.VOU1 1.000000
+    B9Q.FSU1 BFS.WTU1 1.152800   XSU.FSU1 4.150080
+    B9Q.FSU1 XVI.FSU1 1.078000   NVI.FSU1 1.078000
+    B9R.FSU1 B9R...U1 -1.000000   BFS.VOU1 1.000000
+    B9R.FSU1 BFS.WTU1 1.152800   XSU.FSU1 0.345840
+    B9R.FSU1 XVI.FSU1 1.078000   NVI.FSU1 1.078000
+    B9S.FSU1 B9S...U1 -1.000000   BFS.VOU1 1.000000
+    B9S.FSU1 BFS.WTU1 1.116500   XSU.FSU1 0.334950
+    B9S.FSU1 XVI.FSU1 1.073000   NVI.FSU1 1.073000
+    B9V.FSU1 B9V...U1 -1.000000   BFS.VOU1 1.000000
+    B9V.FSU1 BFS.WTU1 0.847300   XSU.FSU1 0.021180
+    B9V.FSU1 XVI.FSU1 0.978000   NVI.FSU1 0.978000
+    BAH.FWU1 BAH...U1 -1.000000   BFW.VOU1 1.000000
+    BAH.FWU1 BFW.WTU1 0.981340   XSU.FWU1 4.265880
+    BAH.FWU1 XVI.FWU1 1.213000   NVI.FWU1 1.213000
+    BAL.FWU1 BAL...U1 -1.000000   BFW.VOU1 1.000000
+    BAL.FWU1 BFW.WTU1 0.951140   XSU.FWU1 2.945650
+    BAL.FWU1 XVI.FWU1 1.114000   NVI.FWU1 1.114000
+    BAM.FWU1 BAM...U1 -1.000000   BFW.VOU1 1.000000
+    BAM.FWU1 BFW.WTU1 0.965360   XSU.FWU1 3.762470
+    BAM.FWU1 XVI.FWU1 1.142000   NVI.FWU1 1.142000
+    BAX.FWU1 BAX...U1 -1.000000   BFW.VOU1 1.000000
+    BAX.FWU1 BFW.WTU1 0.923870   XSU.FWU1 1.927230
+    BAX.FWU1 XVI.FWU1 1.055000   NVI.FWU1 1.055000
+    BBO.FWU1 BBO...U1 -1.000000   BFW.VOU1 1.000000
+    BBO.FWU1 BFW.WTU1 0.820000   XSU.FWU1 0.246000
+    BBO.FWU1 XVI.FWU1 0.720000   NVI.FWU1 0.720000
+    BBP.FWU1 BBP...U1 -1.000000   BFW.VOU1 1.000000
+    BBP.FWU1 BFW.WTU1 0.820000   XSU.FWU1 1.230000
+    BBP.FWU1 XVI.FWU1 0.720000   NVI.FWU1 0.720000
+    BBW.FWU1 BBW...U1 -1.000000   BFW.VOU1 1.000000
+    BBW.FWU1 BFW.WTU1 0.870000   XSU.FWU1 0.435000
+    BBW.FWU1 XVI.FWU1 0.870000   NVI.FWU1 0.870000
+    BBY.FWU1 BBY...U1 -1.000000   BFW.VOU1 1.000000
+    BBY.FWU1 BFW.WTU1 0.870000   XSU.FWU1 1.305000
+    BBY.FWU1 XVI.FWU1 0.870000   NVI.FWU1 0.870000
+    BF2.FWU1 BF2...U1 -1.000000   BFW.VOU1 1.000000
+    BF2.FWU1 BFW.WTU1 0.950000   XSU.FWU1 1.786000
+    BF2.FWU1 XVI.FWU1 1.152000   NVI.FWU1 1.152000
+    BHA.FWU1 BHA...U1 -1.000000   BFW.VOU1 1.000000
+    BHA.FWU1 BFW.WTU1 1.051520   XSU.FWU1 6.325920
+    BHA.FWU1 XVI.FWU1 1.460000   NVI.FWU1 1.460000
+    BHI.FWU1 BHI...U1 -1.000000   BFW.VOU1 1.000000
+    BHI.FWU1 BFW.WTU1 1.035270   XSU.FWU1 3.560070
+    BHI.FWU1 XVI.FWU1 1.460000   NVI.FWU1 1.460000
+    BHU.FWU1 BHU...U1 -1.000000   BFW.VOU1 1.000000
+    BHU.FWU1 BFW.WTU1 1.000260   XSU.FWU1 2.569830
+    BHU.FWU1 XVI.FWU1 1.371000   NVI.FWU1 1.371000
+    BHV.FWU1 BHV...U1 -1.000000   BFW.VOU1 1.000000
+    BHV.FWU1 BFW.WTU1 1.054570   XSU.FWU1 3.887300
+    BHV.FWU1 XVI.FWU1 1.460000   NVI.FWU1 1.460000
+    BIH.FWU1 BIH...U1 -1.000000   BFW.VOU1 1.000000
+    BIH.FWU1 BFW.WTU1 0.965550   XSU.FWU1 2.408160
+    BIH.FWU1 XVI.FWU1 1.180000   NVI.FWU1 1.180000
+    BIL.FWU1 BIL...U1 -1.000000   BFW.VOU1 1.000000
+    BIL.FWU1 BFW.WTU1 0.947960   XSU.FWU1 2.287400
+    BIL.FWU1 XVI.FWU1 1.120000   NVI.FWU1 1.120000
+    BJL.FWU1 BJL...U1 -1.000000   BFW.VOU1 1.000000
+    BJL.FWU1 BFW.WTU1 0.949360   XSU.FWU1 1.831570
+    BJL.FWU1 XVI.FWU1 1.151000   NVI.FWU1 1.151000
+    BKU.FWU1 BKU...U1 -1.000000   BFW.VOU1 1.000000
+    BKU.FWU1 BFW.WTU1 0.966410   XSU.FWU1 3.973220
+    BKU.FWU1 XVI.FWU1 1.163000   NVI.FWU1 1.163000
+    BLA.FWU1 BLA...U1 -1.000000   BFW.VOU1 1.000000
+    BLA.FWU1 BFW.WTU1 1.021730   XSU.FWU1 4.444390
+    BLA.FWU1 XVI.FWU1 1.381000   NVI.FWU1 1.381000
+    BLI.FWU1 BLI...U1 -1.000000   BFW.VOU1 1.000000
+    BLI.FWU1 BFW.WTU1 1.028430   XSU.FWU1 3.784260
+    BLI.FWU1 XVI.FWU1 1.434000   NVI.FWU1 1.434000
+    BLJ.FWU1 BLJ...U1 -1.000000   BFW.VOU1 1.000000
+    BLJ.FWU1 BFW.WTU1 1.013610   XSU.FWU1 2.784670
+    BLJ.FWU1 XVI.FWU1 1.430000   NVI.FWU1 1.430000
+    BMA.FWU1 BMA...U1 -1.000000   BFW.VOU1 1.000000
+    BMA.FWU1 BFW.WTU1 1.036740   XSU.FWU1 5.561150
+    BMA.FWU1 XVI.FWU1 1.405000   NVI.FWU1 1.405000
+    BMT.FWU1 BMT...U1 -1.000000   BFW.VOU1 1.000000
+    BMT.FWU1 BFW.WTU1 1.039070   XSU.FWU1 3.268510
+    BMT.FWU1 XVI.FWU1 1.460000   NVI.FWU1 1.460000
+    BMU.FWU1 BMU...U1 -1.000000   BFW.VOU1 1.000000
+    BMU.FWU1 BFW.WTU1 0.917020   XSU.FWU1 1.561400
+    BMU.FWU1 XVI.FWU1 1.042000   NVI.FWU1 1.042000
+    BQA.FWU1 BQA...U1 -1.000000   BFW.VOU1 1.000000
+    BQA.FWU1 BFW.WTU1 0.997000   XSU.FWU1 4.147520
+    BQA.FWU1 XVI.FWU1 1.175000   NVI.FWU1 1.175000
+    BQB.FWU1 BQB...U1 -1.000000   BFW.VOU1 1.000000
+    BQB.FWU1 BFW.WTU1 1.014000   XSU.FWU1 3.315780
+    BQB.FWU1 XVI.FWU1 1.175000   NVI.FWU1 1.175000
+    BQH.FWU1 BQH...U1 -1.000000   BFW.VOU1 1.000000
+    BQH.FWU1 BFW.WTU1 1.014000   XSU.FWU1 5.536440
+    BQH.FWU1 XVI.FWU1 1.175000   NVI.FWU1 1.175000
+    BQJ.FWU1 BQJ...U1 -1.000000   BFW.VOU1 1.000000
+    BQJ.FWU1 BFW.WTU1 1.029000   XSU.FWU1 3.920490
+    BQJ.FWU1 XVI.FWU1 1.175000   NVI.FWU1 1.175000
+    BQM.FWU1 BQM...U1 -1.000000   BFW.VOU1 1.000000
+    BQM.FWU1 BFW.WTU1 0.997000   XSU.FWU1 4.147520
+    BQM.FWU1 XVI.FWU1 1.175000   NVI.FWU1 1.175000
+    BQT.FWU1 BQT...U1 -1.000000   BFW.VOU1 1.000000
+    BQT.FWU1 BFW.WTU1 0.926240   XSU.FWU1 2.243010
+    BQT.FWU1 XVI.FWU1 1.058000   NVI.FWU1 1.058000
+    BQW.FWU1 BQW...U1 -1.000000   BFW.VOU1 1.000000
+    BQW.FWU1 BFW.WTU1 1.007000   XSU.FWU1 5.810390
+    BQW.FWU1 XVI.FWU1 1.175000   NVI.FWU1 1.175000
+    BQ2.FWU1 BQ2...U1 -1.000000   BFW.VOU1 1.000000
+    BQ2.FWU1 BFW.WTU1 0.997000   XSU.FWU1 2.761690
+    BQ2.FWU1 XVI.FWU1 1.175000   NVI.FWU1 1.175000
+    BTM.FWU1 BTM...U1 -1.000000   BFW.VOU1 1.000000
+    BTM.FWU1 BFW.WTU1 0.976340   XSU.FWU1 2.329660
+    BTM.FWU1 XVI.FWU1 1.220000   NVI.FWU1 1.220000
+    BUH.FWU1 BUH...U1 -1.000000   BFW.VOU1 1.000000
+    BUH.FWU1 BFW.WTU1 0.929870   XSU.FWU1 1.349460
+    BUH.FWU1 XVI.FWU1 1.093000   NVI.FWU1 1.093000
+    BUK.FWU1 BUK...U1 -1.000000   BFW.VOU1 1.000000
+    BUK.FWU1 BFW.WTU1 1.037550   XSU.FWU1 5.791860
+    BUK.FWU1 XVI.FWU1 1.440000   NVI.FWU1 1.440000
+    BUM.FWU1 BUM...U1 -1.000000   BFW.VOU1 1.000000
+    BUM.FWU1 BFW.WTU1 0.989990   XSU.FWU1 2.897960
+    BUM.FWU1 XVI.FWU1 1.344000   NVI.FWU1 1.344000
+    BVH.FWU1 BVH...U1 -1.000000   BFW.VOU1 1.000000
+    BVH.FWU1 BFW.WTU1 1.000220   XSU.FWU1 3.008870
+    BVH.FWU1 XVI.FWU1 1.263000   NVI.FWU1 1.263000
+    BVY.FWU1 BVY...U1 -1.000000   BFW.VOU1 1.000000
+    BVY.FWU1 BFW.WTU1 1.015800   XSU.FWU1 1.117380
+    BVY.FWU1 XVI.FWU1 1.385000   NVI.FWU1 1.385000
+    BWT.FWU1 BWT...U1 -1.000000   BFW.VOU1 1.000000
+    BWT.FWU1 BFW.WTU1 1.017990   XSU.FWU1 3.183470
+    BWT.FWU1 XVI.FWU1 1.418000   NVI.FWU1 1.418000
+    BW3.FWU1 BW3...U1 -1.000000   BFW.VOU1 1.000000
+    BW3.FWU1 BFW.WTU1 0.948920   XSU.FWU1 2.021600
+    BW3.FWU1 XVI.FWU1 1.123000   NVI.FWU1 1.123000
+    BXA.FWU1 BXA...U1 -1.000000   BFW.VOU1 1.000000
+    BXA.FWU1 BFW.WTU1 0.991990   XSU.FWU1 2.861130
+    BXA.FWU1 XVI.FWU1 1.300000   NVI.FWU1 1.300000
+    BYV.FWU1 BYV...U1 -1.000000   BFW.VOU1 1.000000
+    BYV.FWU1 BFW.WTU1 0.969800   XSU.FWU1 0.649770
+    BYV.FWU1 XVI.FWU1 1.168000   NVI.FWU1 1.168000
+    B8A.FWU1 B8A...U1 -1.000000   BFW.VOU1 1.000000
+    B8A.FWU1 BFW.WTU1 1.107000   XSU.FWU1 7.859700
+    B8A.FWU1 XVI.FWU1 1.113000   NVI.FWU1 1.113000
+    B8B.FWU1 B8B...U1 -1.000000   BFW.VOU1 1.000000
+    B8B.FWU1 BFW.WTU1 1.107000   XSU.FWU1 4.317300
+    B8B.FWU1 XVI.FWU1 1.116000   NVI.FWU1 1.116000
+    B8H.FWU1 B8H...U1 -1.000000   BFW.VOU1 1.000000
+    B8H.FWU1 BFW.WTU1 1.107000   XSU.FWU1 6.475950
+    B8H.FWU1 XVI.FWU1 1.113000   NVI.FWU1 1.113000
+    B8J.FWU1 B8J...U1 -1.000000   BFW.VOU1 1.000000
+    B8J.FWU1 BFW.WTU1 1.107000   XSU.FWU1 3.708450
+    B8J.FWU1 XVI.FWU1 1.114000   NVI.FWU1 1.114000
+    B8M.FWU1 B8M...U1 -1.000000   BFW.VOU1 1.000000
+    B8M.FWU1 BFW.WTU1 1.108000   XSU.FWU1 0.565080
+    B8M.FWU1 XVI.FWU1 1.113000   NVI.FWU1 1.113000
+    B8W.FWU1 B8W...U1 -1.000000   BFW.VOU1 1.000000
+    B8W.FWU1 BFW.WTU1 1.107000   XSU.FWU1 8.202870
+    B8W.FWU1 XVI.FWU1 1.113000   NVI.FWU1 1.113000
+    B82.FWU1 B82...U1 -1.000000   BFW.VOU1 1.000000
+    B82.FWU1 BFW.WTU1 1.108000   XSU.FWU1 0.299160
+    B82.FWU1 XVI.FWU1 1.113000   NVI.FWU1 1.113000
+    B9A.FWU1 B9A...U1 -1.000000   BFW.VOU1 1.000000
+    B9A.FWU1 BFW.WTU1 1.078500   XSU.FWU1 3.882600
+    B9A.FWU1 XVI.FWU1 1.172000   NVI.FWU1 1.172000
+    B9B.FWU1 B9B...U1 -1.000000   BFW.VOU1 1.000000
+    B9B.FWU1 BFW.WTU1 1.078500   XSU.FWU1 0.323550
+    B9B.FWU1 XVI.FWU1 1.172000   NVI.FWU1 1.172000
+    B9C.FWU1 B9C...U1 -1.000000   BFW.VOU1 1.000000
+    B9C.FWU1 BFW.WTU1 1.038900   XSU.FWU1 3.740040
+    B9C.FWU1 XVI.FWU1 1.132000   NVI.FWU1 1.132000
+    B9D.FWU1 B9D...U1 -1.000000   BFW.VOU1 1.000000
+    B9D.FWU1 BFW.WTU1 1.038900   XSU.FWU1 0.311670
+    B9D.FWU1 XVI.FWU1 1.132000   NVI.FWU1 1.132000
+    B9E.FWU1 B9E...U1 -1.000000   BFW.VOU1 1.000000
+    B9E.FWU1 BFW.WTU1 0.997900   XSU.FWU1 0.299370
+    B9E.FWU1 XVI.FWU1 1.123000   NVI.FWU1 1.123000
+    B9O.FWU1 B9O...U1 -1.000000   BFW.VOU1 1.000000
+    B9O.FWU1 BFW.WTU1 1.178800   XSU.FWU1 4.243680
+    B9O.FWU1 XVI.FWU1 1.063000   NVI.FWU1 1.063000
+    B9P.FWU1 B9P...U1 -1.000000   BFW.VOU1 1.000000
+    B9P.FWU1 BFW.WTU1 1.178800   XSU.FWU1 0.353640
+    B9P.FWU1 XVI.FWU1 1.063000   NVI.FWU1 1.063000
+    B9Q.FWU1 B9Q...U1 -1.000000   BFW.VOU1 1.000000
+    B9Q.FWU1 BFW.WTU1 1.152800   XSU.FWU1 4.150080
+    B9Q.FWU1 XVI.FWU1 1.078000   NVI.FWU1 1.078000
+    B9R.FWU1 B9R...U1 -1.000000   BFW.VOU1 1.000000
+    B9R.FWU1 BFW.WTU1 1.152800   XSU.FWU1 0.345840
+    B9R.FWU1 XVI.FWU1 1.078000   NVI.FWU1 1.078000
+    B9S.FWU1 B9S...U1 -1.000000   BFW.VOU1 1.000000
+    B9S.FWU1 BFW.WTU1 1.116500   XSU.FWU1 0.334950
+    B9S.FWU1 XVI.FWU1 1.073000   NVI.FWU1 1.073000
+    BAH.FYU1 BAH...U1 -1.000000   BFY.VOU1 1.000000
+    BAH.FYU1 BFY.WTU1 0.981340   XSU.FYU1 4.265880
+    BAH.FYU1 XVI.FYU1 1.213000   NVI.FYU1 1.213000
+    BAL.FYU1 BAL...U1 -1.000000   BFY.VOU1 1.000000
+    BAL.FYU1 BFY.WTU1 0.951140   XSU.FYU1 2.945650
+    BAL.FYU1 XVI.FYU1 1.114000   NVI.FYU1 1.114000
+    BAM.FYU1 BAM...U1 -1.000000   BFY.VOU1 1.000000
+    BAM.FYU1 BFY.WTU1 0.965360   XSU.FYU1 3.762470
+    BAM.FYU1 XVI.FYU1 1.142000   NVI.FYU1 1.142000
+    BAX.FYU1 BAX...U1 -1.000000   BFY.VOU1 1.000000
+    BAX.FYU1 BFY.WTU1 0.923870   XSU.FYU1 1.927230
+    BAX.FYU1 XVI.FYU1 1.055000   NVI.FYU1 1.055000
+    BBO.FYU1 BBO...U1 -1.000000   BFY.VOU1 1.000000
+    BBO.FYU1 BFY.WTU1 0.820000   XSU.FYU1 0.246000
+    BBO.FYU1 XVI.FYU1 0.720000   NVI.FYU1 0.720000
+    BBP.FYU1 BBP...U1 -1.000000   BFY.VOU1 1.000000
+    BBP.FYU1 BFY.WTU1 0.820000   XSU.FYU1 1.230000
+    BBP.FYU1 XVI.FYU1 0.720000   NVI.FYU1 0.720000
+    BBW.FYU1 BBW...U1 -1.000000   BFY.VOU1 1.000000
+    BBW.FYU1 BFY.WTU1 0.870000   XSU.FYU1 0.435000
+    BBW.FYU1 XVI.FYU1 0.870000   NVI.FYU1 0.870000
+    BBY.FYU1 BBY...U1 -1.000000   BFY.VOU1 1.000000
+    BBY.FYU1 BFY.WTU1 0.870000   XSU.FYU1 1.305000
+    BBY.FYU1 XVI.FYU1 0.870000   NVI.FYU1 0.870000
+    BF2.FYU1 BF2...U1 -1.000000   BFY.VOU1 1.000000
+    BF2.FYU1 BFY.WTU1 0.950000   XSU.FYU1 1.786000
+    BF2.FYU1 XVI.FYU1 1.152000   NVI.FYU1 1.152000
+    BHA.FYU1 BHA...U1 -1.000000   BFY.VOU1 1.000000
+    BHA.FYU1 BFY.WTU1 1.051520   XSU.FYU1 6.325920
+    BHA.FYU1 XVI.FYU1 1.460000   NVI.FYU1 1.460000
+    BHI.FYU1 BHI...U1 -1.000000   BFY.VOU1 1.000000
+    BHI.FYU1 BFY.WTU1 1.035270   XSU.FYU1 3.560070
+    BHI.FYU1 XVI.FYU1 1.460000   NVI.FYU1 1.460000
+    BHU.FYU1 BHU...U1 -1.000000   BFY.VOU1 1.000000
+    BHU.FYU1 BFY.WTU1 1.000260   XSU.FYU1 2.569830
+    BHU.FYU1 XVI.FYU1 1.371000   NVI.FYU1 1.371000
+    BHV.FYU1 BHV...U1 -1.000000   BFY.VOU1 1.000000
+    BHV.FYU1 BFY.WTU1 1.054570   XSU.FYU1 3.887300
+    BHV.FYU1 XVI.FYU1 1.460000   NVI.FYU1 1.460000
+    BIH.FYU1 BIH...U1 -1.000000   BFY.VOU1 1.000000
+    BIH.FYU1 BFY.WTU1 0.965550   XSU.FYU1 2.408160
+    BIH.FYU1 XVI.FYU1 1.180000   NVI.FYU1 1.180000
+    BIL.FYU1 BIL...U1 -1.000000   BFY.VOU1 1.000000
+    BIL.FYU1 BFY.WTU1 0.947960   XSU.FYU1 2.287400
+    BIL.FYU1 XVI.FYU1 1.120000   NVI.FYU1 1.120000
+    BJL.FYU1 BJL...U1 -1.000000   BFY.VOU1 1.000000
+    BJL.FYU1 BFY.WTU1 0.949360   XSU.FYU1 1.831570
+    BJL.FYU1 XVI.FYU1 1.151000   NVI.FYU1 1.151000
+    BKU.FYU1 BKU...U1 -1.000000   BFY.VOU1 1.000000
+    BKU.FYU1 BFY.WTU1 0.966410   XSU.FYU1 3.973220
+    BKU.FYU1 XVI.FYU1 1.163000   NVI.FYU1 1.163000
+    BLA.FYU1 BLA...U1 -1.000000   BFY.VOU1 1.000000
+    BLA.FYU1 BFY.WTU1 1.021730   XSU.FYU1 4.444390
+    BLA.FYU1 XVI.FYU1 1.381000   NVI.FYU1 1.381000
+    BLI.FYU1 BLI...U1 -1.000000   BFY.VOU1 1.000000
+    BLI.FYU1 BFY.WTU1 1.028430   XSU.FYU1 3.784260
+    BLI.FYU1 XVI.FYU1 1.434000   NVI.FYU1 1.434000
+    BLJ.FYU1 BLJ...U1 -1.000000   BFY.VOU1 1.000000
+    BLJ.FYU1 BFY.WTU1 1.013610   XSU.FYU1 2.784670
+    BLJ.FYU1 XVI.FYU1 1.430000   NVI.FYU1 1.430000
+    BMA.FYU1 BMA...U1 -1.000000   BFY.VOU1 1.000000
+    BMA.FYU1 BFY.WTU1 1.036740   XSU.FYU1 5.561150
+    BMA.FYU1 XVI.FYU1 1.405000   NVI.FYU1 1.405000
+    BMT.FYU1 BMT...U1 -1.000000   BFY.VOU1 1.000000
+    BMT.FYU1 BFY.WTU1 1.039070   XSU.FYU1 3.268510
+    BMT.FYU1 XVI.FYU1 1.460000   NVI.FYU1 1.460000
+    BMU.FYU1 BMU...U1 -1.000000   BFY.VOU1 1.000000
+    BMU.FYU1 BFY.WTU1 0.917020   XSU.FYU1 1.561400
+    BMU.FYU1 XVI.FYU1 1.042000   NVI.FYU1 1.042000
+    BQA.FYU1 BQA...U1 -1.000000   BFY.VOU1 1.000000
+    BQA.FYU1 BFY.WTU1 0.997000   XSU.FYU1 4.147520
+    BQA.FYU1 XVI.FYU1 1.175000   NVI.FYU1 1.175000
+    BQB.FYU1 BQB...U1 -1.000000   BFY.VOU1 1.000000
+    BQB.FYU1 BFY.WTU1 1.014000   XSU.FYU1 3.315780
+    BQB.FYU1 XVI.FYU1 1.175000   NVI.FYU1 1.175000
+    BQH.FYU1 BQH...U1 -1.000000   BFY.VOU1 1.000000
+    BQH.FYU1 BFY.WTU1 1.014000   XSU.FYU1 5.536440
+    BQH.FYU1 XVI.FYU1 1.175000   NVI.FYU1 1.175000
+    BQJ.FYU1 BQJ...U1 -1.000000   BFY.VOU1 1.000000
+    BQJ.FYU1 BFY.WTU1 1.029000   XSU.FYU1 3.920490
+    BQJ.FYU1 XVI.FYU1 1.175000   NVI.FYU1 1.175000
+    BQM.FYU1 BQM...U1 -1.000000   BFY.VOU1 1.000000
+    BQM.FYU1 BFY.WTU1 0.997000   XSU.FYU1 4.147520
+    BQM.FYU1 XVI.FYU1 1.175000   NVI.FYU1 1.175000
+    BQT.FYU1 BQT...U1 -1.000000   BFY.VOU1 1.000000
+    BQT.FYU1 BFY.WTU1 0.926240   XSU.FYU1 2.243010
+    BQT.FYU1 XVI.FYU1 1.058000   NVI.FYU1 1.058000
+    BQW.FYU1 BQW...U1 -1.000000   BFY.VOU1 1.000000
+    BQW.FYU1 BFY.WTU1 1.007000   XSU.FYU1 5.810390
+    BQW.FYU1 XVI.FYU1 1.175000   NVI.FYU1 1.175000
+    BQ2.FYU1 BQ2...U1 -1.000000   BFY.VOU1 1.000000
+    BQ2.FYU1 BFY.WTU1 0.997000   XSU.FYU1 2.761690
+    BQ2.FYU1 XVI.FYU1 1.175000   NVI.FYU1 1.175000
+    BTM.FYU1 BTM...U1 -1.000000   BFY.VOU1 1.000000
+    BTM.FYU1 BFY.WTU1 0.976340   XSU.FYU1 2.329660
+    BTM.FYU1 XVI.FYU1 1.220000   NVI.FYU1 1.220000
+    BUH.FYU1 BUH...U1 -1.000000   BFY.VOU1 1.000000
+    BUH.FYU1 BFY.WTU1 0.929870   XSU.FYU1 1.349460
+    BUH.FYU1 XVI.FYU1 1.093000   NVI.FYU1 1.093000
+    BUK.FYU1 BUK...U1 -1.000000   BFY.VOU1 1.000000
+    BUK.FYU1 BFY.WTU1 1.037550   XSU.FYU1 5.791860
+    BUK.FYU1 XVI.FYU1 1.440000   NVI.FYU1 1.440000
+    BUM.FYU1 BUM...U1 -1.000000   BFY.VOU1 1.000000
+    BUM.FYU1 BFY.WTU1 0.989990   XSU.FYU1 2.897960
+    BUM.FYU1 XVI.FYU1 1.344000   NVI.FYU1 1.344000
+    BVH.FYU1 BVH...U1 -1.000000   BFY.VOU1 1.000000
+    BVH.FYU1 BFY.WTU1 1.000220   XSU.FYU1 3.008870
+    BVH.FYU1 XVI.FYU1 1.263000   NVI.FYU1 1.263000
+    BVY.FYU1 BVY...U1 -1.000000   BFY.VOU1 1.000000
+    BVY.FYU1 BFY.WTU1 1.015800   XSU.FYU1 1.117380
+    BVY.FYU1 XVI.FYU1 1.385000   NVI.FYU1 1.385000
+    BWT.FYU1 BWT...U1 -1.000000   BFY.VOU1 1.000000
+    BWT.FYU1 BFY.WTU1 1.017990   XSU.FYU1 3.183470
+    BWT.FYU1 XVI.FYU1 1.418000   NVI.FYU1 1.418000
+    BW3.FYU1 BW3...U1 -1.000000   BFY.VOU1 1.000000
+    BW3.FYU1 BFY.WTU1 0.948920   XSU.FYU1 2.021600
+    BW3.FYU1 XVI.FYU1 1.123000   NVI.FYU1 1.123000
+    BXA.FYU1 BXA...U1 -1.000000   BFY.VOU1 1.000000
+    BXA.FYU1 BFY.WTU1 0.991990   XSU.FYU1 2.861130
+    BXA.FYU1 XVI.FYU1 1.300000   NVI.FYU1 1.300000
+    BYV.FYU1 BYV...U1 -1.000000   BFY.VOU1 1.000000
+    BYV.FYU1 BFY.WTU1 0.969800   XSU.FYU1 0.649770
+    BYV.FYU1 XVI.FYU1 1.168000   NVI.FYU1 1.168000
+    B8A.FYU1 B8A...U1 -1.000000   BFY.VOU1 1.000000
+    B8A.FYU1 BFY.WTU1 1.107000   XSU.FYU1 7.859700
+    B8A.FYU1 XVI.FYU1 1.113000   NVI.FYU1 1.113000
+    B8B.FYU1 B8B...U1 -1.000000   BFY.VOU1 1.000000
+    B8B.FYU1 BFY.WTU1 1.107000   XSU.FYU1 4.317300
+    B8B.FYU1 XVI.FYU1 1.116000   NVI.FYU1 1.116000
+    B8H.FYU1 B8H...U1 -1.000000   BFY.VOU1 1.000000
+    B8H.FYU1 BFY.WTU1 1.107000   XSU.FYU1 6.475950
+    B8H.FYU1 XVI.FYU1 1.113000   NVI.FYU1 1.113000
+    B8J.FYU1 B8J...U1 -1.000000   BFY.VOU1 1.000000
+    B8J.FYU1 BFY.WTU1 1.107000   XSU.FYU1 3.708450
+    B8J.FYU1 XVI.FYU1 1.114000   NVI.FYU1 1.114000
+    B8M.FYU1 B8M...U1 -1.000000   BFY.VOU1 1.000000
+    B8M.FYU1 BFY.WTU1 1.108000   XSU.FYU1 0.565080
+    B8M.FYU1 XVI.FYU1 1.113000   NVI.FYU1 1.113000
+    B8W.FYU1 B8W...U1 -1.000000   BFY.VOU1 1.000000
+    B8W.FYU1 BFY.WTU1 1.107000   XSU.FYU1 8.202870
+    B8W.FYU1 XVI.FYU1 1.113000   NVI.FYU1 1.113000
+    B82.FYU1 B82...U1 -1.000000   BFY.VOU1 1.000000
+    B82.FYU1 BFY.WTU1 1.108000   XSU.FYU1 0.299160
+    B82.FYU1 XVI.FYU1 1.113000   NVI.FYU1 1.113000
+    B9A.FYU1 B9A...U1 -1.000000   BFY.VOU1 1.000000
+    B9A.FYU1 BFY.WTU1 1.078500   XSU.FYU1 3.882600
+    B9A.FYU1 XVI.FYU1 1.172000   NVI.FYU1 1.172000
+    B9B.FYU1 B9B...U1 -1.000000   BFY.VOU1 1.000000
+    B9B.FYU1 BFY.WTU1 1.078500   XSU.FYU1 0.323550
+    B9B.FYU1 XVI.FYU1 1.172000   NVI.FYU1 1.172000
+    B9C.FYU1 B9C...U1 -1.000000   BFY.VOU1 1.000000
+    B9C.FYU1 BFY.WTU1 1.038900   XSU.FYU1 3.740040
+    B9C.FYU1 XVI.FYU1 1.132000   NVI.FYU1 1.132000
+    B9D.FYU1 B9D...U1 -1.000000   BFY.VOU1 1.000000
+    B9D.FYU1 BFY.WTU1 1.038900   XSU.FYU1 0.311670
+    B9D.FYU1 XVI.FYU1 1.132000   NVI.FYU1 1.132000
+    B9E.FYU1 B9E...U1 -1.000000   BFY.VOU1 1.000000
+    B9E.FYU1 BFY.WTU1 0.997900   XSU.FYU1 0.299370
+    B9E.FYU1 XVI.FYU1 1.123000   NVI.FYU1 1.123000
+    B9O.FYU1 B9O...U1 -1.000000   BFY.VOU1 1.000000
+    B9O.FYU1 BFY.WTU1 1.178800   XSU.FYU1 4.243680
+    B9O.FYU1 XVI.FYU1 1.063000   NVI.FYU1 1.063000
+    B9P.FYU1 B9P...U1 -1.000000   BFY.VOU1 1.000000
+    B9P.FYU1 BFY.WTU1 1.178800   XSU.FYU1 0.353640
+    B9P.FYU1 XVI.FYU1 1.063000   NVI.FYU1 1.063000
+    B9Q.FYU1 B9Q...U1 -1.000000   BFY.VOU1 1.000000
+    B9Q.FYU1 BFY.WTU1 1.152800   XSU.FYU1 4.150080
+    B9Q.FYU1 XVI.FYU1 1.078000   NVI.FYU1 1.078000
+    B9R.FYU1 B9R...U1 -1.000000   BFY.VOU1 1.000000
+    B9R.FYU1 BFY.WTU1 1.152800   XSU.FYU1 0.345840
+    B9R.FYU1 XVI.FYU1 1.078000   NVI.FYU1 1.078000
+    B9S.FYU1 B9S...U1 -1.000000   BFY.VOU1 1.000000
+    B9S.FYU1 BFY.WTU1 1.116500   XSU.FYU1 0.334950
+    B9S.FYU1 XVI.FYU1 1.073000   NVI.FYU1 1.073000
+    B/A.GPU1 B/A...U1 -1.000000   BGP.VOU1 1.000000
+    B/A.GPU1 NRN.GPU1 0.639000   ND2.GPU1 0.281000
+    B/A.GPU1 WVP.GPU1 0.380000   WD8.GPU1 0.085000
+    B/B.GPU1 B/B...U1 -1.000000   BGP.VOU1 1.000000
+    B/B.GPU1 NRN.GPU1 0.643000   ND2.GPU1 0.355000
+    B/B.GPU1 WVP.GPU1 0.410000   WD8.GPU1 0.132000
+    B/J.GPU1 B/J...U1 -1.000000   BGP.VOU1 1.000000
+    B/J.GPU1 NRN.GPU1 0.640000   ND2.GPU1 0.306000
+    B/J.GPU1 WVP.GPU1 0.390000   WD8.GPU1 0.101000
+    B/2.GPU1 B/2...U1 -1.000000   BGP.VOU1 1.000000
+    B/2.GPU1 NRN.GPU1 0.639000   ND2.GPU1 0.281000
+    B/2.GPU1 WVP.GPU1 0.380000   WD8.GPU1 0.085000
+    BIP.GPU1 BIP...U1 -1.000000   BGP.VOU1 1.000000
+    BIP.GPU1 NRN.GPU1 0.486000   ND2.GPU1 0.137000
+    BIP.GPU1 WVP.GPU1 0.100000   WD8.GPU1 -0.016000
+    BI5.GPU1 BI5...U1 -1.000000   BGP.VOU1 1.000000
+    BI5.GPU1 NRN.GPU1 0.660000   ND2.GPU1 1.100000
+    BI5.GPU1 WVP.GPU1 2.100000   WD8.GPU1 1.100000
+    BLN.GPU1 BLN...U1 -1.000000   BGP.VOU1 1.000000
+    BLN.GPU1 NRN.GPU1 0.555000   ND2.GPU1 1.080000
+    BLN.GPU1 WVP.GPU1 1.040000   WD8.GPU1 0.700000
+    BN4.GPU1 BN4...U1 -1.000000   BGP.VOU1 1.000000
+    BN4.GPU1 NRN.GPU1 0.688000   ND2.GPU1 1.000000
+    BN4.GPU1 WVP.GPU1 6.800000   WD8.GPU1 1.300000
+    B0A.GPU1 B0A...U1 -1.000000   BGP.VOU1 1.000000
+    B0A.GPU1 NRN.GPU1 0.639000   ND2.GPU1 0.281000
+    B0A.GPU1 WVP.GPU1 0.380000   WD8.GPU1 0.085000
+    B0B.GPU1 B0B...U1 -1.000000   BGP.VOU1 1.000000
+    B0B.GPU1 NRN.GPU1 0.643000   ND2.GPU1 0.355000
+    B0B.GPU1 WVP.GPU1 0.410000   WD8.GPU1 0.132000
+    B0J.GPU1 B0J...U1 -1.000000   BGP.VOU1 1.000000
+    B0J.GPU1 NRN.GPU1 0.640300   ND2.GPU1 0.306000
+    B0J.GPU1 WVP.GPU1 0.390000   WD8.GPU1 0.101000
+    B0M.GPU1 B0M...U1 -1.000000   BGP.VOU1 1.000000
+    B0M.GPU1 NRN.GPU1 0.639000   ND2.GPU1 0.281000
+    B0M.GPU1 WVP.GPU1 0.380000   WD8.GPU1 0.085000
+    B0S.GPU1 B0S...U1 -1.000000   BGP.VOU1 1.000000
+    B0S.GPU1 NRN.GPU1 0.639000   ND2.GPU1 0.281000
+    B0S.GPU1 WVP.GPU1 0.380000   WD8.GPU1 0.085000
+    B4A.GPU1 B4A...U1 -1.000000   BGP.VOU1 1.000000
+    B4A.GPU1 NRN.GPU1 0.662000   ND2.GPU1 0.580000
+    B4A.GPU1 WVP.GPU1 0.610000   WD8.GPU1 0.270000
+    B4B.GPU1 B4B...U1 -1.000000   BGP.VOU1 1.000000
+    B4B.GPU1 NRN.GPU1 0.779000   ND2.GPU1 0.635000
+    B4B.GPU1 WVP.GPU1 4.030000   WD8.GPU1 1.952000
+    B4C.GPU1 B4C...U1 -1.000000   BGP.VOU1 1.000000
+    B4C.GPU1 NRN.GPU1 0.657000   ND2.GPU1 0.630000
+    B4C.GPU1 WVP.GPU1 0.720000   WD8.GPU1 0.340000
+    B4D.GPU1 B4D...U1 -1.000000   BGP.VOU1 1.000000
+    B4D.GPU1 NRN.GPU1 0.620000   ND2.GPU1 1.029000
+    B4D.GPU1 WVP.GPU1 1.200000   WD8.GPU1 0.824000
+    B4E.GPU1 B4E...U1 -1.000000   BGP.VOU1 1.000000
+    B4E.GPU1 NRN.GPU1 0.647000   ND2.GPU1 0.650000
+    B4E.GPU1 WVP.GPU1 0.740000   WD8.GPU1 0.370000
+    B4I.GPU1 B4I...U1 -1.000000   BGP.VOU1 1.000000
+    B4I.GPU1 NRN.GPU1 0.639000   ND2.GPU1 0.474000
+    B4I.GPU1 WVP.GPU1 0.570000   WD8.GPU1 0.224000
+    B4K.GPU1 B4K...U1 -1.000000   BGP.VOU1 1.000000
+    B4K.GPU1 NRN.GPU1 1.078000   ND2.GPU1 2.508000
+    B4K.GPU1 WVP.GPU1 12.290000   WD8.GPU1 6.568000
+    B4O.GPU1 B4O...U1 -1.000000   BGP.VOU1 1.000000
+    B4O.GPU1 NRN.GPU1 0.661000   ND2.GPU1 0.428000
+    B4O.GPU1 WVP.GPU1 0.480000   WD8.GPU1 0.182000
+    B4P.GPU1 B4P...U1 -1.000000   BGP.VOU1 1.000000
+    B4P.GPU1 NRN.GPU1 0.725000   ND2.GPU1 -2.560000
+    B4P.GPU1 WVP.GPU1 -2.170000   WD8.GPU1 -2.836000
+    B4Q.GPU1 B4Q...U1 -1.000000   BGP.VOU1 1.000000
+    B4Q.GPU1 NRN.GPU1 0.658000   ND2.GPU1 0.466000
+    B4Q.GPU1 WVP.GPU1 0.580000   WD8.GPU1 0.232000
+    B4R.GPU1 B4R...U1 -1.000000   BGP.VOU1 1.000000
+    B4R.GPU1 NRN.GPU1 0.648000   ND2.GPU1 0.469000
+    B4R.GPU1 WVP.GPU1 0.570000   WD8.GPU1 0.221000
+    B4S.GPU1 B4S...U1 -1.000000   BGP.VOU1 1.000000
+    B4S.GPU1 NRN.GPU1 0.653000   ND2.GPU1 0.486000
+    B4S.GPU1 WVP.GPU1 0.600000   WD8.GPU1 0.252000
+    B4T.GPU1 B4T...U1 -1.000000   BGP.VOU1 1.000000
+    B4T.GPU1 NRN.GPU1 0.638000   ND2.GPU1 0.470000
+    B4T.GPU1 WVP.GPU1 0.560000   WD8.GPU1 0.220000
+    B4V.GPU1 B4V...U1 -1.000000   BGP.VOU1 1.000000
+    B4V.GPU1 NRN.GPU1 0.648000   ND2.GPU1 0.476000
+    B4V.GPU1 WVP.GPU1 0.560000   WD8.GPU1 0.220000
+    B5I.GPU1 B5I...U1 -1.000000   BGP.VOU1 1.000000
+    B5I.GPU1 NRN.GPU1 0.701000   ND2.GPU1 0.222000
+    B5I.GPU1 WVP.GPU1 0.220000   WD8.GPU1 -0.034000
+    B5J.GPU1 B5J...U1 -1.000000   BGP.VOU1 1.000000
+    B5J.GPU1 NRN.GPU1 0.704000   ND2.GPU1 0.275000
+    B5J.GPU1 WVP.GPU1 0.330000   WD8.GPU1 0.031000
+    B5K.GPU1 B5K...U1 -1.000000   BGP.VOU1 1.000000
+    B5K.GPU1 NRN.GPU1 0.701000   ND2.GPU1 0.169000
+    B5K.GPU1 WVP.GPU1 0.210000   WD8.GPU1 -0.047000
+    B5L.GPU1 B5L...U1 -1.000000   BGP.VOU1 1.000000
+    B5L.GPU1 NRN.GPU1 0.704000   ND2.GPU1 0.222000
+    B5L.GPU1 WVP.GPU1 0.320000   WD8.GPU1 0.018000
+    B5M.GPU1 B5M...U1 -1.000000   BGP.VOU1 1.000000
+    B5M.GPU1 NRN.GPU1 0.729000   ND2.GPU1 0.200000
+    B5M.GPU1 WVP.GPU1 0.250000   WD8.GPU1 -0.015000
+    B5N.GPU1 B5N...U1 -1.000000   BGP.VOU1 1.000000
+    B5N.GPU1 NRN.GPU1 0.729000   ND2.GPU1 0.147000
+    B5N.GPU1 WVP.GPU1 0.240000   WD8.GPU1 -0.028000
+    B5O.GPU1 B5O...U1 -1.000000   BGP.VOU1 1.000000
+    B5O.GPU1 NRN.GPU1 0.731000   ND2.GPU1 0.253000
+    B5O.GPU1 WVP.GPU1 0.360000   WD8.GPU1 0.050000
+    B5P.GPU1 B5P...U1 -1.000000   BGP.VOU1 1.000000
+    B5P.GPU1 NRN.GPU1 0.731000   ND2.GPU1 0.200000
+    B5P.GPU1 WVP.GPU1 0.350000   WD8.GPU1 0.037000
+    B5Q.GPU1 B5Q...U1 -1.000000   BGP.VOU1 1.000000
+    B5Q.GPU1 NRN.GPU1 0.715000   ND2.GPU1 0.110000
+    B5Q.GPU1 WVP.GPU1 0.240000   WD8.GPU1 -0.050000
+    B5T.GPU1 B5T...U1 -1.000000   BGP.VOU1 1.000000
+    B5T.GPU1 NRN.GPU1 0.617000   ND2.GPU1 0.200000
+    B5T.GPU1 WVP.GPU1 0.480000   WD8.GPU1 0.000100
+    B5U.GPU1 B5U...U1 -1.000000   BGP.VOU1 1.000000
+    B5U.GPU1 NRN.GPU1 0.777000   ND2.GPU1 -0.566000
+    B5U.GPU1 WVP.GPU1 -0.110000   WD8.GPU1 -0.528000
+    B5V.GPU1 B5V...U1 -1.000000   BGP.VOU1 1.000000
+    B5V.GPU1 NRN.GPU1 0.728000   ND2.GPU1 0.112000
+    B5V.GPU1 WVP.GPU1 0.470000   WD8.GPU1 -0.045000
+    B5W.GPU1 B5W...U1 -1.000000   BGP.VOU1 1.000000
+    B5W.GPU1 NRN.GPU1 0.684000   ND2.GPU1 0.093000
+    B5W.GPU1 WVP.GPU1 0.380000   WD8.GPU1 0.031000
+    B5X.GPU1 B5X...U1 -1.000000   BGP.VOU1 1.000000
+    B5X.GPU1 NRN.GPU1 0.433000   ND2.GPU1 0.485000
+    B5X.GPU1 WVP.GPU1 1.000000   WD8.GPU1 0.423000
+    B53.GPU1 B53...U1 -1.000000   BGP.VOU1 1.000000
+    B53.GPU1 NRN.GPU1 0.660000   ND2.GPU1 0.742000
+    B53.GPU1 WVP.GPU1 0.240000   WD8.GPU1 0.119000
+    B54.GPU1 B54...U1 -1.000000   BGP.VOU1 1.000000
+    B54.GPU1 NRN.GPU1 0.706000   ND2.GPU1 0.441000
+    B54.GPU1 WVP.GPU1 0.300000   WD8.GPU1 0.192000
+    B55.GPU1 B55...U1 -1.000000   BGP.VOU1 1.000000
+    B55.GPU1 NRN.GPU1 0.642000   ND2.GPU1 -0.297000
+    B55.GPU1 WVP.GPU1 -1.120000   WD8.GPU1 -0.744000
+    COF.A.U1 COF.A.U1 1.000000   KTC..... 1.000000
+    COF.A.U1 FAT0..J. 2.163000   BFR...U1 -0.207000
+    COF.A.U1 UPBROW27879 1.000000
+    CFT.C.U1 CFT.C.U1 1.000000   KTC..... 1.000000
+    CFT.C.U1 BFR...U1 -0.009000   UPBROW27880 1.000000
+    CTF.D.U1 CTF.D.U1 1.000000   KWC..... 1.120000
+    CTF.D.U1 KTC..... 1.000000   FAT0..J. 0.099000
+    CTF.D.U1 BFR...U1 -0.025000   UPBROW27881 1.000000
+    CF..G.U1 CF..G.U1 1.000000   FAT0..J. 0.405000
+    CF..G.U1 BFR...U1 -0.024000   BNL...U1 -0.022100
+    CF..G.U1 UPBROW27882 1.000000
+    CF..H.U1 CF..H.U1 1.000000   KTC..... 1.000000
+    CF..H.U1 UPBROW27883 1.000000
+    CF..K.U1 CF..K.U1 1.000000   FAT0..J. 0.475000
+    CF..K.U1 BFR...U1 -0.019000   UPBROW27884 1.000000
+    CF..P.U1 CF..P.U1 1.000000   KTC..... 1.000000
+    CF..P.U1 FAT0..J. 0.536000   BFR...U1 -0.047000
+    CF..P.U1 UPBROW27885 1.000000
+    QVO5FOPG BFO...PG 1.000000   BFO.VOPG -1.000000
+    QVO5FOPG XVI.FOPG -1.152000   NVI.FOPG -0.800000
+    COH.V.U1 COH.V.U1 1.000000   KTC..... 1.000000
+    COH.V.U1 FAT0..J. 0.179000   BFR...U1 -0.014000
+    COH.V.U1 UPBROW27886 1.000000
+    DCD...U1 BCD...U1 -1.000000   FAT0..J. -100.000000
+    DCD...U1 UPBROW27887 1.000000
+    DDH...U1 BDH...U1 -1.000000   FAT0..J. -100.000000
+    DDH...U1 UPBROW27888 1.000000
+    DDK...U1 BDK...U1 -1.000000   FAT0..J. -100.000000
+    DDK...U1 UPBROW27889 1.000000
+    DFP...U1 BFP...U1 -1.000000   FAT0..J. -100.000000
+    DFP...U1 UPBROW27890 1.000000
+    DFS...U1 BFS...U1 -1.000000   FAT0..J. -100.000000
+    DFS...U1 UPBROW27891 1.000000
+    DFW...U1 BFW...U1 -1.000000   FAT0..J. -100.000000
+    DFW...U1 UPBROW27892 1.000000
+    DFY...U1 BFY...U1 -1.000000   FAT0..J. -100.000000
+    DFY...U1 UPBROW27893 1.000000
+    DGP...U1 BGP...U1 -1.000000   FAT0..J. -100.000000
+    DGP...U1 UPBROW27894 1.000000
+    DLR...U1 BLR...U1 -1.000000   FAT0..J. -100.000000
+    DLR...U1 UPBROW27895 1.000000
+    DNI...U1 BNI...U1 -1.000000   FAT0..J. -100.000000
+    DNI...U1 UPBROW27896 1.000000
+    DNJ...U1 BNJ...U1 -1.000000   FAT0..J. -100.000000
+    DNJ...U1 UPBROW27897 1.000000
+    DNL...U1 BNL...U1 -1.000000   FAT0..J. -100.000000
+    DNL...U1 UPBROW27898 1.000000
+    DNP...U1 BNP...U1 -1.000000   FAT0..J. -100.000000
+    DNP...U1 UPBROW27899 1.000000
+    DOA...U1 BOA...U1 -1.000000   FAT0..J. -100.000000
+    DOA...U1 UPBROW27900 1.000000
+    DOL...U1 BOL...U1 -1.000000   FAT0..J. -100.000000
+    DOL...U1 UPBROW27901 1.000000
+    DRG...U1 BRG...U1 -1.000000   FAT0..J. -100.000000
+    DRG...U1 UPBROW27902 1.000000
+    DAF.02U1 BAF...U1 -1.000000   FAT0..J. -100.000000
+    DAF.02U1 UPBROW27903 1.000000
+    DAJ.02U1 BAJ...U1 -1.000000   FAT0..J. -100.000000
+    DAJ.02U1 UPBROW27904 1.000000
+    QVO5DLPG BDH.VOPG -1.000000   BDL...PG 0.995000
+    QVO5DLPG XSU.DHPG -1.500000   XCI.DHPG -1.300000
+    QVO5DHPG BDH...PG 0.995000   BDH.VOPG -1.000000
+    QVO5DHPG XSU.DHPG -0.300000   XCI.DHPG -1.300000
+    PGL5DNPG BLG...PG 0.726000   BLN...PG 0.137000
+    PGL5DNPG BIP...PG 0.137000   LOBROW28000 1.000000
+    WVP5GPJP WVP.GPJP -0.100000   XVL.GPJP 0.100000
+    WD85GPJP WD8.GPJP -0.010000   XVL.GPJP 0.020000
+    IOF.A.U1 COF.A.U1 1.000000   FAT0..J. 5.863000
+    IOF.A.U1 BFR...U1 -0.207000
+    QVO5GPJP BGP...JP 0.985000   BGP.VOJP -1.000000
+    QVO5GPJP NRN.GPJP -0.633000   ND2.GPJP -0.500000
+    QVO5GPJP XVL.GPJP -1.700000
+    QWT5FYJP BFY.WTJP -1.000000   XSU.FYJP -3.400000
+    IF..F.U1 CF..F.U1 1.000000   FAT0..J. 0.487000
+    IF..F.U1 BFR...U1 -0.015000   BRG...U1 -0.006000
+    IF..G.U1 CF..G.U1 1.000000   FAT0..J. 1.493000
+    IF..G.U1 BFR...U1 -0.024000   BNL...U1 -0.022100
+    IF..H.U1 CF..H.U1 1.000000   FAT0..J. 4.590000
+    IF..I.U1 CF..I.U1 1.000000   FAT0..J. 1.277000
+    IF..I.U1 BFR...U1 -0.014000   BRG...U1 -0.021000
+    QVO5FYJP BFY...JP 1.000000   BFY.VOJP -1.000000
+    QVO5FYJP XVI.FYJP -1.132000   NVI.FYJP -1.095000
+    IF..P.U1 CF..P.U1 1.000000   FAT0..J. 1.457000
+    IF..P.U1 BFR...U1 -0.047000
+    IF..Q.U1 CF..Q.U1 1.000000   FAT0..J. 3.958000
+    IF..Q.U1 BFR...U1 -0.032000   UPBROW27905 1.000000
+    IF..R.U1 CF..R.U1 1.000000   FAT0..J. 3.312000
+    IF..R.U1 BFR...U1 -0.050000   BNL...U1 -0.044200
+    IOH.V.U1 COH.V.U1 1.000000   FAT0..J. 0.614000
+    IOH.V.U1 BFR...U1 -0.014000
+    KH1.PSU1 KHS...U1 -1.000000   UPBROW27906 1.000000
+    KH2.PSU1 KHS...U1 -1.000000   FAT0..J. 2.000000
+    KPC.REU1 KPC...U1 -1.000000   FAT0..J. 1.276000
+    KD1.TRU1 KDK...U1 -1.000000   FAT0..J. -1.102000
+    KD1.TRU1 UPBROW27907 1.000000
+    KD2.TRU1 KDK...U1 -1.000000
+    MFR.AFU1 BFR...U1 -1.000000   BAF...U1 1.000000
+    MLO.AJU1 BGP...U1 -0.401000   BDH...U1 -0.331000
+    MLO.AJU1 BFP...U1 -0.207000   BFY...U1 -0.061000
+    MLO.AJU1 BAJ...U1 1.000000
+    MB4.BHU1 BB4...U1 -1.000000   BBH...U1 0.952400
+    MB4.BHU1 BBF...U1 0.047600
+    MB5.BIU1 BB5...U1 -1.000000   BBI...U1 0.952400
+    MB5.BIU1 BBG...U1 0.047600
+    MBK.BLU1 BBL...U1 1.000000   BBK...U1 -1.000000
+    MBK.BOU1 BBL...U1 -0.069000   BBK...U1 -0.931000
+    MBK.BOU1 BBO...U1 1.000000
+    MBL.BPU1 BBL...U1 -0.482800   BBK...U1 -0.517200
+    MBL.BPU1 BBP...U1 1.000000
+    MQA.BQU1 BBQ...U1 1.000000   BQA...U1 -1.000000
+    MQB.BQU1 BBQ...U1 1.000000   BQB...U1 -1.000000
+    MQH.BQU1 BBQ...U1 1.000000   BQH...U1 -1.000000
+    MQJ.BQU1 BBQ...U1 1.000000   BQJ...U1 -1.000000
+    MQM.BQU1 BBQ...U1 1.000000   BQM...U1 -1.000000
+    MQW.BQU1 BBQ...U1 1.000000   BQW...U1 -1.000000
+    MBU.BVU1 BBV...U1 1.000000   BBU...U1 -1.000000
+    MBU.BWU1 BBV...U1 -0.130400   BBU...U1 -0.869600
+    MBU.BWU1 BBW...U1 1.000000
+    MBV.BYU1 BBV...U1 -0.565200   BBU...U1 -0.434800
+    MBV.BYU1 BBY...U1 1.000000
+    MFQ.FRU1 BFP...U1 -0.400000   BFS...U1 -0.600000
+    MFQ.FRU1 BFR...U1 1.000000
+    MRG.FRU1 BFR...U1 1.000000   BRG...U1 -1.000000
+    MCD.FYU1 BFY...U1 1.000000   BCD...U1 -1.000000
+    MCD.FYU1 FAT0..J. 0.500000
+    MKB.IBU1 BIP...U1 -0.750000   BIB...U1 1.000000
+    MKB.IBU1 BKG...U1 -0.121400   BKB...U1 -0.128600
+    MKG.IBU1 BIP...U1 -0.750000   BIB...U1 1.000000
+    MKG.IBU1 BKG...U1 -0.178600   BKB...U1 -0.071400
+    MKB.IGU1 BIN...U1 -0.750000   BIG...U1 1.000000
+    MKB.IGU1 BKG...U1 -0.121400   BKB...U1 -0.128600
+    MKG.IGU1 BIN...U1 -0.750000   BIG...U1 1.000000
+    MKG.IGU1 BKG...U1 -0.178600   BKB...U1 -0.071400
+    MNI.INU1 BIN...U1 0.572500   BIP...U1 0.442500
+    MNI.INU1 BNI...U1 -1.000000
+    MIN.IPU1 BIP...U1 1.000000   BIN...U1 -1.000000
+    MNP.IPU1 BIN...U1 0.050800   BIP...U1 0.964200
+    MNP.IPU1 BNP...U1 -1.000000
+    MII.I4U1 BII...U1 -1.000000   BI4...U1 0.950000
+    MKG.KBU1 BKB...U1 1.000000   BKG...U1 -1.000000
+    MDH.LNU1 BLN...U1 1.015000   BRG...U1 0.072200
+    MDH.LNU1 KPC...U1 1.000000   BDH...U1 -1.111000
+    MDH.LNU1 B5W...U1 0.072200
+    MIB.LNU1 BLN...U1 1.015000   BIG...U1 -0.047400
+    MIB.LNU1 BIB...U1 -0.899600   BRG...U1 -0.038000
+    MIB.LNU1 B5U...U1 0.055300   KPC...U1 1.500000
+    MIG.LNU1 BLN...U1 1.015000   BIG...U1 -0.676100
+    MIG.LNU1 BIB...U1 -0.522600   BRG...U1 0.026900
+    MIG.LNU1 B5V...U1 0.192500   KPC...U1 1.500000
+    MIN.LNU1 BLN...U1 1.015000   BIN...U1 -0.676100
+    MIN.LNU1 BIP...U1 -0.522600   BRG...U1 0.026900
+    MIN.LNU1 B5V...U1 0.192500   KPC...U1 1.500000
+    MIP.LNU1 BLN...U1 1.015000   BIN...U1 -0.047400
+    MIP.LNU1 BIP...U1 -0.899600   BRG...U1 -0.038000
+    MIP.LNU1 B5U...U1 0.055300   KPC...U1 1.500000
+    MNL.LNU1 BLN...U1 1.015000   BNL...U1 -1.000000
+    MRG.LRU1 BRG...U1 -0.620000   BLR...U1 1.000000
+    MAC.LSU1 BLS...U1 1.000000   BAC...U1 -1.000000
+    MAP.LSU1 BLS...U1 1.000000   BAP...U1 -1.000000
+    MAS.LSU1 BLS...U1 1.000000   BAS...U1 -1.000000
+    MAZ.LSU1 BLS...U1 1.000000   BAZ...U1 -1.000000
+    MLU.LSU1 BLS...U1 1.000000   BLU...U1 -1.000000
+    MMF.LSU1 BLS...U1 1.000000   BMF...U1 -1.000000
+    MRB.LSU1 BLS...U1 1.000000   BRB...U1 -1.000000
+    MSE.LSU1 BLS...U1 1.000000   BSE...U1 -1.000000
+    MTL.LSU1 BLS...U1 1.000000   BTL...U1 -1.000000
+    MVY.LSU1 BLS...U1 1.000000   BVY...U1 -1.000000
+    MWA.LSU1 BLS...U1 1.000000   BWA...U1 -1.000000
+    MYH.LSU1 BLS...U1 1.000000   BYH...U1 -1.000000
+    M1S.LSU1 BLS...U1 1.000000   B1S...U1 -1.000000
+    MHI.MSU1 BMS...U1 1.000000   BHI...U1 -1.000000
+    MHU.MSU1 BMS...U1 1.000000   BHU...U1 -1.000000
+    MLI.MSU1 BMS...U1 1.000000   BLI...U1 -1.000000
+    MLJ.MSU1 BMS...U1 1.000000   BLJ...U1 -1.000000
+    MMA.MSU1 BMS...U1 1.000000   BMA...U1 -1.000000
+    MRT.MSU1 BMS...U1 1.000000   BRT...U1 -1.000000
+    MTQ.MSU1 BMS...U1 1.000000   BTQ...U1 -1.000000
+    MUM.MSU1 BMS...U1 1.000000   BUM...U1 -1.000000
+    MWT.MSU1 BMS...U1 1.000000   BWT...U1 -1.000000
+    MXA.MSU1 BMS...U1 1.000000   BXA...U1 -1.000000
+    MIN.NIU1 BIN...U1 -0.572500   BIP...U1 -0.442500
+    MIN.NIU1 BNI...U1 1.000000
+    MDK.NJU1 BLN...U1 -0.111100   BIN...U1 -0.175000
+    MDK.NJU1 BIP...U1 -0.238900   BDK...U1 -0.482400
+    MDK.NJU1 BNJ...U1 1.000000
+    MI5.NLU1 BI5...U1 -1.052000   BNL...U1 1.000000
+    MLN.NLU1 BNL...U1 1.000000   BLN...U1 -1.015000
+    MNP.NLU1 BNL...U1 1.000000   BNP...U1 -0.660800
+    MNP.NLU1 BDK...U1 -0.219100
+    MIP.NPU1 BIN...U1 -0.050800   BIP...U1 -0.964200
+    MIP.NPU1 BNP...U1 1.000000
+    MNN.N4U1 BN4...U1 0.950000   BNN...U1 -1.000000
+    MRG.N4U1 BRG...U1 -1.000000   BN4...U1 1.414600
+    MBH.OLU1 BOL...U1 1.000000   BBH...U1 -1.000000
+    MCV.RGU1 BCV...U1 -1.000000   BRG...U1 0.570000
+    MI4.RGU1 BRG...U1 0.678800   BI4...U1 -1.000000
+    MLG.RGU1 BRG...U1 0.657500   BLG...U1 -1.000000
+    MN4.RGU1 BRG...U1 0.706900   BN4...U1 -1.000000
+    MU3.RGU1 BRG...U1 0.622600   BU3...U1 -1.000000
+    MU4.RGU1 BRG...U1 0.714600   BU4...U1 -1.000000
+    PU3.A1U1 BI4...U1 -1.225000   BU3...U1 -1.000000
+    PU3.A1U1 B53...U1 1.740000   COF.A.U1 -1.052600
+    PU4.A1U1 BI4...U1 -1.160000   BU4...U1 -1.000000
+    PU4.A1U1 B54...U1 1.785000   COF.A.U1 -1.000000
+    PU5.A1U1 BI4...U1 -1.291000   GU5...U1 -1.000000
+    PU5.A1U1 B55...U1 0.950000   COF.A.U1 -0.936800
+    PBF.C1U1 BRG...U1 0.042300   BI4...U1 0.020900
+    PBF.C1U1 BU3...U1 0.028500   BU4...U1 0.037000
+    PBF.C1U1 GU5...U1 0.032900   B4A...U1 0.358000
+    PBF.C1U1 BBK...U1 0.296300   BBL...U1 0.194700
+    PBF.C1U1 B9A...U1 0.042000   CFT.C.U1 -1.470000
+    PBF.C1U1 GV1...U1 1.000000   GV2...U1 1.000000
+    PBF.C1U1 GV3...U1 1.000000   KFF.C.U1 1.000000
+    PBF.C1U1 LFF.C.U1 1.000000   BBF...U1 -1.000000
+    PBG.C1U1 BRG...U1 0.042300   BI4...U1 0.020900
+    PBG.C1U1 BU3...U1 0.028500   BU4...U1 0.037000
+    PBG.C1U1 GU5...U1 0.032900   B4A...U1 0.358000
+    PBG.C1U1 BBK...U1 0.491000   B9B...U1 0.042000
+    PBG.C1U1 CFT.C.U1 -1.470000   KFF.C.U1 1.000000
+    PBG.C1U1 BBG...U1 -1.000000
+    PBH.C1U1 BRG...U1 0.032800   BI4...U1 0.031400
+    PBH.C1U1 BU3...U1 0.030400   BU4...U1 0.042800
+    PBH.C1U1 GU5...U1 0.035400   B4C...U1 0.385000
+    PBH.C1U1 BBK...U1 0.286600   BBL...U1 0.188400
+    PBH.C1U1 B9C...U1 0.048000   CFT.C.U1 -1.257000
+    PBH.C1U1 GV1...U1 1.000000   GV2...U1 1.000000
+    PBH.C1U1 GV3...U1 1.000000   KFF.C.U1 1.000000
+    PBH.C1U1 LFF.C.U1 1.000000   BBH...U1 -1.000000
+    PBI.C1U1 BRG...U1 0.032800   BI4...U1 0.031400
+    PBI.C1U1 BU3...U1 0.030400   BU4...U1 0.042800
+    PBI.C1U1 GU5...U1 0.035400   B4C...U1 0.385000
+    PBI.C1U1 BBK...U1 0.475000   B9D...U1 0.048000
+    PBI.C1U1 CFT.C.U1 -1.257000   KFF.C.U1 1.000000
+    PBI.C1U1 BBI...U1 -1.000000
+    PBJ.C1U1 BRG...U1 0.028900   BI4...U1 0.020900
+    PBJ.C1U1 BU3...U1 0.025600   BU4...U1 0.037000
+    PBJ.C1U1 GU5...U1 0.039300   B4E...U1 0.427000
+    PBJ.C1U1 BBK...U1 0.459000   B9E...U1 0.068000
+    PBJ.C1U1 CFT.C.U1 -1.276000   KFF.C.U1 1.000000
+    PBJ.C1U1 BBJ...U1 -1.000000
+    PBF.C5U1 BRG...U1 0.088200   BI4...U1 0.059600
+    PBF.C5U1 BU3...U1 0.055600   BU4...U1 0.050700
+    PBF.C5U1 GU5...U1 0.039400   BBK...U1 0.068000
+    PBF.C5U1 BBL...U1 0.044700   B9O...U1 0.057600
+    PBF.C5U1 CFT.C.U1 -1.644500   B4O...U1 0.615200
+    PBF.C5U1 GV1...U1 1.000000   GV2...U1 1.000000
+    PBF.C5U1 GV3...U1 1.000000   KFF.C.U1 1.000000
+    PBF.C5U1 LFF.C.U1 1.000000   BBF...U1 -1.000000
+    PBG.C5U1 BRG...U1 0.088200   BI4...U1 0.059600
+    PBG.C5U1 BU3...U1 0.055600   BU4...U1 0.050700
+    PBG.C5U1 GU5...U1 0.039400   BBK...U1 0.112700
+    PBG.C5U1 CFT.C.U1 -1.644500   B4O...U1 0.615200
+    PBG.C5U1 B9P...U1 0.057600   GV1...U1 1.000000
+    PBG.C5U1 GV2...U1 1.000000   GV3...U1 1.000000
+    PBG.C5U1 KFF.C.U1 1.000000   BBG...U1 -1.000000
+    PBH.C5U1 BRG...U1 0.071300   BI4...U1 0.069800
+    PBH.C5U1 BU3...U1 0.061000   BU4...U1 0.064000
+    PBH.C5U1 GU5...U1 0.040900   BBK...U1 0.067200
+    PBH.C5U1 BBL...U1 0.044100   B9Q...U1 0.058700
+    PBH.C5U1 CFT.C.U1 -1.207500   B4Q...U1 0.638400
+    PBH.C5U1 GV1...U1 1.000000   GV2...U1 1.000000
+    PBH.C5U1 GV3...U1 1.000000   KFF.C.U1 1.000000
+    PBH.C5U1 LFF.C.U1 1.000000   BBH...U1 -1.000000
+    PBI.C5U1 BRG...U1 0.071300   BI4...U1 0.069800
+    PBI.C5U1 BU3...U1 0.061000   BU4...U1 0.064000
+    PBI.C5U1 GU5...U1 0.040900   BBK...U1 0.111300
+    PBI.C5U1 CFT.C.U1 -1.207500   B4Q...U1 0.638400
+    PBI.C5U1 B9R...U1 0.058700   GV1...U1 1.000000
+    PBI.C5U1 GV2...U1 1.000000   GV3...U1 1.000000
+    PBI.C5U1 KFF.C.U1 1.000000   BBI...U1 -1.000000
+    PBJ.C5U1 BRG...U1 0.063700   BI4...U1 0.057500
+    PBJ.C5U1 BU3...U1 0.056600   BU4...U1 0.057800
+    PBJ.C5U1 GU5...U1 0.043500   BBK...U1 0.107500
+    PBJ.C5U1 CFT.C.U1 -1.104000   B4S...U1 0.679000
+    PBJ.C5U1 B9S...U1 0.062500   GV1...U1 1.000000
+    PBJ.C5U1 GV2...U1 1.000000   GV3...U1 1.000000
+    PBJ.C5U1 KFF.C.U1 1.000000   BBJ...U1 -1.000000
+    PBU.C5U1 BRG...U1 0.043400   BI4...U1 0.059800
+    PBU.C5U1 BU3...U1 0.052200   BU4...U1 0.058000
+    PBU.C5U1 GU5...U1 -0.033000   B4T...U1 0.466000
+    PBU.C5U1 BBK...U1 0.390000   CFT.C.U1 -1.046500
+    PBU.C5U1 GB1...U1 1.000000   GB2...U1 1.000000
+    PBU.C5U1 GB3...U1 1.000000   KFF.C.U1 1.000000
+    PBU.C5U1 BBU...U1 -1.000000
+    PBV.C5U1 BRG...U1 0.043400   BI4...U1 0.059800
+    PBV.C5U1 BU3...U1 0.052200   BU4...U1 0.058000
+    PBV.C5U1 GU5...U1 0.033000   B4T...U1 0.466000
+    PBV.C5U1 BBK...U1 0.235300   BBL...U1 0.154700
+    PBV.C5U1 CFT.C.U1 -1.046500   GB1...U1 1.000000
+    PBV.C5U1 GB2...U1 1.000000   GB3...U1 1.000000
+    PBV.C5U1 KFF.C.U1 1.000000   LFF.C.U1 1.000000
+    PBV.C5U1 BBV...U1 -1.000000
+    PB1.C5U1 BRG...U1 -0.007900   BI4...U1 0.006600
+    PB1.C5U1 BU3...U1 -0.006600   BU4...U1 -0.010400
+    PB1.C5U1 GU5...U1 -0.002000   B4B...U1 0.007000
+    PB1.C5U1 CFT.C.U1 -0.057500   GB1...U1 -1.000000
+    PB2.C5U1 BRG...U1 -0.019800   BI4...U1 -0.032300
+    PB2.C5U1 BU3...U1 -0.023800   BU4...U1 -0.022800
+    PB2.C5U1 GU5...U1 -0.008000   B4D...U1 -0.085000
+    PB2.C5U1 BBK...U1 0.173000   CFT.C.U1 0.103500
+    PB2.C5U1 GB2...U1 -1.000000
+    PB3.C5U1 BRG...U1 0.022600   BI4...U1 0.020000
+    PB3.C5U1 BU3...U1 0.014200   BU4...U1 0.016200
+    PB3.C5U1 GU5...U1 0.005000   BBK...U1 -0.185000
+    PB3.C5U1 CFT.C.U1 -0.046000   GB3...U1 -1.000000
+    PB3.C5U1 B4I...U1 0.110000   B9W...U1 0.020000
+    PV1.C5U1 BRG...U1 -0.007500   BI4...U1 0.009500
+    PV1.C5U1 BU3...U1 -0.005700   BU4...U1 -0.012400
+    PV1.C5U1 GU5...U1 -0.002000   CFT.C.U1 -0.080500
+    PV1.C5U1 B4K...U1 0.006000   GV1...U1 -1.000000
+    PV2.C5U1 BRG...U1 -0.026600   BI4...U1 -0.037100
+    PV2.C5U1 BU3...U1 -0.028500   BU4...U1 -0.028500
+    PV2.C5U1 GU5...U1 -0.003000   BBK...U1 0.062000
+    PV2.C5U1 CFT.C.U1 0.126500   B4P...U1 0.026000
+    PV2.C5U1 B9W...U1 0.024000   GV2...U1 -1.000000
+    PV3.C5U1 BRG...U1 -0.006400   BI4...U1 -0.005700
+    PV3.C5U1 BU3...U1 -0.004800   GU5...U1 -0.002000
+    PV3.C5U1 BBK...U1 0.050000   CFT.C.U1 0.046000
+    PV3.C5U1 GV3...U1 -1.000000   B4R...U1 -0.035000
+    PV3.C6U1 BRG...U1 0.006000   BI4...U1 0.004800
+    PV3.C6U1 BU3...U1 0.003800   GU5...U1 0.002000
+    PV3.C6U1 BBK...U1 -0.042000   CFT.C.U1 -0.046000
+    PV3.C6U1 GV3...U1 -1.000000   B4V...U1 0.032000
+    PQS.C7U1 BRG...U1 0.056600   BI4...U1 0.006600
+    PQS.C7U1 BU3...U1 0.025700   BU4...U1 0.029400
+    PQS.C7U1 GU5...U1 0.031200   BBK...U1 0.265800
+    PQS.C7U1 CFT.C.U1 -1.424000   B0S...U1 0.487900
+    PQS.C7U1 B8L...U1 0.119500   KFF.C.U1 1.000000
+    PQS.C7U1 BQS...U1 -1.000000
+    PSA.C7U1 BRG...U1 0.056600   BI4...U1 0.006600
+    PSA.C7U1 BU3...U1 0.025700   BU4...U1 0.029400
+    PSA.C7U1 GU5...U1 0.031200   BBK...U1 0.265800
+    PSA.C7U1 CFT.C.U1 -1.424000   B/A...U1 0.487900
+    PSA.C7U1 B6A...U1 0.119500   KFF.C.U1 1.000000
+    PSA.C7U1 BSA...U1 -1.000000
+    PSB.C7U1 BRG...U1 0.138000   BI4...U1 0.004800
+    PSB.C7U1 BU3...U1 0.018800   BU4...U1 0.019000
+    PSB.C7U1 GU5...U1 0.022000   BBK...U1 0.278200
+    PSB.C7U1 CFT.C.U1 -1.885000   B/B...U1 0.343400
+    PSB.C7U1 B6B...U1 0.182800   KFF.C.U1 1.000000
+    PSB.C7U1 BSB...U1 -1.000000
+    PSH.C7U1 BRG...U1 0.056600   BI4...U1 0.006600
+    PSH.C7U1 BU3...U1 0.025700   BU4...U1 0.029400
+    PSH.C7U1 GU5...U1 0.031200   BBK...U1 0.265800
+    PSH.C7U1 CFT.C.U1 -1.424000   B/H...U1 0.487900
+    PSH.C7U1 B6H...U1 0.119500   KFF.C.U1 1.000000
+    PSH.C7U1 BSH...U1 -1.000000
+    PSJ.C7U1 BRG...U1 0.083700   BI4...U1 0.006000
+    PSJ.C7U1 BU3...U1 0.023400   BU4...U1 0.025900
+    PSJ.C7U1 GU5...U1 0.028100   BBK...U1 0.269900
+    PSJ.C7U1 CFT.C.U1 -1.578000   B/J...U1 0.439700
+    PSJ.C7U1 B6J...U1 0.140600   KFF.C.U1 1.000000
+    PSJ.C7U1 BSJ...U1 -1.000000
+    PSM.C7U1 BRG...U1 0.056600   BI4...U1 0.006600
+    PSM.C7U1 BU3...U1 0.025700   BU4...U1 0.029400
+    PSM.C7U1 GU5...U1 0.031200   BBK...U1 0.265800
+    PSM.C7U1 CFT.C.U1 -1.424000   B0M...U1 0.487900
+    PSM.C7U1 B8M...U1 0.119500   KFF.C.U1 1.000000
+    PSM.C7U1 BSM...U1 -1.000000
+    PSW.C7U1 BRG...U1 0.056600   BI4...U1 0.006600
+    PSW.C7U1 BU3...U1 0.025700   BU4...U1 0.029400
+    PSW.C7U1 GU5...U1 0.031200   BBK...U1 0.265800
+    PSW.C7U1 CFT.C.U1 -1.424000   B/W...U1 0.487900
+    PSW.C7U1 B6W...U1 0.119500   KFF.C.U1 1.000000
+    PSW.C7U1 BSW...U1 -1.000000
+    PGL.DNU1 BRG...U1 0.448000   BI4...U1 0.085000
+    PGL.DNU1 BLN...U1 0.090000   BIP...U1 0.090000
+    PGL.DNU1 UPBROW27908 1.000000
+    PAG.D2U1 CTF.D.U1 -1.000000   AAG..... -1.000000
+    PAG.D2U1 BCV...U1 0.003390   BI4...U1 0.002220
+    PAG.D2U1 BN4...U1 0.005420   BI5...U1 0.006310
+    PAG.D2U1 BLN...U1 0.030360   BIN...U1 -0.005620
+    PAG.D2U1 BIP...U1 0.113540   BKB...U1 -0.116780
+    PAG.D2U1 BKG...U1 0.298620   BBU...U1 0.180750
+    PAG.D2U1 BBV...U1 -0.014150   BAG...U1 0.495930
+    PAH.D2U1 CTF.D.U1 -1.000000   AAH..... -1.000000
+    PAH.D2U1 BCV...U1 0.008550   BI4...U1 0.003720
+    PAH.D2U1 BN4...U1 0.013810   BI5...U1 0.008120
+    PAH.D2U1 BLN...U1 0.039590   BIN...U1 -0.007860
+    PAH.D2U1 BIP...U1 0.111880   BKB...U1 0.072400
+    PAH.D2U1 BKG...U1 0.085100   BBU...U1 0.049970
+    PAH.D2U1 BBV...U1 0.077130   BAH...U1 0.537580
+    PAH.D2U1 KHS...U1 1.000000
+    PAL.D2U1 CTF.D.U1 -1.000000   BCV...U1 0.002830
+    PAL.D2U1 BI4...U1 0.002680   BN4...U1 0.012590
+    PAL.D2U1 BI5...U1 0.008650   BLN...U1 0.043720
+    PAL.D2U1 BIN...U1 0.004910   BIP...U1 0.124920
+    PAL.D2U1 BKB...U1 0.124660   BKG...U1 0.079390
+    PAL.D2U1 BBU...U1 0.083430   BBV...U1 0.065650
+    PAL.D2U1 BAL...U1 0.446570   AAL..... -1.000000
+    PAL.D2U1 KHS...U1 1.000000
+    PAM.D2U1 CTF.D.U1 -1.000000   BCV...U1 0.002440
+    PAM.D2U1 BI4...U1 0.001800   BN4...U1 0.008380
+    PAM.D2U1 BI5...U1 0.007550   BLN...U1 0.042720
+    PAM.D2U1 BIN...U1 0.003590   BIP...U1 0.117690
+    PAM.D2U1 BKB...U1 0.095750   BKG...U1 0.085280
+    PAM.D2U1 BBU...U1 0.064610   BBV...U1 0.073260
+    PAM.D2U1 BAM...U1 0.496940   AAM..... -1.000000
+    PAM.D2U1 KHS...U1 1.000000
+    PAW.D2U1 CTF.D.U1 -1.000000   AAW..... -1.000000
+    PAW.D2U1 BCV...U1 0.008450   BI4...U1 0.006860
+    PAW.D2U1 BN4...U1 0.025320   BI5...U1 0.014750
+    PAW.D2U1 BLN...U1 0.065670   BIN...U1 0.027490
+    PAW.D2U1 BIP...U1 0.150810   BKB...U1 0.096020
+    PAW.D2U1 BKG...U1 0.153470   BBU...U1 0.173730
+    PAW.D2U1 BBV...U1 -0.006330   BAW...U1 0.283750
+    PAX.D2U1 CTF.D.U1 -1.000000   BCV...U1 0.003010
+    PAX.D2U1 BI4...U1 0.002520   BN4...U1 0.014520
+    PAX.D2U1 BI5...U1 0.009360   BLN...U1 0.052290
+    PAX.D2U1 BIN...U1 0.010780   BIP...U1 0.125710
+    PAX.D2U1 BKB...U1 0.122210   BKG...U1 0.104730
+    PAX.D2U1 BBU...U1 0.110380   BBV...U1 0.050880
+    PAX.D2U1 BAX...U1 0.393610   AAX..... -1.000000
+    PAX.D2U1 KHS...U1 1.000000
+    PBQ.D2U1 CTF.D.U1 -1.000000   BCV...U1 0.003000
+    PBQ.D2U1 BI4...U1 0.001580   BN4...U1 0.003200
+    PBQ.D2U1 BI5...U1 0.003180   BLN...U1 0.014330
+    PBQ.D2U1 BIN...U1 0.036100   BIP...U1 0.005260
+    PBQ.D2U1 BKB...U1 0.091140   BKG...U1 0.009400
+    PBQ.D2U1 BBU...U1 0.073380   BBV...U1 0.056440
+    PBQ.D2U1 BVH...U1 0.703020   ABQ..... -1.000000
+    PBQ.D2U1 KHS...U1 1.000000
+    PBR.D2U1 CTF.D.U1 -1.000000   ABR..... -1.000000
+    PBR.D2U1 BCV...U1 0.005590   BI4...U1 0.004450
+    PBR.D2U1 BN4...U1 0.013970   BI5...U1 0.012810
+    PBR.D2U1 BLN...U1 0.054100   BIN...U1 0.058540
+    PBR.D2U1 BIP...U1 0.114350   BKB...U1 0.079100
+    PBR.D2U1 BKG...U1 0.136150   BBU...U1 0.157080
+    PBR.D2U1 BBV...U1 -0.005660   BLB...U1 0.369500
+    PCA.D2U1 CTF.D.U1 -1.000000   ACA..... -1.000000
+    PCA.D2U1 BCV...U1 0.006510   BI4...U1 0.004150
+    PCA.D2U1 BN4...U1 0.011900   BI5...U1 0.006880
+    PCA.D2U1 BLN...U1 0.028560   BIN...U1 0.043080
+    PCA.D2U1 BIP...U1 0.058160   BKB...U1 0.032930
+    PCA.D2U1 BKG...U1 0.101600   BBU...U1 0.139790
+    PCA.D2U1 BBV...U1 -0.008260   BCA...U1 0.574700
+    PES.D2U1 CTF.D.U1 -1.000000   BCV...U1 0.005170
+    PES.D2U1 BI4...U1 0.003970   BN4...U1 0.010200
+    PES.D2U1 BI5...U1 0.012160   BLN...U1 0.041190
+    PES.D2U1 BIN...U1 0.050600   BIP...U1 0.094440
+    PES.D2U1 BKB...U1 0.065060   BKG...U1 0.134760
+    PES.D2U1 BBU...U1 0.148990   BBV...U1 0.003660
+    PES.D2U1 BES...U1 0.429780   AES..... -1.000000
+    PIH.D2U1 CTF.D.U1 -1.000000   BCV...U1 0.007120
+    PIH.D2U1 BI4...U1 0.004570   BN4...U1 0.015970
+    PIH.D2U1 BI5...U1 0.010720   BLN...U1 0.041700
+    PIH.D2U1 BIN...U1 0.052270   BIP...U1 0.081280
+    PIH.D2U1 BKB...U1 0.111990   BKG...U1 0.066830
+    PIH.D2U1 BBU...U1 0.083020   BBV...U1 0.053770
+    PIH.D2U1 BIH...U1 0.470760   AIH..... -1.000000
+    PIH.D2U1 KHS...U1 1.000000
+    PIL.D2U1 CTF.D.U1 -1.000000   BCV...U1 0.006900
+    PIL.D2U1 BI4...U1 0.003630   BN4...U1 0.013050
+    PIL.D2U1 BI5...U1 0.009750   BLN...U1 0.043800
+    PIL.D2U1 BIN...U1 0.046660   BIP...U1 0.091190
+    PIL.D2U1 BKB...U1 0.094300   BKG...U1 0.094550
+    PIL.D2U1 BBU...U1 0.104260   BBV...U1 0.045060
+    PIL.D2U1 BIL...U1 0.446840   AIL..... -1.000000
+    PIL.D2U1 KHS...U1 1.000000
+    PKU.D2U1 CTF.D.U1 -1.000000   BCV...U1 0.008780
+    PKU.D2U1 BI4...U1 0.003870   BN4...U1 0.014330
+    PKU.D2U1 BI5...U1 0.008720   BLN...U1 0.053830
+    PKU.D2U1 BIN...U1 0.000250   BIP...U1 0.121620
+    PKU.D2U1 BKB...U1 0.065640   BKG...U1 0.107510
+    PKU.D2U1 BBU...U1 0.061660   BBV...U1 0.072020
+    PKU.D2U1 BKU...U1 0.481760   AKU..... -1.000000
+    PKU.D2U1 KHS...U1 1.000000
+    PMU.D2U1 CTF.D.U1 -1.000000   BCV...U1 0.003420
+    PMU.D2U1 BI4...U1 0.003310   BN4...U1 0.012900
+    PMU.D2U1 BI5...U1 0.010950   BLN...U1 0.052380
+    PMU.D2U1 BIN...U1 0.026150   BIP...U1 0.134950
+    PMU.D2U1 BKB...U1 0.141410   BKG...U1 0.092600
+    PMU.D2U1 BBU...U1 0.128680   BBV...U1 0.031580
+    PMU.D2U1 BMU...U1 0.361670   AMU..... -1.000000
+    PMU.D2U1 KHS...U1 1.000000
+    PNF.D2U1 CTF.D.U1 -1.000000   ANF..... -1.000000
+    PNF.D2U1 BCV...U1 0.006370   BI4...U1 0.006060
+    PNF.D2U1 BN4...U1 0.010940   BI5...U1 0.009250
+    PNF.D2U1 BLN...U1 0.028930   BIN...U1 0.123160
+    PNF.D2U1 BIP...U1 0.008450   BKB...U1 0.190310
+    PNF.D2U1 BKG...U1 0.014120   BBU...U1 0.229160
+    PNF.D2U1 BBV...U1 -0.005740   BMD...U1 0.378990
+    PNL.D2U1 CTF.D.U1 -1.000000   ANL..... -1.000000
+    PNL.D2U1 BCV...U1 0.007700   BI4...U1 0.006510
+    PNL.D2U1 BN4...U1 0.014210   BI5...U1 0.013210
+    PNL.D2U1 BLN...U1 0.043810   BIN...U1 0.150390
+    PNL.D2U1 BIP...U1 0.037100   BKB...U1 0.162080
+    PNL.D2U1 BKG...U1 0.066820   BBU...U1 0.195150
+    PNL.D2U1 BBV...U1 -0.007650   BLT...U1 0.310670
+    PNM.D2U1 CTF.D.U1 -1.000000   ANM..... -1.000000
+    PNM.D2U1 BCV...U1 0.003080   BI4...U1 0.001320
+    PNM.D2U1 BN4...U1 0.002860   BI5...U1 0.002850
+    PNM.D2U1 BLN...U1 0.009340   BIN...U1 0.064210
+    PNM.D2U1 BIP...U1 -0.003460   BKB...U1 0.181340
+    PNM.D2U1 BKG...U1 0.003420   BBU...U1 0.263430
+    PNM.D2U1 BBV...U1 -0.006530   BHY...U1 0.478140
+    PON.D2U1 CTF.D.U1 -1.000000   BCV...U1 0.005160
+    PON.D2U1 BI4...U1 0.002660   BN4...U1 0.008850
+    PON.D2U1 BI5...U1 0.006970   BLN...U1 0.026300
+    PON.D2U1 BIN...U1 0.043900   BIP...U1 0.054760
+    PON.D2U1 BKB...U1 0.089190   BKG...U1 0.074270
+    PON.D2U1 BBU...U1 0.129580   BBV...U1 0.032480
+    PON.D2U1 BON...U1 0.525880   AON..... -1.000000
+    PON.D2U1 KHS...U1 1.000000
+    PQA.D2U1 CTF.D.U1 -1.000000   BCV...U1 0.009860
+    PQA.D2U1 BI4...U1 0.005610   BN4...U1 0.023840
+    PQA.D2U1 BI5...U1 0.014610   BLN...U1 0.070060
+    PQA.D2U1 BIN...U1 0.015740   BIP...U1 0.149860
+    PQA.D2U1 BKB...U1 0.107050   BKG...U1 0.119760
+    PQA.D2U1 BBU...U1 0.100280   BBV...U1 0.052650
+    PQA.D2U1 BQT...U1 0.330690   AQA..... -1.000000
+    PQA.D2U1 KHS...U1 1.000000
+    PSA.D2U1 CTF.D.U1 -1.000000   ASA..... -1.000000
+    PSA.D2U1 BCV...U1 0.006580   BI4...U1 0.003810
+    PSA.D2U1 BN4...U1 0.012430   BI5...U1 0.010190
+    PSA.D2U1 BLN...U1 0.045170   BIN...U1 0.042020
+    PSA.D2U1 BIP...U1 0.075990   BKB...U1 -0.003980
+    PSA.D2U1 BKG...U1 0.178930   BBU...U1 0.153290
+    PSA.D2U1 BBV...U1 -0.007170   BLS...U1 0.482750
+    PS1.D2U1 CTF.D.U1 -1.000000   AS1..... -1.000000
+    PS1.D2U1 BCV...U1 0.002710   BI4...U1 0.004150
+    PS1.D2U1 BN4...U1 0.006170   BI5...U1 0.006470
+    PS1.D2U1 BLN...U1 0.029380   BIN...U1 0.045470
+    PS1.D2U1 BIP...U1 0.059270   BKB...U1 0.158180
+    PS1.D2U1 BKG...U1 0.077770   BBU...U1 0.207420
+    PS1.D2U1 BBV...U1 -0.004760   BS1...U1 0.407780
+    PTL.D2U1 CTF.D.U1 -1.000000   BCV...U1 0.010140
+    PTL.D2U1 BI4...U1 0.003830   BN4...U1 0.009260
+    PTL.D2U1 BI5...U1 0.006820   BLN...U1 0.032430
+    PTL.D2U1 BIN...U1 0.037730   BIP...U1 0.091290
+    PTL.D2U1 BKB...U1 0.084350   BKG...U1 0.086900
+    PTL.D2U1 BBU...U1 0.128750   BBV...U1 0.020550
+    PTL.D2U1 BJL...U1 0.487950   ATL..... -1.000000
+    PTL.D2U1 KHS...U1 1.000000
+    PTM.D2U1 CTF.D.U1 -1.000000   BCV...U1 0.004340
+    PTM.D2U1 BI4...U1 0.002720   BN4...U1 0.006640
+    PTM.D2U1 BI5...U1 0.005480   BLN...U1 0.026370
+    PTM.D2U1 BIN...U1 0.050120   BIP...U1 0.040830
+    PTM.D2U1 BKB...U1 0.111530   BKG...U1 0.037760
+    PTM.D2U1 BBU...U1 0.098210   BBV...U1 0.045990
+    PTM.D2U1 BTM...U1 0.570020   ATM..... -1.000000
+    PTM.D2U1 KHS...U1 1.000000
+    PUH.D2U1 CTF.D.U1 -1.000000   BCV...U1 0.008590
+    PUH.D2U1 BI4...U1 0.005160   BN4...U1 0.018220
+    PUH.D2U1 BI5...U1 0.010440   BLN...U1 0.052400
+    PUH.D2U1 BIN...U1 0.022450   BIP...U1 0.132650
+    PUH.D2U1 BKB...U1 0.105790   BKG...U1 0.103550
+    PUH.D2U1 BBU...U1 0.142220   BBV...U1 0.011800
+    PUH.D2U1 BUH...U1 0.386740   AUH..... -1.000000
+    PUH.D2U1 KHS...U1 1.000000
+    PUL.D2U1 CTF.D.U1 -1.000000   AUL..... -1.000000
+    PUL.D2U1 BCV...U1 0.008260   BI4...U1 0.004880
+    PUL.D2U1 BN4...U1 0.014940   BI5...U1 0.010900
+    PUL.D2U1 BLN...U1 0.047840   BIN...U1 0.042670
+    PUL.D2U1 BIP...U1 0.115130   BKB...U1 0.093040
+    PUL.D2U1 BKG...U1 0.109570   BBU...U1 0.156100
+    PUL.D2U1 BBV...U1 -0.003570   BUL...U1 0.400240
+    PW3.D2U1 CTF.D.U1 -1.000000   BCV...U1 0.007220
+    PW3.D2U1 BI4...U1 0.003820   BN4...U1 0.009370
+    PW3.D2U1 BI5...U1 0.009790   BLN...U1 0.045200
+    PW3.D2U1 BIN...U1 0.089900   BIP...U1 0.053080
+    PW3.D2U1 BKB...U1 0.159690   BKG...U1 0.036900
+    PW3.D2U1 BBU...U1 0.083830   BBV...U1 0.065440
+    PW3.D2U1 BW3...U1 0.435760   AW3..... -1.000000
+    PW3.D2U1 KHS...U1 1.000000
+    PZA.D2U1 CTF.D.U1 -1.000000   AZA..... -1.000000
+    PZA.D2U1 BCV...U1 0.010540   BI4...U1 0.004790
+    PZA.D2U1 BN4...U1 0.014970   BI5...U1 0.011120
+    PZA.D2U1 BLN...U1 0.063120   BIN...U1 0.054590
+    PZA.D2U1 BIP...U1 0.110250   BKB...U1 0.090970
+    PZA.D2U1 BKG...U1 0.129190   BBU...U1 0.170430
+    PZA.D2U1 BBV...U1 -0.011780   BZA...U1 0.351830
+    PYV.D4U1 CTF.D.U1 -1.000000   BIN...U1 0.006000
+    PYV.D4U1 BBU...U1 0.259000   BYV...U1 0.735000
+    PYV.D4U1 AYV..... -1.000000
+    PBL.F1U1 BBK...U1 1.000000   CF..F.U1 -2.900000
+    PBL.F1U1 BBL...U1 -1.000000
+    PBV.F1U1 BBU...U1 1.000000   CF..F.U1 -2.300000
+    PBV.F1U1 BBV...U1 -1.000000
+    PBF.G2U1 BRG...U1 0.002400   BIP...U1 0.002400
+    PBF.G2U1 BBG...U1 1.005300   CF..G.U1 -1.016700
+    PBF.G2U1 BBF...U1 -1.000000
+    PBH.G2U1 BRG...U1 0.002300   BIP...U1 0.002300
+    PBH.G2U1 BBI...U1 1.005200   CF..G.U1 -1.008000
+    PBH.G2U1 BBH...U1 -1.000000
+    PQA.G2U1 BSA...U1 1.000000   CF..G.U1 -1.184000
+    PQA.G2U1 BQA...U1 -1.000000
+    PQB.G2U1 CF..G.U1 -1.150000   BSB...U1 1.000000
+    PQB.G2U1 BQB...U1 -1.000000
+    PQH.G2U1 BSH...U1 1.000000   CF..G.U1 -1.309000
+    PQH.G2U1 BQH...U1 -1.000000
+    PQJ.G2U1 CF..G.U1 -1.098000   BSJ...U1 1.000000
+    PQJ.G2U1 BQJ...U1 -1.000000
+    PQM.G2U1 CF..G.U1 -1.184000   BSM...U1 1.000000
+    PQM.G2U1 BQM...U1 -1.000000
+    PQW.G2U1 CF..G.U1 -1.339000   BSW...U1 1.000000
+    PQW.G2U1 BQW...U1 -1.000000
+    PBF.H0U1 BRG...U1 0.026500   BI4...U1 0.024700
+    PBF.H0U1 BI5...U1 0.021800   BLN...U1 0.050800
+    PBF.H0U1 BNL...U1 -0.109100   BIN...U1 0.105500
+    PBF.H0U1 BIP...U1 0.071900   BBU...U1 0.521000
+    PBF.H0U1 CF..H.U1 -1.187000   BFR...U1 -0.112000
+    PBF.H0U1 BKB...U1 0.347000   BBF...U1 -1.000000
+    PBF.H2U1 BRG...U1 0.056100   BI4...U1 0.098800
+    PBF.H2U1 BI5...U1 0.075900   BLN...U1 0.177100
+    PBF.H2U1 BNL...U1 -0.132100   BIN...U1 -0.218000
+    PBF.H2U1 BIP...U1 0.832000   CF..H.U1 -1.000000
+    PBF.H2U1 BFR...U1 -0.112000   BKB...U1 0.246000
+    PBF.H2U1 BBF...U1 -1.000000
+    PBK.H2U1 BRG...U1 -0.028700   BI4...U1 0.171000
+    PBK.H2U1 BI5...U1 0.093000   BLN...U1 0.278000
+    PBK.H2U1 BIK...U1 0.521000   CF..H.U1 -1.000000
+    PBK.H2U1 BFR...U1 -0.020700   BBK...U1 -1.000000
+    PBQ.H2U1 BRG...U1 -0.051300   BI4...U1 0.166000
+    PBQ.H2U1 BI5...U1 0.079000   BLN...U1 0.237000
+    PBQ.H2U1 BIQ...U1 0.593000   CF..H.U1 -1.000000
+    PBQ.H2U1 BFR...U1 -0.020700   BBQ...U1 -1.000000
+    PBY.H2U1 BRG...U1 0.044800   BI4...U1 0.171000
+    PBY.H2U1 BI5...U1 0.093000   BLN...U1 0.278000
+    PBY.H2U1 BID...U1 0.485000   CF..H.U1 -1.000000
+    PBY.H2U1 BFR...U1 -0.020700   BBY...U1 -1.000000
+    PLN.I1U1 BRG...U1 0.026600   B5X...U1 1.000000
+    PLN.I1U1 CF..I.U1 -1.216500   BLN...U1 -1.000000
+    PHA.K1U1 BRG...U1 0.143200   B5T...U1 0.166400
+    PHA.K1U1 BBK...U1 -0.042600   BBL...U1 0.359600
+    PHA.K1U1 BQH...U1 0.126000   BCD...U1 0.324800
+    PHA.K1U1 BHA...U1 -1.000000   CF..K.U1 -1.000000
+    PLA.K1U1 BRG...U1 0.128700   B5T...U1 0.188200
+    PLA.K1U1 BBK...U1 0.051900   BBL...U1 0.306300
+    PLA.K1U1 BQA...U1 0.143100   BCD...U1 0.270300
+    PLA.K1U1 CF..K.U1 -1.000000   BLA...U1 -1.000000
+    PMS.K1U1 BRG...U1 0.128700   B5T...U1 0.188200
+    PMS.K1U1 BBK...U1 0.049400   BBL...U1 0.308800
+    PMS.K1U1 BQM...U1 0.143100   BCD...U1 0.270300
+    PMS.K1U1 CF..K.U1 -1.000000   BMS...U1 -1.000000
+    PSS.K1U1 BRG...U1 0.128700   B5T...U1 0.188200
+    PSS.K1U1 BBK...U1 0.345800   BBL...U1 0.012400
+    PSS.K1U1 BQS...U1 0.143100   BCD...U1 0.270300
+    PSS.K1U1 CF..K.U1 -1.000000   BSS...U1 -1.000000
+    PUK.K1U1 BRG...U1 0.135600   B5T...U1 0.177200
+    PUK.K1U1 BBK...U1 -0.067400   BBL...U1 0.404200
+    PUK.K1U1 BQW...U1 0.133700   BCD...U1 0.297100
+    PUK.K1U1 BUK...U1 -1.000000   CF..K.U1 -1.000000
+    PIB.P5U1 BRG...U1 0.164500   BI4...U1 0.027000
+    PIB.P5U1 B5L...U1 0.764000   CF..P.U1 -0.959700
+    PIB.P5U1 BIB...U1 -1.000000
+    PID.P5U1 BRG...U1 0.149100   BI4...U1 0.026200
+    PID.P5U1 B5Q...U1 0.810300   CF..P.U1 -0.860000
+    PID.P5U1 BID...U1 -1.000000
+    PIG.P5U1 BRG...U1 0.104200   BI4...U1 0.010200
+    PIG.P5U1 B5K...U1 0.883000   CF..P.U1 -0.805900
+    PIG.P5U1 BIG...U1 -1.000000
+    PIK.P5U1 BRG...U1 0.118200   BI4...U1 0.017300
+    PIK.P5U1 B5Q...U1 0.861400   CF..P.U1 -0.860000
+    PIK.P5U1 BIK...U1 -1.000000
+    PIN.P5U1 BRG...U1 0.106800   BI4...U1 0.009500
+    PIN.P5U1 B5I...U1 0.872000   CF..P.U1 -0.794500
+    PIN.P5U1 BIN...U1 -1.000000
+    PIP.P5U1 BRG...U1 0.173800   BI4...U1 0.028100
+    PIP.P5U1 B5J...U1 0.753000   CF..P.U1 -0.946400
+    PIP.P5U1 BIP...U1 -1.000000
+    PIQ.P5U1 BRG...U1 0.095600   BI4...U1 0.008900
+    PIQ.P5U1 B5Q...U1 0.904900   CF..P.U1 -0.860000
+    PIQ.P5U1 BIQ...U1 -1.000000
+    PIB.P7U1 BRG...U1 0.196300   BI4...U1 0.023900
+    PIB.P7U1 B5P...U1 0.721000   CF..P.U1 -1.139800
+    PIB.P7U1 BIB...U1 -1.000000
+    PIG.P7U1 BRG...U1 0.135600   BI4...U1 0.016400
+    PIG.P7U1 B5O...U1 0.840000   CF..P.U1 -0.987800
+    PIG.P7U1 BIG...U1 -1.000000
+    PIN.P7U1 BRG...U1 0.138300   BI4...U1 0.015800
+    PIN.P7U1 B5M...U1 0.829000   CF..P.U1 -0.974500
+    PIN.P7U1 BIN...U1 -1.000000
+    PIP.P7U1 BRG...U1 0.207100   BI4...U1 0.022800
+    PIP.P7U1 B5N...U1 0.710000   CF..P.U1 -1.126500
+    PIP.P7U1 BIP...U1 -1.000000
+    PNC.P8U1 BRG...U1 0.200900   BI4...U1 0.016400
+    PNC.P8U1 B5X...U1 -0.260000   CF..P.U1 -1.000000
+    PHA.Q1U1 BRG...U1 0.326000   B5T...U1 0.140000
+    PHA.Q1U1 BBK...U1 -0.031000   BBL...U1 0.260000
+    PHA.Q1U1 BQH...U1 0.256000   CF..Q.U1 -1.066000
+    PHA.Q1U1 BHA...U1 -1.000000
+    PHV.Q1U1 BRG...U1 0.358000   B5T...U1 0.131000
+    PHV.Q1U1 BBK...U1 0.047000   BBL...U1 0.166000
+    PHV.Q1U1 BQB...U1 0.239000   CF..Q.U1 -1.108000
+    PHV.Q1U1 BHV...U1 -1.000000
+    PLA.Q1U1 BRG...U1 0.280000   B5T...U1 0.152000
+    PLA.Q1U1 BBK...U1 0.036000   BBL...U1 0.213000
+    PLA.Q1U1 BQA...U1 0.279000   CF..Q.U1 -1.000000
+    PLA.Q1U1 BLA...U1 -1.000000
+    PMS.Q1U1 BRG...U1 0.280000   B5T...U1 0.152000
+    PMS.Q1U1 BBK...U1 0.034000   BBL...U1 0.215000
+    PMS.Q1U1 CF..Q.U1 -1.000000   BQM...U1 0.279000
+    PMS.Q1U1 BMS...U1 -1.000000
+    PMT.Q1U1 BRG...U1 0.358000   B5T...U1 0.132000
+    PMT.Q1U1 BBK...U1 0.069000   BBL...U1 0.143000
+    PMT.Q1U1 BQJ...U1 0.241000   CF..Q.U1 -1.112000
+    PMT.Q1U1 BMT...U1 -1.000000
+    PSS.Q1U1 BRG...U1 0.280000   B5T...U1 0.152000
+    PSS.Q1U1 BBK...U1 0.241000   BBL...U1 0.008000
+    PSS.Q1U1 BQS...U1 0.279000   CF..Q.U1 -1.000000
+    PSS.Q1U1 BSS...U1 -1.000000
+    PUK.Q1U1 BRG...U1 0.294000   B5T...U1 0.148000
+    PUK.Q1U1 BBK...U1 -0.048000   BBL...U1 0.290000
+    PUK.Q1U1 BQW...U1 0.272000   CF..Q.U1 -1.014000
+    PUK.Q1U1 BUK...U1 -1.000000
+    PAH.R1U1 BRG...U1 0.010700   BIP...U1 0.037500
+    PAH.R1U1 BHL...U1 0.100000   B1H...U1 0.885000
+    PAH.R1U1 CF..R.U1 -1.113300   BAH...U1 -1.000000
+    PAL.R1U1 BRG...U1 0.004200   BIP...U1 0.015400
+    PAL.R1U1 BHL...U1 0.100000   B1A...U1 0.896000
+    PAL.R1U1 CF..R.U1 -0.883600   BAL...U1 -1.000000
+    PAM.R1U1 BRG...U1 0.006500   BIP...U1 0.023000
+    PAM.R1U1 BHL...U1 0.100000   B1K...U1 0.892000
+    PAM.R1U1 CF..R.U1 -1.003900   BAM...U1 -1.000000
+    PIH.R1U1 BRG...U1 0.006400   BIP...U1 0.022800
+    PIH.R1U1 BHL...U1 0.100000   B1G...U1 0.892000
+    PIH.R1U1 CF..R.U1 -0.948700   BIH...U1 -1.000000
+    PIL.R1U1 BRG...U1 0.004800   BIP...U1 0.017200
+    PIL.R1U1 BHL...U1 0.100000   B1I...U1 0.894000
+    PIL.R1U1 CF..R.U1 -0.879900   BIL...U1 -1.000000
+    PKU.R1U1 BRG...U1 0.006200   BIP...U1 0.021900
+    PKU.R1U1 BHL...U1 0.100000   B1W...U1 0.895000
+    PKU.R1U1 CF..R.U1 -0.995100   BKU...U1 -1.000000
+    PAH.R2U1 BRG...U1 0.024600   BIP...U1 0.086900
+    PAH.R2U1 BHL...U1 0.100000   CF..R.U1 -1.484600
+    PAH.R2U1 B2H...U1 0.843000   BAH...U1 -1.000000
+    PAL.R2U1 BRG...U1 0.010900   BIP...U1 0.038900
+    PAL.R2U1 BHL...U1 0.100000   CF..R.U1 -1.109400
+    PAL.R2U1 B2A...U1 0.879000   BAL...U1 -1.000000
+    PAM.R2U1 BRG...U1 0.015400   BIP...U1 0.055000
+    PAM.R2U1 BHL...U1 0.100000   CF..R.U1 -1.279000
+    PAM.R2U1 B2K...U1 0.869000   BAM...U1 -1.000000
+    PIH.R2U1 BRG...U1 0.014700   BIP...U1 0.052800
+    PIH.R2U1 BHL...U1 0.100000   CF..R.U1 -1.204500
+    PIH.R2U1 B2G...U1 0.869000   BIH...U1 -1.000000
+    PIL.R2U1 BRG...U1 0.011100   BIP...U1 0.040500
+    PIL.R2U1 BHL...U1 0.100000   CF..R.U1 -1.094000
+    PIL.R2U1 B2I...U1 0.877000   BIL...U1 -1.000000
+    PKU.R2U1 BRG...U1 0.015100   BIP...U1 0.053300
+    PKU.R2U1 BHL...U1 0.100000   CF..R.U1 -1.285700
+    PKU.R2U1 B2W...U1 0.872000   BKU...U1 -1.000000
+    PAH.VAU1 BAH...U1 -1.000000   BOA...U1 0.638000
+    PAH.VAU1 BBH...U1 0.301700   BBF...U1 0.060300
+    PAH.VAU1 COH.V.U1 -0.362000
+    PBQ.VAU1 BVH...U1 -1.000000   BOA...U1 0.769000
+    PBQ.VAU1 BBF...U1 0.231000   COH.V.U1 -0.231000
+    PBQ.VAU1 LOBROW27909 1.000000
+    PKU.VAU1 BKU...U1 -1.000000   BOA...U1 0.371000
+    PKU.VAU1 BBH...U1 0.479300   BBF...U1 0.149700
+    PKU.VAU1 COH.V.U1 -0.629000
+    PTM.VAU1 BTM...U1 -1.000000   BOA...U1 0.627000
+    PTM.VAU1 BBH...U1 0.230900   BBF...U1 0.142100
+    PTM.VAU1 COH.V.U1 -0.373000   LOBROW27910 1.000000
+    PAH.VRU1 B2H...U1 -1.000000   BBI...U1 0.412700
+    PAH.VRU1 BBG...U1 0.082600   BSS...U1 0.504700
+    PAH.VRU1 COH.V.U1 -0.495300
+    PAL.VRU1 B2A...U1 -1.000000   BBI...U1 0.567700
+    PAL.VRU1 BBG...U1 0.133400   BSS...U1 0.298900
+    PAL.VRU1 COH.V.U1 -0.701100
+    PAM.VRU1 B2K...U1 -1.000000   BBI...U1 0.415300
+    PAM.VRU1 BBG...U1 0.207700   BSS...U1 0.377000
+    PAM.VRU1 COH.V.U1 -0.623000
+    PIH.VRU1 B2G...U1 -1.000000   BBI...U1 0.559800
+    PIH.VRU1 BBG...U1 0.043200   BSS...U1 0.397000
+    PIH.VRU1 COH.V.U1 -0.603000
+    PIL.VRU1 B2I...U1 -1.000000   BBI...U1 0.707900
+    PIL.VRU1 BSS...U1 0.292100   COH.V.U1 -0.707900
+    PKU.VRU1 B2W...U1 -1.000000   BBI...U1 0.469000
+    PKU.VRU1 BBG...U1 0.146400   BSS...U1 0.384600
+    PKU.VRU1 COH.V.U1 -0.615400
+    PAG.V2U1 COH.V.U1 -0.795270   BBH...U1 -1.190240
+    PAG.V2U1 BAG...U1 -1.000000   BBJ...U1 1.985510
+    PAG.V2U1 BAP...U1 0.204730
+    PAH.V2U1 COH.V.U1 -0.570760   BBF...U1 0.111830
+    PAH.V2U1 BBH...U1 0.458930   BAH...U1 -1.000000
+    PAH.V2U1 BHA...U1 0.429240
+    PAL.V2U1 COH.V.U1 -0.670330   BBF...U1 0.026260
+    PAL.V2U1 BBH...U1 0.644080   BAL...U1 -1.000000
+    PAL.V2U1 BLA...U1 0.329670
+    PAM.V2U1 COH.V.U1 -0.625400   BBF...U1 0.032080
+    PAM.V2U1 BBH...U1 0.593320   BAM...U1 -1.000000
+    PAM.V2U1 BMA...U1 0.374600
+    PAW.V2U1 COH.V.U1 -0.845560   BBH...U1 -0.092610
+    PAW.V2U1 BAW...U1 -1.000000   BBJ...U1 0.938170
+    PAW.V2U1 BWA...U1 0.154440
+    PAX.V2U1 COH.V.U1 -0.772480   BBH...U1 0.497090
+    PAX.V2U1 BAX...U1 -1.000000   BBJ...U1 0.275390
+    PAX.V2U1 BXA...U1 0.227520
+    PBQ.V2U1 COH.V.U1 -0.535750   BBF...U1 0.480410
+    PBQ.V2U1 BBH...U1 0.055340   BVH...U1 -1.000000
+    PBQ.V2U1 BHV...U1 0.464250
+    PBR.V2U1 COH.V.U1 -0.757580   BBH...U1 -0.169320
+    PBR.V2U1 BLB...U1 -1.000000   BBJ...U1 0.926900
+    PBR.V2U1 BRB...U1 0.242420
+    PCA.V2U1 COH.V.U1 -0.613980   BBH...U1 -0.247960
+    PCA.V2U1 BCA...U1 -1.000000   BBJ...U1 0.861940
+    PCA.V2U1 BAC...U1 0.386020
+    PES.V2U1 COH.V.U1 -0.719790   BBH...U1 -0.112080
+    PES.V2U1 BES...U1 -1.000000   BBJ...U1 0.831860
+    PES.V2U1 BSE...U1 0.280210
+    PIH.V2U1 COH.V.U1 -0.604710   BBH...U1 0.490580
+    PIH.V2U1 BIH...U1 -1.000000   BBJ...U1 0.114130
+    PIH.V2U1 BHI...U1 0.395290
+    PIL.V2U1 COH.V.U1 -0.710440   BBH...U1 0.564880
+    PIL.V2U1 BIL...U1 -1.000000   BBJ...U1 0.145550
+    PIL.V2U1 BLI...U1 0.289560
+    PKU.V2U1 COH.V.U1 -0.617890   BBH...U1 0.601300
+    PKU.V2U1 BKU...U1 -1.000000   BBJ...U1 0.016590
+    PKU.V2U1 BUK...U1 0.382110
+    PMU.V2U1 COH.V.U1 -0.810120   BBH...U1 0.334500
+    PMU.V2U1 BMU...U1 -1.000000   BBJ...U1 0.475620
+    PMU.V2U1 BUM...U1 0.189880
+    PNF.V2U1 COH.V.U1 -0.845030   BBF...U1 0.420570
+    PNF.V2U1 BBH...U1 0.424460   BMD...U1 -1.000000
+    PNF.V2U1 BMF...U1 0.154970
+    PNL.V2U1 COH.V.U1 -0.907110   BBH...U1 0.503370
+    PNL.V2U1 BLT...U1 -1.000000   BBJ...U1 0.403730
+    PNL.V2U1 BTL...U1 0.092890
+    PNM.V2U1 COH.V.U1 -0.835550   BBF...U1 0.513610
+    PNM.V2U1 BBH...U1 0.321940   BHY...U1 -1.000000
+    PNM.V2U1 BYH...U1 0.164450
+    PON.V2U1 COH.V.U1 -0.672660   BBH...U1 0.553280
+    PON.V2U1 BON...U1 -1.000000   BBJ...U1 0.119380
+    PON.V2U1 BRT...U1 0.327340
+    PQA.V2U1 COH.V.U1 -0.813430   BBH...U1 0.466260
+    PQA.V2U1 BQT...U1 -1.000000   BBJ...U1 0.347170
+    PQA.V2U1 BTQ...U1 0.186570
+    PSA.V2U1 COH.V.U1 -0.676360   BBH...U1 -0.525620
+    PSA.V2U1 BLS...U1 -1.000000   BBJ...U1 1.201980
+    PSA.V2U1 BAS...U1 0.323640
+    PS1.V2U1 COH.V.U1 -0.809630   BBH...U1 0.366850
+    PS1.V2U1 BS1...U1 -1.000000   BBJ...U1 0.442780
+    PS1.V2U1 B1S...U1 0.190370
+    PTL.V2U1 COH.V.U1 -0.618490   BBH...U1 0.256260
+    PTL.V2U1 BJL...U1 -1.000000   BBJ...U1 0.362230
+    PTL.V2U1 BLJ...U1 0.381510
+    PTM.V2U1 COH.V.U1 -0.586230   BBF...U1 0.087730
+    PTM.V2U1 BBH...U1 0.498510   BTM...U1 -1.000000
+    PTM.V2U1 BMT...U1 0.413770
+    PUH.V2U1 COH.V.U1 -0.728630   BBH...U1 0.380350
+    PUH.V2U1 BUH...U1 -1.000000   BBJ...U1 0.348270
+    PUH.V2U1 BHU...U1 0.271370
+    PUL.V2U1 COH.V.U1 -0.736980   BBH...U1 0.122570
+    PUL.V2U1 BUL...U1 -1.000000   BBJ...U1 0.614420
+    PUL.V2U1 BLU...U1 0.263020
+    PW3.V2U1 COH.V.U1 -0.716820   BBH...U1 0.647920
+    PW3.V2U1 BW3...U1 -1.000000   BBJ...U1 0.068890
+    PW3.V2U1 BWT...U1 0.283180
+    PYV.V2U1 COH.V.U1 -0.651700   BYV...U1 -1.000000
+    PYV.V2U1 BBF...U1 1.132600   BBH...U1 -0.480900
+    PYV.V2U1 BVY...U1 0.348300
+    PZA.V2U1 COH.V.U1 -0.745380   BBH...U1 -0.402340
+    PZA.V2U1 BZA...U1 -1.000000   BBJ...U1 1.147720
+    PZA.V2U1 BAZ...U1 0.254620
+    SDH.U3U1 BDH...U1 1.000000   BDH...U3 -1.000000
+    SDH.U3U1 KLM.PLU1 1.000000
+    SDK.U3U1 BDK...U1 1.000000   BDK...U3 -1.000000
+    SDK.U3U1 KLM.PLU1 1.000000
+    SGP.U3U1 BGP...U1 1.000000   BGP...U3 -1.000000
+    SGP.U3U1 KLM.PLU1 1.000000
+    TDH.ANU1 BDH...U1 1.000000   BDH...AN -1.000000
+    TDH.ANU1 FAT0..J. 1.392000   KTX.CPU. 1.000000
+    TDH.ANU1 KWC..... 1.122000
+    TDK.ANU1 BDK...U1 1.000000   BDK...AN -1.000000
+    TDK.ANU1 FAT0..J. 1.333000   KTX.CPU. 1.000000
+    TDK.ANU1 KWC..... 1.129000   KDK...U1 1.000000
+    TFP.ANU1 BFP...U1 1.000000   BFP...AN -1.000000
+    TFP.ANU1 FAT0..J. 1.560000   KWC..... 1.074000
+    TFP.ANU1 KTX.FOU. 1.000000
+    TFY.ANU1 BFY...U1 1.000000   BFY...AN -1.000000
+    TFY.ANU1 FAT0..J. 1.593000   KWC..... 0.884000
+    TFY.ANU1 KTX.FOU. 1.000000
+    QWT5FQJP BFQ.WTJP -1.000000   XSU.FQJP -0.630000
+    TNI.ANU1 BNI...U1 1.000000   BNI...AN -1.000000
+    TNI.ANU1 FAT0..J. 1.304000   KMC.IMU1 1.000000
+    TNI.ANU1 KTX.CPU. 1.000000   KWC..... 1.108000
+    TNI.ANU1 KMC.NMU. 1.000000
+    TNL.ANU1 BNL...U1 1.000000   BNL...AN -1.000000
+    TNL.ANU1 FAT0..J. 1.292000   KMC.IMU1 1.000000
+    TNL.ANU1 KTX.CPU. 1.000000   KWC..... 0.967000
+    TNL.ANU1 KMC.NMU. 1.000000
+    TNP.ANU1 BNP...U1 1.000000   BNP...AN -1.000000
+    TNP.ANU1 FAT0..J. 1.304000   KMC.IMU1 1.000000
+    TNP.ANU1 KTX.CPU. 1.000000   KWC..... 1.052000
+    TNP.ANU1 KMC.NMU. 1.000000
+    TDH.AWU1 BDH...U1 1.000000   BDH...AW -1.000000
+    TDH.AWU1 FAT0..J. 1.576000   KTX.CPU. 1.000000
+    TDH.AWU1 KWC..... 1.139000
+    TDK.AWU1 BDK...U1 1.000000   BDK...AW -1.000000
+    TDK.AWU1 FAT0..J. 1.509000   KTX.CPU. 1.000000
+    TDK.AWU1 KWC..... 1.154000   KDK...U1 1.000000
+    TFP.AWU1 BFP...U1 1.000000   BFP...AW -1.000000
+    TFP.AWU1 FAT0..J. 1.766000   KWC..... 1.101000
+    TFP.AWU1 KTX.FOU. 1.000000
+    TLG.AWU1 BLG...U1 1.000000   BLG...AW -1.000000
+    TNI.AWU1 BNI...U1 1.000000   BNI...AW -1.000000
+    TNI.AWU1 FAT0..J. 1.476000   KMC.IMU1 1.000000
+    TNI.AWU1 KTX.CPU. 1.000000   KWC..... 1.137000
+    TNI.AWU1 KMC.NMU. 1.000000
+    TNL.AWU1 BNL...U1 1.000000   BNL...AW -1.000000
+    TNL.AWU1 FAT0..J. 1.462000   KMC.IMU1 1.000000
+    TNL.AWU1 KTX.CPU. 1.000000   KWC..... 0.991000
+    TNL.AWU1 KMC.NMU. 1.000000
+    TNP.AWU1 BNP...U1 1.000000   BNP...AW -1.000000
+    TNP.AWU1 FAT0..J. 1.476000   KMC.IMU1 1.000000
+    TNP.AWU1 KTX.CPU. 1.000000   KWC..... 1.109000
+    TNP.AWU1 KMC.NMU. 1.000000
+    TB4.BAU1 BB4...U1 1.000000   BB4...BA -1.000000
+    TB4.BAU1 FAT0..J. 0.441000   KMC.IMU1 1.000000
+    TB4.BAU1 KTX.CPU. 1.000000   KWC..... 0.719000
+    TB4.BAU1 KLM.VGU. 1.000000
+    TB5.BAU1 BB5...U1 1.000000   BB5...BA -1.000000
+    TB5.BAU1 FAT0..J. 0.441000   KMC.IMU1 1.000000
+    TB5.BAU1 KTX.CPU. 1.000000   KWC..... 0.719000
+    TB5.BAU1 KLM.VGU. 1.000000
+    TDH.BAU1 BDH...U1 1.000000   BDH...BA -1.000000
+    TDH.BAU1 FAT0..J. 0.421000   KTX.CPU. 1.000000
+    TDH.BAU1 KWC..... 0.770000   LOBROW27911 1.000000
+    TDK.BAU1 BDK...U1 1.000000   BDK...BA -1.000000
+    TDK.BAU1 FAT0..J. 0.404000   KTX.CPU. 1.000000
+    TDK.BAU1 KWC..... 0.774000   KDK...U1 1.000000
+    TDK.BAU1 LOBROW27912 1.000000
+    TFP.BAU1 BFP...U1 1.000000   BFP...BA -1.000000
+    TFP.BAU1 FAT0..J. 0.472000   KWC..... 0.754000
+    TFP.BAU1 KTX.FOU. 1.000000
+    TFS.BAU1 BFS...U1 1.000000   BFS...BA -1.000000
+    TFS.BAU1 FAT0..J. 0.472000   KWC..... 0.719000
+    TFS.BAU1 KTX.FOU. 1.000000
+    TFW.BAU1 BFW...U1 1.000000   BFW...BA -1.000000
+    TFW.BAU1 FAT0..J. 0.316000   KWC..... 0.630000
+    TFW.BAU1 KTX.FOU. 1.000000
+    TFY.BAU1 BFY...U1 1.000000   BFY...BA -1.000000
+    TFY.BAU1 FAT0..J. 0.482000   KWC..... 0.630000
+    TFY.BAU1 KTX.FOU. 1.000000
+    TGP.BAU1 BGP...U1 1.000000   BGU...BA -1.000000
+    TGP.BAU1 FAT0..J. 0.400000   KTX.CPU. 1.000000
+    TGP.BAU1 KWC..... 0.778000   KMC.NMU. 1.000000
+    TNI.BAU1 BNI...U1 1.000000   BNI...BA -1.000000
+    TNI.BAU1 FAT0..J. 0.395000   KMC.IMU1 1.000000
+    TNI.BAU1 KTX.CPU. 1.000000   KWC..... 0.774000
+    TNI.BAU1 KMC.NMU. 1.000000
+    TNJ.BAU1 BNJ...U1 1.000000   BNJ...BA -1.000000
+    TNJ.BAU1 FAT0..J. 0.388000   KTX.CPU. 1.000000
+    TNJ.BAU1 KWC..... 0.760000
+    TNL.BAU1 BNL...U1 1.000000   BNL...BA -1.000000
+    TNL.BAU1 FAT0..J. 0.391000   KMC.IMU1 1.000000
+    TNL.BAU1 KTX.CPU. 1.000000   KWC..... 0.680000
+    TNL.BAU1 KMC.NMU. 1.000000
+    TNP.BAU1 BNP...U1 1.000000   BNP...BA -1.000000
+    TNP.BAU1 FAT0..J. 0.395000   KMC.IMU1 1.000000
+    TNP.BAU1 KTX.CPU. 1.000000   KWC..... 0.740000
+    TNP.BAU1 KMC.NMU. 1.000000
+    TOA.BAU1 BOA...U1 1.000000   BOA...BA -1.000000
+    TOA.BAU1 FAT0..J. 0.523000   KWC..... 0.621000
+    TOA.BAU1 UPBROW27913 1.000000
+    TB4.EMU1 BB4...U1 1.000000   BB4...EM -1.000000
+    TB4.EMU1 FAT0..J. 1.362000   KMC.IMU1 1.000000
+    TB4.EMU1 KMC.EXE. 1.000000   KTX.CPU. 1.000000
+    TB4.EMU1 KWC..... -0.689000   KLM.VGU. 1.000000
+    TDH.EMU1 BDH...U1 1.000000   BDH...EM -1.000000
+    TDH.EMU1 FAT0..J. 1.300000   KMC.EXE. 1.000000
+    TDH.EMU1 KTX.CPU. 1.000000   KWC..... -0.614000
+    TDK.EMU1 BDK...U1 1.000000   BDK...EM -1.000000
+    TDK.EMU1 FAT0..J. 1.245000   KMC.EXE. 1.000000
+    TDK.EMU1 KTX.CPU. 1.000000   KWC..... -0.606000
+    TDK.EMU1 KDK...U1 1.000000
+    TFS.EMU1 BFS...U1 1.000000   BFS...EM -1.000000
+    TFS.EMU1 FAT0..J. 1.457000   KMC.EXE. 1.000000
+    TFS.EMU1 KWC..... -0.689000   KTX.FOU. 1.000000
+    TFY.EMU1 BFY...U1 1.000000   BFJ...EM -1.000000
+    TFY.EMU1 FAT0..J. 1.487000   KMC.EXE. 1.000000
+    TFY.EMU1 KWC..... -0.824000   KTX.FOU. 1.000000
+    TGP.EMU1 BGP...U1 1.000000   BGU...EM -1.000000
+    TGP.EMU1 FAT0..J. 1.235000   KMC.EXE. 1.000000
+    TGP.EMU1 KTX.CPU. 1.000000   KWC..... -0.605000
+    TGP.EMU1 KMC.NMU. 1.000000
+    TNI.EMU1 BNI...U1 1.000000   BNI...EM -1.000000
+    TNI.EMU1 FAT0..J. 1.218000   KMC.IMU1 1.000000
+    TNI.EMU1 KMC.EXE. 1.000000   KTX.CPU. 1.000000
+    TNI.EMU1 KWC..... -0.627000   KMC.NMU. 1.000000
+    TNL.EMU1 BNL...U1 1.000000   BNL...EM -1.000000
+    TNL.EMU1 FAT0..J. 1.207000   KMC.IMU1 1.000000
+    TNL.EMU1 KMC.EXE. 1.000000   KTX.CPU. 1.000000
+    TNL.EMU1 KWC..... -0.761000   KMC.NMU. 1.000000
+    TB4.EZU1 BB4...U1 1.000000   BB4...EZ -1.000000
+    TB4.EZU1 FAT0..J. 1.209000   KMC.IMU1 1.000000
+    TB4.EZU1 KMC.EXE. 1.000000   KTX.CPU. 1.000000
+    TB4.EZU1 KWC..... -0.806000   KLM.VGU. 1.000000
+    TDH.EZU1 BDH...U1 1.000000   BDH...EZ -1.000000
+    TDH.EZU1 FAT0..J. 1.155000   KMC.EXE. 1.000000
+    TDH.EZU1 KTX.CPU. 1.000000   KWC..... -0.715000
+    TDK.EZU1 BDK...U1 1.000000   BDK...EZ -1.000000
+    TDK.EZU1 FAT0..J. 1.106000   KMC.EXE. 1.000000
+    TDK.EZU1 KTX.CPU. 1.000000   KWC..... -0.706000
+    TDK.EZU1 KDK...U1 1.000000
+    TFS.EZU1 BFS...U1 1.000000   BFS...EZ -1.000000
+    TFS.EZU1 FAT0..J. 1.294000   KMC.EXE. 1.000000
+    TFS.EZU1 KWC..... -0.806000   KTX.FOU. 1.000000
+    TFY.EZU1 BFY...U1 1.000000   BFJ...EZ -1.000000
+    TFY.EZU1 FAT0..J. 1.321000   KMC.EXE. 1.000000
+    TFY.EZU1 KWC..... -0.923000   KTX.FOU. 1.000000
+    TGP.EZU1 BGP...U1 1.000000   BGU...EZ -1.000000
+    TGP.EZU1 FAT0..J. 1.096000   KMC.EXE. 1.000000
+    TGP.EZU1 KTX.CPU. 1.000000   KWC..... -0.711000
+    TGP.EZU1 KMC.NMU. 1.000000
+    QVO5FQJP BFQ...JP 1.000000   BFQ.VOJP -1.000000
+    QVO5FQJP XVI.FQJP -1.132000   NVI.FQJP -0.800000
+    TNI.EZU1 BNI...U1 1.000000   BNI...EZ -1.000000
+    TNI.EZU1 FAT0..J. 1.081000   KMC.IMU1 1.000000
+    TNI.EZU1 KMC.EXE. 1.000000   KTX.CPU. 1.000000
+    TNI.EZU1 KWC..... -0.728000   KMC.NMU. 1.000000
+    TNL.EZU1 BNL...U1 1.000000   BNL...EZ -1.000000
+    TNL.EZU1 FAT0..J. 1.071000   KMC.IMU1 1.000000
+    TNL.EZU1 KMC.EXE. 1.000000   KTX.CPU. 1.000000
+    TNL.EZU1 KWC..... -0.864000   KMC.NMU. 1.000000
+    TB5.PGU1 BB5...U1 1.000000   BB5...PG -1.000000
+    TB5.PGU1 FAT0..J. 2.249000   KMC.IMU1 1.000000
+    TB5.PGU1 KTX.CPU. 1.000000   KWC..... 1.337000
+    TB5.PGU1 KLM.VGU. 1.000000
+    TDH.PGU1 BDH...U1 1.000000   BDH...PG -1.000000
+    TDH.PGU1 FAT0..J. 2.147000   KTX.CPU. 1.000000
+    TDH.PGU1 KWC..... 1.463000
+    TDK.PGU1 BDK...U1 1.000000   BDK...PG -1.000000
+    TDK.PGU1 FAT0..J. 2.056000   KTX.CPU. 1.000000
+    TDK.PGU1 KWC..... 1.478000   KDK...U1 1.000000
+    TFP.PGU1 BFP...U1 1.000000   BFP...PG -1.000000
+    TFP.PGU1 FAT0..J. 2.406000   KWC..... 1.398000
+    TFP.PGU1 KTX.FOU. 1.000000
+    TFS.PGU1 BFS...U1 1.000000   BFS...PG -1.000000
+    TFS.PGU1 FAT0..J. 2.406000   KWC..... 1.337000
+    TFS.PGU1 KTX.FOU. 1.000000
+    TGP.PGU1 BGP...U1 1.000000   BGU...PG -1.000000
+    TGP.PGU1 FAT0..J. 2.022000   KTX.CPU. 1.000000
+    TGP.PGU1 KWC..... 1.442000   KMC.NMU. 11.000000
+    QWT5FOJP BFO.WTJP -1.000000   XSU.FOJP -0.180000
+    TNL.PGU1 BNL...U1 1.000000   BNL...PG -1.000000
+    TNL.PGU1 FAT0..J. 1.959000   KMC.IMU1 1.000000
+    TNL.PGU1 KTX.CPU. 1.000000   KWC..... 1.251000
+    TNL.PGU1 KMC.NMU. 1.000000
+    TNP.PGU1 BNP...U1 1.000000   BNP...PG -1.000000
+    TNP.PGU1 FAT0..J. 1.994000   KMC.IMU1 1.000000
+    TNP.PGU1 KTX.CPU. 1.000000   KWC..... 1.393000
+    TNP.PGU1 KMC.NMU. 1.000000
+    TDH.U3U1 BDH...U1 1.000000   BDH...U3 -1.000000
+    TDH.U3U1 FAT0..J. 1.150000   KWC..... 0.678000
+    TDK.U3U1 BDK...U1 1.000000   BDK...U3 -1.000000
+    TDK.U3U1 FAT0..J. 1.150000   KWC..... 0.681000
+    TFP.U3U1 BFP...U1 1.000000   BFP...U3 -1.000000
+    TFP.U3U1 FAT0..J. 1.320000   KWC..... 0.664000
+    TFS.U3U1 BFS...U1 1.000000   BFS...U3 -1.000000
+    TFS.U3U1 FAT0..J. 1.320000   KWC..... 0.625000
+    TFY.U3U1 BFY...U1 1.000000   BFY...U3 -1.000000
+    TFY.U3U1 FAT0..J. 1.320000   KWC..... 0.529000
+    TGP.U3U1 BGP...U1 1.000000   BGP...U3 -1.000000
+    TGP.U3U1 FAT0..J. 1.000000   KWC..... 0.696000
+    TB4.VEU1 BB4...U1 1.000000   BB4...VE -1.000000
+    TB4.VEU1 FAT0..J. 0.676000   KMC.IMU1 1.000000
+    TB4.VEU1 KTX.CPU. 1.000000   KWC..... 0.778000
+    TB4.VEU1 KLM.VGU. 1.000000
+    TB5.VEU1 BB5...U1 1.000000   BB5...VE -1.000000
+    TB5.VEU1 FAT0..J. 0.676000   KMC.IMU1 1.000000
+    TB5.VEU1 KTX.CPU. 1.000000   KWC..... 0.778000
+    TB5.VEU1 KLM.VGU. 1.000000
+    TDH.VEU1 BDH...U1 1.000000   BDH...VE -1.000000
+    TDH.VEU1 FAT0..J. 0.645000   KTX.CPU. 1.000000
+    TDH.VEU1 KWC..... 0.840000
+    TDK.VEU1 BDK...U1 1.000000   BDK...VE -1.000000
+    TDK.VEU1 FAT0..J. 0.618000   KTX.CPU. 1.000000
+    TDK.VEU1 KWC..... 0.844000   KDK...U1 1.000000
+    TFP.VEU1 BFP...U1 1.000000   BFP...VE -1.000000
+    TFP.VEU1 FAT0..J. 0.723000   KWC..... 0.821000
+    TFP.VEU1 KTX.FOU. 1.000000
+    TFS.VEU1 BFS...U1 1.000000   BFS...VE -1.000000
+    TFS.VEU1 FAT0..J. 0.723000   KWC..... 0.778000
+    TFS.VEU1 KTX.FOU. 1.000000
+    TFW.VEU1 BFW...U1 1.000000   BFW...VE -1.000000
+    TFW.VEU1 FAT0..J. 0.484000   KWC..... 0.681000
+    TFW.VEU1 KTX.FOU. 1.000000
+    TFY.VEU1 BFY...U1 1.000000   BFY...VE -1.000000
+    TFY.VEU1 FAT0..J. 0.738000   KWC..... 0.681000
+    TFY.VEU1 KTX.FOU. 1.000000
+    TGP.VEU1 BGP...U1 1.000000   BGU...VE -1.000000
+    TGP.VEU1 FAT0..J. 0.613000   KTX.CPU. 1.000000
+    TGP.VEU1 KWC..... 0.842000   KMC.NMU. 1.000000
+    QVO5FOJP BFO...JP 1.000000   BFO.VOJP -1.000000
+    QVO5FOJP XVI.FOJP -1.132000   NVI.FOJP -0.800000
+    TNI.VEU1 BNI...U1 1.000000   BNI...VE -1.000000
+    TNI.VEU1 FAT0..J. 0.604000   KMC.IMU1 1.000000
+    TNI.VEU1 KTX.CPU. 1.000000   KWC..... 0.844000
+    TNI.VEU1 KMC.NMU. 1.000000
+    TNL.VEU1 BNL...U1 1.000000   BNL...VE -1.000000
+    TNL.VEU1 FAT0..J. 0.599000   KMC.IMU1 1.000000
+    TNL.VEU1 KTX.CPU. 1.000000   KWC..... 0.751000
+    TNL.VEU1 KMC.NMU. 1.000000
+    BBK.DHU3 BBK...U3 -1.000000   BDH.VOU3 1.000000
+    BBK.DHU3 XSU.DHU3 0.100000
+    BBL.DHU3 BBL...U3 -1.000000   BDH.VOU3 1.000000
+    BBL.DHU3 XSU.DHU3 3.000000
+    BBU.DHU3 BBU...U3 -1.000000   BDH.VOU3 1.000000
+    BBU.DHU3 XSU.DHU3 0.200000
+    BBV.DHU3 BBV...U3 -1.000000   BDH.VOU3 1.000000
+    BBV.DHU3 XSU.DHU3 2.500000
+    BKB.DHU3 BKB...U3 -1.000000   BDH.VOU3 1.000000
+    BKB.DHU3 XSU.DHU3 0.150000
+    BKG.DHU3 BKG...U3 -1.000000   BDH.VOU3 1.000000
+    BKG.DHU3 XSU.DHU3 0.150000
+    BKB.DKU3 BKB...U3 -1.000000   BDK.VOU3 1.000000
+    BKB.DKU3 NLI.DKU3 0.350000
+    BKG.DKU3 BKG...U3 -1.000000   BDK.VOU3 1.000000
+    BKG.DKU3 NLI.DKU3 0.700000
+    BAC.FPU3 BAC...U3 -1.000000   BFP.VOU3 1.000000
+    BAC.FPU3 BFP.WTU3 0.954030   XSU.FPU3 0.238740
+    BAC.FPU3 XVI.FPU3 1.342000   NVI.FPU3 1.342000
+    BAG.FPU3 BAG...U3 -1.000000   BFP.VOU3 1.000000
+    BAG.FPU3 BFP.WTU3 0.845940   XSU.FPU3 0.015950
+    BAG.FPU3 XVI.FPU3 0.983000   NVI.FPU3 0.983000
+    BAP.FPU3 BAP...U3 -1.000000   BFP.VOU3 1.000000
+    BAP.FPU3 BFP.WTU3 0.886270   XSU.FPU3 0.030780
+    BAP.FPU3 XVI.FPU3 1.215000   NVI.FPU3 1.215000
+    BAS.FPU3 BAS...U3 -1.000000   BFP.VOU3 1.000000
+    BAS.FPU3 BFP.WTU3 0.995250   XSU.FPU3 0.498860
+    BAS.FPU3 XVI.FPU3 1.435000   NVI.FPU3 1.435000
+    BAW.FPU3 BAW...U3 -1.000000   BFP.VOU3 1.000000
+    BAW.FPU3 BFP.WTU3 0.902180   XSU.FPU3 0.296020
+    BAW.FPU3 XVI.FPU3 1.045000   NVI.FPU3 1.045000
+    BA5.FPU3 BA5...U3 -1.000000   BFP.VOU3 1.000000
+    BA5.FPU3 BFP.WTU3 0.957290   XSU.FPU3 1.543860
+    BA5.FPU3 XVI.FPU3 1.158000   NVI.FPU3 1.158000
+    BBG.FPU3 BBG...U3 -1.000000   BFP.VOU3 1.000000
+    BBG.FPU3 BFP.WTU3 0.918600   XSU.FPU3 0.183720
+    BBG.FPU3 XVI.FPU3 1.034000   NVI.FPU3 1.034000
+    BBI.FPU3 BBI...U3 -1.000000   BFP.VOU3 1.000000
+    BBI.FPU3 BFP.WTU3 0.889000   XSU.FPU3 0.177800
+    BBI.FPU3 XVI.FPU3 0.965000   NVI.FPU3 0.965000
+    BBO.FPU3 BBO...U3 -1.000000   BFP.VOU3 1.000000
+    BBO.FPU3 BFP.WTU3 0.820000   XSU.FPU3 0.246000
+    BBO.FPU3 XVI.FPU3 0.720000   NVI.FPU3 0.720000
+    BBP.FPU3 BBP...U3 -1.000000   BFP.VOU3 1.000000
+    BBP.FPU3 BFP.WTU3 0.820000   XSU.FPU3 1.230000
+    BBP.FPU3 XVI.FPU3 0.720000   NVI.FPU3 0.720000
+    BBW.FPU3 BBW...U3 -1.000000   BFP.VOU3 1.000000
+    BBW.FPU3 BFP.WTU3 0.870000   XSU.FPU3 0.435000
+    BBW.FPU3 XVI.FPU3 0.870000   NVI.FPU3 0.870000
+    BBY.FPU3 BBY...U3 -1.000000   BFP.VOU3 1.000000
+    BBY.FPU3 BFP.WTU3 0.870000   XSU.FPU3 1.305000
+    BBY.FPU3 XVI.FPU3 0.870000   NVI.FPU3 0.870000
+    BCA.FPU3 BCA...U3 -1.000000   BFP.VOU3 1.000000
+    BCA.FPU3 BFP.WTU3 0.911500   XSU.FPU3 0.155200
+    BCA.FPU3 XVI.FPU3 1.116000   NVI.FPU3 1.116000
+    BES.FPU3 BES...U3 -1.000000   BFP.VOU3 1.000000
+    BES.FPU3 BFP.WTU3 0.924250   XSU.FPU3 0.646940
+    BES.FPU3 XVI.FPU3 1.090000   NVI.FPU3 1.090000
+    BF2.FPU3 BF2...U3 -1.000000   BFP.VOU3 1.000000
+    BF2.FPU3 BFP.WTU3 0.950000   XSU.FPU3 1.786000
+    BF2.FPU3 XVI.FPU3 1.152000   NVI.FPU3 1.152000
+    BHY.FPU3 BHY...U3 -1.000000   BFP.VOU3 1.000000
+    BHY.FPU3 BFP.WTU3 0.955630   XSU.FPU3 0.319650
+    BHY.FPU3 XVI.FPU3 1.129000   NVI.FPU3 1.129000
+    BJL.FPU3 BJL...U3 -1.000000   BFP.VOU3 1.000000
+    BJL.FPU3 BFP.WTU3 0.949360   XSU.FPU3 1.831570
+    BJL.FPU3 XVI.FPU3 1.151000   NVI.FPU3 1.151000
+    BLB.FPU3 BLB...U3 -1.000000   BFP.VOU3 1.000000
+    BLB.FPU3 BFP.WTU3 0.911690   XSU.FPU3 0.370120
+    BLB.FPU3 XVI.FPU3 1.063000   NVI.FPU3 1.063000
+    BLS.FPU3 BLS...U3 -1.000000   BFP.VOU3 1.000000
+    BLS.FPU3 BFP.WTU3 0.912290   XSU.FPU3 0.296090
+    BLS.FPU3 XVI.FPU3 1.102000   NVI.FPU3 1.102000
+    BLT.FPU3 BLT...U3 -1.000000   BFP.VOU3 1.000000
+    BLT.FPU3 BFP.WTU3 0.921090   XSU.FPU3 0.235530
+    BLT.FPU3 XVI.FPU3 1.056000   NVI.FPU3 1.056000
+    BMD.FPU3 BMD...U3 -1.000000   BFP.VOU3 1.000000
+    BMD.FPU3 BFP.WTU3 0.948040   XSU.FPU3 0.342320
+    BMD.FPU3 XVI.FPU3 1.109000   NVI.FPU3 1.109000
+    BMF.FPU3 BMF...U3 -1.000000   BFP.VOU3 1.000000
+    BMF.FPU3 BFP.WTU3 1.017900   XSU.FPU3 0.796850
+    BMF.FPU3 XVI.FPU3 1.415000   NVI.FPU3 1.415000
+    BON.FPU3 BON...U3 -1.000000   BFP.VOU3 1.000000
+    BON.FPU3 BFP.WTU3 0.953460   XSU.FPU3 1.417210
+    BON.FPU3 XVI.FPU3 1.166000   NVI.FPU3 1.166000
+    BQS.FPU3 BQS...U3 -1.000000   BFP.VOU3 1.000000
+    BQS.FPU3 BFP.WTU3 0.997000   XSU.FPU3 0.319040
+    BQS.FPU3 XVI.FPU3 1.175000   NVI.FPU3 1.175000
+    BRB.FPU3 BRB...U3 -1.000000   BFP.VOU3 1.000000
+    BRB.FPU3 BFP.WTU3 0.983160   XSU.FPU3 0.680810
+    BRB.FPU3 XVI.FPU3 1.339000   NVI.FPU3 1.339000
+    BRT.FPU3 BRT...U3 -1.000000   BFP.VOU3 1.000000
+    BRT.FPU3 BFP.WTU3 1.046090   XSU.FPU3 2.030480
+    BRT.FPU3 XVI.FPU3 1.430000   NVI.FPU3 1.430000
+    BSA.FPU3 BSA...U3 -1.000000   BFP.VOU3 1.000000
+    BSA.FPU3 BFP.WTU3 0.963200   XSU.FPU3 0.597180
+    BSA.FPU3 XVI.FPU3 1.145000   NVI.FPU3 1.145000
+    BSB.FPU3 BSB...U3 -1.000000   BFP.VOU3 1.000000
+    BSB.FPU3 BFP.WTU3 0.993000   XSU.FPU3 0.566010
+    BSB.FPU3 XVI.FPU3 1.145000   NVI.FPU3 1.145000
+    BSE.FPU3 BSE...U3 -1.000000   BFP.VOU3 1.000000
+    BSE.FPU3 BFP.WTU3 1.004360   XSU.FPU3 1.209020
+    BSE.FPU3 XVI.FPU3 1.382000   NVI.FPU3 1.382000
+    BSH.FPU3 BSH...U3 -1.000000   BFP.VOU3 1.000000
+    BSH.FPU3 BFP.WTU3 0.979200   XSU.FPU3 0.802940
+    BSH.FPU3 XVI.FPU3 1.145000   NVI.FPU3 1.145000
+    BSJ.FPU3 BSJ...U3 -1.000000   BFP.VOU3 1.000000
+    BSJ.FPU3 BFP.WTU3 0.979200   XSU.FPU3 0.479810
+    BSJ.FPU3 XVI.FPU3 1.145000   NVI.FPU3 1.145000
+    BSM.FPU3 BSM...U3 -1.000000   BFP.VOU3 1.000000
+    BSM.FPU3 BFP.WTU3 0.963200   XSU.FPU3 0.597180
+    BSM.FPU3 XVI.FPU3 1.145000   NVI.FPU3 1.145000
+    BSW.FPU3 BSW...U3 -1.000000   BFP.VOU3 1.000000
+    BSW.FPU3 BFP.WTU3 0.972500   XSU.FPU3 0.836350
+    BSW.FPU3 XVI.FPU3 1.145000   NVI.FPU3 1.145000
+    BSY.FPU3 BSY...U3 -1.000000   BFP.VOU3 1.000000
+    BSY.FPU3 BFP.WTU3 0.973800   XSU.FPU3 0.438210
+    BSY.FPU3 XVI.FPU3 1.385000   NVI.FPU3 1.385000
+    BS1.FPU3 BS1...U3 -1.000000   BFP.VOU3 1.000000
+    BS1.FPU3 BFP.WTU3 0.928280   XSU.FPU3 0.649560
+    BS1.FPU3 XVI.FPU3 1.088000   NVI.FPU3 1.088000
+    BS2.FPU3 BS2...U3 -1.000000   BFP.VOU3 1.000000
+    BS2.FPU3 BFP.WTU3 0.963200   XSU.FPU3 0.394910
+    BS2.FPU3 XVI.FPU3 1.145000   NVI.FPU3 1.145000
+    BTL.FPU3 BTL...U3 -1.000000   BFP.VOU3 1.000000
+    BTL.FPU3 BFP.WTU3 1.023110   XSU.FPU3 0.553770
+    BTL.FPU3 XVI.FPU3 1.388000   NVI.FPU3 1.388000
+    BTM.FPU3 BTM...U3 -1.000000   BFP.VOU3 1.000000
+    BTM.FPU3 BFP.WTU3 0.976340   XSU.FPU3 2.329660
+    BTM.FPU3 XVI.FPU3 1.220000   NVI.FPU3 1.220000
+    BVY.FPU3 BVY...U3 -1.000000   BFP.VOU3 1.000000
+    BVY.FPU3 BFP.WTU3 1.015800   XSU.FPU3 1.117380
+    BVY.FPU3 XVI.FPU3 1.385000   NVI.FPU3 1.385000
+    BWA.FPU3 BWA...U3 -1.000000   BFP.VOU3 1.000000
+    BWA.FPU3 BFP.WTU3 0.969370   XSU.FPU3 0.602190
+    BWA.FPU3 XVI.FPU3 1.340000   NVI.FPU3 1.340000
+    BYC.FPU3 BYC...U3 -1.000000   BFP.VOU3 1.000000
+    BYC.FPU3 BFP.WTU3 1.119000   XSU.FPU3 0.055950
+    BYC.FPU3 XVI.FPU3 1.113000   NVI.FPU3 1.113000
+    BYH.FPU3 BYH...U3 -1.000000   BFP.VOU3 1.000000
+    BYH.FPU3 BFP.WTU3 1.023810   XSU.FPU3 0.666860
+    BYH.FPU3 XVI.FPU3 1.455000   NVI.FPU3 1.455000
+    BYS.FPU3 BYS...U3 -1.000000   BFP.VOU3 1.000000
+    BYS.FPU3 BFP.WTU3 0.892000   XSU.FPU3 0.062440
+    BYS.FPU3 XVI.FPU3 1.012000   NVI.FPU3 1.012000
+    BYV.FPU3 BYV...U3 -1.000000   BFP.VOU3 1.000000
+    BYV.FPU3 BFP.WTU3 0.969800   XSU.FPU3 0.649770
+    BYV.FPU3 XVI.FPU3 1.168000   NVI.FPU3 1.168000
+    BZA.FPU3 BZA...U3 -1.000000   BFP.VOU3 1.000000
+    BZA.FPU3 BFP.WTU3 0.898310   XSU.FPU3 0.141510
+    BZA.FPU3 XVI.FPU3 1.053000   NVI.FPU3 1.053000
+    B1A.FPU3 B1A...U3 -1.000000   BFP.VOU3 1.000000
+    B1A.FPU3 BFP.WTU3 0.932600   XSU.FPU3 0.792710
+    B1A.FPU3 XVI.FPU3 1.118000   NVI.FPU3 1.118000
+    B1G.FPU3 B1G...U3 -1.000000   BFP.VOU3 1.000000
+    B1G.FPU3 BFP.WTU3 0.953100   XSU.FPU3 0.695760
+    B1G.FPU3 XVI.FPU3 1.200000   NVI.FPU3 1.200000
+    B1H.FPU3 B1H...U3 -1.000000   BFP.VOU3 1.000000
+    B1H.FPU3 BFP.WTU3 0.949200   XSU.FPU3 1.195990
+    B1H.FPU3 XVI.FPU3 1.244000   NVI.FPU3 1.244000
+    B1I.FPU3 B1I...U3 -1.000000   BFP.VOU3 1.000000
+    B1I.FPU3 BFP.WTU3 0.939400   XSU.FPU3 0.666970
+    B1I.FPU3 XVI.FPU3 1.139000   NVI.FPU3 1.139000
+    B1K.FPU3 B1K...U3 -1.000000   BFP.VOU3 1.000000
+    B1K.FPU3 BFP.WTU3 0.940000   XSU.FPU3 1.081000
+    B1K.FPU3 XVI.FPU3 1.138000   NVI.FPU3 1.138000
+    B1S.FPU3 B1S...U3 -1.000000   BFP.VOU3 1.000000
+    B1S.FPU3 BFP.WTU3 1.004210   XSU.FPU3 1.298100
+    B1S.FPU3 XVI.FPU3 1.395000   NVI.FPU3 1.395000
+    B1W.FPU3 B1W...U3 -1.000000   BFP.VOU3 1.000000
+    B1W.FPU3 BFP.WTU3 0.937200   XSU.FPU3 1.124640
+    B1W.FPU3 XVI.FPU3 1.174000   NVI.FPU3 1.174000
+    B2A.FPU3 B2A...U3 -1.000000   BFP.VOU3 1.000000
+    B2A.FPU3 BFP.WTU3 0.921400   XSU.FPU3 0.313280
+    B2A.FPU3 XVI.FPU3 1.078000   NVI.FPU3 1.078000
+    B2G.FPU3 B2G...U3 -1.000000   BFP.VOU3 1.000000
+    B2G.FPU3 BFP.WTU3 0.942200   XSU.FPU3 0.282660
+    B2G.FPU3 XVI.FPU3 1.152000   NVI.FPU3 1.152000
+    B2H.FPU3 B2H...U3 -1.000000   BFP.VOU3 1.000000
+    B2H.FPU3 BFP.WTU3 0.933600   XSU.FPU3 0.494810
+    B2H.FPU3 XVI.FPU3 1.188000   NVI.FPU3 1.188000
+    B2I.FPU3 B2I...U3 -1.000000   BFP.VOU3 1.000000
+    B2I.FPU3 BFP.WTU3 0.929300   XSU.FPU3 0.269500
+    B2I.FPU3 XVI.FPU3 1.090000   NVI.FPU3 1.090000
+    B2K.FPU3 B2K...U3 -1.000000   BFP.VOU3 1.000000
+    B2K.FPU3 BFP.WTU3 0.926600   XSU.FPU3 0.435500
+    B2K.FPU3 XVI.FPU3 1.092000   NVI.FPU3 1.092000
+    B2W.FPU3 B2W...U3 -1.000000   BFP.VOU3 1.000000
+    B2W.FPU3 BFP.WTU3 0.922600   XSU.FPU3 0.461300
+    B2W.FPU3 XVI.FPU3 1.122000   NVI.FPU3 1.122000
+    B50.FPU3 B50...U3 -1.000000   BFP.VOU3 1.000000
+    B50.FPU3 BFP.WTU3 1.020200   XSU.FPU3 2.350430
+    B50.FPU3 XVI.FPU3 1.435000   NVI.FPU3 1.435000
+    B6A.FPU3 B6A...U3 -1.000000   BFP.VOU3 1.000000
+    B6A.FPU3 BFP.WTU3 1.108000   XSU.FPU3 0.675880
+    B6A.FPU3 XVI.FPU3 1.113000   NVI.FPU3 1.113000
+    B6B.FPU3 B6B...U3 -1.000000   BFP.VOU3 1.000000
+    B6B.FPU3 BFP.WTU3 1.071000   XSU.FPU3 0.364140
+    B6B.FPU3 XVI.FPU3 1.116000   NVI.FPU3 1.116000
+    B6H.FPU3 B6H...U3 -1.000000   BFP.VOU3 1.000000
+    B6H.FPU3 BFP.WTU3 1.108000   XSU.FPU3 0.565080
+    B6H.FPU3 XVI.FPU3 1.113000   NVI.FPU3 1.113000
+    B6J.FPU3 B6J...U3 -1.000000   BFP.VOU3 1.000000
+    B6J.FPU3 BFP.WTU3 1.095700   XSU.FPU3 0.317750
+    B6J.FPU3 XVI.FPU3 1.114000   NVI.FPU3 1.114000
+    B6W.FPU3 B6W...U3 -1.000000   BFP.VOU3 1.000000
+    B6W.FPU3 BFP.WTU3 1.108000   XSU.FPU3 0.709120
+    B6W.FPU3 XVI.FPU3 1.113000   NVI.FPU3 1.113000
+    B8L.FPU3 B8L...U3 -1.000000   BFP.VOU3 1.000000
+    B8L.FPU3 BFP.WTU3 1.108000   XSU.FPU3 0.221600
+    B8L.FPU3 XVI.FPU3 1.113000   NVI.FPU3 1.113000
+    B9B.FPU3 B9B...U3 -1.000000   BFP.VOU3 1.000000
+    B9B.FPU3 BFP.WTU3 1.078500   XSU.FPU3 0.323550
+    B9B.FPU3 XVI.FPU3 1.172000   NVI.FPU3 1.172000
+    B9D.FPU3 B9D...U3 -1.000000   BFP.VOU3 1.000000
+    B9D.FPU3 BFP.WTU3 1.038900   XSU.FPU3 0.311670
+    B9D.FPU3 XVI.FPU3 1.132000   NVI.FPU3 1.132000
+    B9E.FPU3 B9E...U3 -1.000000   BFP.VOU3 1.000000
+    B9E.FPU3 BFP.WTU3 0.997900   XSU.FPU3 0.299370
+    B9E.FPU3 XVI.FPU3 1.123000   NVI.FPU3 1.123000
+    B9P.FPU3 B9P...U3 -1.000000   BFP.VOU3 1.000000
+    B9P.FPU3 BFP.WTU3 1.178800   XSU.FPU3 0.353640
+    B9P.FPU3 XVI.FPU3 1.063000   NVI.FPU3 1.063000
+    B9R.FPU3 B9R...U3 -1.000000   BFP.VOU3 1.000000
+    B9R.FPU3 BFP.WTU3 1.152800   XSU.FPU3 0.345840
+    B9R.FPU3 XVI.FPU3 1.078000   NVI.FPU3 1.078000
+    B9S.FPU3 B9S...U3 -1.000000   BFP.VOU3 1.000000
+    B9S.FPU3 BFP.WTU3 1.116500   XSU.FPU3 0.334950
+    B9S.FPU3 XVI.FPU3 1.073000   NVI.FPU3 1.073000
+    B9V.FPU3 B9V...U3 -1.000000   BFP.VOU3 1.000000
+    B9V.FPU3 BFP.WTU3 0.847300   XSU.FPU3 0.021180
+    B9V.FPU3 XVI.FPU3 0.978000   NVI.FPU3 0.978000
+    BAC.FSU3 BAC...U3 -1.000000   BFS.VOU3 1.000000
+    BAC.FSU3 BFS.WTU3 0.954030   XSU.FSU3 0.238740
+    BAC.FSU3 XVI.FSU3 1.342000   NVI.FSU3 1.342000
+    BAG.FSU3 BAG...U3 -1.000000   BFS.VOU3 1.000000
+    BAG.FSU3 BFS.WTU3 0.845940   XSU.FSU3 0.015950
+    BAG.FSU3 XVI.FSU3 0.983000   NVI.FSU3 0.983000
+    BAH.FSU3 BAH...U3 -1.000000   BFS.VOU3 1.000000
+    BAH.FSU3 BFS.WTU3 0.981340   XSU.FSU3 4.265880
+    BAH.FSU3 XVI.FSU3 1.213000   NVI.FSU3 1.213000
+    BAL.FSU3 BAL...U3 -1.000000   BFS.VOU3 1.000000
+    BAL.FSU3 BFS.WTU3 0.951140   XSU.FSU3 2.945650
+    BAL.FSU3 XVI.FSU3 1.114000   NVI.FSU3 1.114000
+    BAM.FSU3 BAM...U3 -1.000000   BFS.VOU3 1.000000
+    BAM.FSU3 BFS.WTU3 0.965360   XSU.FSU3 3.762470
+    BAM.FSU3 XVI.FSU3 1.142000   NVI.FSU3 1.142000
+    BAP.FSU3 BAP...U3 -1.000000   BFS.VOU3 1.000000
+    BAP.FSU3 BFS.WTU3 0.886270   XSU.FSU3 0.030780
+    BAP.FSU3 XVI.FSU3 1.215000   NVI.FSU3 1.215000
+    BAS.FSU3 BAS...U3 -1.000000   BFS.VOU3 1.000000
+    BAS.FSU3 BFS.WTU3 0.995250   XSU.FSU3 0.498860
+    BAS.FSU3 XVI.FSU3 1.435000   NVI.FSU3 1.435000
+    BAW.FSU3 BAW...U3 -1.000000   BFS.VOU3 1.000000
+    BAW.FSU3 BFS.WTU3 0.902180   XSU.FSU3 0.296020
+    BAW.FSU3 XVI.FSU3 1.045000   NVI.FSU3 1.045000
+    BAX.FSU3 BAX...U3 -1.000000   BFS.VOU3 1.000000
+    BAX.FSU3 BFS.WTU3 0.923870   XSU.FSU3 1.927230
+    BAX.FSU3 XVI.FSU3 1.055000   NVI.FSU3 1.055000
+    BA5.FSU3 BA5...U3 -1.000000   BFS.VOU3 1.000000
+    BA5.FSU3 BFS.WTU3 0.957290   XSU.FSU3 1.543860
+    BA5.FSU3 XVI.FSU3 1.158000   NVI.FSU3 1.158000
+    BBG.FSU3 BBG...U3 -1.000000   BFS.VOU3 1.000000
+    BBG.FSU3 BFS.WTU3 0.918600   XSU.FSU3 0.183720
+    BBG.FSU3 XVI.FSU3 1.034000   NVI.FSU3 1.034000
+    BBI.FSU3 BBI...U3 -1.000000   BFS.VOU3 1.000000
+    BBI.FSU3 BFS.WTU3 0.889000   XSU.FSU3 0.177800
+    BBI.FSU3 XVI.FSU3 0.965000   NVI.FSU3 0.965000
+    BBO.FSU3 BBO...U3 -1.000000   BFS.VOU3 1.000000
+    BBO.FSU3 BFS.WTU3 0.820000   XSU.FSU3 0.246000
+    BBO.FSU3 XVI.FSU3 0.720000   NVI.FSU3 0.720000
+    BBP.FSU3 BBP...U3 -1.000000   BFS.VOU3 1.000000
+    BBP.FSU3 BFS.WTU3 0.820000   XSU.FSU3 1.230000
+    BBP.FSU3 XVI.FSU3 0.720000   NVI.FSU3 0.720000
+    BBW.FSU3 BBW...U3 -1.000000   BFS.VOU3 1.000000
+    BBW.FSU3 BFS.WTU3 0.870000   XSU.FSU3 0.435000
+    BBW.FSU3 XVI.FSU3 0.870000   NVI.FSU3 0.870000
+    BBY.FSU3 BBY...U3 -1.000000   BFS.VOU3 1.000000
+    BBY.FSU3 BFS.WTU3 0.870000   XSU.FSU3 1.305000
+    BBY.FSU3 XVI.FSU3 0.870000   NVI.FSU3 0.870000
+    BCA.FSU3 BCA...U3 -1.000000   BFS.VOU3 1.000000
+    BCA.FSU3 BFS.WTU3 0.911500   XSU.FSU3 0.155200
+    BCA.FSU3 XVI.FSU3 1.116000   NVI.FSU3 1.116000
+    BES.FSU3 BES...U3 -1.000000   BFS.VOU3 1.000000
+    BES.FSU3 BFS.WTU3 0.924250   XSU.FSU3 0.646940
+    BES.FSU3 XVI.FSU3 1.090000   NVI.FSU3 1.090000
+    BF2.FSU3 BF2...U3 -1.000000   BFS.VOU3 1.000000
+    BF2.FSU3 BFS.WTU3 0.950000   XSU.FSU3 1.786000
+    BF2.FSU3 XVI.FSU3 1.152000   NVI.FSU3 1.152000
+    BHA.FSU3 BHA...U3 -1.000000   BFS.VOU3 1.000000
+    BHA.FSU3 BFS.WTU3 1.051520   XSU.FSU3 6.325920
+    BHA.FSU3 XVI.FSU3 1.460000   NVI.FSU3 1.460000
+    BHI.FSU3 BHI...U3 -1.000000   BFS.VOU3 1.000000
+    BHI.FSU3 BFS.WTU3 1.035270   XSU.FSU3 3.560070
+    BHI.FSU3 XVI.FSU3 1.460000   NVI.FSU3 1.460000
+    BHV.FSU3 BHV...U3 -1.000000   BFS.VOU3 1.000000
+    BHV.FSU3 BFS.WTU3 1.054570   XSU.FSU3 3.887300
+    BHV.FSU3 XVI.FSU3 1.460000   NVI.FSU3 1.460000
+    BHY.FSU3 BHY...U3 -1.000000   BFS.VOU3 1.000000
+    BHY.FSU3 BFS.WTU3 0.955630   XSU.FSU3 0.319650
+    BHY.FSU3 XVI.FSU3 1.129000   NVI.FSU3 1.129000
+    BIH.FSU3 BIH...U3 -1.000000   BFS.VOU3 1.000000
+    BIH.FSU3 BFS.WTU3 0.965550   XSU.FSU3 2.408160
+    BIH.FSU3 XVI.FSU3 1.180000   NVI.FSU3 1.180000
+    BIL.FSU3 BIL...U3 -1.000000   BFS.VOU3 1.000000
+    BIL.FSU3 BFS.WTU3 0.947960   XSU.FSU3 2.287400
+    BIL.FSU3 XVI.FSU3 1.120000   NVI.FSU3 1.120000
+    BIS.FSU3 BIS...U3 -1.000000   BFS.VOU3 1.000000
+    BIS.FSU3 BFS.WTU3 0.955820   XSU.FSU3 2.565470
+    BIS.FSU3 XVI.FSU3 1.127000   NVI.FSU3 1.127000
+    BJL.FSU3 BJL...U3 -1.000000   BFS.VOU3 1.000000
+    BJL.FSU3 BFS.WTU3 0.949360   XSU.FSU3 1.831570
+    BJL.FSU3 XVI.FSU3 1.151000   NVI.FSU3 1.151000
+    BKU.FSU3 BKU...U3 -1.000000   BFS.VOU3 1.000000
+    BKU.FSU3 BFS.WTU3 0.966410   XSU.FSU3 3.973220
+    BKU.FSU3 XVI.FSU3 1.163000   NVI.FSU3 1.163000
+    BLA.FSU3 BLA...U3 -1.000000   BFS.VOU3 1.000000
+    BLA.FSU3 BFS.WTU3 1.021730   XSU.FSU3 4.444390
+    BLA.FSU3 XVI.FSU3 1.381000   NVI.FSU3 1.381000
+    BLB.FSU3 BLB...U3 -1.000000   BFS.VOU3 1.000000
+    BLB.FSU3 BFS.WTU3 0.911690   XSU.FSU3 0.370120
+    BLB.FSU3 XVI.FSU3 1.063000   NVI.FSU3 1.063000
+    BLI.FSU3 BLI...U3 -1.000000   BFS.VOU3 1.000000
+    BLI.FSU3 BFS.WTU3 1.028430   XSU.FSU3 3.784260
+    BLI.FSU3 XVI.FSU3 1.434000   NVI.FSU3 1.434000
+    BLJ.FSU3 BLJ...U3 -1.000000   BFS.VOU3 1.000000
+    BLJ.FSU3 BFS.WTU3 1.013610   XSU.FSU3 2.784670
+    BLJ.FSU3 XVI.FSU3 1.430000   NVI.FSU3 1.430000
+    BLS.FSU3 BLS...U3 -1.000000   BFS.VOU3 1.000000
+    BLS.FSU3 BFS.WTU3 0.912290   XSU.FSU3 0.296090
+    BLS.FSU3 XVI.FSU3 1.102000   NVI.FSU3 1.102000
+    BLT.FSU3 BLT...U3 -1.000000   BFS.VOU3 1.000000
+    BLT.FSU3 BFS.WTU3 0.921090   XSU.FSU3 0.235530
+    BLT.FSU3 XVI.FSU3 1.056000   NVI.FSU3 1.056000
+    BMA.FSU3 BMA...U3 -1.000000   BFS.VOU3 1.000000
+    BMA.FSU3 BFS.WTU3 1.036740   XSU.FSU3 5.561150
+    BMA.FSU3 XVI.FSU3 1.405000   NVI.FSU3 1.405000
+    BMD.FSU3 BMD...U3 -1.000000   BFS.VOU3 1.000000
+    BMD.FSU3 BFS.WTU3 0.948040   XSU.FSU3 0.342320
+    BMD.FSU3 XVI.FSU3 1.109000   NVI.FSU3 1.109000
+    BMF.FSU3 BMF...U3 -1.000000   BFS.VOU3 1.000000
+    BMF.FSU3 BFS.WTU3 1.017900   XSU.FSU3 0.796850
+    BMF.FSU3 XVI.FSU3 1.415000   NVI.FSU3 1.415000
+    BMT.FSU3 BMT...U3 -1.000000   BFS.VOU3 1.000000
+    BMT.FSU3 BFS.WTU3 1.039070   XSU.FSU3 3.268510
+    BMT.FSU3 XVI.FSU3 1.460000   NVI.FSU3 1.460000
+    BMU.FSU3 BMU...U3 -1.000000   BFS.VOU3 1.000000
+    BMU.FSU3 BFS.WTU3 0.917020   XSU.FSU3 1.561400
+    BMU.FSU3 XVI.FSU3 1.042000   NVI.FSU3 1.042000
+    BON.FSU3 BON...U3 -1.000000   BFS.VOU3 1.000000
+    BON.FSU3 BFS.WTU3 0.953460   XSU.FSU3 1.417210
+    BON.FSU3 XVI.FSU3 1.166000   NVI.FSU3 1.166000
+    BQA.FSU3 BQA...U3 -1.000000   BFS.VOU3 1.000000
+    BQA.FSU3 BFS.WTU3 0.997000   XSU.FSU3 4.147520
+    BQA.FSU3 XVI.FSU3 1.175000   NVI.FSU3 1.175000
+    BQB.FSU3 BQB...U3 -1.000000   BFS.VOU3 1.000000
+    BQB.FSU3 BFS.WTU3 1.014000   XSU.FSU3 3.315780
+    BQB.FSU3 XVI.FSU3 1.175000   NVI.FSU3 1.175000
+    BQH.FSU3 BQH...U3 -1.000000   BFS.VOU3 1.000000
+    BQH.FSU3 BFS.WTU3 1.014000   XSU.FSU3 5.536440
+    BQH.FSU3 XVI.FSU3 1.175000   NVI.FSU3 1.175000
+    BQJ.FSU3 BQJ...U3 -1.000000   BFS.VOU3 1.000000
+    BQJ.FSU3 BFS.WTU3 1.029000   XSU.FSU3 3.920490
+    BQJ.FSU3 XVI.FSU3 1.175000   NVI.FSU3 1.175000
+    BQM.FSU3 BQM...U3 -1.000000   BFS.VOU3 1.000000
+    BQM.FSU3 BFS.WTU3 0.997000   XSU.FSU3 4.147520
+    BQM.FSU3 XVI.FSU3 1.175000   NVI.FSU3 1.175000
+    BQS.FSU3 BQS...U3 -1.000000   BFS.VOU3 1.000000
+    BQS.FSU3 BFS.WTU3 0.997000   XSU.FSU3 0.319040
+    BQS.FSU3 XVI.FSU3 1.175000   NVI.FSU3 1.175000
+    BQW.FSU3 BQW...U3 -1.000000   BFS.VOU3 1.000000
+    BQW.FSU3 BFS.WTU3 1.007000   XSU.FSU3 5.810390
+    BQW.FSU3 XVI.FSU3 1.175000   NVI.FSU3 1.175000
+    BQ2.FSU3 BQ2...U3 -1.000000   BFS.VOU3 1.000000
+    BQ2.FSU3 BFS.WTU3 0.997000   XSU.FSU3 2.761690
+    BQ2.FSU3 XVI.FSU3 1.175000   NVI.FSU3 1.175000
+    BRB.FSU3 BRB...U3 -1.000000   BFS.VOU3 1.000000
+    BRB.FSU3 BFS.WTU3 0.983160   XSU.FSU3 0.680810
+    BRB.FSU3 XVI.FSU3 1.339000   NVI.FSU3 1.339000
+    BRT.FSU3 BRT...U3 -1.000000   BFS.VOU3 1.000000
+    BRT.FSU3 BFS.WTU3 1.046090   XSU.FSU3 2.030480
+    BRT.FSU3 XVI.FSU3 1.430000   NVI.FSU3 1.430000
+    BSA.FSU3 BSA...U3 -1.000000   BFS.VOU3 1.000000
+    BSA.FSU3 BFS.WTU3 0.963200   XSU.FSU3 0.597180
+    BSA.FSU3 XVI.FSU3 1.145000   NVI.FSU3 1.145000
+    BSB.FSU3 BSB...U3 -1.000000   BFS.VOU3 1.000000
+    BSB.FSU3 BFS.WTU3 0.993000   XSU.FSU3 0.566010
+    BSB.FSU3 XVI.FSU3 1.145000   NVI.FSU3 1.145000
+    BSE.FSU3 BSE...U3 -1.000000   BFS.VOU3 1.000000
+    BSE.FSU3 BFS.WTU3 1.004360   XSU.FSU3 1.209020
+    BSE.FSU3 XVI.FSU3 1.382000   NVI.FSU3 1.382000
+    BSH.FSU3 BSH...U3 -1.000000   BFS.VOU3 1.000000
+    BSH.FSU3 BFS.WTU3 0.979200   XSU.FSU3 0.802940
+    BSH.FSU3 XVI.FSU3 1.145000   NVI.FSU3 1.145000
+    BSJ.FSU3 BSJ...U3 -1.000000   BFS.VOU3 1.000000
+    BSJ.FSU3 BFS.WTU3 0.979200   XSU.FSU3 0.479810
+    BSJ.FSU3 XVI.FSU3 1.145000   NVI.FSU3 1.145000
+    BSM.FSU3 BSM...U3 -1.000000   BFS.VOU3 1.000000
+    BSM.FSU3 BFS.WTU3 0.963200   XSU.FSU3 0.597180
+    BSM.FSU3 XVI.FSU3 1.145000   NVI.FSU3 1.145000
+    BSW.FSU3 BSW...U3 -1.000000   BFS.VOU3 1.000000
+    BSW.FSU3 BFS.WTU3 0.972500   XSU.FSU3 0.836350
+    BSW.FSU3 XVI.FSU3 1.145000   NVI.FSU3 1.145000
+    BSY.FSU3 BSY...U3 -1.000000   BFS.VOU3 1.000000
+    BSY.FSU3 BFS.WTU3 0.973800   XSU.FSU3 0.438210
+    BSY.FSU3 XVI.FSU3 1.385000   NVI.FSU3 1.385000
+    BS1.FSU3 BS1...U3 -1.000000   BFS.VOU3 1.000000
+    BS1.FSU3 BFS.WTU3 0.928280   XSU.FSU3 0.649560
+    BS1.FSU3 XVI.FSU3 1.088000   NVI.FSU3 1.088000
+    BS2.FSU3 BS2...U3 -1.000000   BFS.VOU3 1.000000
+    BS2.FSU3 BFS.WTU3 0.963200   XSU.FSU3 0.394910
+    BS2.FSU3 XVI.FSU3 1.145000   NVI.FSU3 1.145000
+    BTH.FSU3 BTH...U3 -1.000000   BFS.VOU3 1.000000
+    BTH.FSU3 BFS.WTU3 1.029930   XSU.FSU3 4.131340
+    BTH.FSU3 XVI.FSU3 1.427000   NVI.FSU3 1.427000
+    BTL.FSU3 BTL...U3 -1.000000   BFS.VOU3 1.000000
+    BTL.FSU3 BFS.WTU3 1.023110   XSU.FSU3 0.553770
+    BTL.FSU3 XVI.FSU3 1.388000   NVI.FSU3 1.388000
+    BTM.FSU3 BTM...U3 -1.000000   BFS.VOU3 1.000000
+    BTM.FSU3 BFS.WTU3 0.976340   XSU.FSU3 2.329660
+    BTM.FSU3 XVI.FSU3 1.220000   NVI.FSU3 1.220000
+    BUK.FSU3 BUK...U3 -1.000000   BFS.VOU3 1.000000
+    BUK.FSU3 BFS.WTU3 1.037550   XSU.FSU3 5.791860
+    BUK.FSU3 XVI.FSU3 1.440000   NVI.FSU3 1.440000
+    BUM.FSU3 BUM...U3 -1.000000   BFS.VOU3 1.000000
+    BUM.FSU3 BFS.WTU3 0.989990   XSU.FSU3 2.897960
+    BUM.FSU3 XVI.FSU3 1.344000   NVI.FSU3 1.344000
+    BVH.FSU3 BVH...U3 -1.000000   BFS.VOU3 1.000000
+    BVH.FSU3 BFS.WTU3 1.000220   XSU.FSU3 3.008870
+    BVH.FSU3 XVI.FSU3 1.263000   NVI.FSU3 1.263000
+    BVY.FSU3 BVY...U3 -1.000000   BFS.VOU3 1.000000
+    BVY.FSU3 BFS.WTU3 1.015800   XSU.FSU3 1.117380
+    BVY.FSU3 XVI.FSU3 1.385000   NVI.FSU3 1.385000
+    BWA.FSU3 BWA...U3 -1.000000   BFS.VOU3 1.000000
+    BWA.FSU3 BFS.WTU3 0.969370   XSU.FSU3 0.602190
+    BWA.FSU3 XVI.FSU3 1.340000   NVI.FSU3 1.340000
+    BWT.FSU3 BWT...U3 -1.000000   BFS.VOU3 1.000000
+    BWT.FSU3 BFS.WTU3 1.017990   XSU.FSU3 3.183470
+    BWT.FSU3 XVI.FSU3 1.418000   NVI.FSU3 1.418000
+    BW3.FSU3 BW3...U3 -1.000000   BFS.VOU3 1.000000
+    BW3.FSU3 BFS.WTU3 0.948920   XSU.FSU3 2.021600
+    BW3.FSU3 XVI.FSU3 1.123000   NVI.FSU3 1.123000
+    BXA.FSU3 BXA...U3 -1.000000   BFS.VOU3 1.000000
+    BXA.FSU3 BFS.WTU3 0.991990   XSU.FSU3 2.861130
+    BXA.FSU3 XVI.FSU3 1.300000   NVI.FSU3 1.300000
+    BYC.FSU3 BYC...U3 -1.000000   BFS.VOU3 1.000000
+    BYC.FSU3 BFS.WTU3 1.119000   XSU.FSU3 0.055950
+    BYC.FSU3 XVI.FSU3 1.113000   NVI.FSU3 1.113000
+    BYH.FSU3 BYH...U3 -1.000000   BFS.VOU3 1.000000
+    BYH.FSU3 BFS.WTU3 1.023810   XSU.FSU3 0.666860
+    BYH.FSU3 XVI.FSU3 1.455000   NVI.FSU3 1.455000
+    BYS.FSU3 BYS...U3 -1.000000   BFS.VOU3 1.000000
+    BYS.FSU3 BFS.WTU3 0.892000   XSU.FSU3 0.062440
+    BYS.FSU3 XVI.FSU3 1.012000   NVI.FSU3 1.012000
+    BYV.FSU3 BYV...U3 -1.000000   BFS.VOU3 1.000000
+    BYV.FSU3 BFS.WTU3 0.969800   XSU.FSU3 0.649770
+    BYV.FSU3 XVI.FSU3 1.168000   NVI.FSU3 1.168000
+    BZA.FSU3 BZA...U3 -1.000000   BFS.VOU3 1.000000
+    BZA.FSU3 BFS.WTU3 0.898310   XSU.FSU3 0.141510
+    BZA.FSU3 XVI.FSU3 1.053000   NVI.FSU3 1.053000
+    B1A.FSU3 B1A...U3 -1.000000   BFS.VOU3 1.000000
+    B1A.FSU3 BFS.WTU3 0.932600   XSU.FSU3 0.792710
+    B1A.FSU3 XVI.FSU3 1.118000   NVI.FSU3 1.118000
+    B1G.FSU3 B1G...U3 -1.000000   BFS.VOU3 1.000000
+    B1G.FSU3 BFS.WTU3 0.953100   XSU.FSU3 0.695760
+    B1G.FSU3 XVI.FSU3 1.200000   NVI.FSU3 1.200000
+    B1H.FSU3 B1H...U3 -1.000000   BFS.VOU3 1.000000
+    B1H.FSU3 BFS.WTU3 0.949200   XSU.FSU3 1.195990
+    B1H.FSU3 XVI.FSU3 1.244000   NVI.FSU3 1.244000
+    B1I.FSU3 B1I...U3 -1.000000   BFS.VOU3 1.000000
+    B1I.FSU3 BFS.WTU3 0.939400   XSU.FSU3 0.666970
+    B1I.FSU3 XVI.FSU3 1.139000   NVI.FSU3 1.139000
+    B1K.FSU3 B1K...U3 -1.000000   BFS.VOU3 1.000000
+    B1K.FSU3 BFS.WTU3 0.940000   XSU.FSU3 1.081000
+    B1K.FSU3 XVI.FSU3 1.138000   NVI.FSU3 1.138000
+    B1S.FSU3 B1S...U3 -1.000000   BFS.VOU3 1.000000
+    B1S.FSU3 BFS.WTU3 1.004210   XSU.FSU3 1.298100
+    B1S.FSU3 XVI.FSU3 1.395000   NVI.FSU3 1.395000
+    B1W.FSU3 B1W...U3 -1.000000   BFS.VOU3 1.000000
+    B1W.FSU3 BFS.WTU3 0.937200   XSU.FSU3 1.124640
+    B1W.FSU3 XVI.FSU3 1.174000   NVI.FSU3 1.174000
+    B2A.FSU3 B2A...U3 -1.000000   BFS.VOU3 1.000000
+    B2A.FSU3 BFS.WTU3 0.921400   XSU.FSU3 0.313280
+    B2A.FSU3 XVI.FSU3 1.078000   NVI.FSU3 1.078000
+    B2G.FSU3 B2G...U3 -1.000000   BFS.VOU3 1.000000
+    B2G.FSU3 BFS.WTU3 0.942200   XSU.FSU3 0.282660
+    B2G.FSU3 XVI.FSU3 1.152000   NVI.FSU3 1.152000
+    B2H.FSU3 B2H...U3 -1.000000   BFS.VOU3 1.000000
+    B2H.FSU3 BFS.WTU3 0.933600   XSU.FSU3 0.494810
+    B2H.FSU3 XVI.FSU3 1.188000   NVI.FSU3 1.188000
+    B2I.FSU3 B2I...U3 -1.000000   BFS.VOU3 1.000000
+    B2I.FSU3 BFS.WTU3 0.929300   XSU.FSU3 0.269500
+    B2I.FSU3 XVI.FSU3 1.090000   NVI.FSU3 1.090000
+    B2K.FSU3 B2K...U3 -1.000000   BFS.VOU3 1.000000
+    B2K.FSU3 BFS.WTU3 0.926600   XSU.FSU3 0.435500
+    B2K.FSU3 XVI.FSU3 1.092000   NVI.FSU3 1.092000
+    B2W.FSU3 B2W...U3 -1.000000   BFS.VOU3 1.000000
+    B2W.FSU3 BFS.WTU3 0.922600   XSU.FSU3 0.461300
+    B2W.FSU3 XVI.FSU3 1.122000   NVI.FSU3 1.122000
+    B50.FSU3 B50...U3 -1.000000   BFS.VOU3 1.000000
+    B50.FSU3 BFS.WTU3 1.020200   XSU.FSU3 2.350430
+    B50.FSU3 XVI.FSU3 1.435000   NVI.FSU3 1.435000
+    B6A.FSU3 B6A...U3 -1.000000   BFS.VOU3 1.000000
+    B6A.FSU3 BFS.WTU3 1.108000   XSU.FSU3 0.675880
+    B6A.FSU3 XVI.FSU3 1.113000   NVI.FSU3 1.113000
+    B6B.FSU3 B6B...U3 -1.000000   BFS.VOU3 1.000000
+    B6B.FSU3 BFS.WTU3 1.071000   XSU.FSU3 0.364140
+    B6B.FSU3 XVI.FSU3 1.116000   NVI.FSU3 1.116000
+    B6H.FSU3 B6H...U3 -1.000000   BFS.VOU3 1.000000
+    B6H.FSU3 BFS.WTU3 1.108000   XSU.FSU3 0.565080
+    B6H.FSU3 XVI.FSU3 1.113000   NVI.FSU3 1.113000
+    B6J.FSU3 B6J...U3 -1.000000   BFS.VOU3 1.000000
+    B6J.FSU3 BFS.WTU3 1.095700   XSU.FSU3 0.317750
+    B6J.FSU3 XVI.FSU3 1.114000   NVI.FSU3 1.114000
+    B6W.FSU3 B6W...U3 -1.000000   BFS.VOU3 1.000000
+    B6W.FSU3 BFS.WTU3 1.108000   XSU.FSU3 0.709120
+    B6W.FSU3 XVI.FSU3 1.113000   NVI.FSU3 1.113000
+    B8A.FSU3 B8A...U3 -1.000000   BFS.VOU3 1.000000
+    B8A.FSU3 BFS.WTU3 1.107000   XSU.FSU3 7.859700
+    B8A.FSU3 XVI.FSU3 1.113000   NVI.FSU3 1.113000
+    B8B.FSU3 B8B...U3 -1.000000   BFS.VOU3 1.000000
+    B8B.FSU3 BFS.WTU3 1.107000   XSU.FSU3 4.317300
+    B8B.FSU3 XVI.FSU3 1.116000   NVI.FSU3 1.116000
+    B8H.FSU3 B8H...U3 -1.000000   BFS.VOU3 1.000000
+    B8H.FSU3 BFS.WTU3 1.107000   XSU.FSU3 6.475950
+    B8H.FSU3 XVI.FSU3 1.113000   NVI.FSU3 1.113000
+    B8J.FSU3 B8J...U3 -1.000000   BFS.VOU3 1.000000
+    B8J.FSU3 BFS.WTU3 1.107000   XSU.FSU3 3.708450
+    B8J.FSU3 XVI.FSU3 1.114000   NVI.FSU3 1.114000
+    B8L.FSU3 B8L...U3 -1.000000   BFS.VOU3 1.000000
+    B8L.FSU3 BFS.WTU3 1.108000   XSU.FSU3 0.221600
+    B8L.FSU3 XVI.FSU3 1.113000   NVI.FSU3 1.113000
+    B8M.FSU3 B8M...U3 -1.000000   BFS.VOU3 1.000000
+    B8M.FSU3 BFS.WTU3 1.108000   XSU.FSU3 0.565080
+    B8M.FSU3 XVI.FSU3 1.113000   NVI.FSU3 1.113000
+    B8W.FSU3 B8W...U3 -1.000000   BFS.VOU3 1.000000
+    B8W.FSU3 BFS.WTU3 1.107000   XSU.FSU3 8.202870
+    B8W.FSU3 XVI.FSU3 1.113000   NVI.FSU3 1.113000
+    B82.FSU3 B82...U3 -1.000000   BFS.VOU3 1.000000
+    B82.FSU3 BFS.WTU3 1.108000   XSU.FSU3 0.299160
+    B82.FSU3 XVI.FSU3 1.113000   NVI.FSU3 1.113000
+    B9A.FSU3 B9A...U3 -1.000000   BFS.VOU3 1.000000
+    B9A.FSU3 BFS.WTU3 1.078500   XSU.FSU3 3.882600
+    B9A.FSU3 XVI.FSU3 1.172000   NVI.FSU3 1.172000
+    B9B.FSU3 B9B...U3 -1.000000   BFS.VOU3 1.000000
+    B9B.FSU3 BFS.WTU3 1.078500   XSU.FSU3 0.323550
+    B9B.FSU3 XVI.FSU3 1.172000   NVI.FSU3 1.172000
+    B9C.FSU3 B9C...U3 -1.000000   BFS.VOU3 1.000000
+    B9C.FSU3 BFS.WTU3 1.038900   XSU.FSU3 3.740040
+    B9C.FSU3 XVI.FSU3 1.132000   NVI.FSU3 1.132000
+    B9D.FSU3 B9D...U3 -1.000000   BFS.VOU3 1.000000
+    B9D.FSU3 BFS.WTU3 1.038900   XSU.FSU3 0.311670
+    B9D.FSU3 XVI.FSU3 1.132000   NVI.FSU3 1.132000
+    B9E.FSU3 B9E...U3 -1.000000   BFS.VOU3 1.000000
+    B9E.FSU3 BFS.WTU3 0.997900   XSU.FSU3 0.299370
+    B9E.FSU3 XVI.FSU3 1.123000   NVI.FSU3 1.123000
+    B9O.FSU3 B9O...U3 -1.000000   BFS.VOU3 1.000000
+    B9O.FSU3 BFS.WTU3 1.178800   XSU.FSU3 4.243680
+    B9O.FSU3 XVI.FSU3 1.063000   NVI.FSU3 1.063000
+    B9P.FSU3 B9P...U3 -1.000000   BFS.VOU3 1.000000
+    B9P.FSU3 BFS.WTU3 1.178800   XSU.FSU3 0.353640
+    B9P.FSU3 XVI.FSU3 1.063000   NVI.FSU3 1.063000
+    B9Q.FSU3 B9Q...U3 -1.000000   BFS.VOU3 1.000000
+    B9Q.FSU3 BFS.WTU3 1.152800   XSU.FSU3 4.150080
+    B9Q.FSU3 XVI.FSU3 1.078000   NVI.FSU3 1.078000
+    B9R.FSU3 B9R...U3 -1.000000   BFS.VOU3 1.000000
+    B9R.FSU3 BFS.WTU3 1.152800   XSU.FSU3 0.345840
+    B9R.FSU3 XVI.FSU3 1.078000   NVI.FSU3 1.078000
+    B9S.FSU3 B9S...U3 -1.000000   BFS.VOU3 1.000000
+    B9S.FSU3 BFS.WTU3 1.116500   XSU.FSU3 0.334950
+    B9S.FSU3 XVI.FSU3 1.073000   NVI.FSU3 1.073000
+    B9V.FSU3 B9V...U3 -1.000000   BFS.VOU3 1.000000
+    B9V.FSU3 BFS.WTU3 0.847300   XSU.FSU3 0.021180
+    B9V.FSU3 XVI.FSU3 0.978000   NVI.FSU3 0.978000
+    BAH.FYU3 BAH...U3 -1.000000   BFY.VOU3 1.000000
+    BAH.FYU3 BFY.WTU3 0.981340   XSU.FYU3 4.265880
+    BAH.FYU3 XVI.FYU3 1.213000   NVI.FYU3 1.213000
+    BAL.FYU3 BAL...U3 -1.000000   BFY.VOU3 1.000000
+    BAL.FYU3 BFY.WTU3 0.951140   XSU.FYU3 2.945650
+    BAL.FYU3 XVI.FYU3 1.114000   NVI.FYU3 1.114000
+    BAM.FYU3 BAM...U3 -1.000000   BFY.VOU3 1.000000
+    BAM.FYU3 BFY.WTU3 0.965360   XSU.FYU3 3.762470
+    BAM.FYU3 XVI.FYU3 1.142000   NVI.FYU3 1.142000
+    BAX.FYU3 BAX...U3 -1.000000   BFY.VOU3 1.000000
+    BAX.FYU3 BFY.WTU3 0.923870   XSU.FYU3 1.927230
+    BAX.FYU3 XVI.FYU3 1.055000   NVI.FYU3 1.055000
+    BA5.FYU3 BA5...U3 -1.000000   BFY.VOU3 1.000000
+    BA5.FYU3 BFY.WTU3 0.957290   XSU.FYU3 1.543860
+    BA5.FYU3 XVI.FYU3 1.158000   NVI.FYU3 1.158000
+    BBO.FYU3 BBO...U3 -1.000000   BFY.VOU3 1.000000
+    BBO.FYU3 BFY.WTU3 0.820000   XSU.FYU3 0.246000
+    BBO.FYU3 XVI.FYU3 0.720000   NVI.FYU3 0.720000
+    BBP.FYU3 BBP...U3 -1.000000   BFY.VOU3 1.000000
+    BBP.FYU3 BFY.WTU3 0.820000   XSU.FYU3 1.230000
+    BBP.FYU3 XVI.FYU3 0.720000   NVI.FYU3 0.720000
+    BBW.FYU3 BBW...U3 -1.000000   BFY.VOU3 1.000000
+    BBW.FYU3 BFY.WTU3 0.870000   XSU.FYU3 0.435000
+    BBW.FYU3 XVI.FYU3 0.870000   NVI.FYU3 0.870000
+    BBY.FYU3 BBY...U3 -1.000000   BFY.VOU3 1.000000
+    BBY.FYU3 BFY.WTU3 0.870000   XSU.FYU3 1.305000
+    BBY.FYU3 XVI.FYU3 0.870000   NVI.FYU3 0.870000
+    BF2.FYU3 BF2...U3 -1.000000   BFY.VOU3 1.000000
+    BF2.FYU3 BFY.WTU3 0.950000   XSU.FYU3 1.786000
+    BF2.FYU3 XVI.FYU3 1.152000   NVI.FYU3 1.152000
+    BHA.FYU3 BHA...U3 -1.000000   BFY.VOU3 1.000000
+    BHA.FYU3 BFY.WTU3 1.051520   XSU.FYU3 6.325920
+    BHA.FYU3 XVI.FYU3 1.460000   NVI.FYU3 1.460000
+    BHI.FYU3 BHI...U3 -1.000000   BFY.VOU3 1.000000
+    BHI.FYU3 BFY.WTU3 1.035270   XSU.FYU3 3.560070
+    BHI.FYU3 XVI.FYU3 1.460000   NVI.FYU3 1.460000
+    BHV.FYU3 BHV...U3 -1.000000   BFY.VOU3 1.000000
+    BHV.FYU3 BFY.WTU3 1.054570   XSU.FYU3 3.887300
+    BHV.FYU3 XVI.FYU3 1.460000   NVI.FYU3 1.460000
+    BIH.FYU3 BIH...U3 -1.000000   BFY.VOU3 1.000000
+    BIH.FYU3 BFY.WTU3 0.965550   XSU.FYU3 2.408160
+    BIH.FYU3 XVI.FYU3 1.180000   NVI.FYU3 1.180000
+    BIL.FYU3 BIL...U3 -1.000000   BFY.VOU3 1.000000
+    BIL.FYU3 BFY.WTU3 0.947960   XSU.FYU3 2.287400
+    BIL.FYU3 XVI.FYU3 1.120000   NVI.FYU3 1.120000
+    BIS.FYU3 BIS...U3 -1.000000   BFY.VOU3 1.000000
+    BIS.FYU3 BFY.WTU3 0.955820   XSU.FYU3 2.565470
+    BIS.FYU3 XVI.FYU3 1.127000   NVI.FYU3 1.127000
+    BJL.FYU3 BJL...U3 -1.000000   BFY.VOU3 1.000000
+    BJL.FYU3 BFY.WTU3 0.949360   XSU.FYU3 1.831570
+    BJL.FYU3 XVI.FYU3 1.151000   NVI.FYU3 1.151000
+    BKU.FYU3 BKU...U3 -1.000000   BFY.VOU3 1.000000
+    BKU.FYU3 BFY.WTU3 0.966410   XSU.FYU3 3.973220
+    BKU.FYU3 XVI.FYU3 1.163000   NVI.FYU3 1.163000
+    BLA.FYU3 BLA...U3 -1.000000   BFY.VOU3 1.000000
+    BLA.FYU3 BFY.WTU3 1.021730   XSU.FYU3 4.444390
+    BLA.FYU3 XVI.FYU3 1.381000   NVI.FYU3 1.381000
+    BLI.FYU3 BLI...U3 -1.000000   BFY.VOU3 1.000000
+    BLI.FYU3 BFY.WTU3 1.028430   XSU.FYU3 3.784260
+    BLI.FYU3 XVI.FYU3 1.434000   NVI.FYU3 1.434000
+    BLJ.FYU3 BLJ...U3 -1.000000   BFY.VOU3 1.000000
+    BLJ.FYU3 BFY.WTU3 1.013610   XSU.FYU3 2.784670
+    BLJ.FYU3 XVI.FYU3 1.430000   NVI.FYU3 1.430000
+    BMA.FYU3 BMA...U3 -1.000000   BFY.VOU3 1.000000
+    BMA.FYU3 BFY.WTU3 1.036740   XSU.FYU3 5.561150
+    BMA.FYU3 XVI.FYU3 1.405000   NVI.FYU3 1.405000
+    BMT.FYU3 BMT...U3 -1.000000   BFY.VOU3 1.000000
+    BMT.FYU3 BFY.WTU3 1.039070   XSU.FYU3 3.268510
+    BMT.FYU3 XVI.FYU3 1.460000   NVI.FYU3 1.460000
+    BMU.FYU3 BMU...U3 -1.000000   BFY.VOU3 1.000000
+    BMU.FYU3 BFY.WTU3 0.917020   XSU.FYU3 1.561400
+    BMU.FYU3 XVI.FYU3 1.042000   NVI.FYU3 1.042000
+    BQA.FYU3 BQA...U3 -1.000000   BFY.VOU3 1.000000
+    BQA.FYU3 BFY.WTU3 0.997000   XSU.FYU3 4.147520
+    BQA.FYU3 XVI.FYU3 1.175000   NVI.FYU3 1.175000
+    BQB.FYU3 BQB...U3 -1.000000   BFY.VOU3 1.000000
+    BQB.FYU3 BFY.WTU3 1.014000   XSU.FYU3 3.315780
+    BQB.FYU3 XVI.FYU3 1.175000   NVI.FYU3 1.175000
+    BQH.FYU3 BQH...U3 -1.000000   BFY.VOU3 1.000000
+    BQH.FYU3 BFY.WTU3 1.014000   XSU.FYU3 5.536440
+    BQH.FYU3 XVI.FYU3 1.175000   NVI.FYU3 1.175000
+    BQJ.FYU3 BQJ...U3 -1.000000   BFY.VOU3 1.000000
+    BQJ.FYU3 BFY.WTU3 1.029000   XSU.FYU3 3.920490
+    BQJ.FYU3 XVI.FYU3 1.175000   NVI.FYU3 1.175000
+    BQM.FYU3 BQM...U3 -1.000000   BFY.VOU3 1.000000
+    BQM.FYU3 BFY.WTU3 0.997000   XSU.FYU3 4.147520
+    BQM.FYU3 XVI.FYU3 1.175000   NVI.FYU3 1.175000
+    BQW.FYU3 BQW...U3 -1.000000   BFY.VOU3 1.000000
+    BQW.FYU3 BFY.WTU3 1.007000   XSU.FYU3 5.810390
+    BQW.FYU3 XVI.FYU3 1.175000   NVI.FYU3 1.175000
+    BQ2.FYU3 BQ2...U3 -1.000000   BFY.VOU3 1.000000
+    BQ2.FYU3 BFY.WTU3 0.997000   XSU.FYU3 2.761690
+    BQ2.FYU3 XVI.FYU3 1.175000   NVI.FYU3 1.175000
+    BTH.FYU3 BTH...U3 -1.000000   BFY.VOU3 1.000000
+    BTH.FYU3 BFY.WTU3 1.029930   XSU.FYU3 4.131340
+    BTH.FYU3 XVI.FYU3 1.427000   NVI.FYU3 1.427000
+    BTM.FYU3 BTM...U3 -1.000000   BFY.VOU3 1.000000
+    BTM.FYU3 BFY.WTU3 0.976340   XSU.FYU3 2.329660
+    BTM.FYU3 XVI.FYU3 1.220000   NVI.FYU3 1.220000
+    BUK.FYU3 BUK...U3 -1.000000   BFY.VOU3 1.000000
+    BUK.FYU3 BFY.WTU3 1.037550   XSU.FYU3 5.791860
+    BUK.FYU3 XVI.FYU3 1.440000   NVI.FYU3 1.440000
+    BUM.FYU3 BUM...U3 -1.000000   BFY.VOU3 1.000000
+    BUM.FYU3 BFY.WTU3 0.989990   XSU.FYU3 2.897960
+    BUM.FYU3 XVI.FYU3 1.344000   NVI.FYU3 1.344000
+    BVH.FYU3 BVH...U3 -1.000000   BFY.VOU3 1.000000
+    BVH.FYU3 BFY.WTU3 1.000220   XSU.FYU3 3.008870
+    BVH.FYU3 XVI.FYU3 1.263000   NVI.FYU3 1.263000
+    BVY.FYU3 BVY...U3 -1.000000   BFY.VOU3 1.000000
+    BVY.FYU3 BFY.WTU3 1.015800   XSU.FYU3 1.117380
+    BVY.FYU3 XVI.FYU3 1.385000   NVI.FYU3 1.385000
+    BWT.FYU3 BWT...U3 -1.000000   BFY.VOU3 1.000000
+    BWT.FYU3 BFY.WTU3 1.017990   XSU.FYU3 3.183470
+    BWT.FYU3 XVI.FYU3 1.418000   NVI.FYU3 1.418000
+    BW3.FYU3 BW3...U3 -1.000000   BFY.VOU3 1.000000
+    BW3.FYU3 BFY.WTU3 0.948920   XSU.FYU3 2.021600
+    BW3.FYU3 XVI.FYU3 1.123000   NVI.FYU3 1.123000
+    BXA.FYU3 BXA...U3 -1.000000   BFY.VOU3 1.000000
+    BXA.FYU3 BFY.WTU3 0.991990   XSU.FYU3 2.861130
+    BXA.FYU3 XVI.FYU3 1.300000   NVI.FYU3 1.300000
+    BYV.FYU3 BYV...U3 -1.000000   BFY.VOU3 1.000000
+    BYV.FYU3 BFY.WTU3 0.969800   XSU.FYU3 0.649770
+    BYV.FYU3 XVI.FYU3 1.168000   NVI.FYU3 1.168000
+    B50.FYU3 B50...U3 -1.000000   BFY.VOU3 1.000000
+    B50.FYU3 BFY.WTU3 1.020200   XSU.FYU3 2.350430
+    B50.FYU3 XVI.FYU3 1.435000   NVI.FYU3 1.435000
+    B8A.FYU3 B8A...U3 -1.000000   BFY.VOU3 1.000000
+    B8A.FYU3 BFY.WTU3 1.107000   XSU.FYU3 7.859700
+    B8A.FYU3 XVI.FYU3 1.113000   NVI.FYU3 1.113000
+    B8B.FYU3 B8B...U3 -1.000000   BFY.VOU3 1.000000
+    B8B.FYU3 BFY.WTU3 1.107000   XSU.FYU3 4.317300
+    B8B.FYU3 XVI.FYU3 1.116000   NVI.FYU3 1.116000
+    B8H.FYU3 B8H...U3 -1.000000   BFY.VOU3 1.000000
+    B8H.FYU3 BFY.WTU3 1.107000   XSU.FYU3 6.475950
+    B8H.FYU3 XVI.FYU3 1.113000   NVI.FYU3 1.113000
+    B8J.FYU3 B8J...U3 -1.000000   BFY.VOU3 1.000000
+    B8J.FYU3 BFY.WTU3 1.107000   XSU.FYU3 3.708450
+    B8J.FYU3 XVI.FYU3 1.114000   NVI.FYU3 1.114000
+    B8M.FYU3 B8M...U3 -1.000000   BFY.VOU3 1.000000
+    B8M.FYU3 BFY.WTU3 1.108000   XSU.FYU3 0.565080
+    B8M.FYU3 XVI.FYU3 1.113000   NVI.FYU3 1.113000
+    B8W.FYU3 B8W...U3 -1.000000   BFY.VOU3 1.000000
+    B8W.FYU3 BFY.WTU3 1.107000   XSU.FYU3 8.202870
+    B8W.FYU3 XVI.FYU3 1.113000   NVI.FYU3 1.113000
+    B82.FYU3 B82...U3 -1.000000   BFY.VOU3 1.000000
+    B82.FYU3 BFY.WTU3 1.108000   XSU.FYU3 0.299160
+    B82.FYU3 XVI.FYU3 1.113000   NVI.FYU3 1.113000
+    B9A.FYU3 B9A...U3 -1.000000   BFY.VOU3 1.000000
+    B9A.FYU3 BFY.WTU3 1.078500   XSU.FYU3 3.882600
+    B9A.FYU3 XVI.FYU3 1.172000   NVI.FYU3 1.172000
+    B9B.FYU3 B9B...U3 -1.000000   BFY.VOU3 1.000000
+    B9B.FYU3 BFY.WTU3 1.078500   XSU.FYU3 0.323550
+    B9B.FYU3 XVI.FYU3 1.172000   NVI.FYU3 1.172000
+    B9C.FYU3 B9C...U3 -1.000000   BFY.VOU3 1.000000
+    B9C.FYU3 BFY.WTU3 1.038900   XSU.FYU3 3.740040
+    B9C.FYU3 XVI.FYU3 1.132000   NVI.FYU3 1.132000
+    B9D.FYU3 B9D...U3 -1.000000   BFY.VOU3 1.000000
+    B9D.FYU3 BFY.WTU3 1.038900   XSU.FYU3 0.311670
+    B9D.FYU3 XVI.FYU3 1.132000   NVI.FYU3 1.132000
+    B9E.FYU3 B9E...U3 -1.000000   BFY.VOU3 1.000000
+    B9E.FYU3 BFY.WTU3 0.997900   XSU.FYU3 0.299370
+    B9E.FYU3 XVI.FYU3 1.123000   NVI.FYU3 1.123000
+    B9O.FYU3 B9O...U3 -1.000000   BFY.VOU3 1.000000
+    B9O.FYU3 BFY.WTU3 1.178800   XSU.FYU3 4.243680
+    B9O.FYU3 XVI.FYU3 1.063000   NVI.FYU3 1.063000
+    B9P.FYU3 B9P...U3 -1.000000   BFY.VOU3 1.000000
+    B9P.FYU3 BFY.WTU3 1.178800   XSU.FYU3 0.353640
+    B9P.FYU3 XVI.FYU3 1.063000   NVI.FYU3 1.063000
+    B9Q.FYU3 B9Q...U3 -1.000000   BFY.VOU3 1.000000
+    B9Q.FYU3 BFY.WTU3 1.152800   XSU.FYU3 4.150080
+    B9Q.FYU3 XVI.FYU3 1.078000   NVI.FYU3 1.078000
+    B9R.FYU3 B9R...U3 -1.000000   BFY.VOU3 1.000000
+    B9R.FYU3 BFY.WTU3 1.152800   XSU.FYU3 0.345840
+    B9R.FYU3 XVI.FYU3 1.078000   NVI.FYU3 1.078000
+    B9S.FYU3 B9S...U3 -1.000000   BFY.VOU3 1.000000
+    B9S.FYU3 BFY.WTU3 1.116500   XSU.FYU3 0.334950
+    B9S.FYU3 XVI.FYU3 1.073000   NVI.FYU3 1.073000
+    B/A.GPU3 B/A...U3 -1.000000   BGP.VOU3 1.000000
+    B/A.GPU3 NRN.GPU3 0.639000   ND2.GPU3 0.281000
+    B/A.GPU3 WVP.GPU3 0.380000   WD8.GPU3 0.085000
+    B/B.GPU3 B/B...U3 -1.000000   BGP.VOU3 1.000000
+    B/B.GPU3 NRN.GPU3 0.643000   ND2.GPU3 0.355000
+    B/B.GPU3 WVP.GPU3 0.410000   WD8.GPU3 0.132000
+    B/J.GPU3 B/J...U3 -1.000000   BGP.VOU3 1.000000
+    B/J.GPU3 NRN.GPU3 0.640000   ND2.GPU3 0.306000
+    B/J.GPU3 WVP.GPU3 0.390000   WD8.GPU3 0.101000
+    B/2.GPU3 B/2...U3 -1.000000   BGP.VOU3 1.000000
+    B/2.GPU3 NRN.GPU3 0.639000   ND2.GPU3 0.281000
+    B/2.GPU3 WVP.GPU3 0.380000   WD8.GPU3 0.085000
+    BIP.GPU3 BIP...U3 -1.000000   BGP.VOU3 1.000000
+    BIP.GPU3 NRN.GPU3 0.486000   ND2.GPU3 0.137000
+    BIP.GPU3 WVP.GPU3 0.100000   WD8.GPU3 -0.016000
+    BI5.GPU3 BI5...U3 -1.000000   BGP.VOU3 1.000000
+    BI5.GPU3 NRN.GPU3 0.660000   ND2.GPU3 1.100000
+    BI5.GPU3 WVP.GPU3 2.100000   WD8.GPU3 1.100000
+    BLN.GPU3 BLN...U3 -1.000000   BGP.VOU3 1.000000
+    BLN.GPU3 NRN.GPU3 0.555000   ND2.GPU3 1.080000
+    BLN.GPU3 WVP.GPU3 1.040000   WD8.GPU3 0.700000
+    BN4.GPU3 BN4...U3 -1.000000   BGP.VOU3 1.000000
+    BN4.GPU3 NRN.GPU3 0.688000   ND2.GPU3 1.000000
+    BN4.GPU3 WVP.GPU3 6.800000   WD8.GPU3 1.300000
+    B0A.GPU3 B0A...U3 -1.000000   BGP.VOU3 1.000000
+    B0A.GPU3 NRN.GPU3 0.639000   ND2.GPU3 0.281000
+    B0A.GPU3 WVP.GPU3 0.380000   WD8.GPU3 0.085000
+    B0B.GPU3 B0B...U3 -1.000000   BGP.VOU3 1.000000
+    B0B.GPU3 NRN.GPU3 0.643000   ND2.GPU3 0.355000
+    B0B.GPU3 WVP.GPU3 0.410000   WD8.GPU3 0.132000
+    B0J.GPU3 B0J...U3 -1.000000   BGP.VOU3 1.000000
+    B0J.GPU3 NRN.GPU3 0.640300   ND2.GPU3 0.306000
+    B0J.GPU3 WVP.GPU3 0.390000   WD8.GPU3 0.101000
+    B0M.GPU3 B0M...U3 -1.000000   BGP.VOU3 1.000000
+    B0M.GPU3 NRN.GPU3 0.639000   ND2.GPU3 0.281000
+    B0M.GPU3 WVP.GPU3 0.380000   WD8.GPU3 0.085000
+    B0S.GPU3 B0S...U3 -1.000000   BGP.VOU3 1.000000
+    B0S.GPU3 NRN.GPU3 0.639000   ND2.GPU3 0.281000
+    B0S.GPU3 WVP.GPU3 0.380000   WD8.GPU3 0.085000
+    B4A.GPU3 B4A...U3 -1.000000   BGP.VOU3 1.000000
+    B4A.GPU3 NRN.GPU3 0.662000   ND2.GPU3 0.580000
+    B4A.GPU3 WVP.GPU3 0.610000   WD8.GPU3 0.270000
+    B4B.GPU3 B4B...U3 -1.000000   BGP.VOU3 1.000000
+    B4B.GPU3 NRN.GPU3 0.779000   ND2.GPU3 0.635000
+    B4B.GPU3 WVP.GPU3 4.030000   WD8.GPU3 1.952000
+    B4C.GPU3 B4C...U3 -1.000000   BGP.VOU3 1.000000
+    B4C.GPU3 NRN.GPU3 0.657000   ND2.GPU3 0.630000
+    B4C.GPU3 WVP.GPU3 0.720000   WD8.GPU3 0.340000
+    B4D.GPU3 B4D...U3 -1.000000   BGP.VOU3 1.000000
+    B4D.GPU3 NRN.GPU3 0.620000   ND2.GPU3 1.029000
+    B4D.GPU3 WVP.GPU3 1.200000   WD8.GPU3 0.824000
+    B4E.GPU3 B4E...U3 -1.000000   BGP.VOU3 1.000000
+    B4E.GPU3 NRN.GPU3 0.647000   ND2.GPU3 0.650000
+    B4E.GPU3 WVP.GPU3 0.740000   WD8.GPU3 0.370000
+    B4I.GPU3 B4I...U3 -1.000000   BGP.VOU3 1.000000
+    B4I.GPU3 NRN.GPU3 0.639000   ND2.GPU3 0.474000
+    B4I.GPU3 WVP.GPU3 0.570000   WD8.GPU3 0.224000
+    B4K.GPU3 B4K...U3 -1.000000   BGP.VOU3 1.000000
+    B4K.GPU3 NRN.GPU3 1.078000   ND2.GPU3 2.508000
+    B4K.GPU3 WVP.GPU3 12.290000   WD8.GPU3 6.568000
+    B4O.GPU3 B4O...U3 -1.000000   BGP.VOU3 1.000000
+    B4O.GPU3 NRN.GPU3 0.661000   ND2.GPU3 0.428000
+    B4O.GPU3 WVP.GPU3 0.480000   WD8.GPU3 0.182000
+    B4P.GPU3 B4P...U3 -1.000000   BGP.VOU3 1.000000
+    B4P.GPU3 NRN.GPU3 0.725000   ND2.GPU3 -2.560000
+    B4P.GPU3 WVP.GPU3 -2.170000   WD8.GPU3 -2.836000
+    B4Q.GPU3 B4Q...U3 -1.000000   BGP.VOU3 1.000000
+    B4Q.GPU3 NRN.GPU3 0.658000   ND2.GPU3 0.466000
+    B4Q.GPU3 WVP.GPU3 0.580000   WD8.GPU3 0.232000
+    B4R.GPU3 B4R...U3 -1.000000   BGP.VOU3 1.000000
+    B4R.GPU3 NRN.GPU3 0.648000   ND2.GPU3 0.469000
+    B4R.GPU3 WVP.GPU3 0.570000   WD8.GPU3 0.221000
+    B4S.GPU3 B4S...U3 -1.000000   BGP.VOU3 1.000000
+    B4S.GPU3 NRN.GPU3 0.653000   ND2.GPU3 0.486000
+    B4S.GPU3 WVP.GPU3 0.600000   WD8.GPU3 0.252000
+    B4T.GPU3 B4T...U3 -1.000000   BGP.VOU3 1.000000
+    B4T.GPU3 NRN.GPU3 0.638000   ND2.GPU3 0.470000
+    B4T.GPU3 WVP.GPU3 0.560000   WD8.GPU3 0.220000
+    B4V.GPU3 B4V...U3 -1.000000   BGP.VOU3 1.000000
+    B4V.GPU3 NRN.GPU3 0.648000   ND2.GPU3 0.476000
+    B4V.GPU3 WVP.GPU3 0.560000   WD8.GPU3 0.220000
+    B5I.GPU3 B5I...U3 -1.000000   BGP.VOU3 1.000000
+    B5I.GPU3 NRN.GPU3 0.701000   ND2.GPU3 0.222000
+    B5I.GPU3 WVP.GPU3 0.220000   WD8.GPU3 -0.034000
+    B5J.GPU3 B5J...U3 -1.000000   BGP.VOU3 1.000000
+    B5J.GPU3 NRN.GPU3 0.704000   ND2.GPU3 0.275000
+    B5J.GPU3 WVP.GPU3 0.330000   WD8.GPU3 0.031000
+    B5K.GPU3 B5K...U3 -1.000000   BGP.VOU3 1.000000
+    B5K.GPU3 NRN.GPU3 0.701000   ND2.GPU3 0.169000
+    B5K.GPU3 WVP.GPU3 0.210000   WD8.GPU3 -0.047000
+    B5L.GPU3 B5L...U3 -1.000000   BGP.VOU3 1.000000
+    B5L.GPU3 NRN.GPU3 0.704000   ND2.GPU3 0.222000
+    B5L.GPU3 WVP.GPU3 0.320000   WD8.GPU3 0.018000
+    B5M.GPU3 B5M...U3 -1.000000   BGP.VOU3 1.000000
+    B5M.GPU3 NRN.GPU3 0.729000   ND2.GPU3 0.200000
+    B5M.GPU3 WVP.GPU3 0.250000   WD8.GPU3 -0.015000
+    B5N.GPU3 B5N...U3 -1.000000   BGP.VOU3 1.000000
+    B5N.GPU3 NRN.GPU3 0.729000   ND2.GPU3 0.147000
+    B5N.GPU3 WVP.GPU3 0.240000   WD8.GPU3 -0.028000
+    B5O.GPU3 B5O...U3 -1.000000   BGP.VOU3 1.000000
+    B5O.GPU3 NRN.GPU3 0.731000   ND2.GPU3 0.253000
+    B5O.GPU3 WVP.GPU3 0.360000   WD8.GPU3 0.050000
+    B5P.GPU3 B5P...U3 -1.000000   BGP.VOU3 1.000000
+    B5P.GPU3 NRN.GPU3 0.731000   ND2.GPU3 0.200000
+    B5P.GPU3 WVP.GPU3 0.350000   WD8.GPU3 0.037000
+    B5Q.GPU3 B5Q...U3 -1.000000   BGP.VOU3 1.000000
+    B5Q.GPU3 NRN.GPU3 0.715000   ND2.GPU3 0.110000
+    B5Q.GPU3 WVP.GPU3 0.240000   WD8.GPU3 -0.050000
+    B5T.GPU3 B5T...U3 -1.000000   BGP.VOU3 1.000000
+    B5T.GPU3 NRN.GPU3 0.617000   ND2.GPU3 0.200000
+    B5T.GPU3 WVP.GPU3 0.480000   WD8.GPU3 0.000100
+    B5U.GPU3 B5U...U3 -1.000000   BGP.VOU3 1.000000
+    B5U.GPU3 NRN.GPU3 0.777000   ND2.GPU3 -0.566000
+    B5U.GPU3 WVP.GPU3 -0.110000   WD8.GPU3 -0.528000
+    B5V.GPU3 B5V...U3 -1.000000   BGP.VOU3 1.000000
+    B5V.GPU3 NRN.GPU3 0.728000   ND2.GPU3 0.112000
+    B5V.GPU3 WVP.GPU3 0.470000   WD8.GPU3 -0.045000
+    B5W.GPU3 B5W...U3 -1.000000   BGP.VOU3 1.000000
+    B5W.GPU3 NRN.GPU3 0.684000   ND2.GPU3 0.093000
+    B5W.GPU3 WVP.GPU3 0.380000   WD8.GPU3 0.031000
+    B5X.GPU3 B5X...U3 -1.000000   BGP.VOU3 1.000000
+    B5X.GPU3 NRN.GPU3 0.433000   ND2.GPU3 0.485000
+    B5X.GPU3 WVP.GPU3 1.000000   WD8.GPU3 0.423000
+    B5Y.GPU3 B5Y...U3 -1.000000   BGP.VOU3 1.000000
+    B5Y.GPU3 NRN.GPU3 0.356000   ND2.GPU3 0.912000
+    B5Y.GPU3 WVP.GPU3 1.000000   WD8.GPU3 0.423000
+    B5Z.GPU3 B5Z...U3 -1.000000   BGP.VOU3 1.000000
+    B5Z.GPU3 NRN.GPU3 0.635000   ND2.GPU3 0.500000
+    B5Z.GPU3 WVP.GPU3 1.100000   WD8.GPU3 0.346000
+    B53.GPU3 B53...U3 -1.000000   BGP.VOU3 1.000000
+    B53.GPU3 NRN.GPU3 0.660000   ND2.GPU3 0.742000
+    B53.GPU3 WVP.GPU3 0.240000   WD8.GPU3 0.119000
+    B54.GPU3 B54...U3 -1.000000   BGP.VOU3 1.000000
+    B54.GPU3 NRN.GPU3 0.706000   ND2.GPU3 0.441000
+    B54.GPU3 WVP.GPU3 0.300000   WD8.GPU3 0.192000
+    B55.GPU3 B55...U3 -1.000000   BGP.VOU3 1.000000
+    B55.GPU3 NRN.GPU3 0.642000   ND2.GPU3 -0.297000
+    B55.GPU3 WVP.GPU3 -1.120000   WD8.GPU3 -0.744000
+    COF.A.U3 COF.A.U3 1.000000   KTC..... 1.000000
+    COF.A.U3 FAT0..J. 2.013000   BFR...U3 -0.207000
+    COF.A.U3 UPBROW27914 1.000000
+    CFT.C.U3 CFT.C.U3 1.000000   KTC..... 1.000000
+    CFT.C.U3 BFR...U3 -0.009000   UPBROW27915 1.000000
+    CTF.D.U3 CTF.D.U3 1.000000   KWC..... 1.120000
+    CTF.D.U3 KTC..... 1.000000   FAT0..J. 0.086000
+    CTF.D.U3 BFR...U3 -0.025000   UPBROW27916 1.000000
+    CF..G.U3 CF..G.U3 1.000000   FAT0..J. 0.362000
+    CF..G.U3 BFR...U3 -0.024000   BNL...U3 -0.022100
+    CF..G.U3 UPBROW27917 1.000000
+    CF..H.U3 CF..H.U3 1.000000   KTC..... 1.000000
+    CF..H.U3 UPBROW27918 1.000000
+    CF..K.U3 CF..K.U3 1.000000   FAT0..J. 0.436000
+    CF..K.U3 BFR...U3 -0.019000   UPBROW27919 1.000000
+    CF..P.U3 CF..P.U3 1.000000   KTC..... 1.000000
+    CF..P.U3 FAT0..J. 0.490000   BFR...U3 -0.047000
+    CF..P.U3 UPBROW27920 1.000000
+    CF..R.U3 CF..R.U3 1.000000   FAT0..J. 0.469000
+    CF..R.U3 BFR...U3 -0.050000   BNL...U3 -0.044200
+    CF..R.U3 UPBROW27921 1.000000
+    COH.V.U3 COH.V.U3 1.000000   KTC..... 1.000000
+    COH.V.U3 FAT0..J. 0.156000   BFR...U3 -0.014000
+    COH.V.U3 UPBROW27922 1.000000
+    DCD...U3 BCD...U3 -1.000000   FAT0..J. -100.000000
+    DCD...U3 UPBROW27923 1.000000
+    DCR...U3 BCR...U3 -1.000000   FAT0..J. -100.000000
+    DCR...U3 UPBROW27924 1.000000
+    DDH...U3 BDH...U3 -1.000000   FAT0..J. -100.000000
+    DDH...U3 UPBROW27925 1.000000
+    DDK...U3 BDK...U3 -1.000000   FAT0..J. -100.000000
+    DDK...U3 UPBROW27926 1.000000
+    DFP...U3 BFP...U3 -1.000000   FAT0..J. -100.000000
+    DFP...U3 UPBROW27927 1.000000
+    DFS...U3 BFS...U3 -1.000000   FAT0..J. -100.000000
+    DFS...U3 UPBROW27928 1.000000
+    DFY...U3 BFY...U3 -1.000000   FAT0..J. -100.000000
+    DFY...U3 UPBROW27929 1.000000
+    DGP...U3 BGP...U3 -1.000000   FAT0..J. -100.000000
+    DGP...U3 UPBROW27930 1.000000
+    DLR...U3 BLR...U3 -1.000000   FAT0..J. -100.000000
+    DLR...U3 UPBROW27931 1.000000
+    DNI...U3 BNI...U3 -1.000000   FAT0..J. -100.000000
+    DNI...U3 UPBROW27932 1.000000
+    DNJ...U3 BNJ...U3 -1.000000   FAT0..J. -100.000000
+    DNJ...U3 UPBROW27933 1.000000
+    DNL...U3 BNL...U3 -1.000000   FAT0..J. -100.000000
+    DNL...U3 UPBROW27934 1.000000
+    DNP...U3 BNP...U3 -1.000000   FAT0..J. -100.000000
+    DNP...U3 UPBROW27935 1.000000
+    DOA...U3 BOA...U3 -1.000000   FAT0..J. -100.000000
+    DOA...U3 UPBROW27936 1.000000
+    DOL...U3 BOL...U3 -1.000000   FAT0..J. -100.000000
+    DOL...U3 UPBROW27937 1.000000
+    DRG...U3 BRG...U3 -1.000000   FAT0..J. -100.000000
+    DRG...U3 UPBROW27938 1.000000
+    DAF.02U3 BAF...U3 -1.000000   FAT0..J. -100.000000
+    DAF.02U3 UPBROW27939 1.000000
+    DAJ.02U3 BAJ...U3 -1.000000   FAT0..J. -100.000000
+    DAJ.02U3 UPBROW27940 1.000000
+    QVO5DHJP BDH...JP 0.995000   BDH.VOJP -1.000000
+    QVO5DHJP XSU.DHJP -0.300000   XCI.DHJP -1.300000
+    WVP5GPEZ WVP.GPEZ -0.100000   XVL.GPEZ 0.100000
+    WD85GPEZ WD8.GPEZ -0.010000   XVL.GPEZ 0.020000
+    IOF.A.U3 COF.A.U3 1.000000   FAT0..J. 5.226000
+    IOF.A.U3 BFR...U3 -0.207000
+    QVO5GUEZ BGP.VOEZ -1.000000   BGU...EZ 0.985000
+    QVO5GUEZ NRN.GPEZ -0.668000   ND2.GPEZ -0.500000
+    QVO5GUEZ XVL.GPEZ -1.850000
+    QVO5GPEZ BGP...EZ 0.985000   BGP.VOEZ -1.000000
+    QVO5GPEZ NRN.GPEZ -0.652000   ND2.GPEZ -0.500000
+    QVO5GPEZ XVL.GPEZ -1.700000
+    IF..F.U3 CF..F.U3 1.000000   FAT0..J. 0.435000
+    IF..F.U3 BFR...U3 -0.015000   BRG...U3 -0.006000
+    IF..G.U3 CF..G.U3 1.000000   FAT0..J. 1.297000
+    IF..G.U3 BFR...U3 -0.024000   BNL...U3 -0.022100
+    IF..H.U3 CF..H.U3 1.000000   FAT0..J. 4.052000
+    IF..I.U3 CF..I.U3 1.000000   FAT0..J. 1.156000
+    IF..I.U3 BFR...U3 -0.014000   BRG...U3 -0.021000
+    QWT5FYEZ BFY.WTEZ -1.000000   XSU.FYEZ -3.400000
+    QWT5FYEZ BFY...EZ 1.052600
+    IF..P.U3 CF..P.U3 1.000000   FAT0..J. 1.291000
+    IF..P.U3 BFR...U3 -0.047000
+    IF..Q.U3 CF..Q.U3 1.000000   FAT0..J. 3.443000
+    IF..Q.U3 BFR...U3 -0.032000   UPBROW27941 1.000000
+    IF..R.U3 CF..R.U3 1.000000   FAT0..J. 2.854000
+    IF..R.U3 BFR...U3 -0.050000   BNL...U3 -0.044200
+    IOH.V.U3 COH.V.U3 1.000000   FAT0..J. 0.527000
+    IOH.V.U3 BFR...U3 -0.014000
+    KH1.PSU3 KHS...U3 -1.000000   UPBROW27942 1.000000
+    KH2.PSU3 FAT0..J. 2.000000   KHS...U3 -1.000000
+    QVO5FYEZ BFY.VOEZ -1.000000   XVI.FYEZ -1.120000
+    QVO5FYEZ NVI.FYEZ -1.095000
+    QWT5FVEZ BFV.WTEZ -1.000000   XSU.FVEZ -1.900000
+    QWT5FVEZ BFV...EZ 1.052600
+    KPC.REU3 KPC...U3 -1.000000   FAT0..J. 1.276000
+    MFR.AFU3 BFR...U3 -1.000000   BAF...U3 1.000000
+    MLO.AJU3 BGP...U3 -0.491000   BDH...U3 -0.275000
+    MLO.AJU3 BFP...U3 -0.150000   BFY...U3 -0.084000
+    MLO.AJU3 BAJ...U3 1.000000
+    MB4.BHU3 BB4...U3 -1.000000   BBH...U3 0.952400
+    MB4.BHU3 BBF...U3 0.047600
+    MB5.BIU3 BB5...U3 -1.000000   BBI...U3 0.952400
+    MB5.BIU3 BBG...U3 0.047600
+    MBK.BLU3 BBL...U3 1.000000   BBK...U3 -1.000000
+    MBK.BOU3 BBL...U3 -0.069000   BBK...U3 -0.931000
+    MBK.BOU3 BBO...U3 1.000000
+    MBL.BPU3 BBL...U3 -0.482800   BBK...U3 -0.517200
+    MBL.BPU3 BBP...U3 1.000000
+    MQA.BQU3 BBQ...U3 1.000000   BQA...U3 -1.000000
+    MQB.BQU3 BBQ...U3 1.000000   BQB...U3 -1.000000
+    MQH.BQU3 BBQ...U3 1.000000   BQH...U3 -1.000000
+    MQJ.BQU3 BBQ...U3 1.000000   BQJ...U3 -1.000000
+    MQM.BQU3 BBQ...U3 1.000000   BQM...U3 -1.000000
+    MQW.BQU3 BBQ...U3 1.000000   BQW...U3 -1.000000
+    MQ2.BQU3 BBQ...U3 1.000000   BQ2...U3 -1.000000
+    MQ5.BQU3 BBQ...U3 1.000000   BQ5...U3 -1.000000
+    MBU.BVU3 BBV...U3 1.000000   BBU...U3 -1.000000
+    MBU.BWU3 BBV...U3 -0.130400   BBU...U3 -0.869600
+    MBU.BWU3 BBW...U3 1.000000
+    MBV.BYU3 BBV...U3 -0.565200   BBU...U3 -0.434800
+    MBV.BYU3 BBY...U3 1.000000
+    MFQ.FRU3 BFP...U3 -0.400000   BFS...U3 -0.600000
+    MFQ.FRU3 BFR...U3 1.000000
+    MRG.FRU3 BFR...U3 1.000000   BRG...U3 -1.000000
+    MCD.FYU3 BFY...U3 1.000000   BCD...U3 -1.000000
+    MCD.FYU3 FAT0..J. 0.500000
+    MKB.IBU3 BIP...U3 -0.750000   BIB...U3 1.000000
+    MKB.IBU3 BKG...U3 -0.121400   BKB...U3 -0.128600
+    MKG.IBU3 BIP...U3 -0.750000   BIB...U3 1.000000
+    MKG.IBU3 BKG...U3 -0.178600   BKB...U3 -0.071400
+    MKB.IGU3 BIN...U3 -0.750000   BIG...U3 1.000000
+    MKB.IGU3 BKG...U3 -0.121400   BKB...U3 -0.128600
+    MKG.IGU3 BIN...U3 -0.750000   BIG...U3 1.000000
+    MKG.IGU3 BKG...U3 -0.178600   BKB...U3 -0.071400
+    MNI.INU3 BIN...U3 0.572500   BIP...U3 0.442500
+    MNI.INU3 BNI...U3 -1.000000
+    MIN.IPU3 BIP...U3 1.000000   BIN...U3 -1.000000
+    MNP.IPU3 BIN...U3 0.050800   BIP...U3 0.964200
+    MNP.IPU3 BNP...U3 -1.000000
+    MII.I4U3 BII...U3 -1.000000   BI4...U3 0.950000
+    MKG.KBU3 BKB...U3 1.000000   BKG...U3 -1.000000
+    MDH.LNU3 BLN...U3 1.015000   BRG...U3 0.072200
+    MDH.LNU3 KPC...U3 1.000000   BDH...U3 -1.111000
+    MDH.LNU3 B5W...U3 0.072200
+    MIB.LNU3 BLN...U3 1.015000   BIG...U3 -0.047400
+    MIB.LNU3 BIB...U3 -0.899600   BRG...U3 -0.038000
+    MIB.LNU3 B5U...U3 0.055300   KPC...U3 1.500000
+    MIG.LNU3 BLN...U3 1.015000   BIG...U3 -0.676100
+    MIG.LNU3 BIB...U3 -0.522600   BRG...U3 0.026900
+    MIG.LNU3 B5V...U3 0.192500   KPC...U3 1.500000
+    MIN.LNU3 BLN...U3 1.015000   BIN...U3 -0.676100
+    MIN.LNU3 BIP...U3 -0.522600   BRG...U3 0.026900
+    MIN.LNU3 B5V...U3 0.192500   KPC...U3 1.500000
+    MIP.LNU3 BLN...U3 1.015000   BIN...U3 -0.047400
+    MIP.LNU3 BIP...U3 -0.899600   BRG...U3 -0.038000
+    MIP.LNU3 B5U...U3 0.055300   KPC...U3 1.500000
+    MNL.LNU3 BLN...U3 1.015000   BNL...U3 -1.000000
+    MRG.LRU3 BRG...U3 -0.620000   BLR...U3 1.000000
+    MAC.LSU3 BLS...U3 1.000000   BAC...U3 -1.000000
+    MAP.LSU3 BLS...U3 1.000000   BAP...U3 -1.000000
+    MAS.LSU3 BLS...U3 1.000000   BAS...U3 -1.000000
+    MAZ.LSU3 BLS...U3 1.000000   BAZ...U3 -1.000000
+    MMF.LSU3 BLS...U3 1.000000   BMF...U3 -1.000000
+    MRB.LSU3 BLS...U3 1.000000   BRB...U3 -1.000000
+    MSE.LSU3 BLS...U3 1.000000   BSE...U3 -1.000000
+    MSY.LSU3 BLS...U3 1.000000   BSY...U3 -1.000000
+    MTL.LSU3 BLS...U3 1.000000   BTL...U3 -1.000000
+    MVY.LSU3 BLS...U3 1.000000   BVY...U3 -1.000000
+    MWA.LSU3 BLS...U3 1.000000   BWA...U3 -1.000000
+    MYH.LSU3 BLS...U3 1.000000   BYH...U3 -1.000000
+    M1S.LSU3 BLS...U3 1.000000   B1S...U3 -1.000000
+    MHI.MSU3 BMS...U3 1.000000   BHI...U3 -1.000000
+    MLI.MSU3 BMS...U3 1.000000   BLI...U3 -1.000000
+    MLJ.MSU3 BMS...U3 1.000000   BLJ...U3 -1.000000
+    MMA.MSU3 BMS...U3 1.000000   BMA...U3 -1.000000
+    MRT.MSU3 BMS...U3 1.000000   BRT...U3 -1.000000
+    MTH.MSU3 BMS...U3 1.000000   BTH...U3 -1.000000
+    MTQ.MSU3 BMS...U3 1.000000   BTQ...U3 -1.000000
+    MUM.MSU3 BMS...U3 1.000000   BUM...U3 -1.000000
+    MWT.MSU3 BMS...U3 1.000000   BWT...U3 -1.000000
+    MXA.MSU3 BMS...U3 1.000000   BXA...U3 -1.000000
+    M50.MSU3 BMS...U3 1.000000   B50...U3 -1.000000
+    MIN.NIU3 BIN...U3 -0.572500   BIP...U3 -0.442500
+    MIN.NIU3 BNI...U3 1.000000
+    MDK.NJU3 BLN...U3 -0.111100   BIN...U3 -0.175000
+    MDK.NJU3 BIP...U3 -0.238900   BDK...U3 -0.482400
+    MDK.NJU3 BNJ...U3 1.000000
+    MI5.NLU3 BI5...U3 -1.052000   BNL...U3 1.000000
+    MLN.NLU3 BNL...U3 1.000000   BLN...U3 -1.015000
+    MNP.NLU3 BNL...U3 1.000000   BNP...U3 -0.660800
+    MNP.NLU3 BDK...U3 -0.219100
+    MIP.NPU3 BIN...U3 -0.050800   BIP...U3 -0.964200
+    MIP.NPU3 BNP...U3 1.000000
+    MNN.N4U3 BN4...U3 0.950000   BNN...U3 -1.000000
+    MRG.N4U3 BRG...U3 -1.000000   BN4...U3 1.414600
+    MBH.OLU3 BOL...U3 1.000000   BBH...U3 -1.000000
+    MCV.RGU3 BCV...U3 -1.000000   BRG...U3 0.570000
+    MI4.RGU3 BRG...U3 0.678800   BI4...U3 -1.000000
+    MLG.RGU3 BRG...U3 0.657500   BLG...U3 -1.000000
+    MN4.RGU3 BRG...U3 0.706900   BN4...U3 -1.000000
+    MU3.RGU3 BRG...U3 0.622600   BU3...U3 -1.000000
+    MU4.RGU3 BRG...U3 0.714600   BU4...U3 -1.000000
+    MF2.2LU3 BF2...U3 -1.000000   BBO...U3 0.358000
+    MF2.2LU3 B2L...U3 0.642000   CF..F.U3 -0.358000
+    PU3.A1U3 BI4...U3 -1.225000   BU3...U3 -1.000000
+    PU3.A1U3 B53...U3 1.740000   COF.A.U3 -1.052600
+    PU4.A1U3 BI4...U3 -1.160000   BU4...U3 -1.000000
+    PU4.A1U3 B54...U3 1.785000   COF.A.U3 -1.000000
+    PU5.A1U3 BI4...U3 -1.291000   GU5...U3 -1.000000
+    PU5.A1U3 B55...U3 0.950000   COF.A.U3 -0.936800
+    PBF.C1U3 BRG...U3 0.042300   BI4...U3 0.020900
+    PBF.C1U3 BU3...U3 0.028500   BU4...U3 0.037000
+    PBF.C1U3 GU5...U3 0.032900   B4A...U3 0.358000
+    PBF.C1U3 BBK...U3 0.296300   BBL...U3 0.194700
+    PBF.C1U3 B9A...U3 0.042000   CFT.C.U3 -1.470000
+    PBF.C1U3 GV1...U3 1.000000   GV2...U3 1.000000
+    PBF.C1U3 GV3...U3 1.000000   KFF.C.U3 1.000000
+    PBF.C1U3 LFF.C.U3 1.000000   BBF...U3 -1.000000
+    PBG.C1U3 BRG...U3 0.042300   BI4...U3 0.020900
+    PBG.C1U3 BU3...U3 0.028500   BU4...U3 0.037000
+    PBG.C1U3 GU5...U3 0.032900   B4A...U3 0.358000
+    PBG.C1U3 BBK...U3 0.491000   B9B...U3 0.042000
+    PBG.C1U3 CFT.C.U3 -1.470000   KFF.C.U3 1.000000
+    PBG.C1U3 BBG...U3 -1.000000
+    PBH.C1U3 BRG...U3 0.032800   BI4...U3 0.031400
+    PBH.C1U3 BU3...U3 0.030400   BU4...U3 0.042800
+    PBH.C1U3 GU5...U3 0.035400   B4C...U3 0.385000
+    PBH.C1U3 BBK...U3 0.286600   BBL...U3 0.188400
+    PBH.C1U3 B9C...U3 0.048000   CFT.C.U3 -1.257000
+    PBH.C1U3 GV1...U3 1.000000   GV2...U3 1.000000
+    PBH.C1U3 GV3...U3 1.000000   KFF.C.U3 1.000000
+    PBH.C1U3 LFF.C.U3 1.000000   BBH...U3 -1.000000
+    PBI.C1U3 BRG...U3 0.032800   BI4...U3 0.031400
+    PBI.C1U3 BU3...U3 0.030400   BU4...U3 0.042800
+    PBI.C1U3 GU5...U3 0.035400   B4C...U3 0.385000
+    PBI.C1U3 BBK...U3 0.475000   B9D...U3 0.048000
+    PBI.C1U3 CFT.C.U3 -1.257000   KFF.C.U3 1.000000
+    PBI.C1U3 BBI...U3 -1.000000
+    PBJ.C1U3 BRG...U3 0.028900   BI4...U3 0.020900
+    PBJ.C1U3 BU3...U3 0.025600   BU4...U3 0.037000
+    PBJ.C1U3 GU5...U3 0.039300   B4E...U3 0.427000
+    PBJ.C1U3 BBK...U3 0.459000   B9E...U3 0.068000
+    PBJ.C1U3 CFT.C.U3 -1.276000   KFF.C.U3 1.000000
+    PBJ.C1U3 BBJ...U3 -1.000000
+    PBF.C5U3 BRG...U3 0.088200   BI4...U3 0.059600
+    PBF.C5U3 BU3...U3 0.055600   BU4...U3 0.050700
+    PBF.C5U3 GU5...U3 0.039400   BBK...U3 0.068000
+    PBF.C5U3 BBL...U3 0.044700   B9O...U3 0.057600
+    PBF.C5U3 CFT.C.U3 -1.644500   B4O...U3 0.615200
+    PBF.C5U3 GV1...U3 1.000000   GV2...U3 1.000000
+    PBF.C5U3 GV3...U3 1.000000   KFF.C.U3 1.000000
+    PBF.C5U3 LFF.C.U3 1.000000   BBF...U3 -1.000000
+    PBG.C5U3 BRG...U3 0.088200   BI4...U3 0.059600
+    PBG.C5U3 BU3...U3 0.055600   BU4...U3 0.050700
+    PBG.C5U3 GU5...U3 0.039400   BBK...U3 0.112700
+    PBG.C5U3 CFT.C.U3 -1.644500   B4O...U3 0.615200
+    PBG.C5U3 B9P...U3 0.057600   GV1...U3 1.000000
+    PBG.C5U3 GV2...U3 1.000000   GV3...U3 1.000000
+    PBG.C5U3 KFF.C.U3 1.000000   BBG...U3 -1.000000
+    PBH.C5U3 BRG...U3 0.071300   BI4...U3 0.069800
+    PBH.C5U3 BU3...U3 0.061000   BU4...U3 0.064000
+    PBH.C5U3 GU5...U3 0.040900   BBK...U3 0.067200
+    PBH.C5U3 BBL...U3 0.044100   B9Q...U3 0.058700
+    PBH.C5U3 CFT.C.U3 -1.207500   B4Q...U3 0.638400
+    PBH.C5U3 GV1...U3 1.000000   GV2...U3 1.000000
+    PBH.C5U3 GV3...U3 1.000000   KFF.C.U3 1.000000
+    PBH.C5U3 LFF.C.U3 1.000000   BBH...U3 -1.000000
+    PBI.C5U3 BRG...U3 0.071300   BI4...U3 0.069800
+    PBI.C5U3 BU3...U3 0.061000   BU4...U3 0.064000
+    PBI.C5U3 GU5...U3 0.040900   BBK...U3 0.111300
+    PBI.C5U3 CFT.C.U3 -1.207500   B4Q...U3 0.638400
+    PBI.C5U3 B9R...U3 0.058700   GV1...U3 1.000000
+    PBI.C5U3 GV2...U3 1.000000   GV3...U3 1.000000
+    PBI.C5U3 KFF.C.U3 1.000000   BBI...U3 -1.000000
+    PBJ.C5U3 BRG...U3 0.063700   BI4...U3 0.057500
+    PBJ.C5U3 BU3...U3 0.056600   BU4...U3 0.057800
+    PBJ.C5U3 GU5...U3 0.043500   BBK...U3 0.107500
+    PBJ.C5U3 CFT.C.U3 -1.104000   B4S...U3 0.679000
+    PBJ.C5U3 B9S...U3 0.062500   GV1...U3 1.000000
+    PBJ.C5U3 GV2...U3 1.000000   GV3...U3 1.000000
+    PBJ.C5U3 KFF.C.U3 1.000000   BBJ...U3 -1.000000
+    PBU.C5U3 BRG...U3 0.043400   BI4...U3 0.059800
+    PBU.C5U3 BU3...U3 0.052200   BU4...U3 0.058000
+    PBU.C5U3 GU5...U3 -0.033000   B4T...U3 0.466000
+    PBU.C5U3 BBK...U3 0.390000   CFT.C.U3 -1.046500
+    PBU.C5U3 GB1...U3 1.000000   GB2...U3 1.000000
+    PBU.C5U3 GB3...U3 1.000000   KFF.C.U3 1.000000
+    PBU.C5U3 BBU...U3 -1.000000
+    PBV.C5U3 BRG...U3 0.043400   BI4...U3 0.059800
+    PBV.C5U3 BU3...U3 0.052200   BU4...U3 0.058000
+    PBV.C5U3 GU5...U3 0.033000   B4T...U3 0.466000
+    PBV.C5U3 BBK...U3 0.235300   BBL...U3 0.154700
+    PBV.C5U3 CFT.C.U3 -1.046500   GB1...U3 1.000000
+    PBV.C5U3 GB2...U3 1.000000   GB3...U3 1.000000
+    PBV.C5U3 KFF.C.U3 1.000000   LFF.C.U3 1.000000
+    PBV.C5U3 BBV...U3 -1.000000
+    PB1.C5U3 BRG...U3 -0.007900   BI4...U3 0.006600
+    PB1.C5U3 BU3...U3 -0.006600   BU4...U3 -0.010400
+    PB1.C5U3 GU5...U3 -0.002000   B4B...U3 0.007000
+    PB1.C5U3 CFT.C.U3 -0.057500   GB1...U3 -1.000000
+    PB2.C5U3 BRG...U3 -0.019800   BI4...U3 -0.032300
+    PB2.C5U3 BU3...U3 -0.023800   BU4...U3 -0.022800
+    PB2.C5U3 GU5...U3 -0.008000   B4D...U3 -0.085000
+    PB2.C5U3 BBK...U3 0.173000   CFT.C.U3 0.103500
+    PB2.C5U3 GB2...U3 -1.000000
+    PB3.C5U3 BRG...U3 0.022600   BI4...U3 0.020000
+    PB3.C5U3 BU3...U3 0.014200   BU4...U3 0.016200
+    PB3.C5U3 GU5...U3 0.005000   BBK...U3 -0.185000
+    PB3.C5U3 CFT.C.U3 -0.046000   GB3...U3 -1.000000
+    PB3.C5U3 B4I...U3 0.110000   B9W...U3 0.020000
+    PV1.C5U3 BRG...U3 -0.007500   BI4...U3 0.009500
+    PV1.C5U3 BU3...U3 -0.005700   BU4...U3 -0.012400
+    PV1.C5U3 GU5...U3 -0.002000   CFT.C.U3 -0.080500
+    PV1.C5U3 B4K...U3 0.006000   GV1...U3 -1.000000
+    PV2.C5U3 BRG...U3 -0.026600   BI4...U3 -0.037100
+    PV2.C5U3 BU3...U3 -0.028500   BU4...U3 -0.028500
+    PV2.C5U3 GU5...U3 -0.003000   BBK...U3 0.062000
+    PV2.C5U3 CFT.C.U3 0.126500   B4P...U3 0.026000
+    PV2.C5U3 B9W...U3 0.024000   GV2...U3 -1.000000
+    PV3.C5U3 BRG...U3 -0.006400   BI4...U3 -0.005700
+    PV3.C5U3 BU3...U3 -0.004800   GU5...U3 -0.002000
+    PV3.C5U3 BBK...U3 0.050000   CFT.C.U3 0.046000
+    PV3.C5U3 GV3...U3 -1.000000   B4R...U3 -0.035000
+    PV3.C6U3 BRG...U3 0.006000   BI4...U3 0.004800
+    PV3.C6U3 BU3...U3 0.003800   GU5...U3 0.002000
+    PV3.C6U3 BBK...U3 -0.042000   CFT.C.U3 -0.046000
+    PV3.C6U3 GV3...U3 -1.000000   B4V...U3 0.032000
+    PQS.C7U3 BRG...U3 0.056600   BI4...U3 0.006600
+    PQS.C7U3 BU3...U3 0.025700   BU4...U3 0.029400
+    PQS.C7U3 GU5...U3 0.031200   BBK...U3 0.265800
+    PQS.C7U3 CFT.C.U3 -1.424000   B0S...U3 0.487900
+    PQS.C7U3 B8L...U3 0.119500   KFF.C.U3 1.000000
+    PQS.C7U3 BQS...U3 -1.000000
+    PSA.C7U3 BRG...U3 0.056600   BI4...U3 0.006600
+    PSA.C7U3 BU3...U3 0.025700   BU4...U3 0.029400
+    PSA.C7U3 GU5...U3 0.031200   BBK...U3 0.265800
+    PSA.C7U3 CFT.C.U3 -1.424000   B/A...U3 0.487900
+    PSA.C7U3 B6A...U3 0.119500   KFF.C.U3 1.000000
+    PSA.C7U3 BSA...U3 -1.000000
+    PSB.C7U3 BRG...U3 0.138000   BI4...U3 0.004800
+    PSB.C7U3 BU3...U3 0.018800   BU4...U3 0.019000
+    PSB.C7U3 GU5...U3 0.022000   BBK...U3 0.278200
+    PSB.C7U3 CFT.C.U3 -1.885000   B/B...U3 0.343400
+    PSB.C7U3 B6B...U3 0.182800   KFF.C.U3 1.000000
+    PSB.C7U3 BSB...U3 -1.000000
+    PSH.C7U3 BRG...U3 0.056600   BI4...U3 0.006600
+    PSH.C7U3 BU3...U3 0.025700   BU4...U3 0.029400
+    PSH.C7U3 GU5...U3 0.031200   BBK...U3 0.265800
+    PSH.C7U3 CFT.C.U3 -1.424000   B/H...U3 0.487900
+    PSH.C7U3 B6H...U3 0.119500   KFF.C.U3 1.000000
+    PSH.C7U3 BSH...U3 -1.000000
+    PSJ.C7U3 BRG...U3 0.083700   BI4...U3 0.006000
+    PSJ.C7U3 BU3...U3 0.023400   BU4...U3 0.025900
+    PSJ.C7U3 GU5...U3 0.028100   BBK...U3 0.269900
+    PSJ.C7U3 CFT.C.U3 -1.578000   B/J...U3 0.439700
+    PSJ.C7U3 B6J...U3 0.140600   KFF.C.U3 1.000000
+    PSJ.C7U3 BSJ...U3 -1.000000
+    PSM.C7U3 BRG...U3 0.056600   BI4...U3 0.006600
+    PSM.C7U3 BU3...U3 0.025700   BU4...U3 0.029400
+    PSM.C7U3 GU5...U3 0.031200   BBK...U3 0.265800
+    PSM.C7U3 CFT.C.U3 -1.424000   B0M...U3 0.487900
+    PSM.C7U3 B8M...U3 0.119500   KFF.C.U3 1.000000
+    PSM.C7U3 BSM...U3 -1.000000
+    PSW.C7U3 BRG...U3 0.056600   BI4...U3 0.006600
+    PSW.C7U3 BU3...U3 0.025700   BU4...U3 0.029400
+    PSW.C7U3 GU5...U3 0.031200   BBK...U3 0.265800
+    PSW.C7U3 CFT.C.U3 -1.424000   B/W...U3 0.487900
+    PSW.C7U3 B6W...U3 0.119500   KFF.C.U3 1.000000
+    PSW.C7U3 BSW...U3 -1.000000
+    PS2.C7U3 BRG...U3 0.056600   BI4...U3 0.006600
+    PS2.C7U3 BU3...U3 0.025700   BU4...U3 0.029400
+    PS2.C7U3 GU5...U3 0.031200   BBK...U3 0.265800
+    PS2.C7U3 CFT.C.U3 -1.424000   B/2...U3 0.487900
+    PS2.C7U3 B82...U3 0.119500   KFF.C.U3 1.000000
+    PS2.C7U3 BS2...U3 -1.000000
+    PAL.DIU3 BCR...U3 1.000000   AAL..... -1.000000
+    QVO5FVEZ BFV.VOEZ -1.000000   XVI.FVEZ -1.140000
+    QVO5FVEZ NVI.FVEZ -1.000000
+    PGL.DNU3 BRG...U3 0.448000   BI4...U3 0.085000
+    PGL.DNU3 BLN...U3 0.090000   BIP...U3 0.090000
+    PGL.DNU3 UPBROW27943 1.000000
+    PAG.D2U3 CTF.D.U3 -1.000000   AAG..... -1.000000
+    PAG.D2U3 BCV...U3 0.003390   BI4...U3 0.002220
+    PAG.D2U3 BN4...U3 0.005420   BI5...U3 0.006310
+    PAG.D2U3 BLN...U3 0.030360   BIN...U3 -0.005620
+    PAG.D2U3 BIP...U3 0.113540   BKB...U3 -0.116780
+    PAG.D2U3 BKG...U3 0.298620   BBU...U3 0.180750
+    PAG.D2U3 BBV...U3 -0.014150   BAG...U3 0.495930
+    PAH.D2U3 CTF.D.U3 -1.000000   AAH..... -1.000000
+    PAH.D2U3 BCV...U3 0.008550   BI4...U3 0.003720
+    PAH.D2U3 BN4...U3 0.013810   BI5...U3 0.008120
+    PAH.D2U3 BLN...U3 0.039590   BIN...U3 -0.007860
+    PAH.D2U3 BIP...U3 0.111880   BKB...U3 0.072400
+    PAH.D2U3 BKG...U3 0.085100   BBU...U3 0.049970
+    PAH.D2U3 BBV...U3 0.077130   BAH...U3 0.537580
+    PAH.D2U3 KHS...U3 1.000000
+    PAL.D2U3 CTF.D.U3 -1.000000   BCV...U3 0.002830
+    PAL.D2U3 BI4...U3 0.002680   BN4...U3 0.012590
+    PAL.D2U3 BI5...U3 0.008650   BLN...U3 0.043720
+    PAL.D2U3 BIN...U3 0.004910   BIP...U3 0.124920
+    PAL.D2U3 BKB...U3 0.124660   BKG...U3 0.079390
+    PAL.D2U3 BBU...U3 0.083430   BBV...U3 0.065650
+    PAL.D2U3 BAL...U3 0.446570   AAL..... -1.000000
+    PAL.D2U3 KHS...U3 1.000000
+    PAM.D2U3 CTF.D.U3 -1.000000   BCV...U3 0.002440
+    PAM.D2U3 BI4...U3 0.001800   BN4...U3 0.008380
+    PAM.D2U3 BI5...U3 0.007550   BLN...U3 0.042720
+    PAM.D2U3 BIN...U3 0.003590   BIP...U3 0.117690
+    PAM.D2U3 BKB...U3 0.095750   BKG...U3 0.085280
+    PAM.D2U3 BBU...U3 0.064610   BBV...U3 0.073260
+    PAM.D2U3 BAM...U3 0.496940   AAM..... -1.000000
+    PAM.D2U3 KHS...U3 1.000000
+    PAW.D2U3 CTF.D.U3 -1.000000   AAW..... -1.000000
+    PAW.D2U3 BCV...U3 0.008450   BI4...U3 0.006860
+    PAW.D2U3 BN4...U3 0.025320   BI5...U3 0.014750
+    PAW.D2U3 BLN...U3 0.065670   BIN...U3 0.027490
+    PAW.D2U3 BIP...U3 0.150810   BKB...U3 0.096020
+    PAW.D2U3 BKG...U3 0.153470   BBU...U3 0.173730
+    PAW.D2U3 BBV...U3 -0.006330   BAW...U3 0.283750
+    PAX.D2U3 CTF.D.U3 -1.000000   BCV...U3 0.003010
+    PAX.D2U3 BI4...U3 0.002520   BN4...U3 0.014520
+    PAX.D2U3 BI5...U3 0.009360   BLN...U3 0.052290
+    PAX.D2U3 BIN...U3 0.010780   BIP...U3 0.125710
+    PAX.D2U3 BKB...U3 0.122210   BKG...U3 0.104730
+    PAX.D2U3 BBU...U3 0.110380   BBV...U3 0.050880
+    PAX.D2U3 BAX...U3 0.393610   AAX..... -1.000000
+    PAX.D2U3 KHS...U3 1.000000
+    PBQ.D2U3 CTF.D.U3 -1.000000   BCV...U3 0.003000
+    PBQ.D2U3 BI4...U3 0.001580   BN4...U3 0.003200
+    PBQ.D2U3 BI5...U3 0.003180   BLN...U3 0.014330
+    PBQ.D2U3 BIN...U3 0.036100   BIP...U3 0.005260
+    PBQ.D2U3 BKB...U3 0.091140   BKG...U3 0.009400
+    PBQ.D2U3 BBU...U3 0.073380   BBV...U3 0.056440
+    PBQ.D2U3 BVH...U3 0.703020   ABQ..... -1.000000
+    PBQ.D2U3 KHS...U3 1.000000
+    PBR.D2U3 CTF.D.U3 -1.000000   ABR..... -1.000000
+    PBR.D2U3 BCV...U3 0.005590   BI4...U3 0.004450
+    PBR.D2U3 BN4...U3 0.013970   BI5...U3 0.012810
+    PBR.D2U3 BLN...U3 0.054100   BIN...U3 0.058540
+    PBR.D2U3 BIP...U3 0.114350   BKB...U3 0.079100
+    PBR.D2U3 BKG...U3 0.136150   BBU...U3 0.157080
+    PBR.D2U3 BBV...U3 -0.005660   BLB...U3 0.369500
+    PCA.D2U3 CTF.D.U3 -1.000000   ACA..... -1.000000
+    PCA.D2U3 BCV...U3 0.006510   BI4...U3 0.004150
+    PCA.D2U3 BN4...U3 0.011900   BI5...U3 0.006880
+    PCA.D2U3 BLN...U3 0.028560   BIN...U3 0.043080
+    PCA.D2U3 BIP...U3 0.058160   BKB...U3 0.032930
+    PCA.D2U3 BKG...U3 0.101600   BBU...U3 0.139790
+    PCA.D2U3 BBV...U3 -0.008260   BCA...U3 0.574700
+    PES.D2U3 CTF.D.U3 -1.000000   BCV...U3 0.005170
+    PES.D2U3 BI4...U3 0.003970   BN4...U3 0.010200
+    PES.D2U3 BI5...U3 0.012160   BLN...U3 0.041190
+    PES.D2U3 BIN...U3 0.050600   BIP...U3 0.094440
+    PES.D2U3 BKB...U3 0.065060   BKG...U3 0.134760
+    PES.D2U3 BBU...U3 0.148990   BBV...U3 0.003660
+    PES.D2U3 BES...U3 0.429780   AES..... -1.000000
+    PIH.D2U3 CTF.D.U3 -1.000000   BCV...U3 0.007120
+    PIH.D2U3 BI4...U3 0.004570   BN4...U3 0.015970
+    PIH.D2U3 BI5...U3 0.010720   BLN...U3 0.041700
+    PIH.D2U3 BIN...U3 0.052270   BIP...U3 0.081280
+    PIH.D2U3 BKB...U3 0.111990   BKG...U3 0.066830
+    PIH.D2U3 BBU...U3 0.083020   BBV...U3 0.053770
+    PIH.D2U3 BIH...U3 0.470760   AIH..... -1.000000
+    PIH.D2U3 KHS...U3 1.000000
+    PIL.D2U3 CTF.D.U3 -1.000000   BCV...U3 0.006900
+    PIL.D2U3 BI4...U3 0.003630   BN4...U3 0.013050
+    PIL.D2U3 BI5...U3 0.009750   BLN...U3 0.043800
+    PIL.D2U3 BIN...U3 0.046660   BIP...U3 0.091190
+    PIL.D2U3 BKB...U3 0.094300   BKG...U3 0.094550
+    PIL.D2U3 BBU...U3 0.104260   BBV...U3 0.045060
+    PIL.D2U3 BIL...U3 0.446840   AIL..... -1.000000
+    PIL.D2U3 KHS...U3 1.000000
+    PIS.D2U3 CTF.D.U3 -1.000000   BCV...U3 0.006460
+    PIS.D2U3 BI4...U3 0.003290   BN4...U3 0.009650
+    PIS.D2U3 BI5...U3 0.007120   BLN...U3 0.042780
+    PIS.D2U3 BIN...U3 0.022430   BIP...U3 0.117180
+    PIS.D2U3 BKB...U3 0.100210   BKG...U3 0.084460
+    PIS.D2U3 BBU...U3 0.107770   BBV...U3 0.045780
+    PIS.D2U3 BIS...U3 0.452860   AIS..... -1.000000
+    PIS.D2U3 KHS...U3 1.000000
+    PKU.D2U3 CTF.D.U3 -1.000000   BCV...U3 0.008780
+    PKU.D2U3 BI4...U3 0.003870   BN4...U3 0.014330
+    PKU.D2U3 BI5...U3 0.008720   BLN...U3 0.053830
+    PKU.D2U3 BIN...U3 0.000250   BIP...U3 0.121620
+    PKU.D2U3 BKB...U3 0.065640   BKG...U3 0.107510
+    PKU.D2U3 BBU...U3 0.061660   BBV...U3 0.072020
+    PKU.D2U3 BKU...U3 0.481760   AKU..... -1.000000
+    PKU.D2U3 KHS...U3 1.000000
+    PMU.D2U3 CTF.D.U3 -1.000000   BCV...U3 0.003420
+    PMU.D2U3 BI4...U3 0.003310   BN4...U3 0.012900
+    PMU.D2U3 BI5...U3 0.010950   BLN...U3 0.052380
+    PMU.D2U3 BIN...U3 0.026150   BIP...U3 0.134950
+    PMU.D2U3 BKB...U3 0.141410   BKG...U3 0.092600
+    PMU.D2U3 BBU...U3 0.128680   BBV...U3 0.031580
+    PMU.D2U3 BMU...U3 0.361670   AMU..... -1.000000
+    PMU.D2U3 KHS...U3 1.000000
+    PNF.D2U3 CTF.D.U3 -1.000000   AZA..... -1.000000
+    PNF.D2U3 BCV...U3 0.006370   BI4...U3 0.006060
+    PNF.D2U3 BN4...U3 0.010940   BI5...U3 0.009250
+    PNF.D2U3 BLN...U3 0.028930   BIN...U3 0.123160
+    PNF.D2U3 BIP...U3 0.008450   BKB...U3 0.190310
+    PNF.D2U3 BKG...U3 0.014120   BBU...U3 0.229160
+    PNF.D2U3 BBV...U3 -0.005740   BMD...U3 0.378990
+    PNL.D2U3 CTF.D.U3 -1.000000   ANL..... -1.000000
+    PNL.D2U3 BCV...U3 0.007700   BI4...U3 0.006510
+    PNL.D2U3 BN4...U3 0.014210   BI5...U3 0.013210
+    PNL.D2U3 BLN...U3 0.043810   BIN...U3 0.150390
+    PNL.D2U3 BIP...U3 0.037100   BKB...U3 0.162080
+    PNL.D2U3 BKG...U3 0.066820   BBU...U3 0.195150
+    PNL.D2U3 BBV...U3 -0.007650   BLT...U3 0.310670
+    PNM.D2U3 CTF.D.U3 -1.000000   ANM..... -1.000000
+    PNM.D2U3 BCV...U3 0.003080   BI4...U3 0.001320
+    PNM.D2U3 BN4...U3 0.002860   BI5...U3 0.002850
+    PNM.D2U3 BLN...U3 0.009340   BIN...U3 0.064210
+    PNM.D2U3 BIP...U3 -0.003460   BKB...U3 0.181340
+    PNM.D2U3 BKG...U3 0.003420   BBU...U3 0.263430
+    PNM.D2U3 BBV...U3 -0.006530   BHY...U3 0.478140
+    PN5.D2U3 CTF.D.U3 -1.000000   BCV...U3 0.003870
+    PN5.D2U3 BI4...U3 0.001480   BN4...U3 0.005780
+    PN5.D2U3 BI5...U3 0.003850   BLN...U3 0.018990
+    PN5.D2U3 BIN...U3 0.080140   BIP...U3 0.020100
+    PN5.D2U3 BKB...U3 0.153770   BKG...U3 0.026090
+    PN5.D2U3 BBU...U3 0.137220   BBV...U3 0.027850
+    PN5.D2U3 BA5...U3 0.520870   AN5..... -1.000000
+    PN5.D2U3 KLX...U3 1.000000   KHS...U3 1.000000
+    PON.D2U3 CTF.D.U3 -1.000000   BCV...U3 0.005160
+    PON.D2U3 BI4...U3 0.002660   BN4...U3 0.008850
+    PON.D2U3 BI5...U3 0.006970   BLN...U3 0.026300
+    PON.D2U3 BIN...U3 0.043900   BIP...U3 0.054760
+    PON.D2U3 BKB...U3 0.089190   BKG...U3 0.074270
+    PON.D2U3 BBU...U3 0.129580   BBV...U3 0.032480
+    PON.D2U3 BON...U3 0.525880   AON..... -1.000000
+    PON.D2U3 KHS...U3 1.000000
+    PQA.D2U3 CTF.D.U3 -1.000000   BCV...U3 0.009860
+    PQA.D2U3 BI4...U3 0.005610   BN4...U3 0.023840
+    PQA.D2U3 BI5...U3 0.014610   BLN...U3 0.070060
+    PQA.D2U3 BIN...U3 0.015740   BIP...U3 0.149860
+    PQA.D2U3 BKB...U3 0.107050   BKG...U3 0.119760
+    PQA.D2U3 BBU...U3 0.100280   BBV...U3 0.052650
+    PQA.D2U3 BQT...U3 0.330690   AQA..... -1.000000
+    PQA.D2U3 KHS...U3 1.000000
+    PSA.D2U3 CTF.D.U3 -1.000000   ASA..... -1.000000
+    PSA.D2U3 BCV...U3 0.006580   BI4...U3 0.003810
+    PSA.D2U3 BN4...U3 0.012430   BI5...U3 0.010190
+    PSA.D2U3 BLN...U3 0.045170   BIN...U3 0.042020
+    PSA.D2U3 BIP...U3 0.075990   BKB...U3 -0.003980
+    PSA.D2U3 BKG...U3 0.178930   BBU...U3 0.153290
+    PSA.D2U3 BBV...U3 -0.007170   BLS...U3 0.482750
+    PS1.D2U3 CTF.D.U3 -1.000000   AS1..... -1.000000
+    PS1.D2U3 BCV...U3 0.002710   BI4...U3 0.004150
+    PS1.D2U3 BN4...U3 0.006170   BI5...U3 0.006470
+    PS1.D2U3 BLN...U3 0.029380   BIN...U3 0.045470
+    PS1.D2U3 BIP...U3 0.059270   BKB...U3 0.158180
+    PS1.D2U3 BKG...U3 0.077770   BBU...U3 0.207420
+    PS1.D2U3 BBV...U3 -0.004760   BS1...U3 0.407780
+    PTL.D2U3 CTF.D.U3 -1.000000   BCV...U3 0.010140
+    PTL.D2U3 BI4...U3 0.003830   BN4...U3 0.009260
+    PTL.D2U3 BI5...U3 0.006820   BLN...U3 0.032430
+    PTL.D2U3 BIN...U3 0.037730   BIP...U3 0.091290
+    PTL.D2U3 BKB...U3 0.084350   BKG...U3 0.086900
+    PTL.D2U3 BBU...U3 0.128750   BBV...U3 0.020550
+    PTL.D2U3 BJL...U3 0.487950   ATL..... -1.000000
+    PTL.D2U3 KHS...U3 1.000000
+    PTM.D2U3 CTF.D.U3 -1.000000   BCV...U3 0.004340
+    PTM.D2U3 BI4...U3 0.002720   BN4...U3 0.006640
+    PTM.D2U3 BI5...U3 0.005480   BLN...U3 0.026370
+    PTM.D2U3 BIN...U3 0.050120   BIP...U3 0.040830
+    PTM.D2U3 BKB...U3 0.111530   BKG...U3 0.037760
+    PTM.D2U3 BBU...U3 0.098210   BBV...U3 0.045990
+    PTM.D2U3 BTM...U3 0.570020   ATM..... -1.000000
+    PTM.D2U3 KHS...U3 1.000000
+    PW3.D2U3 CTF.D.U3 -1.000000   BCV...U3 0.007220
+    PW3.D2U3 BI4...U3 0.003820   BN4...U3 0.009370
+    PW3.D2U3 BI5...U3 0.009790   BLN...U3 0.045200
+    PW3.D2U3 BIN...U3 0.089900   BIP...U3 0.053080
+    PW3.D2U3 BKB...U3 0.159690   BKG...U3 0.036900
+    PW3.D2U3 BBU...U3 0.083830   BBV...U3 0.065440
+    PW3.D2U3 BW3...U3 0.435760   AW3..... -1.000000
+    PW3.D2U3 KHS...U3 1.000000
+    PZA.D2U3 CTF.D.U3 -1.000000   AZA..... -1.000000
+    PZA.D2U3 BCV...U3 0.010540   BI4...U3 0.004790
+    PZA.D2U3 BN4...U3 0.014970   BI5...U3 0.011120
+    PZA.D2U3 BLN...U3 0.063120   BIN...U3 0.054590
+    PZA.D2U3 BIP...U3 0.110250   BKB...U3 0.090970
+    PZA.D2U3 BKG...U3 0.129190   BBU...U3 0.170430
+    PZA.D2U3 BBV...U3 -0.011780   BZA...U3 0.351830
+    PD2.D4U3 CTF.D.U3 -1.000000   BIN...U3 0.012100
+    PD2.D4U3 BIP...U3 -0.002600   B5Z...U3 0.561600
+    PD2.D4U3 BKG...U3 0.038700   BKB...U3 0.046000
+    PD2.D4U3 BBO...U3 0.233100   BOL...U3 0.033800
+    PD2.D4U3 BOA...U3 0.037600   BCD...U3 0.008100
+    PD2.D4U3 BF2...U3 0.043700   CF..P.U3 -0.233000
+    PD2.D4U3 COH.V.U3 -0.300000   CFT.C.U3 -0.437200
+    PD2.D4U3 CF..H.U3 -0.046700   CF..F.U3 -0.233100
+    PD2.D4U3 CF..G.U3 -0.102600   CF..K.U3 -0.061200
+    PD2.D4U3 COF.A.U3 -0.035500   BRG...U3 0.013000
+    PD2.D4U3 BI4...U3 -0.005800   BLN...U3 -0.004100
+    PD2.D4U3 AD2..... -1.000000   KHS...U3 0.250000
+    PYC.D4U3 CTF.D.U3 -1.000000   BIN...U3 0.480000
+    PYC.D4U3 BIP...U3 -0.155000   BBU...U3 0.352000
+    PYC.D4U3 BYC...U3 0.218000   AYC..... -1.000000
+    PYC.D4U3 BRG...U3 0.035600   BI4...U3 0.006600
+    PYC.D4U3 BI5...U3 0.012000   BLN...U3 0.033000
+    PYS.D4U3 CTF.D.U3 -1.000000   BIN...U3 0.040500
+    PYS.D4U3 BIP...U3 0.044300   BBU...U3 0.491400
+    PYS.D4U3 BYS...U3 0.346600   BRG...U3 0.006400
+    PYS.D4U3 BI4...U3 0.002800   BI5...U3 0.003800
+    PYS.D4U3 BLN...U3 0.061000   AYS..... -1.000000
+    PYV.D4U3 CTF.D.U3 -1.000000   BIN...U3 0.006000
+    PYV.D4U3 BBU...U3 0.259000   BYV...U3 0.735000
+    PYV.D4U3 AYV..... -1.000000
+    PBL.F1U3 BBK...U3 1.000000   CF..F.U3 -2.900000
+    PBL.F1U3 BBL...U3 -1.000000
+    PBV.F1U3 BBU...U3 1.000000   CF..F.U3 -2.300000
+    PBV.F1U3 BBV...U3 -1.000000
+    PBF.G2U3 BRG...U3 0.002400   BIP...U3 0.002400
+    PBF.G2U3 BBG...U3 1.005300   CF..G.U3 -1.016700
+    PBF.G2U3 BBF...U3 -1.000000
+    PBH.G2U3 BRG...U3 0.002300   BIP...U3 0.002300
+    PBH.G2U3 BBI...U3 1.005200   CF..G.U3 -1.008000
+    PBH.G2U3 BBH...U3 -1.000000
+    PQA.G2U3 BSA...U3 1.000000   CF..G.U3 -1.184000
+    PQA.G2U3 BQA...U3 -1.000000
+    PQB.G2U3 CF..G.U3 -1.150000   BSB...U3 1.000000
+    PQB.G2U3 BQB...U3 -1.000000
+    PQH.G2U3 BSH...U3 1.000000   CF..G.U3 -1.309000
+    PQH.G2U3 BQH...U3 -1.000000
+    PQJ.G2U3 CF..G.U3 -1.098000   BSJ...U3 1.000000
+    PQJ.G2U3 BQJ...U3 -1.000000
+    PQM.G2U3 CF..G.U3 -1.184000   BSM...U3 1.000000
+    PQM.G2U3 BQM...U3 -1.000000
+    PQW.G2U3 CF..G.U3 -1.339000   BSW...U3 1.000000
+    PQW.G2U3 BQW...U3 -1.000000
+    PQ2.G2U3 CF..G.U3 -1.050000   BS2...U3 1.000000
+    PQ2.G2U3 BQ2...U3 -1.000000
+    PQ5.G2U3 CF..G.U3 -1.050000   BS5...U3 1.000000
+    PQ5.G2U3 BQ5...U3 -1.000000
+    PBF.H0U3 BRG...U3 0.026500   BI4...U3 0.024700
+    PBF.H0U3 BI5...U3 0.021800   BLN...U3 0.050800
+    PBF.H0U3 BNL...U3 -0.109100   BIN...U3 0.105500
+    PBF.H0U3 BIP...U3 0.071900   BBU...U3 0.521000
+    PBF.H0U3 CF..H.U3 -1.187000   BFR...U3 -0.112000
+    PBF.H0U3 BKB...U3 0.347000   BBF...U3 -1.000000
+    PBF.H2U3 BRG...U3 0.056100   BI4...U3 0.098800
+    PBF.H2U3 BI5...U3 0.075900   BLN...U3 0.177100
+    PBF.H2U3 BNL...U3 -0.132100   BIN...U3 -0.218000
+    PBF.H2U3 BIP...U3 0.832000   CF..H.U3 -1.000000
+    PBF.H2U3 BFR...U3 -0.112000   BKB...U3 0.246000
+    PBF.H2U3 BBF...U3 -1.000000
+    PBK.H2U3 BRG...U3 -0.028700   BI4...U3 0.171000
+    PBK.H2U3 BI5...U3 0.093000   BLN...U3 0.278000
+    PBK.H2U3 BIK...U3 0.521000   CF..H.U3 -1.000000
+    PBK.H2U3 BFR...U3 -0.020700   BBK...U3 -1.000000
+    PBQ.H2U3 BRG...U3 -0.051300   BI4...U3 0.166000
+    PBQ.H2U3 BI5...U3 0.079000   BLN...U3 0.237000
+    PBQ.H2U3 BIQ...U3 0.593000   CF..H.U3 -1.000000
+    PBQ.H2U3 BFR...U3 -0.020700   BBQ...U3 -1.000000
+    PBY.H2U3 BRG...U3 0.044800   BI4...U3 0.171000
+    PBY.H2U3 BI5...U3 0.093000   BLN...U3 0.278000
+    PBY.H2U3 BID...U3 0.485000   CF..H.U3 -1.000000
+    PBY.H2U3 BFR...U3 -0.020700   BBY...U3 -1.000000
+    PLN.I1U3 BRG...U3 0.026600   B5X...U3 1.000000
+    PLN.I1U3 CF..I.U3 -1.216500   BLN...U3 -1.000000
+    PHA.K1U3 BRG...U3 0.143200   B5T...U3 0.166400
+    PHA.K1U3 BBK...U3 -0.042600   BBL...U3 0.359600
+    PHA.K1U3 BQH...U3 0.126000   BCD...U3 0.324800
+    PHA.K1U3 BHA...U3 -1.000000   CF..K.U3 -1.000000
+    PLA.K1U3 BRG...U3 0.128700   B5T...U3 0.188200
+    PLA.K1U3 BBK...U3 0.051900   BBL...U3 0.306300
+    PLA.K1U3 BQA...U3 0.143100   BCD...U3 0.270300
+    PLA.K1U3 CF..K.U3 -1.000000   BLA...U3 -1.000000
+    PMS.K1U3 BRG...U3 0.128700   B5T...U3 0.188200
+    PMS.K1U3 BBK...U3 0.049400   BBL...U3 0.308800
+    PMS.K1U3 BQM...U3 0.143100   BCD...U3 0.270300
+    PMS.K1U3 CF..K.U3 -1.000000   BMS...U3 -1.000000
+    PSS.K1U3 BRG...U3 0.128700   B5T...U3 0.188200
+    PSS.K1U3 BBK...U3 0.345800   BBL...U3 0.012400
+    PSS.K1U3 BQS...U3 0.143100   BCD...U3 0.270300
+    PSS.K1U3 CF..K.U3 -1.000000   BSS...U3 -1.000000
+    PUK.K1U3 BRG...U3 0.135600   B5T...U3 0.177200
+    PUK.K1U3 BBK...U3 -0.067400   BBL...U3 0.404200
+    PUK.K1U3 BQW...U3 0.133700   BCD...U3 0.297100
+    PUK.K1U3 BUK...U3 -1.000000   CF..K.U3 -1.000000
+    P2L.K1U3 BRG...U3 0.128700   B5T...U3 0.188200
+    P2L.K1U3 BBK...U3 0.160600   BBL...U3 0.197600
+    P2L.K1U3 BQ2...U3 0.143100   BCD...U3 0.270300
+    P2L.K1U3 CF..K.U3 -1.000000   B2L...U3 -1.000000
+    PIB.P5U3 BRG...U3 0.164500   BI4...U3 0.027000
+    PIB.P5U3 B5L...U3 0.764000   CF..P.U3 -0.959700
+    PIB.P5U3 BIB...U3 -1.000000
+    PID.P5U3 BRG...U3 0.149100   BI4...U3 0.026200
+    PID.P5U3 B5Q...U3 0.810300   CF..P.U3 -0.860000
+    PID.P5U3 BID...U3 -1.000000
+    PIG.P5U3 BRG...U3 0.104200   BI4...U3 0.010200
+    PIG.P5U3 B5K...U3 0.883000   CF..P.U3 -0.805900
+    PIG.P5U3 BIG...U3 -1.000000
+    PIK.P5U3 BRG...U3 0.118200   BI4...U3 0.017300
+    PIK.P5U3 B5Q...U3 0.861400   CF..P.U3 -0.860000
+    PIK.P5U3 BIK...U3 -1.000000
+    PIN.P5U3 BRG...U3 0.106800   BI4...U3 0.009500
+    PIN.P5U3 B5I...U3 0.872000   CF..P.U3 -0.794500
+    PIN.P5U3 BIN...U3 -1.000000
+    PIP.P5U3 BRG...U3 0.173800   BI4...U3 0.028100
+    PIP.P5U3 B5J...U3 0.753000   CF..P.U3 -0.946400
+    PIP.P5U3 BIP...U3 -1.000000
+    PIQ.P5U3 BRG...U3 0.095600   BI4...U3 0.008900
+    PIQ.P5U3 B5Q...U3 0.904900   CF..P.U3 -0.860000
+    PIQ.P5U3 BIQ...U3 -1.000000
+    PIB.P7U3 BRG...U3 0.196300   BI4...U3 0.023900
+    PIB.P7U3 B5P...U3 0.721000   CF..P.U3 -1.139800
+    PIB.P7U3 BIB...U3 -1.000000
+    PIG.P7U3 BRG...U3 0.135600   BI4...U3 0.016400
+    PIG.P7U3 B5O...U3 0.840000   CF..P.U3 -0.987800
+    PIG.P7U3 BIG...U3 -1.000000
+    PIN.P7U3 BRG...U3 0.138300   BI4...U3 0.015800
+    PIN.P7U3 B5M...U3 0.829000   CF..P.U3 -0.974500
+    PIN.P7U3 BIN...U3 -1.000000
+    PIP.P7U3 BRG...U3 0.207100   BI4...U3 0.022800
+    PIP.P7U3 B5N...U3 0.710000   CF..P.U3 -1.126500
+    PIP.P7U3 BIP...U3 -1.000000
+    PNC.P8U3 BRG...U3 0.200900   BI4...U3 0.016400
+    PNC.P8U3 B5X...U3 -0.260000   CF..P.U3 -1.000000
+    PN2.P8U3 BRG...U3 0.042000   BI4...U3 0.007100
+    PN2.P8U3 B5Y...U3 -0.062600   CF..P.U3 -0.163000
+    PN2.P8U3 UPBROW27944 1.000000
+    PHA.Q1U3 BRG...U3 0.326000   B5T...U3 0.140000
+    PHA.Q1U3 BBK...U3 -0.031000   BBL...U3 0.260000
+    PHA.Q1U3 BQH...U3 0.256000   CF..Q.U3 -1.066000
+    PHA.Q1U3 BHA...U3 -1.000000
+    PHV.Q1U3 BRG...U3 0.358000   B5T...U3 0.131000
+    PHV.Q1U3 BBK...U3 0.047000   BBL...U3 0.166000
+    PHV.Q1U3 BQB...U3 0.239000   CF..Q.U3 -1.108000
+    PHV.Q1U3 BHV...U3 -1.000000
+    PLA.Q1U3 BRG...U3 0.280000   B5T...U3 0.152000
+    PLA.Q1U3 BBK...U3 0.036000   BBL...U3 0.213000
+    PLA.Q1U3 BQA...U3 0.279000   CF..Q.U3 -1.000000
+    PLA.Q1U3 BLA...U3 -1.000000
+    PMS.Q1U3 BRG...U3 0.280000   B5T...U3 0.152000
+    PMS.Q1U3 BBK...U3 0.034000   BBL...U3 0.215000
+    PMS.Q1U3 CF..Q.U3 -1.000000   BQM...U3 0.279000
+    PMS.Q1U3 BMS...U3 -1.000000
+    PMT.Q1U3 BRG...U3 0.358000   B5T...U3 0.132000
+    PMT.Q1U3 BBK...U3 0.069000   BBL...U3 0.143000
+    PMT.Q1U3 BQJ...U3 0.241000   CF..Q.U3 -1.112000
+    PMT.Q1U3 BMT...U3 -1.000000
+    PSS.Q1U3 BRG...U3 0.280000   B5T...U3 0.152000
+    PSS.Q1U3 BBK...U3 0.241000   BBL...U3 0.008000
+    PSS.Q1U3 BQS...U3 0.279000   CF..Q.U3 -1.000000
+    PSS.Q1U3 BSS...U3 -1.000000
+    PUK.Q1U3 BRG...U3 0.294000   B5T...U3 0.148000
+    PUK.Q1U3 BBK...U3 -0.048000   BBL...U3 0.290000
+    PUK.Q1U3 BQW...U3 0.272000   CF..Q.U3 -1.014000
+    PUK.Q1U3 BUK...U3 -1.000000
+    P2L.Q1U3 BRG...U3 0.280000   B5T...U3 0.152000
+    P2L.Q1U3 BBK...U3 0.112000   BBL...U3 0.137000
+    P2L.Q1U3 CF..Q.U3 -1.000000   BQ2...U3 0.279000
+    P2L.Q1U3 B2L...U3 -1.000000
+    PAH.R1U3 BRG...U3 0.010700   BIP...U3 0.037500
+    PAH.R1U3 BHL...U3 0.100000   B1H...U3 0.885000
+    PAH.R1U3 CF..R.U3 -1.113300   BAH...U3 -1.000000
+    PAL.R1U3 BRG...U3 0.004200   BIP...U3 0.015400
+    PAL.R1U3 BHL...U3 0.100000   B1A...U3 0.896000
+    PAL.R1U3 CF..R.U3 -0.883600   BAL...U3 -1.000000
+    PAM.R1U3 BRG...U3 0.006500   BIP...U3 0.023000
+    PAM.R1U3 BHL...U3 0.100000   B1K...U3 0.892000
+    PAM.R1U3 CF..R.U3 -1.003900   BAM...U3 -1.000000
+    PIH.R1U3 BRG...U3 0.006400   BIP...U3 0.022800
+    PIH.R1U3 BHL...U3 0.100000   B1G...U3 0.892000
+    PIH.R1U3 CF..R.U3 -0.948700   BIH...U3 -1.000000
+    PIL.R1U3 BRG...U3 0.004800   BIP...U3 0.017200
+    PIL.R1U3 BHL...U3 0.100000   B1I...U3 0.894000
+    PIL.R1U3 CF..R.U3 -0.879900   BIL...U3 -1.000000
+    PKU.R1U3 BRG...U3 0.006200   BIP...U3 0.021900
+    PKU.R1U3 BHL...U3 0.100000   B1W...U3 0.895000
+    PKU.R1U3 CF..R.U3 -0.995100   BKU...U3 -1.000000
+    PAH.R2U3 BRG...U3 0.024600   BIP...U3 0.086900
+    PAH.R2U3 BHL...U3 0.100000   CF..R.U3 -1.484600
+    PAH.R2U3 B2H...U3 0.843000   BAH...U3 -1.000000
+    PAL.R2U3 BRG...U3 0.010900   BIP...U3 0.038900
+    PAL.R2U3 BHL...U3 0.100000   CF..R.U3 -1.109400
+    PAL.R2U3 B2A...U3 0.879000   BAL...U3 -1.000000
+    PAM.R2U3 BRG...U3 0.015400   BIP...U3 0.055000
+    PAM.R2U3 BHL...U3 0.100000   CF..R.U3 -1.279000
+    PAM.R2U3 B2K...U3 0.869000   BAM...U3 -1.000000
+    PIH.R2U3 BRG...U3 0.014700   BIP...U3 0.052800
+    PIH.R2U3 BHL...U3 0.100000   CF..R.U3 -1.204500
+    PIH.R2U3 B2G...U3 0.869000   BIH...U3 -1.000000
+    PIL.R2U3 BRG...U3 0.011100   BIP...U3 0.040500
+    PIL.R2U3 BHL...U3 0.100000   CF..R.U3 -1.094000
+    PIL.R2U3 B2I...U3 0.877000   BIL...U3 -1.000000
+    PKU.R2U3 BRG...U3 0.015100   BIP...U3 0.053300
+    PKU.R2U3 BHL...U3 0.100000   CF..R.U3 -1.285700
+    PKU.R2U3 B2W...U3 0.872000   BKU...U3 -1.000000
+    PAH.VAU3 BAH...U3 -1.000000   BOA...U3 0.638000
+    PAH.VAU3 BBH...U3 0.301700   BBF...U3 0.060300
+    PAH.VAU3 COH.V.U3 -0.362000
+    PBQ.VAU3 BVH...U3 -1.000000   BOA...U3 0.769000
+    PBQ.VAU3 BBF...U3 0.231000   COH.V.U3 -0.231000
+    PKU.VAU3 BKU...U3 -1.000000   BOA...U3 0.371000
+    PKU.VAU3 BBH...U3 0.479300   BBF...U3 0.149700
+    PKU.VAU3 COH.V.U3 -0.629000
+    PTM.VAU3 BTM...U3 -1.000000   BOA...U3 0.627000
+    PTM.VAU3 BBH...U3 0.230900   BBF...U3 0.142100
+    PTM.VAU3 COH.V.U3 -0.373000
+    PAH.VRU3 B2H...U3 -1.000000   BBI...U3 0.412700
+    PAH.VRU3 BBG...U3 0.082600   BSS...U3 0.504700
+    PAH.VRU3 COH.V.U3 -0.495300
+    PAL.VRU3 B2A...U3 -1.000000   BBI...U3 0.567700
+    PAL.VRU3 BBG...U3 0.133400   BSS...U3 0.298900
+    PAL.VRU3 COH.V.U3 -0.701100
+    PAM.VRU3 B2K...U3 -1.000000   BBI...U3 0.415300
+    PAM.VRU3 BBG...U3 0.207700   BSS...U3 0.377000
+    PAM.VRU3 COH.V.U3 -0.623000
+    PIH.VRU3 B2G...U3 -1.000000   BBI...U3 0.559800
+    PIH.VRU3 BBG...U3 0.043200   BSS...U3 0.397000
+    PIH.VRU3 COH.V.U3 -0.603000
+    PIL.VRU3 B2I...U3 -1.000000   BBI...U3 0.707900
+    PIL.VRU3 BSS...U3 0.292100   COH.V.U3 -0.707900
+    PKU.VRU3 B2W...U3 -1.000000   BBI...U3 0.469000
+    PKU.VRU3 BBG...U3 0.146400   BSS...U3 0.384600
+    PKU.VRU3 COH.V.U3 -0.615400
+    PAG.V2U3 COH.V.U3 -0.795270   BBH...U3 -1.190240
+    PAG.V2U3 BBJ...U3 1.985510   BAG...U3 -1.000000
+    PAG.V2U3 BAP...U3 0.204730
+    PAH.V2U3 COH.V.U3 -0.570760   BBF...U3 0.111830
+    PAH.V2U3 BBH...U3 0.458930   BAH...U3 -1.000000
+    PAH.V2U3 BHA...U3 0.429240
+    PAL.V2U3 COH.V.U3 -0.670330   BBF...U3 0.026260
+    PAL.V2U3 BBH...U3 0.644080   BAL...U3 -1.000000
+    PAL.V2U3 BLA...U3 0.329670
+    PAM.V2U3 COH.V.U3 -0.625400   BBF...U3 0.032080
+    PAM.V2U3 BBH...U3 0.593320   BAM...U3 -1.000000
+    PAM.V2U3 BMA...U3 0.374600
+    PAW.V2U3 COH.V.U3 -0.845560   BBH...U3 -0.092610
+    PAW.V2U3 BBJ...U3 0.938170   BAW...U3 -1.000000
+    PAW.V2U3 BWA...U3 0.154440
+    PAX.V2U3 COH.V.U3 -0.772480   BBH...U3 0.497090
+    PAX.V2U3 BBJ...U3 0.275390   BAX...U3 -1.000000
+    PAX.V2U3 BXA...U3 0.227520
+    PBQ.V2U3 COH.V.U3 -0.535750   BBF...U3 0.480410
+    PBQ.V2U3 BBH...U3 0.055340   BVH...U3 -1.000000
+    PBQ.V2U3 BHV...U3 0.464250
+    PBR.V2U3 COH.V.U3 -0.757580   BBH...U3 -0.169320
+    PBR.V2U3 BBJ...U3 0.926900   BLB...U3 -1.000000
+    PBR.V2U3 BRB...U3 0.242420
+    PCA.V2U3 COH.V.U3 -0.613980   BBH...U3 -0.247960
+    PCA.V2U3 BBJ...U3 0.861940   BCA...U3 -1.000000
+    PCA.V2U3 BAC...U3 0.386020
+    PES.V2U3 COH.V.U3 -0.719790   BBH...U3 -0.112080
+    PES.V2U3 BBJ...U3 0.831860   BES...U3 -1.000000
+    PES.V2U3 BSE...U3 0.280210
+    PIH.V2U3 COH.V.U3 -0.604710   BBH...U3 0.490580
+    PIH.V2U3 BBJ...U3 0.114130   BIH...U3 -1.000000
+    PIH.V2U3 BHI...U3 0.395290
+    PIL.V2U3 COH.V.U3 -0.710440   BBH...U3 0.564880
+    PIL.V2U3 BBJ...U3 0.145550   BIL...U3 -1.000000
+    PIL.V2U3 BLI...U3 0.289560
+    PIS.V2U3 COH.V.U3 -0.683520   BBF...U3 0.066640
+    PIS.V2U3 BBH...U3 0.616880   BIS...U3 -1.000000
+    PIS.V2U3 BTH...U3 0.316480
+    PKU.V2U3 COH.V.U3 -0.617890   BBH...U3 0.601300
+    PKU.V2U3 BBJ...U3 0.016590   BKU...U3 -1.000000
+    PKU.V2U3 BUK...U3 0.382110
+    PMU.V2U3 COH.V.U3 -0.810120   BBH...U3 0.334500
+    PMU.V2U3 BBJ...U3 0.475620   BMU...U3 -1.000000
+    PMU.V2U3 BUM...U3 0.189880
+    PNF.V2U3 COH.V.U3 -0.845030   BBF...U3 0.420570
+    PNF.V2U3 BBH...U3 0.424460   BMD...U3 -1.000000
+    PNF.V2U3 BMF...U3 0.154970
+    PNL.V2U3 COH.V.U3 -0.907110   BBH...U3 0.503370
+    PNL.V2U3 BBJ...U3 0.403730   BLT...U3 -1.000000
+    PNL.V2U3 BTL...U3 0.092890
+    PNM.V2U3 COH.V.U3 -0.835550   BBF...U3 0.513610
+    PNM.V2U3 BBH...U3 0.321940   BHY...U3 -1.000000
+    PNM.V2U3 BYH...U3 0.164450
+    PN5.V2U3 COH.V.U3 -0.675230   BBF...U3 0.569330
+    PN5.V2U3 BBH...U3 0.105900   BA5...U3 -1.000000
+    PN5.V2U3 B50...U3 0.324770
+    PON.V2U3 COH.V.U3 -0.672660   BBH...U3 0.553280
+    PON.V2U3 BBJ...U3 0.119380   BON...U3 -1.000000
+    PON.V2U3 BRT...U3 0.327340
+    PQA.V2U3 COH.V.U3 -0.813430   BBH...U3 0.466260
+    PQA.V2U3 BBJ...U3 0.347170   BQT...U3 -1.000000
+    PQA.V2U3 BTQ...U3 0.186570
+    PSA.V2U3 COH.V.U3 -0.676360   BBH...U3 -0.525620
+    PSA.V2U3 BBJ...U3 1.201980   BLS...U3 -1.000000
+    PSA.V2U3 BAS...U3 0.323640
+    PS1.V2U3 COH.V.U3 -0.809630   BBH...U3 0.366850
+    PS1.V2U3 BBJ...U3 0.442780   BS1...U3 -1.000000
+    PS1.V2U3 B1S...U3 0.190370
+    PTL.V2U3 COH.V.U3 -0.618490   BBH...U3 0.256260
+    PTL.V2U3 BBJ...U3 0.362230   BJL...U3 -1.000000
+    PTL.V2U3 BLJ...U3 0.381510
+    PTM.V2U3 COH.V.U3 -0.586230   BBF...U3 0.087730
+    PTM.V2U3 BBH...U3 0.498510   BTM...U3 -1.000000
+    PTM.V2U3 BMT...U3 0.413770
+    PW3.V2U3 COH.V.U3 -0.716820   BBH...U3 0.647920
+    PW3.V2U3 BBJ...U3 0.068890   BW3...U3 -1.000000
+    PW3.V2U3 BWT...U3 0.283180
+    PYC.V2U3 COH.V.U3 -1.000000   BBF...U3 2.952400
+    PYC.V2U3 BBH...U3 -1.952400   BYC...U3 -1.000000
+    PYS.V2U3 COH.V.U3 -0.862700   BBH...U3 0.405000
+    PYS.V2U3 BBJ...U3 0.457700   BSY...U3 0.137300
+    PYS.V2U3 BYS...U3 -1.000000
+    PYV.V2U3 COH.V.U3 -0.651700   BYV...U3 -1.000000
+    PYV.V2U3 BBF...U3 1.132600   BBH...U3 -0.480900
+    PYV.V2U3 BVY...U3 0.348300
+    PZA.V2U3 COH.V.U3 -0.745380   BBH...U3 -0.402340
+    PZA.V2U3 BBJ...U3 1.147720   BZA...U3 -1.000000
+    PZA.V2U3 BAZ...U3 0.254620
+    QWT5FTEZ BFT.WTEZ -1.000000   XSU.FTEZ -0.900000
+    QWT5FTEZ BFT...EZ 1.052600
+    TDH.AWU3 BDH...U3 1.000000   BDH...AW -1.000000
+    TDH.AWU3 FAT0..J. 1.792000   KMC.IMU. 1.000000
+    TDH.AWU3 KTX.CPU. 1.000000   KWC..... 1.220000
+    TDK.AWU3 BDK...U3 1.000000   BDK...AW -1.000000
+    TDK.AWU3 FAT0..J. 1.716000   KMC.IMU. 1.000000
+    TDK.AWU3 KTX.CPU. 1.000000   KWC..... 1.237000
+    TFP.AWU3 BFP...U3 1.000000   BFP...AW -1.000000
+    TFP.AWU3 FAT0..J. 2.008000   KMC.IMU. 1.000000
+    TFP.AWU3 KWC..... 1.165000   KTX.FOU. 1.000000
+    TLG.AWU3 BLG...U3 1.000000   BLG...AW -1.000000
+    TNI.AWU3 BNI...U3 1.000000   BNI...AW -1.000000
+    TNI.AWU3 FAT0..J. 1.678000   KMC.IMU. 1.000000
+    TNI.AWU3 KTX.CPU. 1.000000   KWC..... 1.234000
+    TNI.AWU3 KMC.NMU. 1.000000
+    TNL.AWU3 BNL...U3 1.000000   BNL...AW -1.000000
+    TNL.AWU3 FAT0..J. 1.663000   KMC.IMU. 1.000000
+    TNL.AWU3 KTX.CPU. 1.000000   KWC..... 1.069000
+    TNL.AWU3 KMC.NMU. 1.000000
+    TNP.AWU3 BNP...U3 1.000000   BNP...AW -1.000000
+    TNP.AWU3 FAT0..J. 1.678000   KMC.IMU. 1.000000
+    TNP.AWU3 KTX.CPU. 1.000000   KWC..... 1.207000
+    TNP.AWU3 KMC.NMU. 1.000000
+    TB4.BAU3 BB4...U3 1.000000   BB4...BA -1.000000
+    TB4.BAU3 FAT0..J. 0.404000   KMC.IMU. 1.000000
+    TB4.BAU3 KTX.CPU. 1.000000   KWC..... 0.680000
+    TB4.BAU3 KLM.VGU. 1.000000
+    TB5.BAU3 BB5...U3 1.000000   BB5...BA -1.000000
+    TB5.BAU3 FAT0..J. 0.404000   KMC.IMU. 1.000000
+    TB5.BAU3 KTX.CPU. 1.000000   KWC..... 0.680000
+    TB5.BAU3 KLM.VGU. 1.000000
+    TDH.BAU3 BDH...U3 1.000000   BDH...BA -1.000000
+    TDH.BAU3 FAT0..J. 0.385000   KMC.IMU. 1.000000
+    TDH.BAU3 KTX.CPU. 1.000000   KWC..... 0.713000
+    TFP.BAU3 BFP...U3 1.000000   BFP...BA -1.000000
+    TFP.BAU3 FAT0..J. 0.432000   KMC.IMU. 1.000000
+    TFP.BAU3 KWC..... 0.705000   KTX.FOU. 1.000000
+    TFS.BAU3 BFS...U3 1.000000   BFS...BA -1.000000
+    TFS.BAU3 FAT0..J. 0.432000   KMC.IMU. 1.000000
+    TFS.BAU3 KWC..... 0.680000   KTX.FOU. 1.000000
+    TFY.BAU3 BFY...U3 1.000000   BFY...BA -1.000000
+    TFY.BAU3 FAT0..J. 0.441000   KMC.IMU. 1.000000
+    TFY.BAU3 KWC..... 0.595000   KTX.FOU. 1.000000
+    TGP.BAU3 BGP...U3 1.000000   BGU...BA -1.000000
+    TGP.BAU3 FAT0..J. 0.366000   KMC.IMU. 1.000000
+    TGP.BAU3 KTX.CPU. 1.000000   KWC..... 0.722000
+    TGP.BAU3 KMC.NMU. 1.000000
+    TNI.BAU3 BNI...U3 1.000000   BNI...BA -1.000000
+    TNI.BAU3 FAT0..J. 0.361000   KMC.IMU. 1.000000
+    TNI.BAU3 KTX.CPU. 1.000000   KWC..... 0.734000
+    TNI.BAU3 KMC.NMU. 1.000000
+    TNL.BAU3 BNL...U3 1.000000   BNL...BA -1.000000
+    TNL.BAU3 FAT0..J. 0.358000   KMC.IMU. 1.000000
+    TNL.BAU3 KTX.CPU. 1.000000   KWC..... 0.638000
+    TNL.BAU3 KMC.NMU. 1.000000
+    TNP.BAU3 BNP...U3 1.000000   BNP...BA -1.000000
+    TNP.BAU3 FAT0..J. 0.361000   KMC.IMU. 1.000000
+    TNP.BAU3 KTX.CPU. 1.000000   KWC..... 0.702000
+    TNP.BAU3 KMC.NMU. 1.000000
+    TDH.EMU3 BDH...U3 1.000000   BDH...EM -1.000000
+    TDH.EMU3 FAT0..J. 1.638000   KMC.IMU. 1.000000
+    TDH.EMU3 KMC.EXE. 1.000000   KTX.CPU. 1.000000
+    TDH.EMU3 KWC..... -0.485000
+    TGP.EMU3 BGP...U3 1.000000   BGU...EM -1.000000
+    TGP.EMU3 FAT0..J. 1.556000   KMC.IMU. 1.000000
+    TGP.EMU3 KMC.EXE. 1.000000   KTX.CPU. 1.000000
+    TGP.EMU3 KWC..... -0.476000   KMC.NMU. 1.000000
+    TNI.EMU3 BNI...U3 1.000000   BNI...EM -1.000000
+    TNI.EMU3 FAT0..J. 1.534000   KMC.IMU. 1.000000
+    TNI.EMU3 KMC.EXE. 1.000000   KTX.CPU. 1.000000
+    TNI.EMU3 KWC..... -0.485000   KMC.NMU. 1.000000
+    TNL.EMU3 BNL...U3 1.000000   BNL...EM -1.000000
+    TNL.EMU3 FAT0..J. 1.520000   KMC.IMU. 1.000000
+    TNL.EMU3 KMC.EXE. 1.000000   KTX.CPU. 1.000000
+    TNL.EMU3 KWC..... -0.642000   KMC.NMU. 1.000000
+    TDH.EZU3 BDH...U3 1.000000   BDH...EZ -1.000000
+    TDH.EZU3 FAT0..J. 1.524000   KMC.IMU. 1.000000
+    TDH.EZU3 KMC.EXE. 1.000000   KTX.CPU. 1.000000
+    TDH.EZU3 KWC..... -0.582000
+    TGP.EZU3 BGP...U3 1.000000   BGU...EZ -1.000000
+    TGP.EZU3 FAT0..J. 1.447000   KMC.IMU. 1.000000
+    TGP.EZU3 KMC.EXE. 1.000000   KTX.CPU. 1.000000
+    TGP.EZU3 KWC..... -0.581000   KMC.NMU. 1.000000
+    QVO5FTEZ BFT.VOEZ -1.000000   XVI.FTEZ -1.140000
+    QVO5FTEZ NVI.FTEZ -1.000000
+    TNI.EZU3 BNI...U3 1.000000   BNI...EZ -1.000000
+    TNI.EZU3 FAT0..J. 1.427000   KMC.IMU. 1.000000
+    TNI.EZU3 KMC.EXE. 1.000000   KTX.CPU. 1.000000
+    TNI.EZU3 KWC..... -0.583000   KMC.NMU. 1.000000
+    TNL.EZU3 BNL...U3 1.000000   BNL...EZ -1.000000
+    TNL.EZU3 FAT0..J. 1.414000   KMC.IMU. 1.000000
+    TNL.EZU3 KMC.EXE. 1.000000   KTX.CPU. 1.000000
+    TNL.EZU3 KWC..... -0.747000   KMC.NMU. 1.000000
+    TB5.PGU3 BB5...U3 1.000000   BB5...PG -1.000000
+    TB5.PGU3 FAT0..J. 2.515000   KMC.IMU. 1.000000
+    TB5.PGU3 KTX.CPU. 1.000000   KWC..... 1.453000
+    TB5.PGU3 KLM.VGU. 1.000000
+    TDH.PGU3 BDH...U3 1.000000   BDH...PG -1.000000
+    TDH.PGU3 FAT0..J. 2.400000   KMC.IMU. 1.000000
+    TDH.PGU3 KTX.CPU. 1.000000   KWC..... 1.576000
+    TDK.PGU3 BDK...U3 1.000000   BDK...PG -1.000000
+    TDK.PGU3 FAT0..J. 2.299000   KMC.IMU. 1.000000
+    TDK.PGU3 KTX.CPU. 1.000000   KWC..... 1.593000
+    TFP.PGU3 BFP...U3 1.000000   BFP...PG -1.000000
+    TFP.PGU3 FAT0..J. 2.690000   KMC.IMU. 1.000000
+    TFP.PGU3 KWC..... 1.511000   KTX.FOU. 1.000000
+    TFS.PGU3 BFS...U3 1.000000   BFS...PG -1.000000
+    TFS.PGU3 FAT0..J. 2.690000   KMC.IMU. 1.000000
+    TFS.PGU3 KWC..... 1.453000   KTX.FOU. 1.000000
+    TGP.PGU3 BGP...U3 1.000000   BGU...PG -1.000000
+    TGP.PGU3 FAT0..J. 2.263000   KMC.IMU. 1.000000
+    TGP.PGU3 KTX.CPU. 1.000000   KWC..... 1.549000
+    TGP.PGU3 KMC.NMU. 1.000000
+    TLG.PGU3 BLG...U3 1.000000   BLG...PG -1.000000
+    TNL.PGU3 BNL...U3 1.000000   BNL...PG -1.000000
+    TNL.PGU3 FAT0..J. 2.195000   KMC.IMU. 1.000000
+    TNL.PGU3 KTX.CPU. 1.000000   KWC..... 1.354000
+    TNL.PGU3 KMC.NMU. 1.000000
+    TNP.PGU3 BNP...U3 1.000000   BNP...PG -1.000000
+    TNP.PGU3 FAT0..J. 2.231000   KMC.IMU. 1.000000
+    TNP.PGU3 KTX.CPU. 1.000000   KWC..... 1.517000
+    TNP.PGU3 KMC.NMU. 1.000000
+    TB4.VEU3 BB4...U3 1.000000   BB4...VE -1.000000
+    TB4.VEU3 FAT0..J. 0.615000   KMC.IMU. 1.000000
+    TB4.VEU3 KTX.CPU. 1.000000   KWC..... 0.773000
+    TB4.VEU3 KLM.VGU  1.000000
+    TB5.VEU3 BB5...U3 1.000000   BB5...VE -1.000000
+    TB5.VEU3 FAT0..J. 0.615000   KMC.IMU. 1.000000
+    TB5.VEU3 KTX.CPU. 1.000000   KWC..... 0.773000
+    TB5.VEU3 KLM.VGU  1.000000
+    TDH.VEU3 BDH...U3 1.000000   BDH...VE -1.000000
+    TDH.VEU3 FAT0..J. 0.587000   KMC.IMU. 1.000000
+    TDH.VEU3 KTX.CPU. 1.000000   KWC..... 0.818000
+    TFP.VEU3 BFP...U3 1.000000   BFP...VE -1.000000
+    TFP.VEU3 FAT0..J. 0.658000   KMC.IMU. 1.000000
+    TFP.VEU3 KWC..... 0.807000   KTX.FOU. 1.000000
+    TFS.VEU3 BFS...U3 1.000000   BFS...VE -1.000000
+    TFS.VEU3 FAT0..J. 0.658000   KMC.IMU. 1.000000
+    TFS.VEU3 KWC..... 0.773000   KTX.FOU. 1.000000
+    TFY.VEU3 BFY...U3 1.000000   BFY...VE -1.000000
+    TFY.VEU3 FAT0..J. 0.672000   KMC.IMU. 1.000000
+    TFY.VEU3 KWC..... 0.677000   KTX.FOU. 1.000000
+    TGP.VEU3 BGP...U3 1.000000   BGU...VE -1.000000
+    TGP.VEU3 FAT0..J. 0.558000   KMC.IMU. 1.000000
+    TGP.VEU3 KTX.CPU. 1.000000   KWC..... 0.821000
+    TGP.VEU3 KMC.NMU. 1.000000
+    QVO5DHEZ BDH...EZ 0.995000   BDH.VOEZ -1.000000
+    QVO5DHEZ XSU.DHEZ -0.300000   XCI.DHEZ -1.770000
+    TNI.VEU3 BNI...U3 1.000000   BNI...VE -1.000000
+    TNI.VEU3 FAT0..J. 0.550000   KMC.IMU. 1.000000
+    TNI.VEU3 KTX.CPU. 1.000000   KWC..... 0.839000
+    TNI.VEU3 KMC.NMU. 1.000000
+    TNL.VEU3 BNL...U3 1.000000   BNL...VE -1.000000
+    TNL.VEU3 FAT0..J. 0.545000   KMC.IMU. 1.000000
+    TNL.VEU3 KTX.CPU. 1.000000   KWC..... 0.742000
+    TNL.VEU3 KMC.NMU. 1.000000
+    BBK.DHU5 BBK...U5 -1.000000   BDH.VOU5 1.000000
+    BBK.DHU5 XSU.DHU5 0.100000
+    BBL.DHU5 BBL...U5 -1.000000   BDH.VOU5 1.000000
+    BBL.DHU5 XSU.DHU5 3.000000
+    BBU.DHU5 BBU...U5 -1.000000   BDH.VOU5 1.000000
+    BBU.DHU5 XSU.DHU5 0.200000
+    BBV.DHU5 BBV...U5 -1.000000   BDH.VOU5 1.000000
+    BBV.DHU5 XSU.DHU5 2.500000
+    BKB.DHU5 BKB...U5 -1.000000   BDH.VOU5 1.000000
+    BKB.DHU5 XSU.DHU5 0.150000
+    BKG.DHU5 BKG...U5 -1.000000   BDH.VOU5 1.000000
+    BKG.DHU5 XSU.DHU5 0.150000
+    BKB.DKU5 BKB...U5 -1.000000   BDK.VOU5 1.000000
+    BKB.DKU5 NLI.DKU5 0.350000
+    BKG.DKU5 BKG...U5 -1.000000   BDK.VOU5 1.000000
+    BKG.DKU5 NLI.DKU5 0.700000
+    BA5.FPU5 BA5...U5 -1.000000   BFP.VOU5 1.000000
+    BA5.FPU5 BFP.WTU5 0.957290   XSU.FPU5 1.543860
+    BA5.FPU5 XVI.FPU5 1.158000   NVI.FPU5 1.158000
+    BBG.FPU5 BBG...U5 -1.000000   BFP.VOU5 1.000000
+    BBG.FPU5 BFP.WTU5 0.918600   XSU.FPU5 0.183720
+    BBG.FPU5 XVI.FPU5 1.034000   NVI.FPU5 1.034000
+    BBI.FPU5 BBI...U5 -1.000000   BFP.VOU5 1.000000
+    BBI.FPU5 BFP.WTU5 0.889000   XSU.FPU5 0.177800
+    BBI.FPU5 XVI.FPU5 0.965000   NVI.FPU5 0.965000
+    BBO.FPU5 BBO...U5 -1.000000   BFP.VOU5 1.000000
+    BBO.FPU5 BFP.WTU5 0.820000   XSU.FPU5 0.246000
+    BBO.FPU5 XVI.FPU5 0.720000   NVI.FPU5 0.720000
+    BBP.FPU5 BBP...U5 -1.000000   BFP.VOU5 1.000000
+    BBP.FPU5 BFP.WTU5 0.820000   XSU.FPU5 1.230000
+    BBP.FPU5 XVI.FPU5 0.720000   NVI.FPU5 0.720000
+    BBW.FPU5 BBW...U5 -1.000000   BFP.VOU5 1.000000
+    BBW.FPU5 BFP.WTU5 0.870000   XSU.FPU5 0.435000
+    BBW.FPU5 XVI.FPU5 0.870000   NVI.FPU5 0.870000
+    BBY.FPU5 BBY...U5 -1.000000   BFP.VOU5 1.000000
+    BBY.FPU5 BFP.WTU5 0.870000   XSU.FPU5 1.305000
+    BBY.FPU5 XVI.FPU5 0.870000   NVI.FPU5 0.870000
+    BF2.FPU5 BF2...U5 -1.000000   BFP.VOU5 1.000000
+    BF2.FPU5 BFP.WTU5 0.950000   XSU.FPU5 1.786000
+    BF2.FPU5 XVI.FPU5 1.152000   NVI.FPU5 1.152000
+    BIM.FPU5 BIM...U5 -1.000000   BFP.VOU5 1.000000
+    BIM.FPU5 BFP.WTU5 0.941360   XSU.FPU5 0.178930
+    BIM.FPU5 XVI.FPU5 1.262000   NVI.FPU5 1.262000
+    BMI.FPU5 BMI...U5 -1.000000   BFP.VOU5 1.000000
+    BMI.FPU5 BFP.WTU5 0.891670   XSU.FPU5 0.120540
+    BMI.FPU5 XVI.FPU5 1.062000   NVI.FPU5 1.062000
+    BON.FPU5 BON...U5 -1.000000   BFP.VOU5 1.000000
+    BON.FPU5 BFP.WTU5 0.953460   XSU.FPU5 1.417210
+    BON.FPU5 XVI.FPU5 1.166000   NVI.FPU5 1.166000
+    BRS.FPU5 BRS...U5 -1.000000   BFP.VOU5 1.000000
+    BRS.FPU5 BFP.WTU5 0.914090   XSU.FPU5 0.147880
+    BRS.FPU5 XVI.FPU5 1.013000   NVI.FPU5 1.013000
+    BRT.FPU5 BRT...U5 -1.000000   BFP.VOU5 1.000000
+    BRT.FPU5 BFP.WTU5 1.046090   XSU.FPU5 2.030480
+    BRT.FPU5 XVI.FPU5 1.430000   NVI.FPU5 1.430000
+    BSA.FPU5 BSA...U5 -1.000000   BFP.VOU5 1.000000
+    BSA.FPU5 BFP.WTU5 0.963200   XSU.FPU5 0.597180
+    BSA.FPU5 XVI.FPU5 1.145000   NVI.FPU5 1.145000
+    BSH.FPU5 BSH...U5 -1.000000   BFP.VOU5 1.000000
+    BSH.FPU5 BFP.WTU5 0.979200   XSU.FPU5 0.802940
+    BSH.FPU5 XVI.FPU5 1.145000   NVI.FPU5 1.145000
+    BSM.FPU5 BSM...U5 -1.000000   BFP.VOU5 1.000000
+    BSM.FPU5 BFP.WTU5 0.963200   XSU.FPU5 0.597180
+    BSM.FPU5 XVI.FPU5 1.145000   NVI.FPU5 1.145000
+    BSR.FPU5 BSR...U5 -1.000000   BFP.VOU5 1.000000
+    BSR.FPU5 BFP.WTU5 1.006330   XSU.FPU5 0.424280
+    BSR.FPU5 XVI.FPU5 1.400000   NVI.FPU5 1.400000
+    BSW.FPU5 BSW...U5 -1.000000   BFP.VOU5 1.000000
+    BSW.FPU5 BFP.WTU5 0.972500   XSU.FPU5 0.836350
+    BSW.FPU5 XVI.FPU5 1.145000   NVI.FPU5 1.145000
+    BS2.FPU5 BS2...U5 -1.000000   BFP.VOU5 1.000000
+    BS2.FPU5 BFP.WTU5 0.963200   XSU.FPU5 0.394910
+    BS2.FPU5 XVI.FPU5 1.145000   NVI.FPU5 1.145000
+    B1A.FPU5 B1A...U5 -1.000000   BFP.VOU5 1.000000
+    B1A.FPU5 BFP.WTU5 0.932600   XSU.FPU5 0.792710
+    B1A.FPU5 XVI.FPU5 1.118000   NVI.FPU5 1.118000
+    B1G.FPU5 B1G...U5 -1.000000   BFP.VOU5 1.000000
+    B1G.FPU5 BFP.WTU5 0.953100   XSU.FPU5 0.695760
+    B1G.FPU5 XVI.FPU5 1.200000   NVI.FPU5 1.200000
+    B1H.FPU5 B1H...U5 -1.000000   BFP.VOU5 1.000000
+    B1H.FPU5 BFP.WTU5 0.949200   XSU.FPU5 1.195990
+    B1H.FPU5 XVI.FPU5 1.244000   NVI.FPU5 1.244000
+    B1I.FPU5 B1I...U5 -1.000000   BFP.VOU5 1.000000
+    B1I.FPU5 BFP.WTU5 0.939400   XSU.FPU5 0.666970
+    B1I.FPU5 XVI.FPU5 1.139000   NVI.FPU5 1.139000
+    B1K.FPU5 B1K...U5 -1.000000   BFP.VOU5 1.000000
+    B1K.FPU5 BFP.WTU5 0.940000   XSU.FPU5 1.081000
+    B1K.FPU5 XVI.FPU5 1.138000   NVI.FPU5 1.138000
+    B1P.FPU5 B1P...U5 -1.000000   BFP.VOU5 1.000000
+    B1P.FPU5 BFP.WTU5 0.953100   XSU.FPU5 0.419360
+    B1P.FPU5 XVI.FPU5 1.200000   NVI.FPU5 1.200000
+    B1W.FPU5 B1W...U5 -1.000000   BFP.VOU5 1.000000
+    B1W.FPU5 BFP.WTU5 0.937200   XSU.FPU5 1.124640
+    B1W.FPU5 XVI.FPU5 1.174000   NVI.FPU5 1.174000
+    B2A.FPU5 B2A...U5 -1.000000   BFP.VOU5 1.000000
+    B2A.FPU5 BFP.WTU5 0.921400   XSU.FPU5 0.313280
+    B2A.FPU5 XVI.FPU5 1.078000   NVI.FPU5 1.078000
+    B2G.FPU5 B2G...U5 -1.000000   BFP.VOU5 1.000000
+    B2G.FPU5 BFP.WTU5 0.942200   XSU.FPU5 0.282660
+    B2G.FPU5 XVI.FPU5 1.152000   NVI.FPU5 1.152000
+    B2H.FPU5 B2H...U5 -1.000000   BFP.VOU5 1.000000
+    B2H.FPU5 BFP.WTU5 0.933600   XSU.FPU5 0.494810
+    B2H.FPU5 XVI.FPU5 1.188000   NVI.FPU5 1.188000
+    B2I.FPU5 B2I...U5 -1.000000   BFP.VOU5 1.000000
+    B2I.FPU5 BFP.WTU5 0.929300   XSU.FPU5 0.269500
+    B2I.FPU5 XVI.FPU5 1.090000   NVI.FPU5 1.090000
+    B2K.FPU5 B2K...U5 -1.000000   BFP.VOU5 1.000000
+    B2K.FPU5 BFP.WTU5 0.926600   XSU.FPU5 0.435500
+    B2K.FPU5 XVI.FPU5 1.092000   NVI.FPU5 1.092000
+    B2P.FPU5 B2P...U5 -1.000000   BFP.VOU5 1.000000
+    B2P.FPU5 BFP.WTU5 0.942200   XSU.FPU5 0.169600
+    B2P.FPU5 XVI.FPU5 1.152000   NVI.FPU5 1.152000
+    B2W.FPU5 B2W...U5 -1.000000   BFP.VOU5 1.000000
+    B2W.FPU5 BFP.WTU5 0.922600   XSU.FPU5 0.461300
+    B2W.FPU5 XVI.FPU5 1.122000   NVI.FPU5 1.122000
+    B50.FPU5 B50...U5 -1.000000   BFP.VOU5 1.000000
+    B50.FPU5 BFP.WTU5 1.020200   XSU.FPU5 2.350430
+    B50.FPU5 XVI.FPU5 1.435000   NVI.FPU5 1.435000
+    B6A.FPU5 B6A...U5 -1.000000   BFP.VOU5 1.000000
+    B6A.FPU5 BFP.WTU5 1.108000   XSU.FPU5 0.675880
+    B6A.FPU5 XVI.FPU5 1.113000   NVI.FPU5 1.113000
+    B6H.FPU5 B6H...U5 -1.000000   BFP.VOU5 1.000000
+    B6H.FPU5 BFP.WTU5 1.108000   XSU.FPU5 0.565080
+    B6H.FPU5 XVI.FPU5 1.113000   NVI.FPU5 1.113000
+    B6W.FPU5 B6W...U5 -1.000000   BFP.VOU5 1.000000
+    B6W.FPU5 BFP.WTU5 1.108000   XSU.FPU5 0.709120
+    B6W.FPU5 XVI.FPU5 1.113000   NVI.FPU5 1.113000
+    B8L.FPU5 B8L...U5 -1.000000   BFP.VOU5 1.000000
+    B8L.FPU5 BFP.WTU5 1.108000   XSU.FPU5 0.221600
+    B8L.FPU5 XVI.FPU5 1.113000   NVI.FPU5 1.113000
+    B9B.FPU5 B9B...U5 -1.000000   BFP.VOU5 1.000000
+    B9B.FPU5 BFP.WTU5 1.078500   XSU.FPU5 0.323550
+    B9B.FPU5 XVI.FPU5 1.172000   NVI.FPU5 1.172000
+    B9D.FPU5 B9D...U5 -1.000000   BFP.VOU5 1.000000
+    B9D.FPU5 BFP.WTU5 1.038900   XSU.FPU5 0.311670
+    B9D.FPU5 XVI.FPU5 1.132000   NVI.FPU5 1.132000
+    B9E.FPU5 B9E...U5 -1.000000   BFP.VOU5 1.000000
+    B9E.FPU5 BFP.WTU5 0.997900   XSU.FPU5 0.299370
+    B9E.FPU5 XVI.FPU5 1.123000   NVI.FPU5 1.123000
+    B9P.FPU5 B9P...U5 -1.000000   BFP.VOU5 1.000000
+    B9P.FPU5 BFP.WTU5 1.178800   XSU.FPU5 0.353640
+    B9P.FPU5 XVI.FPU5 1.063000   NVI.FPU5 1.063000
+    B9R.FPU5 B9R...U5 -1.000000   BFP.VOU5 1.000000
+    B9R.FPU5 BFP.WTU5 1.152800   XSU.FPU5 0.345840
+    B9R.FPU5 XVI.FPU5 1.078000   NVI.FPU5 1.078000
+    B9S.FPU5 B9S...U5 -1.000000   BFP.VOU5 1.000000
+    B9S.FPU5 BFP.WTU5 1.116500   XSU.FPU5 0.334950
+    B9S.FPU5 XVI.FPU5 1.073000   NVI.FPU5 1.073000
+    B9V.FPU5 B9V...U5 -1.000000   BFP.VOU5 1.000000
+    B9V.FPU5 BFP.WTU5 0.847300   XSU.FPU5 0.021180
+    B9V.FPU5 XVI.FPU5 0.978000   NVI.FPU5 0.978000
+    BAH.FSU5 BAH...U5 -1.000000   BFS.VOU5 1.000000
+    BAH.FSU5 BFS.WTU5 0.981340   XSU.FSU5 4.265880
+    BAH.FSU5 XVI.FSU5 1.213000   NVI.FSU5 1.213000
+    BAL.FSU5 BAL...U5 -1.000000   BFS.VOU5 1.000000
+    BAL.FSU5 BFS.WTU5 0.951140   XSU.FSU5 2.945650
+    BAL.FSU5 XVI.FSU5 1.114000   NVI.FSU5 1.114000
+    BAM.FSU5 BAM...U5 -1.000000   BFS.VOU5 1.000000
+    BAM.FSU5 BFS.WTU5 0.965360   XSU.FSU5 3.762470
+    BAM.FSU5 XVI.FSU5 1.142000   NVI.FSU5 1.142000
+    BAX.FSU5 BAX...U5 -1.000000   BFS.VOU5 1.000000
+    BAX.FSU5 BFS.WTU5 0.923870   XSU.FSU5 1.927230
+    BAX.FSU5 XVI.FSU5 1.055000   NVI.FSU5 1.055000
+    BA5.FSU5 BA5...U5 -1.000000   BFS.VOU5 1.000000
+    BA5.FSU5 BFS.WTU5 0.957290   XSU.FSU5 1.543860
+    BA5.FSU5 XVI.FSU5 1.158000   NVI.FSU5 1.158000
+    BBG.FSU5 BBG...U5 -1.000000   BFS.VOU5 1.000000
+    BBG.FSU5 BFS.WTU5 0.918600   XSU.FSU5 0.183720
+    BBG.FSU5 XVI.FSU5 1.034000   NVI.FSU5 1.034000
+    BBI.FSU5 BBI...U5 -1.000000   BFS.VOU5 1.000000
+    BBI.FSU5 BFS.WTU5 0.889000   XSU.FSU5 0.177800
+    BBI.FSU5 XVI.FSU5 0.965000   NVI.FSU5 0.965000
+    BBO.FSU5 BBO...U5 -1.000000   BFS.VOU5 1.000000
+    BBO.FSU5 BFS.WTU5 0.820000   XSU.FSU5 0.246000
+    BBO.FSU5 XVI.FSU5 0.720000   NVI.FSU5 0.720000
+    BBP.FSU5 BBP...U5 -1.000000   BFS.VOU5 1.000000
+    BBP.FSU5 BFS.WTU5 0.820000   XSU.FSU5 1.230000
+    BBP.FSU5 XVI.FSU5 0.720000   NVI.FSU5 0.720000
+    BBW.FSU5 BBW...U5 -1.000000   BFS.VOU5 1.000000
+    BBW.FSU5 BFS.WTU5 0.870000   XSU.FSU5 0.435000
+    BBW.FSU5 XVI.FSU5 0.870000   NVI.FSU5 0.870000
+    BBY.FSU5 BBY...U5 -1.000000   BFS.VOU5 1.000000
+    BBY.FSU5 BFS.WTU5 0.870000   XSU.FSU5 1.305000
+    BBY.FSU5 XVI.FSU5 0.870000   NVI.FSU5 0.870000
+    BF2.FSU5 BF2...U5 -1.000000   BFS.VOU5 1.000000
+    BF2.FSU5 BFS.WTU5 0.950000   XSU.FSU5 1.786000
+    BF2.FSU5 XVI.FSU5 1.152000   NVI.FSU5 1.152000
+    BHA.FSU5 BHA...U5 -1.000000   BFS.VOU5 1.000000
+    BHA.FSU5 BFS.WTU5 1.051520   XSU.FSU5 6.325920
+    BHA.FSU5 XVI.FSU5 1.460000   NVI.FSU5 1.460000
+    BHI.FSU5 BHI...U5 -1.000000   BFS.VOU5 1.000000
+    BHI.FSU5 BFS.WTU5 1.035270   XSU.FSU5 3.560070
+    BHI.FSU5 XVI.FSU5 1.460000   NVI.FSU5 1.460000
+    BIH.FSU5 BIH...U5 -1.000000   BFS.VOU5 1.000000
+    BIH.FSU5 BFS.WTU5 0.965550   XSU.FSU5 2.408160
+    BIH.FSU5 XVI.FSU5 1.180000   NVI.FSU5 1.180000
+    BIL.FSU5 BIL...U5 -1.000000   BFS.VOU5 1.000000
+    BIL.FSU5 BFS.WTU5 0.947960   XSU.FSU5 2.287400
+    BIL.FSU5 XVI.FSU5 1.120000   NVI.FSU5 1.120000
+    BIM.FSU5 BIM...U5 -1.000000   BFS.VOU5 1.000000
+    BIM.FSU5 BFS.WTU5 0.941360   XSU.FSU5 0.178930
+    BIM.FSU5 XVI.FSU5 1.262000   NVI.FSU5 1.262000
+    BKU.FSU5 BKU...U5 -1.000000   BFS.VOU5 1.000000
+    BKU.FSU5 BFS.WTU5 0.966410   XSU.FSU5 3.973220
+    BKU.FSU5 XVI.FSU5 1.163000   NVI.FSU5 1.163000
+    BLA.FSU5 BLA...U5 -1.000000   BFS.VOU5 1.000000
+    BLA.FSU5 BFS.WTU5 1.021730   XSU.FSU5 4.444390
+    BLA.FSU5 XVI.FSU5 1.381000   NVI.FSU5 1.381000
+    BLI.FSU5 BLI...U5 -1.000000   BFS.VOU5 1.000000
+    BLI.FSU5 BFS.WTU5 1.028430   XSU.FSU5 3.784260
+    BLI.FSU5 XVI.FSU5 1.434000   NVI.FSU5 1.434000
+    BMA.FSU5 BMA...U5 -1.000000   BFS.VOU5 1.000000
+    BMA.FSU5 BFS.WTU5 1.036740   XSU.FSU5 5.561150
+    BMA.FSU5 XVI.FSU5 1.405000   NVI.FSU5 1.405000
+    BMI.FSU5 BMI...U5 -1.000000   BFS.VOU5 1.000000
+    BMI.FSU5 BFS.WTU5 0.891670   XSU.FSU5 0.120540
+    BMI.FSU5 XVI.FSU5 1.062000   NVI.FSU5 1.062000
+    BMU.FSU5 BMU...U5 -1.000000   BFS.VOU5 1.000000
+    BMU.FSU5 BFS.WTU5 0.917020   XSU.FSU5 1.561400
+    BMU.FSU5 XVI.FSU5 1.042000   NVI.FSU5 1.042000
+    BON.FSU5 BON...U5 -1.000000   BFS.VOU5 1.000000
+    BON.FSU5 BFS.WTU5 0.953460   XSU.FSU5 1.417210
+    BON.FSU5 XVI.FSU5 1.166000   NVI.FSU5 1.166000
+    BQA.FSU5 BQA...U5 -1.000000   BFS.VOU5 1.000000
+    BQA.FSU5 BFS.WTU5 0.997000   XSU.FSU5 4.147520
+    BQA.FSU5 XVI.FSU5 1.175000   NVI.FSU5 1.175000
+    BQH.FSU5 BQH...U5 -1.000000   BFS.VOU5 1.000000
+    BQH.FSU5 BFS.WTU5 1.014000   XSU.FSU5 5.536440
+    BQH.FSU5 XVI.FSU5 1.175000   NVI.FSU5 1.175000
+    BQM.FSU5 BQM...U5 -1.000000   BFS.VOU5 1.000000
+    BQM.FSU5 BFS.WTU5 0.997000   XSU.FSU5 4.147520
+    BQM.FSU5 XVI.FSU5 1.175000   NVI.FSU5 1.175000
+    BQS.FSU5 BQS...U5 -1.000000   BFS.VOU5 1.000000
+    BQS.FSU5 BFS.WTU5 0.997000   XSU.FSU5 0.319040
+    BQS.FSU5 XVI.FSU5 1.175000   NVI.FSU5 1.175000
+    BQW.FSU5 BQW...U5 -1.000000   BFS.VOU5 1.000000
+    BQW.FSU5 BFS.WTU5 1.007000   XSU.FSU5 5.810390
+    BQW.FSU5 XVI.FSU5 1.175000   NVI.FSU5 1.175000
+    BQ2.FSU5 BQ2...U5 -1.000000   BFS.VOU5 1.000000
+    BQ2.FSU5 BFS.WTU5 0.997000   XSU.FSU5 2.761690
+    BQ2.FSU5 XVI.FSU5 1.175000   NVI.FSU5 1.175000
+    BRS.FSU5 BRS...U5 -1.000000   BFS.VOU5 1.000000
+    BRS.FSU5 BFS.WTU5 0.914090   XSU.FSU5 0.147880
+    BRS.FSU5 XVI.FSU5 1.013000   NVI.FSU5 1.013000
+    BRT.FSU5 BRT...U5 -1.000000   BFS.VOU5 1.000000
+    BRT.FSU5 BFS.WTU5 1.046090   XSU.FSU5 2.030480
+    BRT.FSU5 XVI.FSU5 1.430000   NVI.FSU5 1.430000
+    BSA.FSU5 BSA...U5 -1.000000   BFS.VOU5 1.000000
+    BSA.FSU5 BFS.WTU5 0.963200   XSU.FSU5 0.597180
+    BSA.FSU5 XVI.FSU5 1.145000   NVI.FSU5 1.145000
+    BSH.FSU5 BSH...U5 -1.000000   BFS.VOU5 1.000000
+    BSH.FSU5 BFS.WTU5 0.979200   XSU.FSU5 0.802940
+    BSH.FSU5 XVI.FSU5 1.145000   NVI.FSU5 1.145000
+    BSM.FSU5 BSM...U5 -1.000000   BFS.VOU5 1.000000
+    BSM.FSU5 BFS.WTU5 0.963200   XSU.FSU5 0.597180
+    BSM.FSU5 XVI.FSU5 1.145000   NVI.FSU5 1.145000
+    BSR.FSU5 BSR...U5 -1.000000   BFS.VOU5 1.000000
+    BSR.FSU5 BFS.WTU5 1.006330   XSU.FSU5 0.424280
+    BSR.FSU5 XVI.FSU5 1.400000   NVI.FSU5 1.400000
+    BSW.FSU5 BSW...U5 -1.000000   BFS.VOU5 1.000000
+    BSW.FSU5 BFS.WTU5 0.972500   XSU.FSU5 0.836350
+    BSW.FSU5 XVI.FSU5 1.145000   NVI.FSU5 1.145000
+    BS2.FSU5 BS2...U5 -1.000000   BFS.VOU5 1.000000
+    BS2.FSU5 BFS.WTU5 0.963200   XSU.FSU5 0.394910
+    BS2.FSU5 XVI.FSU5 1.145000   NVI.FSU5 1.145000
+    BUK.FSU5 BUK...U5 -1.000000   BFS.VOU5 1.000000
+    BUK.FSU5 BFS.WTU5 1.037550   XSU.FSU5 5.791860
+    BUK.FSU5 XVI.FSU5 1.440000   NVI.FSU5 1.440000
+    BUM.FSU5 BUM...U5 -1.000000   BFS.VOU5 1.000000
+    BUM.FSU5 BFS.WTU5 0.989990   XSU.FSU5 2.897960
+    BUM.FSU5 XVI.FSU5 1.344000   NVI.FSU5 1.344000
+    BXA.FSU5 BXA...U5 -1.000000   BFS.VOU5 1.000000
+    BXA.FSU5 BFS.WTU5 0.991990   XSU.FSU5 2.861130
+    BXA.FSU5 XVI.FSU5 1.300000   NVI.FSU5 1.300000
+    B1A.FSU5 B1A...U5 -1.000000   BFS.VOU5 1.000000
+    B1A.FSU5 BFS.WTU5 0.932600   XSU.FSU5 0.792710
+    B1A.FSU5 XVI.FSU5 1.118000   NVI.FSU5 1.118000
+    B1G.FSU5 B1G...U5 -1.000000   BFS.VOU5 1.000000
+    B1G.FSU5 BFS.WTU5 0.953100   XSU.FSU5 0.695760
+    B1G.FSU5 XVI.FSU5 1.200000   NVI.FSU5 1.200000
+    B1H.FSU5 B1H...U5 -1.000000   BFS.VOU5 1.000000
+    B1H.FSU5 BFS.WTU5 0.949200   XSU.FSU5 1.195990
+    B1H.FSU5 XVI.FSU5 1.244000   NVI.FSU5 1.244000
+    B1I.FSU5 B1I...U5 -1.000000   BFS.VOU5 1.000000
+    B1I.FSU5 BFS.WTU5 0.939400   XSU.FSU5 0.666970
+    B1I.FSU5 XVI.FSU5 1.139000   NVI.FSU5 1.139000
+    B1K.FSU5 B1K...U5 -1.000000   BFS.VOU5 1.000000
+    B1K.FSU5 BFS.WTU5 0.940000   XSU.FSU5 1.081000
+    B1K.FSU5 XVI.FSU5 1.138000   NVI.FSU5 1.138000
+    B1P.FSU5 B1P...U5 -1.000000   BFS.VOU5 1.000000
+    B1P.FSU5 BFS.WTU5 0.953100   XSU.FSU5 0.419360
+    B1P.FSU5 XVI.FSU5 1.200000   NVI.FSU5 1.200000
+    B1W.FSU5 B1W...U5 -1.000000   BFS.VOU5 1.000000
+    B1W.FSU5 BFS.WTU5 0.937200   XSU.FSU5 1.124640
+    B1W.FSU5 XVI.FSU5 1.174000   NVI.FSU5 1.174000
+    B2A.FSU5 B2A...U5 -1.000000   BFS.VOU5 1.000000
+    B2A.FSU5 BFS.WTU5 0.921400   XSU.FSU5 0.313280
+    B2A.FSU5 XVI.FSU5 1.078000   NVI.FSU5 1.078000
+    B2G.FSU5 B2G...U5 -1.000000   BFS.VOU5 1.000000
+    B2G.FSU5 BFS.WTU5 0.942200   XSU.FSU5 0.282660
+    B2G.FSU5 XVI.FSU5 1.152000   NVI.FSU5 1.152000
+    B2H.FSU5 B2H...U5 -1.000000   BFS.VOU5 1.000000
+    B2H.FSU5 BFS.WTU5 0.933600   XSU.FSU5 0.494810
+    B2H.FSU5 XVI.FSU5 1.188000   NVI.FSU5 1.188000
+    B2I.FSU5 B2I...U5 -1.000000   BFS.VOU5 1.000000
+    B2I.FSU5 BFS.WTU5 0.929300   XSU.FSU5 0.269500
+    B2I.FSU5 XVI.FSU5 1.090000   NVI.FSU5 1.090000
+    B2K.FSU5 B2K...U5 -1.000000   BFS.VOU5 1.000000
+    B2K.FSU5 BFS.WTU5 0.926600   XSU.FSU5 0.435500
+    B2K.FSU5 XVI.FSU5 1.092000   NVI.FSU5 1.092000
+    B2P.FSU5 B2P...U5 -1.000000   BFS.VOU5 1.000000
+    B2P.FSU5 BFS.WTU5 0.942200   XSU.FSU5 0.169600
+    B2P.FSU5 XVI.FSU5 1.152000   NVI.FSU5 1.152000
+    B2W.FSU5 B2W...U5 -1.000000   BFS.VOU5 1.000000
+    B2W.FSU5 BFS.WTU5 0.922600   XSU.FSU5 0.461300
+    B2W.FSU5 XVI.FSU5 1.122000   NVI.FSU5 1.122000
+    B50.FSU5 B50...U5 -1.000000   BFS.VOU5 1.000000
+    B50.FSU5 BFS.WTU5 1.020200   XSU.FSU5 2.350430
+    B50.FSU5 XVI.FSU5 1.435000   NVI.FSU5 1.435000
+    B6A.FSU5 B6A...U5 -1.000000   BFS.VOU5 1.000000
+    B6A.FSU5 BFS.WTU5 1.108000   XSU.FSU5 0.675880
+    B6A.FSU5 XVI.FSU5 1.113000   NVI.FSU5 1.113000
+    B6H.FSU5 B6H...U5 -1.000000   BFS.VOU5 1.000000
+    B6H.FSU5 BFS.WTU5 1.108000   XSU.FSU5 0.565080
+    B6H.FSU5 XVI.FSU5 1.113000   NVI.FSU5 1.113000
+    B6W.FSU5 B6W...U5 -1.000000   BFS.VOU5 1.000000
+    B6W.FSU5 BFS.WTU5 1.108000   XSU.FSU5 0.709120
+    B6W.FSU5 XVI.FSU5 1.113000   NVI.FSU5 1.113000
+    B8A.FSU5 B8A...U5 -1.000000   BFS.VOU5 1.000000
+    B8A.FSU5 BFS.WTU5 1.107000   XSU.FSU5 7.859700
+    B8A.FSU5 XVI.FSU5 1.113000   NVI.FSU5 1.113000
+    B8H.FSU5 B8H...U5 -1.000000   BFS.VOU5 1.000000
+    B8H.FSU5 BFS.WTU5 1.107000   XSU.FSU5 6.475950
+    B8H.FSU5 XVI.FSU5 1.113000   NVI.FSU5 1.113000
+    B8L.FSU5 B8L...U5 -1.000000   BFS.VOU5 1.000000
+    B8L.FSU5 BFS.WTU5 1.108000   XSU.FSU5 0.221600
+    B8L.FSU5 XVI.FSU5 1.113000   NVI.FSU5 1.113000
+    B8M.FSU5 B8M...U5 -1.000000   BFS.VOU5 1.000000
+    B8M.FSU5 BFS.WTU5 1.108000   XSU.FSU5 0.565080
+    B8M.FSU5 XVI.FSU5 1.113000   NVI.FSU5 1.113000
+    B8W.FSU5 B8W...U5 -1.000000   BFS.VOU5 1.000000
+    B8W.FSU5 BFS.WTU5 1.107000   XSU.FSU5 8.202870
+    B8W.FSU5 XVI.FSU5 1.113000   NVI.FSU5 1.113000
+    B82.FSU5 B82...U5 -1.000000   BFS.VOU5 1.000000
+    B82.FSU5 BFS.WTU5 1.108000   XSU.FSU5 0.299160
+    B82.FSU5 XVI.FSU5 1.113000   NVI.FSU5 1.113000
+    B9A.FSU5 B9A...U5 -1.000000   BFS.VOU5 1.000000
+    B9A.FSU5 BFS.WTU5 1.078500   XSU.FSU5 3.882600
+    B9A.FSU5 XVI.FSU5 1.172000   NVI.FSU5 1.172000
+    B9B.FSU5 B9B...U5 -1.000000   BFS.VOU5 1.000000
+    B9B.FSU5 BFS.WTU5 1.078500   XSU.FSU5 0.323550
+    B9B.FSU5 XVI.FSU5 1.172000   NVI.FSU5 1.172000
+    B9C.FSU5 B9C...U5 -1.000000   BFS.VOU5 1.000000
+    B9C.FSU5 BFS.WTU5 1.038900   XSU.FSU5 3.740040
+    B9C.FSU5 XVI.FSU5 1.132000   NVI.FSU5 1.132000
+    B9D.FSU5 B9D...U5 -1.000000   BFS.VOU5 1.000000
+    B9D.FSU5 BFS.WTU5 1.038900   XSU.FSU5 0.311670
+    B9D.FSU5 XVI.FSU5 1.132000   NVI.FSU5 1.132000
+    B9E.FSU5 B9E...U5 -1.000000   BFS.VOU5 1.000000
+    B9E.FSU5 BFS.WTU5 0.997900   XSU.FSU5 0.299370
+    B9E.FSU5 XVI.FSU5 1.123000   NVI.FSU5 1.123000
+    B9O.FSU5 B9O...U5 -1.000000   BFS.VOU5 1.000000
+    B9O.FSU5 BFS.WTU5 1.178800   XSU.FSU5 4.243680
+    B9O.FSU5 XVI.FSU5 1.063000   NVI.FSU5 1.063000
+    B9P.FSU5 B9P...U5 -1.000000   BFS.VOU5 1.000000
+    B9P.FSU5 BFS.WTU5 1.178800   XSU.FSU5 0.353640
+    B9P.FSU5 XVI.FSU5 1.063000   NVI.FSU5 1.063000
+    B9Q.FSU5 B9Q...U5 -1.000000   BFS.VOU5 1.000000
+    B9Q.FSU5 BFS.WTU5 1.152800   XSU.FSU5 4.150080
+    B9Q.FSU5 XVI.FSU5 1.078000   NVI.FSU5 1.078000
+    B9R.FSU5 B9R...U5 -1.000000   BFS.VOU5 1.000000
+    B9R.FSU5 BFS.WTU5 1.152800   XSU.FSU5 0.345840
+    B9R.FSU5 XVI.FSU5 1.078000   NVI.FSU5 1.078000
+    B9S.FSU5 B9S...U5 -1.000000   BFS.VOU5 1.000000
+    B9S.FSU5 BFS.WTU5 1.116500   XSU.FSU5 0.334950
+    B9S.FSU5 XVI.FSU5 1.073000   NVI.FSU5 1.073000
+    B9V.FSU5 B9V...U5 -1.000000   BFS.VOU5 1.000000
+    B9V.FSU5 BFS.WTU5 0.847300   XSU.FSU5 0.021180
+    B9V.FSU5 XVI.FSU5 0.978000   NVI.FSU5 0.978000
+    BAH.FYU5 BAH...U5 -1.000000   BFY.VOU5 1.000000
+    BAH.FYU5 BFY.WTU5 0.981340   XSU.FYU5 4.265880
+    BAH.FYU5 XVI.FYU5 1.213000   NVI.FYU5 1.213000
+    BAL.FYU5 BAL...U5 -1.000000   BFY.VOU5 1.000000
+    BAL.FYU5 BFY.WTU5 0.951140   XSU.FYU5 2.945650
+    BAL.FYU5 XVI.FYU5 1.114000   NVI.FYU5 1.114000
+    BAM.FYU5 BAM...U5 -1.000000   BFY.VOU5 1.000000
+    BAM.FYU5 BFY.WTU5 0.965360   XSU.FYU5 3.762470
+    BAM.FYU5 XVI.FYU5 1.142000   NVI.FYU5 1.142000
+    BAX.FYU5 BAX...U5 -1.000000   BFY.VOU5 1.000000
+    BAX.FYU5 BFY.WTU5 0.923870   XSU.FYU5 1.927230
+    BAX.FYU5 XVI.FYU5 1.055000   NVI.FYU5 1.055000
+    BA5.FYU5 BA5...U5 -1.000000   BFY.VOU5 1.000000
+    BA5.FYU5 BFY.WTU5 0.957290   XSU.FYU5 1.543860
+    BA5.FYU5 XVI.FYU5 1.158000   NVI.FYU5 1.158000
+    BBO.FYU5 BBO...U5 -1.000000   BFY.VOU5 1.000000
+    BBO.FYU5 BFY.WTU5 0.820000   XSU.FYU5 0.246000
+    BBO.FYU5 XVI.FYU5 0.720000   NVI.FYU5 0.720000
+    BBP.FYU5 BBP...U5 -1.000000   BFY.VOU5 1.000000
+    BBP.FYU5 BFY.WTU5 0.820000   XSU.FYU5 1.230000
+    BBP.FYU5 XVI.FYU5 0.720000   NVI.FYU5 0.720000
+    BBW.FYU5 BBW...U5 -1.000000   BFY.VOU5 1.000000
+    BBW.FYU5 BFY.WTU5 0.870000   XSU.FYU5 0.435000
+    BBW.FYU5 XVI.FYU5 0.870000   NVI.FYU5 0.870000
+    BBY.FYU5 BBY...U5 -1.000000   BFY.VOU5 1.000000
+    BBY.FYU5 BFY.WTU5 0.870000   XSU.FYU5 1.305000
+    BBY.FYU5 XVI.FYU5 0.870000   NVI.FYU5 0.870000
+    BF2.FYU5 BF2...U5 -1.000000   BFY.VOU5 1.000000
+    BF2.FYU5 BFY.WTU5 0.950000   XSU.FYU5 1.786000
+    BF2.FYU5 XVI.FYU5 1.152000   NVI.FYU5 1.152000
+    BHA.FYU5 BHA...U5 -1.000000   BFY.VOU5 1.000000
+    BHA.FYU5 BFY.WTU5 1.051520   XSU.FYU5 6.325920
+    BHA.FYU5 XVI.FYU5 1.460000   NVI.FYU5 1.460000
+    BHI.FYU5 BHI...U5 -1.000000   BFY.VOU5 1.000000
+    BHI.FYU5 BFY.WTU5 1.035270   XSU.FYU5 3.560070
+    BHI.FYU5 XVI.FYU5 1.460000   NVI.FYU5 1.460000
+    BIH.FYU5 BIH...U5 -1.000000   BFY.VOU5 1.000000
+    BIH.FYU5 BFY.WTU5 0.965550   XSU.FYU5 2.408160
+    BIH.FYU5 XVI.FYU5 1.180000   NVI.FYU5 1.180000
+    BIL.FYU5 BIL...U5 -1.000000   BFY.VOU5 1.000000
+    BIL.FYU5 BFY.WTU5 0.947960   XSU.FYU5 2.287400
+    BIL.FYU5 XVI.FYU5 1.120000   NVI.FYU5 1.120000
+    BKU.FYU5 BKU...U5 -1.000000   BFY.VOU5 1.000000
+    BKU.FYU5 BFY.WTU5 0.966410   XSU.FYU5 3.973220
+    BKU.FYU5 XVI.FYU5 1.163000   NVI.FYU5 1.163000
+    BLA.FYU5 BLA...U5 -1.000000   BFY.VOU5 1.000000
+    BLA.FYU5 BFY.WTU5 1.021730   XSU.FYU5 4.444390
+    BLA.FYU5 XVI.FYU5 1.381000   NVI.FYU5 1.381000
+    BLI.FYU5 BLI...U5 -1.000000   BFY.VOU5 1.000000
+    BLI.FYU5 BFY.WTU5 1.028430   XSU.FYU5 3.784260
+    BLI.FYU5 XVI.FYU5 1.434000   NVI.FYU5 1.434000
+    BMA.FYU5 BMA...U5 -1.000000   BFY.VOU5 1.000000
+    BMA.FYU5 BFY.WTU5 1.036740   XSU.FYU5 5.561150
+    BMA.FYU5 XVI.FYU5 1.405000   NVI.FYU5 1.405000
+    BMU.FYU5 BMU...U5 -1.000000   BFY.VOU5 1.000000
+    BMU.FYU5 BFY.WTU5 0.917020   XSU.FYU5 1.561400
+    BMU.FYU5 XVI.FYU5 1.042000   NVI.FYU5 1.042000
+    BQA.FYU5 BQA...U5 -1.000000   BFY.VOU5 1.000000
+    BQA.FYU5 BFY.WTU5 0.997000   XSU.FYU5 4.147520
+    BQA.FYU5 XVI.FYU5 1.175000   NVI.FYU5 1.175000
+    BQH.FYU5 BQH...U5 -1.000000   BFY.VOU5 1.000000
+    BQH.FYU5 BFY.WTU5 1.014000   XSU.FYU5 5.536440
+    BQH.FYU5 XVI.FYU5 1.175000   NVI.FYU5 1.175000
+    BQM.FYU5 BQM...U5 -1.000000   BFY.VOU5 1.000000
+    BQM.FYU5 BFY.WTU5 0.997000   XSU.FYU5 4.147520
+    BQM.FYU5 XVI.FYU5 1.175000   NVI.FYU5 1.175000
+    BQS.FYU5 BQS...U5 -1.000000   BFY.VOU5 1.000000
+    BQS.FYU5 BFY.WTU5 0.997000   XSU.FYU5 0.319040
+    BQS.FYU5 XVI.FYU5 1.175000   NVI.FYU5 1.175000
+    BQW.FYU5 BQW...U5 -1.000000   BFY.VOU5 1.000000
+    BQW.FYU5 BFY.WTU5 1.007000   XSU.FYU5 5.810390
+    BQW.FYU5 XVI.FYU5 1.175000   NVI.FYU5 1.175000
+    BQ2.FYU5 BQ2...U5 -1.000000   BFY.VOU5 1.000000
+    BQ2.FYU5 BFY.WTU5 0.997000   XSU.FYU5 2.761690
+    BQ2.FYU5 XVI.FYU5 1.175000   NVI.FYU5 1.175000
+    BUK.FYU5 BUK...U5 -1.000000   BFY.VOU5 1.000000
+    BUK.FYU5 BFY.WTU5 1.037550   XSU.FYU5 5.791860
+    BUK.FYU5 XVI.FYU5 1.440000   NVI.FYU5 1.440000
+    BUM.FYU5 BUM...U5 -1.000000   BFY.VOU5 1.000000
+    BUM.FYU5 BFY.WTU5 0.989990   XSU.FYU5 2.897960
+    BUM.FYU5 XVI.FYU5 1.344000   NVI.FYU5 1.344000
+    BXA.FYU5 BXA...U5 -1.000000   BFY.VOU5 1.000000
+    BXA.FYU5 BFY.WTU5 0.991990   XSU.FYU5 2.861130
+    BXA.FYU5 XVI.FYU5 1.300000   NVI.FYU5 1.300000
+    B50.FYU5 B50...U5 -1.000000   BFY.VOU5 1.000000
+    B50.FYU5 BFY.WTU5 1.020200   XSU.FYU5 2.350430
+    B50.FYU5 XVI.FYU5 1.435000   NVI.FYU5 1.435000
+    B8A.FYU5 B8A...U5 -1.000000   BFY.VOU5 1.000000
+    B8A.FYU5 BFY.WTU5 1.107000   XSU.FYU5 7.859700
+    B8A.FYU5 XVI.FYU5 1.113000   NVI.FYU5 1.113000
+    B8H.FYU5 B8H...U5 -1.000000   BFY.VOU5 1.000000
+    B8H.FYU5 BFY.WTU5 1.107000   XSU.FYU5 6.475950
+    B8H.FYU5 XVI.FYU5 1.113000   NVI.FYU5 1.113000
+    B8M.FYU5 B8M...U5 -1.000000   BFY.VOU5 1.000000
+    B8M.FYU5 BFY.WTU5 1.108000   XSU.FYU5 0.565080
+    B8M.FYU5 XVI.FYU5 1.113000   NVI.FYU5 1.113000
+    B8W.FYU5 B8W...U5 -1.000000   BFY.VOU5 1.000000
+    B8W.FYU5 BFY.WTU5 1.107000   XSU.FYU5 8.202870
+    B8W.FYU5 XVI.FYU5 1.113000   NVI.FYU5 1.113000
+    B82.FYU5 B82...U5 -1.000000   BFY.VOU5 1.000000
+    B82.FYU5 BFY.WTU5 1.108000   XSU.FYU5 0.299160
+    B82.FYU5 XVI.FYU5 1.113000   NVI.FYU5 1.113000
+    B9A.FYU5 B9A...U5 -1.000000   BFY.VOU5 1.000000
+    B9A.FYU5 BFY.WTU5 1.078500   XSU.FYU5 3.882600
+    B9A.FYU5 XVI.FYU5 1.172000   NVI.FYU5 1.172000
+    B9B.FYU5 B9B...U5 -1.000000   BFY.VOU5 1.000000
+    B9B.FYU5 BFY.WTU5 1.078500   XSU.FYU5 0.323550
+    B9B.FYU5 XVI.FYU5 1.172000   NVI.FYU5 1.172000
+    B9C.FYU5 B9C...U5 -1.000000   BFY.VOU5 1.000000
+    B9C.FYU5 BFY.WTU5 1.038900   XSU.FYU5 3.740040
+    B9C.FYU5 XVI.FYU5 1.132000   NVI.FYU5 1.132000
+    B9D.FYU5 B9D...U5 -1.000000   BFY.VOU5 1.000000
+    B9D.FYU5 BFY.WTU5 1.038900   XSU.FYU5 0.311670
+    B9D.FYU5 XVI.FYU5 1.132000   NVI.FYU5 1.132000
+    B9E.FYU5 B9E...U5 -1.000000   BFY.VOU5 1.000000
+    B9E.FYU5 BFY.WTU5 0.997900   XSU.FYU5 0.299370
+    B9E.FYU5 XVI.FYU5 1.123000   NVI.FYU5 1.123000
+    B9O.FYU5 B9O...U5 -1.000000   BFY.VOU5 1.000000
+    B9O.FYU5 BFY.WTU5 1.178800   XSU.FYU5 4.243680
+    B9O.FYU5 XVI.FYU5 1.063000   NVI.FYU5 1.063000
+    B9P.FYU5 B9P...U5 -1.000000   BFY.VOU5 1.000000
+    B9P.FYU5 BFY.WTU5 1.178800   XSU.FYU5 0.353640
+    B9P.FYU5 XVI.FYU5 1.063000   NVI.FYU5 1.063000
+    B9Q.FYU5 B9Q...U5 -1.000000   BFY.VOU5 1.000000
+    B9Q.FYU5 BFY.WTU5 1.152800   XSU.FYU5 4.150080
+    B9Q.FYU5 XVI.FYU5 1.078000   NVI.FYU5 1.078000
+    B9R.FYU5 B9R...U5 -1.000000   BFY.VOU5 1.000000
+    B9R.FYU5 BFY.WTU5 1.152800   XSU.FYU5 0.345840
+    B9R.FYU5 XVI.FYU5 1.078000   NVI.FYU5 1.078000
+    B9S.FYU5 B9S...U5 -1.000000   BFY.VOU5 1.000000
+    B9S.FYU5 BFY.WTU5 1.116500   XSU.FYU5 0.334950
+    B9S.FYU5 XVI.FYU5 1.073000   NVI.FYU5 1.073000
+    B/A.GPU5 B/A...U5 -1.000000   BGP.VOU5 1.000000
+    B/A.GPU5 NRN.GPU5 0.639000   ND2.GPU5 0.281000
+    B/A.GPU5 WVP.GPU5 0.380000   WD8.GPU5 0.085000
+    B/B.GPU5 B/B...U5 -1.000000   BGP.VOU5 1.000000
+    B/B.GPU5 NRN.GPU5 0.643000   ND2.GPU5 0.355000
+    B/B.GPU5 WVP.GPU5 0.410000   WD8.GPU5 0.132000
+    B/J.GPU5 B/J...U5 -1.000000   BGP.VOU5 1.000000
+    B/J.GPU5 NRN.GPU5 0.640000   ND2.GPU5 0.306000
+    B/J.GPU5 WVP.GPU5 0.390000   WD8.GPU5 0.101000
+    B/2.GPU5 B/2...U5 -1.000000   BGP.VOU5 1.000000
+    B/2.GPU5 NRN.GPU5 0.639000   ND2.GPU5 0.281000
+    B/2.GPU5 WVP.GPU5 0.380000   WD8.GPU5 0.085000
+    BIP.GPU5 BIP...U5 -1.000000   BGP.VOU5 1.000000
+    BIP.GPU5 NRN.GPU5 0.486000   ND2.GPU5 0.137000
+    BIP.GPU5 WVP.GPU5 0.100000   WD8.GPU5 -0.016000
+    BI5.GPU5 BI5...U5 -1.000000   BGP.VOU5 1.000000
+    BI5.GPU5 NRN.GPU5 0.660000   ND2.GPU5 1.100000
+    BI5.GPU5 WVP.GPU5 2.100000   WD8.GPU5 1.100000
+    BLN.GPU5 BLN...U5 -1.000000   BGP.VOU5 1.000000
+    BLN.GPU5 NRN.GPU5 0.555000   ND2.GPU5 1.080000
+    BLN.GPU5 WVP.GPU5 1.040000   WD8.GPU5 0.700000
+    BN4.GPU5 BN4...U5 -1.000000   BGP.VOU5 1.000000
+    BN4.GPU5 NRN.GPU5 0.688000   ND2.GPU5 1.000000
+    BN4.GPU5 WVP.GPU5 6.800000   WD8.GPU5 1.300000
+    B0A.GPU5 B0A...U5 -1.000000   BGP.VOU5 1.000000
+    B0A.GPU5 NRN.GPU5 0.639000   ND2.GPU5 0.281000
+    B0A.GPU5 WVP.GPU5 0.380000   WD8.GPU5 0.085000
+    B0B.GPU5 B0B...U5 -1.000000   BGP.VOU5 1.000000
+    B0B.GPU5 NRN.GPU5 0.643000   ND2.GPU5 0.355000
+    B0B.GPU5 WVP.GPU5 0.410000   WD8.GPU5 0.132000
+    B0J.GPU5 B0J...U5 -1.000000   BGP.VOU5 1.000000
+    B0J.GPU5 NRN.GPU5 0.640300   ND2.GPU5 0.306000
+    B0J.GPU5 WVP.GPU5 0.390000   WD8.GPU5 0.101000
+    B0M.GPU5 B0M...U5 -1.000000   BGP.VOU5 1.000000
+    B0M.GPU5 NRN.GPU5 0.639000   ND2.GPU5 0.281000
+    B0M.GPU5 WVP.GPU5 0.380000   WD8.GPU5 0.085000
+    B0S.GPU5 B0S...U5 -1.000000   BGP.VOU5 1.000000
+    B0S.GPU5 NRN.GPU5 0.639000   ND2.GPU5 0.281000
+    B0S.GPU5 WVP.GPU5 0.380000   WD8.GPU5 0.085000
+    B4A.GPU5 B4A...U5 -1.000000   BGP.VOU5 1.000000
+    B4A.GPU5 NRN.GPU5 0.662000   ND2.GPU5 0.580000
+    B4A.GPU5 WVP.GPU5 0.610000   WD8.GPU5 0.270000
+    B4B.GPU5 B4B...U5 -1.000000   BGP.VOU5 1.000000
+    B4B.GPU5 NRN.GPU5 0.779000   ND2.GPU5 0.635000
+    B4B.GPU5 WVP.GPU5 4.030000   WD8.GPU5 1.952000
+    B4C.GPU5 B4C...U5 -1.000000   BGP.VOU5 1.000000
+    B4C.GPU5 NRN.GPU5 0.657000   ND2.GPU5 0.630000
+    B4C.GPU5 WVP.GPU5 0.720000   WD8.GPU5 0.340000
+    B4D.GPU5 B4D...U5 -1.000000   BGP.VOU5 1.000000
+    B4D.GPU5 NRN.GPU5 0.620000   ND2.GPU5 1.029000
+    B4D.GPU5 WVP.GPU5 1.200000   WD8.GPU5 0.824000
+    B4E.GPU5 B4E...U5 -1.000000   BGP.VOU5 1.000000
+    B4E.GPU5 NRN.GPU5 0.647000   ND2.GPU5 0.650000
+    B4E.GPU5 WVP.GPU5 0.740000   WD8.GPU5 0.370000
+    B4I.GPU5 B4I...U5 -1.000000   BGP.VOU5 1.000000
+    B4I.GPU5 NRN.GPU5 0.639000   ND2.GPU5 0.474000
+    B4I.GPU5 WVP.GPU5 0.570000   WD8.GPU5 0.224000
+    B4K.GPU5 B4K...U5 -1.000000   BGP.VOU5 1.000000
+    B4K.GPU5 NRN.GPU5 1.078000   ND2.GPU5 2.508000
+    B4K.GPU5 WVP.GPU5 12.290000   WD8.GPU5 6.568000
+    B4O.GPU5 B4O...U5 -1.000000   BGP.VOU5 1.000000
+    B4O.GPU5 NRN.GPU5 0.661000   ND2.GPU5 0.428000
+    B4O.GPU5 WVP.GPU5 0.480000   WD8.GPU5 0.182000
+    B4P.GPU5 B4P...U5 -1.000000   BGP.VOU5 1.000000
+    B4P.GPU5 NRN.GPU5 0.725000   ND2.GPU5 -2.560000
+    B4P.GPU5 WVP.GPU5 -2.170000   WD8.GPU5 -2.836000
+    B4Q.GPU5 B4Q...U5 -1.000000   BGP.VOU5 1.000000
+    B4Q.GPU5 NRN.GPU5 0.658000   ND2.GPU5 0.466000
+    B4Q.GPU5 WVP.GPU5 0.580000   WD8.GPU5 0.232000
+    B4R.GPU5 B4R...U5 -1.000000   BGP.VOU5 1.000000
+    B4R.GPU5 NRN.GPU5 0.648000   ND2.GPU5 0.469000
+    B4R.GPU5 WVP.GPU5 0.570000   WD8.GPU5 0.221000
+    B4S.GPU5 B4S...U5 -1.000000   BGP.VOU5 1.000000
+    B4S.GPU5 NRN.GPU5 0.653000   ND2.GPU5 0.486000
+    B4S.GPU5 WVP.GPU5 0.600000   WD8.GPU5 0.252000
+    B4T.GPU5 B4T...U5 -1.000000   BGP.VOU5 1.000000
+    B4T.GPU5 NRN.GPU5 0.638000   ND2.GPU5 0.470000
+    B4T.GPU5 WVP.GPU5 0.560000   WD8.GPU5 0.220000
+    B4V.GPU5 B4V...U5 -1.000000   BGP.VOU5 1.000000
+    B4V.GPU5 NRN.GPU5 0.648000   ND2.GPU5 0.476000
+    B4V.GPU5 WVP.GPU5 0.560000   WD8.GPU5 0.220000
+    B5I.GPU5 B5I...U5 -1.000000   BGP.VOU5 1.000000
+    B5I.GPU5 NRN.GPU5 0.701000   ND2.GPU5 0.222000
+    B5I.GPU5 WVP.GPU5 0.220000   WD8.GPU5 -0.034000
+    B5J.GPU5 B5J...U5 -1.000000   BGP.VOU5 1.000000
+    B5J.GPU5 NRN.GPU5 0.704000   ND2.GPU5 0.275000
+    B5J.GPU5 WVP.GPU5 0.330000   WD8.GPU5 0.031000
+    B5K.GPU5 B5K...U5 -1.000000   BGP.VOU5 1.000000
+    B5K.GPU5 NRN.GPU5 0.701000   ND2.GPU5 0.169000
+    B5K.GPU5 WVP.GPU5 0.210000   WD8.GPU5 -0.047000
+    B5L.GPU5 B5L...U5 -1.000000   BGP.VOU5 1.000000
+    B5L.GPU5 NRN.GPU5 0.704000   ND2.GPU5 0.222000
+    B5L.GPU5 WVP.GPU5 0.320000   WD8.GPU5 0.018000
+    B5M.GPU5 B5M...U5 -1.000000   BGP.VOU5 1.000000
+    B5M.GPU5 NRN.GPU5 0.729000   ND2.GPU5 0.200000
+    B5M.GPU5 WVP.GPU5 0.250000   WD8.GPU5 -0.015000
+    B5N.GPU5 B5N...U5 -1.000000   BGP.VOU5 1.000000
+    B5N.GPU5 NRN.GPU5 0.729000   ND2.GPU5 0.147000
+    B5N.GPU5 WVP.GPU5 0.240000   WD8.GPU5 -0.028000
+    B5O.GPU5 B5O...U5 -1.000000   BGP.VOU5 1.000000
+    B5O.GPU5 NRN.GPU5 0.731000   ND2.GPU5 0.253000
+    B5O.GPU5 WVP.GPU5 0.360000   WD8.GPU5 0.050000
+    B5P.GPU5 B5P...U5 -1.000000   BGP.VOU5 1.000000
+    B5P.GPU5 NRN.GPU5 0.731000   ND2.GPU5 0.200000
+    B5P.GPU5 WVP.GPU5 0.350000   WD8.GPU5 0.037000
+    B5Q.GPU5 B5Q...U5 -1.000000   BGP.VOU5 1.000000
+    B5Q.GPU5 NRN.GPU5 0.715000   ND2.GPU5 0.110000
+    B5Q.GPU5 WVP.GPU5 0.240000   WD8.GPU5 -0.050000
+    B5T.GPU5 B5T...U5 -1.000000   BGP.VOU5 1.000000
+    B5T.GPU5 NRN.GPU5 0.617000   ND2.GPU5 0.200000
+    B5T.GPU5 WVP.GPU5 0.480000   WD8.GPU5 0.000100
+    B5U.GPU5 B5U...U5 -1.000000   BGP.VOU5 1.000000
+    B5U.GPU5 NRN.GPU5 0.777000   ND2.GPU5 -0.566000
+    B5U.GPU5 WVP.GPU5 -0.110000   WD8.GPU5 -0.528000
+    B5V.GPU5 B5V...U5 -1.000000   BGP.VOU5 1.000000
+    B5V.GPU5 NRN.GPU5 0.728000   ND2.GPU5 0.112000
+    B5V.GPU5 WVP.GPU5 0.470000   WD8.GPU5 -0.045000
+    B5W.GPU5 B5W...U5 -1.000000   BGP.VOU5 1.000000
+    B5W.GPU5 NRN.GPU5 0.684000   ND2.GPU5 0.093000
+    B5W.GPU5 WVP.GPU5 0.380000   WD8.GPU5 0.031000
+    B5X.GPU5 B5X...U5 -1.000000   BGP.VOU5 1.000000
+    B5X.GPU5 NRN.GPU5 0.433000   ND2.GPU5 0.485000
+    B5X.GPU5 WVP.GPU5 1.000000   WD8.GPU5 0.423000
+    B5Y.GPU5 B5Y...U5 -1.000000   BGP.VOU5 1.000000
+    B5Y.GPU5 NRN.GPU5 0.356000   ND2.GPU5 0.912000
+    B5Y.GPU5 WVP.GPU5 1.000000   WD8.GPU5 0.423000
+    B5Z.GPU5 B5Z...U5 -1.000000   BGP.VOU5 1.000000
+    B5Z.GPU5 NRN.GPU5 0.635000   ND2.GPU5 0.500000
+    B5Z.GPU5 WVP.GPU5 1.100000   WD8.GPU5 0.346000
+    B53.GPU5 B53...U5 -1.000000   BGP.VOU5 1.000000
+    B53.GPU5 NRN.GPU5 0.660000   ND2.GPU5 0.742000
+    B53.GPU5 WVP.GPU5 0.240000   WD8.GPU5 0.119000
+    B54.GPU5 B54...U5 -1.000000   BGP.VOU5 1.000000
+    B54.GPU5 NRN.GPU5 0.706000   ND2.GPU5 0.441000
+    B54.GPU5 WVP.GPU5 0.300000   WD8.GPU5 0.192000
+    B55.GPU5 B55...U5 -1.000000   BGP.VOU5 1.000000
+    B55.GPU5 NRN.GPU5 0.642000   ND2.GPU5 -0.297000
+    B55.GPU5 WVP.GPU5 -1.120000   WD8.GPU5 -0.744000
+    COF.A.U5 COF.A.U5 1.000000   KTC..... 1.000000
+    COF.A.U5 FAT0..J. 2.013000   BFR...U5 -0.207000
+    COF.A.U5 UPBROW27945 1.000000
+    CFT.C.U5 CFT.C.U5 1.000000   KTC..... 1.000000
+    CFT.C.U5 BFR...U5 -0.009000   UPBROW27946 1.000000
+    CTF.D.U5 CTF.D.U5 1.000000   KWC..... 1.120000
+    CTF.D.U5 KTC..... 1.000000   FAT0..J. 0.086000
+    CTF.D.U5 BFR...U5 -0.025000   UPBROW27947 1.000000
+    CF..G.U5 CF..G.U5 1.000000   FAT0..J. 0.362000
+    CF..G.U5 BFR...U5 -0.024000   BNL...U5 -0.022100
+    CF..G.U5 UPBROW27948 1.000000
+    CF..H.U5 CF..H.U5 1.000000   KTC..... 1.000000
+    CF..H.U5 UPBROW27949 1.000000
+    CF..K.U5 CF..K.U5 1.000000   FAT0..J. 0.436000
+    CF..K.U5 BFR...U5 -0.019000   UPBROW27950 1.000000
+    CF..P.U5 CF..P.U5 1.000000   KTC..... 1.000000
+    CF..P.U5 FAT0..J. 0.490000   BFR...U5 -0.047000
+    CF..P.U5 UPBROW27951 1.000000
+    CF..R.U5 CF..R.U5 1.000000   FAT0..J. 0.469000
+    CF..R.U5 BFR...U5 -0.050000   BNL...U5 -0.044200
+    CF..R.U5 UPBROW27952 1.000000
+    COH.V.U5 COH.V.U5 1.000000   KTC..... 1.000000
+    COH.V.U5 FAT0..J. 0.156000   BFR...U5 -0.014000
+    COH.V.U5 UPBROW27953 1.000000
+    DCD...U5 BCD...U5 -1.000000   FAT0..J. -100.000000
+    DCD...U5 UPBROW27954 1.000000
+    DDH...U5 BDH...U5 -1.000000   FAT0..J. -100.000000
+    DDH...U5 UPBROW27955 1.000000
+    DDK...U5 BDK...U5 -1.000000   FAT0..J. -100.000000
+    DDK...U5 UPBROW27956 1.000000
+    DFP...U5 BFP...U5 -1.000000   FAT0..J. -100.000000
+    DFP...U5 UPBROW27957 1.000000
+    DFS...U5 BFS...U5 -1.000000   FAT0..J. -100.000000
+    DFS...U5 UPBROW27958 1.000000
+    DFY...U5 BFY...U5 -1.000000   FAT0..J. -100.000000
+    DFY...U5 UPBROW27959 1.000000
+    DGP...U5 BGP...U5 -1.000000   FAT0..J. -100.000000
+    DGP...U5 UPBROW27960 1.000000
+    DLR...U5 BLR...U5 -1.000000   FAT0..J. -100.000000
+    DLR...U5 UPBROW27961 1.000000
+    DNI...U5 BNI...U5 -1.000000   FAT0..J. -100.000000
+    DNI...U5 UPBROW27962 1.000000
+    DNJ...U5 BNJ...U5 -1.000000   FAT0..J. -100.000000
+    DNJ...U5 UPBROW27963 1.000000
+    DNL...U5 BNL...U5 -1.000000   FAT0..J. -100.000000
+    DNL...U5 UPBROW27964 1.000000
+    DNP...U5 BNP...U5 -1.000000   FAT0..J. -100.000000
+    DNP...U5 UPBROW27965 1.000000
+    DOA...U5 BOA...U5 -1.000000   FAT0..J. -100.000000
+    DOA...U5 UPBROW27966 1.000000
+    DOL...U5 BOL...U5 -1.000000   FAT0..J. -100.000000
+    DOL...U5 UPBROW27967 1.000000
+    DRG...U5 BRG...U5 -1.000000   FAT0..J. -100.000000
+    DRG...U5 UPBROW27968 1.000000
+    DAF.02U5 BAF...U5 -1.000000   FAT0..J. -100.000000
+    DAF.02U5 UPBROW27969 1.000000
+    DAJ.02U5 BAJ...U5 -1.000000   FAT0..J. -100.000000
+    DAJ.02U5 UPBROW27970 1.000000
+    IOF.A.U5 COF.A.U5 1.000000   FAT0..J. 5.226000
+    IOF.A.U5 BFR...U5 -0.207000
+    IFT.C.U5 CFT.C.U5 1.000000   FAT0..J. 1.524000
+    IFT.C.U5 BFR...U5 -0.009000
+    WVP5GPEM WVP.GPEM -0.100000   XVL.GPEM 0.100000
+    IF..F.U5 CF..F.U5 1.000000   FAT0..J. 0.435000
+    IF..F.U5 BFR...U5 -0.015000   BRG...U5 -0.006000
+    IF..G.U5 CF..G.U5 1.000000   FAT0..J. 1.297000
+    IF..G.U5 BFR...U5 -0.024000   BNL...U5 -0.022100
+    IF..H.U5 CF..H.U5 1.000000   FAT0..J. 4.052000
+    IF..I.U5 CF..I.U5 1.000000   FAT0..J. 1.156000
+    IF..I.U5 BFR...U5 -0.014000   BRG...U5 -0.021000
+    WD85GPEM WD8.GPEM -0.010000   XVL.GPEM 0.020000
+    IF..P.U5 CF..P.U5 1.000000   FAT0..J. 1.291000
+    IF..P.U5 BFR...U5 -0.047000
+    IF..Q.U5 CF..Q.U5 1.000000   FAT0..J. 3.443000
+    IF..Q.U5 BFR...U5 -0.032000   UPBROW27971 1.000000
+    IF..R.U5 CF..R.U5 1.000000   FAT0..J. 2.854000
+    IF..R.U5 BFR...U5 -0.050000   BNL...U5 -0.044200
+    IOH.V.U5 COH.V.U5 1.000000   FAT0..J. 0.527000
+    IOH.V.U5 BFR...U5 -0.014000
+    KH1.PSU5 KHS...U5 -1.000000   UPBROW27972 1.000000
+    KH2.PSU5 KHS...U5 -1.000000   FAT0..J. 2.000000
+    KPC.REU5 KPC...U5 -1.000000   FAT0..J. 1.276000
+    KD1.TRU5 KDK...U5 -1.000000   FAT0..J. -1.102000
+    KD1.TRU5 UPBROW27973 1.000000
+    KD2.TRU5 KDK...U5 -1.000000
+    MFR.AFU5 BFR...U5 -1.000000   BAF...U5 1.000000
+    MLO.AJU5 BGP...U5 -0.475000   BDH...U5 -0.266000
+    MLO.AJU5 BFP...U5 -0.180000   BFY...U5 -0.079000
+    MLO.AJU5 BAJ...U5 1.000000
+    MB4.BHU5 BB4...U5 -1.000000   BBH...U5 0.952400
+    MB4.BHU5 BBF...U5 0.047600
+    MB5.BIU5 BB5...U5 -1.000000   BBI...U5 0.952400
+    MB5.BIU5 BBG...U5 0.047600
+    MBK.BLU5 BBL...U5 1.000000   BBK...U5 -1.000000
+    MBK.BOU5 BBL...U5 -0.069000   BBK...U5 -0.931000
+    MBK.BOU5 BBO...U5 1.000000
+    MBL.BPU5 BBL...U5 -0.482800   BBK...U5 -0.517200
+    MBL.BPU5 BBP...U5 1.000000
+    MQA.BQU5 BBQ...U5 1.000000   BQA...U5 -1.000000
+    MQH.BQU5 BBQ...U5 1.000000   BQH...U5 -1.000000
+    MQM.BQU5 BBQ...U5 1.000000   BQM...U5 -1.000000
+    MQW.BQU5 BBQ...U5 1.000000   BQW...U5 -1.000000
+    MQ2.BQU5 BBQ...U5 1.000000   BQ2...U5 -1.000000
+    MQ5.BQU5 BBQ...U5 1.000000   BQ5...U5 -1.000000
+    MBU.BVU5 BBV...U5 1.000000   BBU...U5 -1.000000
+    MBU.BWU5 BBV...U5 -0.130400   BBU...U5 -0.869600
+    MBU.BWU5 BBW...U5 1.000000
+    MBV.BYU5 BBV...U5 -0.565200   BBU...U5 -0.434800
+    MBV.BYU5 BBY...U5 1.000000
+    MFQ.FRU5 BFP...U5 -0.400000   BFS...U5 -0.600000
+    MFQ.FRU5 BFR...U5 1.000000
+    MRG.FRU5 BFR...U5 1.000000   BRG...U5 -1.000000
+    MCD.FYU5 BFY...U5 1.000000   BCD...U5 -1.000000
+    MCD.FYU5 FAT0..J. 0.500000
+    MKB.IBU5 BIP...U5 -0.750000   BIB...U5 1.000000
+    MKB.IBU5 BKG...U5 -0.121400   BKB...U5 -0.128600
+    MKG.IBU5 BIP...U5 -0.750000   BIB...U5 1.000000
+    MKG.IBU5 BKG...U5 -0.178600   BKB...U5 -0.071400
+    MKB.IGU5 BIN...U5 -0.750000   BIG...U5 1.000000
+    MKB.IGU5 BKG...U5 -0.121400   BKB...U5 -0.128600
+    MKG.IGU5 BIN...U5 -0.750000   BIG...U5 1.000000
+    MKG.IGU5 BKG...U5 -0.178600   BKB...U5 -0.071400
+    MNI.INU5 BIN...U5 0.572500   BIP...U5 0.442500
+    MNI.INU5 BNI...U5 -1.000000
+    MIN.IPU5 BIP...U5 1.000000   BIN...U5 -1.000000
+    MNP.IPU5 BIN...U5 0.050800   BIP...U5 0.964200
+    MNP.IPU5 BNP...U5 -1.000000
+    MII.I4U5 BII...U5 -1.000000   BI4...U5 0.950000
+    MKG.KBU5 BKB...U5 1.000000   BKG...U5 -1.000000
+    MDH.LNU5 BLN...U5 1.015000   BRG...U5 0.072200
+    MDH.LNU5 KPC...U5 1.000000   BDH...U5 -1.111000
+    MDH.LNU5 B5W...U5 0.072200
+    MIB.LNU5 BLN...U5 1.015000   BIG...U5 -0.047400
+    MIB.LNU5 BIB...U5 -0.899600   BRG...U5 -0.038000
+    MIB.LNU5 B5U...U5 0.055300   KPC...U5 1.500000
+    MIG.LNU5 BLN...U5 1.015000   BIG...U5 -0.676100
+    MIG.LNU5 BIB...U5 -0.522600   BRG...U5 0.026900
+    MIG.LNU5 B5V...U5 0.192500   KPC...U5 1.500000
+    MIN.LNU5 BLN...U5 1.015000   BIN...U5 -0.676100
+    MIN.LNU5 BIP...U5 -0.522600   BRG...U5 0.026900
+    MIN.LNU5 B5V...U5 0.192500   KPC...U5 1.500000
+    MIP.LNU5 BLN...U5 1.015000   BIN...U5 -0.047400
+    MIP.LNU5 BIP...U5 -0.899600   BRG...U5 -0.038000
+    MIP.LNU5 B5U...U5 0.055300   KPC...U5 1.500000
+    MNL.LNU5 BLN...U5 1.015000   BNL...U5 -1.000000
+    MRG.LRU5 BRG...U5 -0.620000   BLR...U5 1.000000
+    MIM.LSU5 BLS...U5 1.000000   BIM...U5 -1.000000
+    MSR.LSU5 BLS...U5 1.000000   BSR...U5 -1.000000
+    M1S.LSU5 BLS...U5 1.000000   B1S...U5 -1.000000
+    MHI.MSU5 BMS...U5 1.000000   BHI...U5 -1.000000
+    MLI.MSU5 BMS...U5 1.000000   BLI...U5 -1.000000
+    MMA.MSU5 BMS...U5 1.000000   BMA...U5 -1.000000
+    MRT.MSU5 BMS...U5 1.000000   BRT...U5 -1.000000
+    MTQ.MSU5 BMS...U5 1.000000   BTQ...U5 -1.000000
+    MUM.MSU5 BMS...U5 1.000000   BUM...U5 -1.000000
+    MXA.MSU5 BMS...U5 1.000000   BXA...U5 -1.000000
+    M50.MSU5 BMS...U5 1.000000   B50...U5 -1.000000
+    MIN.NIU5 BIN...U5 -0.572500   BIP...U5 -0.442500
+    MIN.NIU5 BNI...U5 1.000000
+    MDK.NJU5 BLN...U5 -0.111100   BIN...U5 -0.175000
+    MDK.NJU5 BIP...U5 -0.238900   BDK...U5 -0.482400
+    MDK.NJU5 BNJ...U5 1.000000
+    MI5.NLU5 BI5...U5 -1.052000   BNL...U5 1.000000
+    MLN.NLU5 BNL...U5 1.000000   BLN...U5 -1.015000
+    MNP.NLU5 BNL...U5 1.000000   BNP...U5 -0.660800
+    MNP.NLU5 BDK...U5 -0.219100
+    MN2.NLU5 BNL...U5 1.000000   BNP...U5 -1.000000
+    MN2.NLU5 FAT0..J. 0.551000
+    MIP.NPU5 BIN...U5 -0.050800   BIP...U5 -0.964200
+    MIP.NPU5 BNP...U5 1.000000
+    MNN.N4U5 BN4...U5 0.950000   BNN...U5 -1.000000
+    MRG.N4U5 BRG...U5 -1.000000   BN4...U5 1.414600
+    MF2.OAU5 BOA...U5 0.642000   BF2...U5 -1.000000
+    MF2.OAU5 BBO...U5 0.358000   CF..F.U5 -0.358000
+    MBH.OLU5 BOL...U5 1.000000   BBH...U5 -1.000000
+    MCV.RGU5 BCV...U5 -1.000000   BRG...U5 0.570000
+    MI4.RGU5 BRG...U5 0.678800   BI4...U5 -1.000000
+    MLG.RGU5 BRG...U5 0.657500   BLG...U5 -1.000000
+    MN4.RGU5 BRG...U5 0.706900   BN4...U5 -1.000000
+    MU3.RGU5 BRG...U5 0.622600   BU3...U5 -1.000000
+    MU4.RGU5 BRG...U5 0.714600   BU4...U5 -1.000000
+    MF2.2LU5 B2L...U5 1.000000   BF2...U5 -1.000000
+    PU3.A1U5 BI4...U5 -1.225000   BU3...U5 -1.000000
+    PU3.A1U5 B53...U5 1.740000   COF.A.U5 -1.052600
+    PU4.A1U5 BI4...U5 -1.160000   BU4...U5 -1.000000
+    PU4.A1U5 B54...U5 1.785000   COF.A.U5 -1.000000
+    PU5.A1U5 BI4...U5 -1.291000   GU5...U5 -1.000000
+    PU5.A1U5 B55...U5 0.950000   COF.A.U5 -0.936800
+    PBF.C1U5 BRG...U5 0.042300   BI4...U5 0.020900
+    PBF.C1U5 BU3...U5 0.028500   BU4...U5 0.037000
+    PBF.C1U5 GU5...U5 0.032900   B4A...U5 0.358000
+    PBF.C1U5 BBK...U5 0.296300   BBL...U5 0.194700
+    PBF.C1U5 B9A...U5 0.042000   CFT.C.U5 -1.470000
+    PBF.C1U5 GV1...U5 1.000000   GV2...U5 1.000000
+    PBF.C1U5 GV3...U5 1.000000   KFF.C.U5 1.000000
+    PBF.C1U5 LFF.C.U5 1.000000   BBF...U5 -1.000000
+    PBG.C1U5 BRG...U5 0.042300   BI4...U5 0.020900
+    PBG.C1U5 BU3...U5 0.028500   BU4...U5 0.037000
+    PBG.C1U5 GU5...U5 0.032900   B4A...U5 0.358000
+    PBG.C1U5 BBK...U5 0.491000   B9B...U5 0.042000
+    PBG.C1U5 CFT.C.U5 -1.470000   KFF.C.U5 1.000000
+    PBG.C1U5 BBG...U5 -1.000000
+    PBH.C1U5 BRG...U5 0.032800   BI4...U5 0.031400
+    PBH.C1U5 BU3...U5 0.030400   BU4...U5 0.042800
+    PBH.C1U5 GU5...U5 0.035400   B4C...U5 0.385000
+    PBH.C1U5 BBK...U5 0.286600   BBL...U5 0.188400
+    PBH.C1U5 B9C...U5 0.048000   CFT.C.U5 -1.257000
+    PBH.C1U5 GV1...U5 1.000000   GV2...U5 1.000000
+    PBH.C1U5 GV3...U5 1.000000   KFF.C.U5 1.000000
+    PBH.C1U5 LFF.C.U5 1.000000   BBH...U5 -1.000000
+    PBI.C1U5 BRG...U5 0.032800   BI4...U5 0.031400
+    PBI.C1U5 BU3...U5 0.030400   BU4...U5 0.042800
+    PBI.C1U5 GU5...U5 0.035400   B4C...U5 0.385000
+    PBI.C1U5 BBK...U5 0.475000   B9D...U5 0.048000
+    PBI.C1U5 CFT.C.U5 -1.257000   KFF.C.U5 1.000000
+    PBI.C1U5 BBI...U5 -1.000000
+    PBJ.C1U5 BRG...U5 0.028900   BI4...U5 0.020900
+    PBJ.C1U5 BU3...U5 0.025600   BU4...U5 0.037000
+    PBJ.C1U5 GU5...U5 0.039300   B4E...U5 0.427000
+    PBJ.C1U5 BBK...U5 0.459000   B9E...U5 0.068000
+    PBJ.C1U5 CFT.C.U5 -1.276000   KFF.C.U5 1.000000
+    PBJ.C1U5 BBJ...U5 -1.000000
+    PBF.C5U5 BRG...U5 0.088200   BI4...U5 0.059600
+    PBF.C5U5 BU3...U5 0.055600   BU4...U5 0.050700
+    PBF.C5U5 GU5...U5 0.039400   BBK...U5 0.068000
+    PBF.C5U5 BBL...U5 0.044700   B9O...U5 0.057600
+    PBF.C5U5 CFT.C.U5 -1.644500   B4O...U5 0.615200
+    PBF.C5U5 GV1...U5 1.000000   GV2...U5 1.000000
+    PBF.C5U5 GV3...U5 1.000000   KFF.C.U5 1.000000
+    PBF.C5U5 LFF.C.U5 1.000000   BBF...U5 -1.000000
+    PBG.C5U5 BRG...U5 0.088200   BI4...U5 0.059600
+    PBG.C5U5 BU3...U5 0.055600   BU4...U5 0.050700
+    PBG.C5U5 GU5...U5 0.039400   BBK...U5 0.112700
+    PBG.C5U5 CFT.C.U5 -1.644500   B4O...U5 0.615200
+    PBG.C5U5 B9P...U5 0.057600   GV1...U5 1.000000
+    PBG.C5U5 GV2...U5 1.000000   GV3...U5 1.000000
+    PBG.C5U5 KFF.C.U5 1.000000   BBG...U5 -1.000000
+    PBH.C5U5 BRG...U5 0.071300   BI4...U5 0.069800
+    PBH.C5U5 BU3...U5 0.061000   BU4...U5 0.064000
+    PBH.C5U5 GU5...U5 0.040900   BBK...U5 0.067200
+    PBH.C5U5 BBL...U5 0.044100   B9Q...U5 0.058700
+    PBH.C5U5 CFT.C.U5 -1.207500   B4Q...U5 0.638400
+    PBH.C5U5 GV1...U5 1.000000   GV2...U5 1.000000
+    PBH.C5U5 GV3...U5 1.000000   KFF.C.U5 1.000000
+    PBH.C5U5 LFF.C.U5 1.000000   BBH...U5 -1.000000
+    PBI.C5U5 BRG...U5 0.071300   BI4...U5 0.069800
+    PBI.C5U5 BU3...U5 0.061000   BU4...U5 0.064000
+    PBI.C5U5 GU5...U5 0.040900   BBK...U5 0.111300
+    PBI.C5U5 CFT.C.U5 -1.207500   B4Q...U5 0.638400
+    PBI.C5U5 B9R...U5 0.058700   GV1...U5 1.000000
+    PBI.C5U5 GV2...U5 1.000000   GV3...U5 1.000000
+    PBI.C5U5 KFF.C.U5 1.000000   BBI...U5 -1.000000
+    PBJ.C5U5 BRG...U5 0.063700   BI4...U5 0.057500
+    PBJ.C5U5 BU3...U5 0.056600   BU4...U5 0.057800
+    PBJ.C5U5 GU5...U5 0.043500   BBK...U5 0.107500
+    PBJ.C5U5 CFT.C.U5 -1.104000   B4S...U5 0.679000
+    PBJ.C5U5 B9S...U5 0.062500   GV1...U5 1.000000
+    PBJ.C5U5 GV2...U5 1.000000   GV3...U5 1.000000
+    PBJ.C5U5 KFF.C.U5 1.000000   BBJ...U5 -1.000000
+    PBU.C5U5 BRG...U5 0.043400   BI4...U5 0.059800
+    PBU.C5U5 BU3...U5 0.052200   BU4...U5 0.058000
+    PBU.C5U5 GU5...U5 -0.033000   B4T...U5 0.466000
+    PBU.C5U5 BBK...U5 0.390000   CFT.C.U5 -1.046500
+    PBU.C5U5 GB1...U5 1.000000   GB2...U5 1.000000
+    PBU.C5U5 GB3...U5 1.000000   KFF.C.U5 1.000000
+    PBU.C5U5 BBU...U5 -1.000000
+    PBV.C5U5 BRG...U5 0.043400   BI4...U5 0.059800
+    PBV.C5U5 BU3...U5 0.052200   BU4...U5 0.058000
+    PBV.C5U5 GU5...U5 0.033000   B4T...U5 0.466000
+    PBV.C5U5 BBK...U5 0.235300   BBL...U5 0.154700
+    PBV.C5U5 CFT.C.U5 -1.046500   GB1...U5 1.000000
+    PBV.C5U5 GB2...U5 1.000000   GB3...U5 1.000000
+    PBV.C5U5 KFF.C.U5 1.000000   LFF.C.U5 1.000000
+    PBV.C5U5 BBV...U5 -1.000000
+    PB1.C5U5 BRG...U5 -0.007900   BI4...U5 0.006600
+    PB1.C5U5 BU3...U5 -0.006600   BU4...U5 -0.010400
+    PB1.C5U5 GU5...U5 -0.002000   B4B...U5 0.007000
+    PB1.C5U5 CFT.C.U5 -0.057500   GB1...U5 -1.000000
+    PB2.C5U5 BRG...U5 -0.019800   BI4...U5 -0.032300
+    PB2.C5U5 BU3...U5 -0.023800   BU4...U5 -0.022800
+    PB2.C5U5 GU5...U5 -0.008000   B4D...U5 -0.085000
+    PB2.C5U5 BBK...U5 0.173000   CFT.C.U5 0.103500
+    PB2.C5U5 GB2...U5 -1.000000
+    PB3.C5U5 BRG...U5 0.022600   BI4...U5 0.020000
+    PB3.C5U5 BU3...U5 0.014200   BU4...U5 0.016200
+    PB3.C5U5 GU5...U5 0.005000   BBK...U5 -0.185000
+    PB3.C5U5 CFT.C.U5 -0.046000   GB3...U5 -1.000000
+    PB3.C5U5 B4I...U5 0.110000   B9W...U5 0.020000
+    PV1.C5U5 BRG...U5 -0.007500   BI4...U5 0.009500
+    PV1.C5U5 BU3...U5 -0.005700   BU4...U5 -0.012400
+    PV1.C5U5 GU5...U5 -0.002000   CFT.C.U5 -0.080500
+    PV1.C5U5 B4K...U5 0.006000   GV1...U5 -1.000000
+    PV2.C5U5 BRG...U5 -0.026600   BI4...U5 -0.037100
+    PV2.C5U5 BU3...U5 -0.028500   BU4...U5 -0.028500
+    PV2.C5U5 GU5...U5 -0.003000   BBK...U5 0.062000
+    PV2.C5U5 CFT.C.U5 0.126500   B4P...U5 0.026000
+    PV2.C5U5 B9W...U5 0.024000   GV2...U5 -1.000000
+    PV3.C5U5 BRG...U5 -0.006400   BI4...U5 -0.005700
+    PV3.C5U5 BU3...U5 -0.004800   GU5...U5 -0.002000
+    PV3.C5U5 BBK...U5 0.050000   CFT.C.U5 0.046000
+    PV3.C5U5 GV3...U5 -1.000000   B4R...U5 -0.035000
+    PV3.C6U5 BRG...U5 0.006000   BI4...U5 0.004800
+    PV3.C6U5 BU3...U5 0.003800   GU5...U5 0.002000
+    PV3.C6U5 BBK...U5 -0.042000   CFT.C.U5 -0.046000
+    PV3.C6U5 GV3...U5 -1.000000   B4V...U5 0.032000
+    PQS.C7U5 BRG...U5 0.056600   BI4...U5 0.006600
+    PQS.C7U5 BU3...U5 0.025700   BU4...U5 0.029400
+    PQS.C7U5 GU5...U5 0.031200   BBK...U5 0.265800
+    PQS.C7U5 CFT.C.U5 -1.424000   B0S...U5 0.487900
+    PQS.C7U5 B8L...U5 0.119500   KFF.C.U5 1.000000
+    PQS.C7U5 BQS...U5 -1.000000
+    PSA.C7U5 BRG...U5 0.056600   BI4...U5 0.006600
+    PSA.C7U5 BU3...U5 0.025700   BU4...U5 0.029400
+    PSA.C7U5 GU5...U5 0.031200   BBK...U5 0.265800
+    PSA.C7U5 CFT.C.U5 -1.424000   B/A...U5 0.487900
+    PSA.C7U5 B6A...U5 0.119500   KFF.C.U5 1.000000
+    PSA.C7U5 BSA...U5 -1.000000
+    PSH.C7U5 BRG...U5 0.056600   BI4...U5 0.006600
+    PSH.C7U5 BU3...U5 0.025700   BU4...U5 0.029400
+    PSH.C7U5 GU5...U5 0.031200   BBK...U5 0.265800
+    PSH.C7U5 CFT.C.U5 -1.424000   B/H...U5 0.487900
+    PSH.C7U5 B6H...U5 0.119500   KFF.C.U5 1.000000
+    PSH.C7U5 BSH...U5 -1.000000
+    PSM.C7U5 BRG...U5 0.056600   BI4...U5 0.006600
+    PSM.C7U5 BU3...U5 0.025700   BU4...U5 0.029400
+    PSM.C7U5 GU5...U5 0.031200   BBK...U5 0.265800
+    PSM.C7U5 CFT.C.U5 -1.424000   B0M...U5 0.487900
+    PSM.C7U5 B8M...U5 0.119500   KFF.C.U5 1.000000
+    PSM.C7U5 BSM...U5 -1.000000
+    PSW.C7U5 BRG...U5 0.056600   BI4...U5 0.006600
+    PSW.C7U5 BU3...U5 0.025700   BU4...U5 0.029400
+    PSW.C7U5 GU5...U5 0.031200   BBK...U5 0.265800
+    PSW.C7U5 CFT.C.U5 -1.424000   B/W...U5 0.487900
+    PSW.C7U5 B6W...U5 0.119500   KFF.C.U5 1.000000
+    PSW.C7U5 BSW...U5 -1.000000
+    PS2.C7U5 BRG...U5 0.056600   BI4...U5 0.006600
+    PS2.C7U5 BU3...U5 0.025700   BU4...U5 0.029400
+    PS2.C7U5 GU5...U5 0.031200   BBK...U5 0.265800
+    PS2.C7U5 CFT.C.U5 -1.424000   B/2...U5 0.487900
+    PS2.C7U5 B82...U5 0.119500   KFF.C.U5 1.000000
+    PS2.C7U5 BS2...U5 -1.000000
+    PGL.DNU5 BRG...U5 0.448000   BI4...U5 0.085000
+    PGL.DNU5 BLN...U5 0.090000   BIP...U5 0.090000
+    PGL.DNU5 UPBROW27974 1.000000
+    PAH.D2U5 CTF.D.U5 -1.000000   AAH..... -1.000000
+    PAH.D2U5 BCV...U5 0.008550   BI4...U5 0.003720
+    PAH.D2U5 BN4...U5 0.013810   BI5...U5 0.008120
+    PAH.D2U5 BLN...U5 0.039590   BIN...U5 -0.007860
+    PAH.D2U5 BIP...U5 0.111880   BKB...U5 0.072400
+    PAH.D2U5 BKG...U5 0.085100   BBU...U5 0.049970
+    PAH.D2U5 BBV...U5 0.077130   BAH...U5 0.537580
+    PAH.D2U5 KHS...U5 1.000000
+    PAL.D2U5 CTF.D.U5 -1.000000   BCV...U5 0.002830
+    PAL.D2U5 BI4...U5 0.002680   BN4...U5 0.012590
+    PAL.D2U5 BI5...U5 0.008650   BLN...U5 0.043720
+    PAL.D2U5 BIN...U5 0.004910   BIP...U5 0.124920
+    PAL.D2U5 BKB...U5 0.124660   BKG...U5 0.079390
+    PAL.D2U5 BBU...U5 0.083430   BBV...U5 0.065650
+    PAL.D2U5 BAL...U5 0.446570   AAL..... -1.000000
+    PAL.D2U5 KHS...U5 1.000000
+    PAM.D2U5 CTF.D.U5 -1.000000   BCV...U5 0.002440
+    PAM.D2U5 BI4...U5 0.001800   BN4...U5 0.008380
+    PAM.D2U5 BI5...U5 0.007550   BLN...U5 0.042720
+    PAM.D2U5 BIN...U5 0.003590   BIP...U5 0.117690
+    PAM.D2U5 BKB...U5 0.095750   BKG...U5 0.085280
+    PAM.D2U5 BBU...U5 0.064610   BBV...U5 0.073260
+    PAM.D2U5 BAM...U5 0.496940   AAM..... -1.000000
+    PAM.D2U5 KHS...U5 1.000000
+    PAX.D2U5 CTF.D.U5 -1.000000   BCV...U5 0.003010
+    PAX.D2U5 BI4...U5 0.002520   BN4...U5 0.014520
+    PAX.D2U5 BI5...U5 0.009360   BLN...U5 0.052290
+    PAX.D2U5 BIN...U5 0.010780   BIP...U5 0.125710
+    PAX.D2U5 BKB...U5 0.122210   BKG...U5 0.104730
+    PAX.D2U5 BBU...U5 0.110380   BBV...U5 0.050880
+    PAX.D2U5 BAX...U5 0.393610   AAX..... -1.000000
+    PAX.D2U5 KHS...U5 1.000000
+    PIH.D2U5 CTF.D.U5 -1.000000   BCV...U5 0.007120
+    PIH.D2U5 BI4...U5 0.004570   BN4...U5 0.015970
+    PIH.D2U5 BI5...U5 0.010720   BLN...U5 0.041700
+    PIH.D2U5 BIN...U5 0.052270   BIP...U5 0.081280
+    PIH.D2U5 BKB...U5 0.111990   BKG...U5 0.066830
+    PIH.D2U5 BBU...U5 0.083020   BBV...U5 0.053770
+    PIH.D2U5 BIH...U5 0.470760   AIH..... -1.000000
+    PIH.D2U5 KHS...U5 1.000000
+    PIL.D2U5 CTF.D.U5 -1.000000   BCV...U5 0.006900
+    PIL.D2U5 BI4...U5 0.003630   BN4...U5 0.013050
+    PIL.D2U5 BI5...U5 0.009750   BLN...U5 0.043800
+    PIL.D2U5 BIN...U5 0.046660   BIP...U5 0.091190
+    PIL.D2U5 BKB...U5 0.094300   BKG...U5 0.094550
+    PIL.D2U5 BBU...U5 0.104260   BBV...U5 0.045060
+    PIL.D2U5 BIL...U5 0.446840   AIL..... -1.000000
+    PIL.D2U5 KHS...U5 1.000000
+    PKU.D2U5 CTF.D.U5 -1.000000   BCV...U5 0.008780
+    PKU.D2U5 BI4...U5 0.003870   BN4...U5 0.014330
+    PKU.D2U5 BI5...U5 0.008720   BLN...U5 0.053830
+    PKU.D2U5 BIN...U5 0.000250   BIP...U5 0.121620
+    PKU.D2U5 BKB...U5 0.065640   BKG...U5 0.107510
+    PKU.D2U5 BBU...U5 0.061660   BBV...U5 0.072020
+    PKU.D2U5 BKU...U5 0.481760   AKU..... -1.000000
+    PKU.D2U5 KHS...U5 1.000000
+    PMI.D2U5 CTF.D.U5 -1.000000   AMI..... -1.000000
+    PMI.D2U5 BCV...U5 0.001290   BI4...U5 0.000820
+    PMI.D2U5 BN4...U5 0.002460   BI5...U5 0.002820
+    PMI.D2U5 BLN...U5 0.020370   BIN...U5 0.017430
+    PMI.D2U5 BIP...U5 0.068840   BKB...U5 0.029740
+    PMI.D2U5 BKG...U5 0.119910   BBU...U5 0.157780
+    PMI.D2U5 BBV...U5 -0.010290   BMI...U5 0.588830
+    PMU.D2U5 CTF.D.U5 -1.000000   BCV...U5 0.003420
+    PMU.D2U5 BI4...U5 0.003310   BN4...U5 0.012900
+    PMU.D2U5 BI5...U5 0.010950   BLN...U5 0.052380
+    PMU.D2U5 BIN...U5 0.026150   BIP...U5 0.134950
+    PMU.D2U5 BKB...U5 0.141410   BKG...U5 0.092600
+    PMU.D2U5 BBU...U5 0.128680   BBV...U5 0.031580
+    PMU.D2U5 BMU...U5 0.361670   AMU..... -1.000000
+    PMU.D2U5 KHS...U5 1.000000
+    PN5.D2U5 CTF.D.U5 -1.000000   BCV...U5 0.003870
+    PN5.D2U5 BI4...U5 0.001480   BN4...U5 0.005780
+    PN5.D2U5 BI5...U5 0.003850   BLN...U5 0.018990
+    PN5.D2U5 BIN...U5 0.080140   BIP...U5 0.020100
+    PN5.D2U5 BKB...U5 0.153770   BKG...U5 0.026090
+    PN5.D2U5 BBU...U5 0.137220   BBV...U5 0.027850
+    PN5.D2U5 BA5...U5 0.520870   AN5..... -1.000000
+    PN5.D2U5 KHS...U5 1.000000
+    PON.D2U5 CTF.D.U5 -1.000000   BCV...U5 0.005160
+    PON.D2U5 BI4...U5 0.002660   BN4...U5 0.008850
+    PON.D2U5 BI5...U5 0.006970   BLN...U5 0.026300
+    PON.D2U5 BIN...U5 0.043900   BIP...U5 0.054760
+    PON.D2U5 BKB...U5 0.089190   BKG...U5 0.074270
+    PON.D2U5 BBU...U5 0.129580   BBV...U5 0.032480
+    PON.D2U5 BON...U5 0.525880   AON..... -1.000000
+    PON.D2U5 KHS...U5 1.000000
+    PQA.D2U5 CTF.D.U5 -1.000000   BCV...U5 0.009860
+    PQA.D2U5 BI4...U5 0.005610   BN4...U5 0.023840
+    PQA.D2U5 BI5...U5 0.014610   BLN...U5 0.070060
+    PQA.D2U5 BIN...U5 0.015740   BIP...U5 0.149860
+    PQA.D2U5 BKB...U5 0.107050   BKG...U5 0.119760
+    PQA.D2U5 BBU...U5 0.100280   BBV...U5 0.052650
+    PQA.D2U5 BQT...U5 0.330690   AQA..... -1.000000
+    PQA.D2U5 KHS...U5 1.000000
+    PSE.D2U5 CTF.D.U5 -1.000000   ASE..... -1.000000
+    PSE.D2U5 BCV...U5 0.004860   BI4...U5 0.005350
+    PSE.D2U5 BN4...U5 0.011360   BI5...U5 0.009520
+    PSE.D2U5 BLN...U5 0.031690   BIN...U5 0.209320
+    PSE.D2U5 BIP...U5 0.011260   BKB...U5 0.265630
+    PSE.D2U5 BKG...U5 0.015580   BBU...U5 0.239520
+    PSE.D2U5 BBV...U5 -0.012540   BRS...U5 0.208450
+    PS1.D2U5 CTF.D.U5 -0.004760   BCV...U5 0.002710
+    PS1.D2U5 BI4...U5 0.004150   BN4...U5 0.006170
+    PS1.D2U5 BI5...U5 0.006470   BLN...U5 0.029380
+    PS1.D2U5 BIN...U5 0.045470   BIP...U5 0.059270
+    PS1.D2U5 BKB...U5 0.158180   BKG...U5 0.077770
+    PS1.D2U5 BBU...U5 0.207420   BBV...U5 -0.004760
+    PS1.D2U5 BS1...U5 0.407780
+    PD2.D4U5 CTF.D.U5 -1.000000   AD2..... -1.000000
+    PD2.D4U5 BRG...U5 0.046300   BI4...U5 -0.002500
+    PD2.D4U5 BLN...U5 0.008600   BIN...U5 0.012800
+    PD2.D4U5 BIP...U5 0.008000   B5Z...U5 0.471400
+    PD2.D4U5 BKG...U5 0.052800   BKB...U5 0.062800
+    PD2.D4U5 BBO...U5 0.091200   BOL...U5 0.011200
+    PD2.D4U5 BOA...U5 0.032200   BF2...U5 0.238800
+    PD2.D4U5 CF..P.U5 -0.226600   COH.V.U5 -0.261200
+    PD2.D4U5 CFT.C.U5 -0.337500   CF..H.U5 -0.134600
+    PD2.D4U5 CF..F.U5 -0.091200   CF..G.U5 -0.168500
+    PD2.D4U5 COF.A.U5 -0.028500   KHS...U5 0.972500
+    PBL.F1U5 BBK...U5 1.000000   CF..F.U5 -2.900000
+    PBL.F1U5 BBL...U5 -1.000000
+    PBV.F1U5 BBU...U5 1.000000   CF..F.U5 -2.300000
+    PBV.F1U5 BBV...U5 -1.000000
+    PBF.G2U5 BRG...U5 0.002400   BIP...U5 0.002400
+    PBF.G2U5 BBG...U5 1.005300   CF..G.U5 -1.016700
+    PBF.G2U5 BBF...U5 -1.000000
+    PBH.G2U5 BRG...U5 0.002300   BIP...U5 0.002300
+    PBH.G2U5 BBI...U5 1.005200   CF..G.U5 -1.008000
+    PBH.G2U5 BBH...U5 -1.000000
+    PQA.G2U5 BSA...U5 1.000000   CF..G.U5 -1.184000
+    PQA.G2U5 BQA...U5 -1.000000
+    PQH.G2U5 BSH...U5 1.000000   CF..G.U5 -1.309000
+    PQH.G2U5 BQH...U5 -1.000000
+    PQM.G2U5 CF..G.U5 -1.184000   BSM...U5 1.000000
+    PQM.G2U5 BQM...U5 -1.000000
+    PQW.G2U5 CF..G.U5 -1.339000   BSW...U5 1.000000
+    PQW.G2U5 BQW...U5 -1.000000
+    PQ2.G2U5 CF..G.U5 -1.050000   BS2...U5 1.000000
+    PQ2.G2U5 BQ2...U5 -1.000000
+    PQ5.G2U5 CF..G.U5 -1.050000   BS5...U5 1.000000
+    PQ5.G2U5 BQ5...U5 -1.000000
+    PBF.H0U5 BRG...U5 0.026500   BI4...U5 0.024700
+    PBF.H0U5 BI5...U5 0.021800   BLN...U5 0.050800
+    PBF.H0U5 BNL...U5 -0.109100   BIN...U5 0.105500
+    PBF.H0U5 BIP...U5 0.071900   BBU...U5 0.521000
+    PBF.H0U5 CF..H.U5 -1.187000   BFR...U5 -0.112000
+    PBF.H0U5 BKB...U5 0.347000   BBF...U5 -1.000000
+    PBF.H2U5 BRG...U5 0.056100   BI4...U5 0.098800
+    PBF.H2U5 BI5...U5 0.075900   BLN...U5 0.177100
+    PBF.H2U5 BNL...U5 -0.132100   BIN...U5 -0.218000
+    PBF.H2U5 BIP...U5 0.832000   CF..H.U5 -1.000000
+    PBF.H2U5 BFR...U5 -0.112000   BKB...U5 0.246000
+    PBF.H2U5 BBF...U5 -1.000000
+    PBK.H2U5 BRG...U5 -0.028700   BI4...U5 0.171000
+    PBK.H2U5 BI5...U5 0.093000   BLN...U5 0.278000
+    PBK.H2U5 BIK...U5 0.521000   CF..H.U5 -1.000000
+    PBK.H2U5 BFR...U5 -0.020700   BBK...U5 -1.000000
+    PBQ.H2U5 BRG...U5 -0.051300   BI4...U5 0.166000
+    PBQ.H2U5 BI5...U5 0.079000   BLN...U5 0.237000
+    PBQ.H2U5 BIQ...U5 0.593000   CF..H.U5 -1.000000
+    PBQ.H2U5 BFR...U5 -0.020700   BBQ...U5 -1.000000
+    PBY.H2U5 BRG...U5 0.044800   BI4...U5 0.171000
+    PBY.H2U5 BI5...U5 0.093000   BLN...U5 0.278000
+    PBY.H2U5 BID...U5 0.485000   CF..H.U5 -1.000000
+    PBY.H2U5 BFR...U5 -0.020700   BBY...U5 -1.000000
+    PLN.I1U5 BRG...U5 0.026600   B5X...U5 1.000000
+    PLN.I1U5 CF..I.U5 -1.216500   BLN...U5 -1.000000
+    PHA.K1U5 BRG...U5 0.143200   B5T...U5 0.166400
+    PHA.K1U5 BBK...U5 -0.042600   BBL...U5 0.359600
+    PHA.K1U5 BQH...U5 0.126000   BCD...U5 0.324800
+    PHA.K1U5 BHA...U5 -1.000000   CF..K.U5 -1.000000
+    PLA.K1U5 BRG...U5 0.128700   B5T...U5 0.188200
+    PLA.K1U5 BBK...U5 0.051900   BBL...U5 0.306300
+    PLA.K1U5 BQA...U5 0.143100   BCD...U5 0.270300
+    PLA.K1U5 CF..K.U5 -1.000000   BLA...U5 -1.000000
+    PMS.K1U5 BRG...U5 0.128700   B5T...U5 0.188200
+    PMS.K1U5 BBK...U5 0.049400   BBL...U5 0.308800
+    PMS.K1U5 BQM...U5 0.143100   BCD...U5 0.270300
+    PMS.K1U5 CF..K.U5 -1.000000   BMS...U5 -1.000000
+    PSS.K1U5 BRG...U5 0.128700   B5T...U5 0.188200
+    PSS.K1U5 BBK...U5 0.345800   BBL...U5 0.012400
+    PSS.K1U5 BQS...U5 0.143100   BCD...U5 0.270300
+    PSS.K1U5 CF..K.U5 -1.000000   BSS...U5 -1.000000
+    PUK.K1U5 BRG...U5 0.135600   B5T...U5 0.177200
+    PUK.K1U5 BBK...U5 -0.067400   BBL...U5 0.404200
+    PUK.K1U5 BQW...U5 0.133700   BCD...U5 0.297100
+    PUK.K1U5 BUK...U5 -1.000000   CF..K.U5 -1.000000
+    P2L.K1U5 BRG...U5 0.128700   B5T...U5 0.188200
+    P2L.K1U5 BBK...U5 0.160600   BBL...U5 0.197600
+    P2L.K1U5 BQ2...U5 0.143100   BCD...U5 0.270300
+    P2L.K1U5 CF..K.U5 -1.000000   B2L...U5 -1.000000
+    PIB.P5U5 BRG...U5 0.164500   BI4...U5 0.027000
+    PIB.P5U5 B5L...U5 0.764000   CF..P.U5 -0.959700
+    PIB.P5U5 BIB...U5 -1.000000
+    PID.P5U5 BRG...U5 0.149100   BI4...U5 0.026200
+    PID.P5U5 B5Q...U5 0.810300   CF..P.U5 -0.860000
+    PID.P5U5 BID...U5 -1.000000
+    PIG.P5U5 BRG...U5 0.104200   BI4...U5 0.010200
+    PIG.P5U5 B5K...U5 0.883000   CF..P.U5 -0.805900
+    PIG.P5U5 BIG...U5 -1.000000
+    PIK.P5U5 BRG...U5 0.118200   BI4...U5 0.017300
+    PIK.P5U5 B5Q...U5 0.861400   CF..P.U5 -0.860000
+    PIK.P5U5 BIK...U5 -1.000000
+    PIN.P5U5 BRG...U5 0.106800   BI4...U5 0.009500
+    PIN.P5U5 B5I...U5 0.872000   CF..P.U5 -0.794500
+    PIN.P5U5 BIN...U5 -1.000000
+    PIP.P5U5 BRG...U5 0.173800   BI4...U5 0.028100
+    PIP.P5U5 B5J...U5 0.753000   CF..P.U5 -0.946400
+    PIP.P5U5 BIP...U5 -1.000000
+    PIQ.P5U5 BRG...U5 0.095600   BI4...U5 0.008900
+    PIQ.P5U5 B5Q...U5 0.904900   CF..P.U5 -0.860000
+    PIQ.P5U5 BIQ...U5 -1.000000
+    PIB.P7U5 BRG...U5 0.196300   BI4...U5 0.023900
+    PIB.P7U5 B5P...U5 0.721000   CF..P.U5 -1.139800
+    PIB.P7U5 BIB...U5 -1.000000
+    PIG.P7U5 BRG...U5 0.135600   BI4...U5 0.016400
+    PIG.P7U5 B5O...U5 0.840000   CF..P.U5 -0.987800
+    PIG.P7U5 BIG...U5 -1.000000
+    PIN.P7U5 BRG...U5 0.138300   BI4...U5 0.015800
+    PIN.P7U5 B5M...U5 0.829000   CF..P.U5 -0.974500
+    PIN.P7U5 BIN...U5 -1.000000
+    PIP.P7U5 BRG...U5 0.207100   BI4...U5 0.022800
+    PIP.P7U5 B5N...U5 0.710000   CF..P.U5 -1.126500
+    PIP.P7U5 BIP...U5 -1.000000
+    PNC.P8U5 BRG...U5 0.200900   BI4...U5 0.016400
+    PNC.P8U5 B5X...U5 -0.260000   CF..P.U5 -1.000000
+    PN2.P8U5 BRG...U5 0.042000   BI4...U5 0.007100
+    PN2.P8U5 B5Y...U5 -0.062600   CF..P.U5 -0.163000
+    PN2.P8U5 UPBROW27975 1.000000
+    PHA.Q1U5 BRG...U5 0.326000   B5T...U5 0.140000
+    PHA.Q1U5 BBK...U5 -0.031000   BBL...U5 0.260000
+    PHA.Q1U5 BQH...U5 0.256000   CF..Q.U5 -1.066000
+    PHA.Q1U5 BHA...U5 -1.000000
+    PLA.Q1U5 BRG...U5 0.280000   B5T...U5 0.152000
+    PLA.Q1U5 BBK...U5 0.036000   BBL...U5 0.213000
+    PLA.Q1U5 BQA...U5 0.279000   CF..Q.U5 -1.000000
+    PLA.Q1U5 BLA...U5 -1.000000
+    PMS.Q1U5 BRG...U5 0.280000   B5T...U5 0.152000
+    PMS.Q1U5 BBK...U5 0.034000   BBL...U5 0.215000
+    PMS.Q1U5 CF..Q.U5 -1.000000   BQM...U5 0.279000
+    PMS.Q1U5 BMS...U5 -1.000000
+    PSS.Q1U5 BRG...U5 0.280000   B5T...U5 0.152000
+    PSS.Q1U5 BBK...U5 0.241000   BBL...U5 0.008000
+    PSS.Q1U5 BQS...U5 0.279000   CF..Q.U5 -1.000000
+    PSS.Q1U5 BSS...U5 -1.000000
+    PUK.Q1U5 BRG...U5 0.294000   B5T...U5 0.148000
+    PUK.Q1U5 BBK...U5 -0.048000   BBL...U5 0.290000
+    PUK.Q1U5 BQW...U5 0.272000   CF..Q.U5 -1.014000
+    PUK.Q1U5 BUK...U5 -1.000000
+    P2L.Q1U5 BRG...U5 0.280000   B5T...U5 0.152000
+    P2L.Q1U5 BBK...U5 0.112000   BBL...U5 0.137000
+    P2L.Q1U5 CF..Q.U5 -1.000000   BQ2...U5 0.279000
+    P2L.Q1U5 B2L...U5 -1.000000
+    PAH.R1U5 BRG...U5 0.010700   BIP...U5 0.037500
+    PAH.R1U5 BHL...U5 0.100000   B1H...U5 0.885000
+    PAH.R1U5 CF..R.U5 -1.113300   BAH...U5 -1.000000
+    PAL.R1U5 BRG...U5 0.004200   BIP...U5 0.015400
+    PAL.R1U5 BHL...U5 0.100000   B1A...U5 0.896000
+    PAL.R1U5 CF..R.U5 -0.883600   BAL...U5 -1.000000
+    PAM.R1U5 BRG...U5 0.006500   BIP...U5 0.023000
+    PAM.R1U5 BHL...U5 0.100000   B1K...U5 0.892000
+    PAM.R1U5 CF..R.U5 -1.003900   BAM...U5 -1.000000
+    PA5.R1U5 BRG...U5 0.006400   BIP...U5 0.022800
+    PA5.R1U5 BHL...U5 0.100000   B1P...U5 0.892000
+    PA5.R1U5 CF..R.U5 -0.948700   BA5...U5 -1.000000
+    PIH.R1U5 BRG...U5 0.006400   BIP...U5 0.022800
+    PIH.R1U5 BHL...U5 0.100000   B1G...U5 0.892000
+    PIH.R1U5 CF..R.U5 -0.948700   BIH...U5 -1.000000
+    PIL.R1U5 BRG...U5 0.004800   BIP...U5 0.017200
+    PIL.R1U5 BHL...U5 0.100000   B1I...U5 0.894000
+    PIL.R1U5 CF..R.U5 -0.879900   BIL...U5 -1.000000
+    PKU.R1U5 BRG...U5 0.006200   BIP...U5 0.021900
+    PKU.R1U5 BHL...U5 0.100000   B1W...U5 0.895000
+    PKU.R1U5 CF..R.U5 -0.995100   BKU...U5 -1.000000
+    PAH.R2U5 BRG...U5 0.024600   BIP...U5 0.086900
+    PAH.R2U5 BHL...U5 0.100000   CF..R.U5 -1.484600
+    PAH.R2U5 B2H...U5 0.843000   BAH...U5 -1.000000
+    PAL.R2U5 BRG...U5 0.010900   BIP...U5 0.038900
+    PAL.R2U5 BHL...U5 0.100000   CF..R.U5 -1.109400
+    PAL.R2U5 B2A...U5 0.879000   BAL...U5 -1.000000
+    PAM.R2U5 BRG...U5 0.015400   BIP...U5 0.055000
+    PAM.R2U5 BHL...U5 0.100000   CF..R.U5 -1.279000
+    PAM.R2U5 B2K...U5 0.869000   BAM...U5 -1.000000
+    PA5.R2U5 BRG...U5 0.014700   BIP...U5 0.052800
+    PA5.R2U5 BHL...U5 0.100000   B2P...U5 0.869000
+    PA5.R2U5 CF..R.U5 -1.204500   BA5...U5 -1.000000
+    PIH.R2U5 BRG...U5 0.014700   BIP...U5 0.052800
+    PIH.R2U5 BHL...U5 0.100000   CF..R.U5 -1.204500
+    PIH.R2U5 B2G...U5 0.869000   BIH...U5 -1.000000
+    PIL.R2U5 BRG...U5 0.011100   BIP...U5 0.040500
+    PIL.R2U5 BHL...U5 0.100000   CF..R.U5 -1.094000
+    PIL.R2U5 B2I...U5 0.877000   BIL...U5 -1.000000
+    PKU.R2U5 BRG...U5 0.015100   BIP...U5 0.053300
+    PKU.R2U5 BHL...U5 0.100000   CF..R.U5 -1.285700
+    PKU.R2U5 B2W...U5 0.872000   BKU...U5 -1.000000
+    PAH.VAU5 BAH...U5 -1.000000   BOA...U5 0.638000
+    PAH.VAU5 BBH...U5 0.301700   BBF...U5 0.060300
+    PAH.VAU5 COH.V.U5 -0.362000
+    PKU.VAU5 BKU...U5 -1.000000   BOA...U5 0.371000
+    PKU.VAU5 BBH...U5 0.479300   BBF...U5 0.149700
+    PKU.VAU5 COH.V.U5 -0.629000
+    PAH.VRU5 B2H...U5 -1.000000   BBI...U5 0.412700
+    PAH.VRU5 BBG...U5 0.082600   BSS...U5 0.504700
+    PAH.VRU5 COH.V.U5 -0.495300
+    PAL.VRU5 B2A...U5 -1.000000   BBI...U5 0.567700
+    PAL.VRU5 BBG...U5 0.133400   BSS...U5 0.298900
+    PAL.VRU5 COH.V.U5 -0.701100
+    PAM.VRU5 B2K...U5 -1.000000   BBI...U5 0.415300
+    PAM.VRU5 BBG...U5 0.207700   BSS...U5 0.377000
+    PAM.VRU5 COH.V.U5 -0.623000
+    PIH.VRU5 B2G...U5 -1.000000   BBI...U5 0.559800
+    PIH.VRU5 BBG...U5 0.043200   BSS...U5 0.397000
+    PIH.VRU5 COH.V.U5 -0.603000
+    PIL.VRU5 B2I...U5 -1.000000   BBI...U5 0.707900
+    PIL.VRU5 BSS...U5 0.292100   COH.V.U5 -0.707900
+    PKU.VRU5 B2W...U5 -1.000000   BBI...U5 0.469000
+    PKU.VRU5 BBG...U5 0.146400   BSS...U5 0.384600
+    PKU.VRU5 COH.V.U5 -0.615400
+    PAH.V2U5 COH.V.U5 -0.570760   BAH...U5 -1.000000
+    PAH.V2U5 BBH...U5 0.458930   BBF...U5 0.111830
+    PAH.V2U5 BHA...U5 0.429240
+    PAL.V2U5 COH.V.U5 -0.670330   BAL...U5 -1.000000
+    PAL.V2U5 BBH...U5 0.644080   BBF...U5 0.026260
+    PAL.V2U5 BLA...U5 0.329670
+    PAM.V2U5 COH.V.U5 -0.625400   BAM...U5 -1.000000
+    PAM.V2U5 BBH...U5 0.593320   BBF...U5 0.032080
+    PAM.V2U5 BMA...U5 0.374600
+    PAX.V2U5 COH.V.U5 -0.772480   BAX...U5 -1.000000
+    PAX.V2U5 BBJ...U5 0.275390   BBH...U5 0.497090
+    PAX.V2U5 BXA...U5 0.227520
+    PIH.V2U5 COH.V.U5 -0.604710   BIH...U5 -1.000000
+    PIH.V2U5 BBJ...U5 0.114130   BBH...U5 0.490580
+    PIH.V2U5 BHI...U5 0.395290
+    PIL.V2U5 COH.V.U5 -0.710440   BIL...U5 -1.000000
+    PIL.V2U5 BBJ...U5 0.145550   BBH...U5 0.564880
+    PIL.V2U5 BLI...U5 0.289560
+    PKU.V2U5 COH.V.U5 -0.617890   BKU...U5 -1.000000
+    PKU.V2U5 BBJ...U5 0.016590   BBH...U5 0.601300
+    PKU.V2U5 BUK...U5 0.382110
+    PMI.V2U5 COH.V.U5 -0.641770   BMI...U5 -1.000000
+    PMI.V2U5 BBJ...U5 1.140100   BBH...U5 -0.498330
+    PMI.V2U5 BIM...U5 0.358230
+    PMU.V2U5 COH.V.U5 -0.810120   BMU...U5 -1.000000
+    PMU.V2U5 BBJ...U5 0.475620   BBH...U5 0.334500
+    PMU.V2U5 BUM...U5 0.189880
+    PN5.V2U5 COH.V.U5 -0.675230   BA5...U5 -1.000000
+    PN5.V2U5 BBH...U5 0.105900   BBF...U5 0.569330
+    PN5.V2U5 B50...U5 0.324770
+    PON.V2U5 COH.V.U5 -0.672660   BON...U5 -1.000000
+    PON.V2U5 BBJ...U5 0.119380   BBH...U5 0.553280
+    PON.V2U5 BRT...U5 0.327340
+    PQA.V2U5 COH.V.U5 -0.813430   BQT...U5 -1.000000
+    PQA.V2U5 BBJ...U5 0.347170   BBH...U5 0.466260
+    PQA.V2U5 BTQ...U5 0.186570
+    PSE.V2U5 COH.V.U5 -0.933060   BRS...U5 -1.000000
+    PSE.V2U5 BBH...U5 0.754900   BBF...U5 0.178160
+    PSE.V2U5 BSR...U5 0.066940
+    PS1.V2U5 COH.V.U5 -0.809630   BS1...U5 -1.000000
+    PS1.V2U5 BBJ...U5 0.442780   BBH...U5 0.366850
+    PS1.V2U5 B1S...U5 0.190370
+    TB5.PGU5 BB5...U5 1.000000   BB5...PG -1.000000
+    TB5.PGU5 FAT0..J. 2.530000   KMC.IMU. 1.000000
+    TB5.PGU5 KTX.CPU. 1.000000   KWC..... 1.524000
+    TB5.PGU5 KLM.VGU. 1.000000
+    TDH.PGU5 BDH...U5 1.000000   BDH...PG -1.000000
+    TDH.PGU5 FAT0..J. 2.416000   KMC.IMU. 1.000000
+    TDH.PGU5 KTX.CPU. 1.000000   KWC..... 1.664000
+    TDK.PGU5 BDK...U5 1.000000   BDK...PG -1.000000
+    TDK.PGU5 FAT0..J. 2.314000   KMC.IMU. 1.000000
+    TDK.PGU5 KTX.CPU. 1.000000   KWC..... 1.683000
+    TDK.PGU5 KDK...U5 1.000000
+    TFP.PGU5 BFP...U5 1.000000   BFP...PG -1.000000
+    TFP.PGU5 FAT0..J. 2.707000   KMC.IMU. 1.000000
+    TFP.PGU5 KWC..... 1.592000   KTX.FOU. 1.000000
+    TFS.PGU5 BFS...U5 1.000000   BFS...PG -1.000000
+    TFS.PGU5 FAT0..J. 2.707000   KMC.IMU. 1.000000
+    TFS.PGU5 KWC..... 1.524000   KTX.FOU. 1.000000
+    TFY.PGU5 BFY...U5 1.000000   BFY...PG -1.000000
+    TFY.PGU5 FAT0..J. 2.763000   KMC.IMU. 1.000000
+    TFY.PGU5 KWC..... 1.317000   KTX.FOU. 1.000000
+    TGP.PGU5 BGP...U5 1.000000   BGU...PG -1.000000
+    TGP.PGU5 FAT0..J. 2.290000   KMC.IMU. 1.000000
+    TGP.PGU5 KTX.CPU. 1.000000   KWC..... 1.631000
+    TGP.PGU5 KMC.NMU. 1.000000
+    TNL.PGU5 BNL...U5 1.000000   BNL...PG -1.000000
+    TNL.PGU5 FAT0..J. 2.243000   KMC.IMU. 1.000000
+    TNL.PGU5 KTX.CPU. 1.000000   KWC..... 1.452000
+    TNL.PGU5 KMC.NMU. 1.000000
+    TNP.PGU5 BNP...U5 1.000000   BNP...PG -1.000000
+    TNP.PGU5 FAT0..J. 2.258000   KMC.IMU. 1.000000
+    TNP.PGU5 KTX.CPU. 1.000000   KWC..... 1.575000
+    TNP.PGU5 KMC.NMU. 1.000000
+    TDH.SGU5 BDH...U5 1.000000   BDH...SG -1.000000
+    TDH.SGU5 FAT0..J. 2.167000   KMC.IMU. 1.000000
+    TDH.SGU5 KTX.CPU. 1.000000   KWC..... 2.109000
+    TDK.SGU5 BDK...U5 1.000000   BDK...SG -1.000000
+    TDK.SGU5 FAT0..J. 2.076000   KMC.IMU. 1.000000
+    TDK.SGU5 KTX.CPU. 1.000000   KWC..... 2.128000
+    TDK.SGU5 KDK...U5 1.000000
+    TFP.SGU5 BFP...U5 1.000000   BFP...SG -1.000000
+    TFP.SGU5 FAT0..J. 2.429000   KMC.IMU. 1.000000
+    TFP.SGU5 KWC..... 2.037000   KTX.FOU. 1.000000
+    TFS.SGU5 BFS...U5 1.000000   BFS...SG -1.000000
+    TFS.SGU5 FAT0..J. 2.429000   KMC.IMU. 1.000000
+    TFS.SGU5 KWC..... 1.952000   KTX.FOU. 1.000000
+    TFY.SGU5 BFY...U5 1.000000   BFY...SG -1.000000
+    TFY.SGU5 FAT0..J. 2.479000   KMC.IMU. 1.000000
+    TFY.SGU5 KWC..... 1.745000   KTX.FOU. 1.000000
+    TGP.SGU5 BGP...U5 1.000000   BGU...SG -1.000000
+    TGP.SGU5 FAT0..J. 2.058000   KMC.IMU. 1.000000
+    TGP.SGU5 KTX.CPU. 1.000000   KWC..... 2.128000
+    TGP.SGU5 KMC.NMU. 1.000000
+    TNL.SGU5 BNL...U5 1.000000   BNL...SG -1.000000
+    TNL.SGU5 FAT0..J. 2.011000   KMC.IMU. 1.000000
+    TNL.SGU5 KTX.CPU. 1.000000   KWC..... 1.826000
+    TNL.SGU5 KMC.NMU. 1.000000
+    TNP.SGU5 BNP...U5 1.000000   BNP...SG -1.000000
+    TNP.SGU5 FAT0..J. 2.030000   KMC.IMU. 1.000000
+    TNP.SGU5 KTX.CPU. 1.000000   KWC..... 1.958000
+    TNP.SGU5 KMC.NMU. 1.000000
+    QVO5GUEM BGP.VOEM -1.000000   BGU...EM 0.985000
+    QVO5GUEM NRN.GPEM -0.668000   ND2.GPEM -0.500000
+    QVO5GUEM XVL.GPEM -1.850000
+    QVO5GPEM BGP...EM 0.985000   BGP.VOEM -1.000000
+    QVO5GPEM NRN.GPEM -0.652000   ND2.GPEM -0.500000
+    QVO5GPEM XVL.GPEM -1.700000
+    QWT5FYEM BFY.WTEM -1.000000   XSU.FYEM -3.400000
+    QWT5FYEM BFY...EM 1.052600
+    TB5.VEU5 BB5...U5 1.000000   BB5...VE -1.000000
+    TB5.VEU5 FAT0..J. 1.368000   KMC.IMU. 1.000000
+    TB5.VEU5 KTX.CPU. 1.000000   KWC..... 0.949000
+    TB5.VEU5 KLM.VGU. 1.000000
+    TDH.VEU5 BDH...U5 1.000000   BDH...VE -1.000000
+    TDH.VEU5 FAT0..J. 1.315000   KMC.IMU. 1.000000
+    TDH.VEU5 KTX.CPU. 1.000000   KWC..... 1.020000
+    TDK.VEU5 BDK...U5 1.000000   BDK...VE -1.000000
+    TDK.VEU5 FAT0..J. 1.267000   KMC.IMU. 1.000000
+    TDK.VEU5 KTX.CPU. 1.000000   KWC..... 1.025000
+    TDK.VEU5 KDK...U5 1.000000
+    TFP.VEU5 BFP...U5 1.000000   BFP...VE -1.000000
+    TFP.VEU5 FAT0..J. 1.451000   KMC.IMU. 1.000000
+    TFP.VEU5 KWC..... 1.002000   KTX.FOU. 1.000000
+    TFS.VEU5 BFS...U5 1.000000   BFS...VE -1.000000
+    TFS.VEU5 FAT0..J. 1.451000   KMC.IMU. 1.000000
+    TFS.VEU5 KWC..... 0.949000   KTX.FOU. 1.000000
+    TFY.VEU5 BFY...U5 1.000000   BFY...VE -1.000000
+    TFY.VEU5 FAT0..J. 1.478000   KMC.IMU. 1.000000
+    TFY.VEU5 KWC..... 0.842000   KTX.FOU. 1.000000
+    TGP.VEU5 BGP...U5 1.000000   BGU...VE -1.000000
+    TGP.VEU5 FAT0..J. 1.257000   KMC.IMU. 1.000000
+    TGP.VEU5 KTX.CPU. 1.000000   KWC..... 1.011000
+    TGP.VEU5 KMC.NMU. 1.000000
+    TNI.VEU5 BNI...U5 1.000000   BNI...VE -1.000000
+    TNI.VEU5 FAT0..J. 1.243000   KMC.IMU. 1.000000
+    TNI.VEU5 KTX.CPU. 1.000000   KWC..... 1.008000
+    TNI.VEU5 KMC.NMU. 1.000000
+    TNL.VEU5 BNL...U5 1.000000   BNL...VE -1.000000
+    TNL.VEU5 FAT0..J. 1.233000   KMC.IMU. 1.000000
+    TNL.VEU5 KTX.CPU. 1.000000   KWC..... 0.953000
+    TNL.VEU5 KMC.NMU. 1.000000
+    BBK.DHVE BBK...VE -1.000000   BDH.VOVE 1.000000
+    BBK.DHVE XSU.DHVE 0.100000   XCI.DHVE 1.000000
+    BBL.DHVE BBL...VE -1.000000   BDH.VOVE 1.000000
+    BBL.DHVE XSU.DHVE 3.000000   XCI.DHVE 1.000000
+    BBM.DHVE BBM...VE -1.000000   BDH.VOVE 1.000000
+    BBM.DHVE XSU.DHVE 0.100000   XCI.DHVE 1.500000
+    BBN.DHVE BBN...VE -1.000000   BDH.VOVE 1.000000
+    BBN.DHVE XSU.DHVE 3.000000   XCI.DHVE 1.500000
+    BBU.DHVE BBU...VE -1.000000   BDH.VOVE 1.000000
+    BBU.DHVE XSU.DHVE 0.200000   XCI.DHVE 7.560000
+    BBV.DHVE BBV...VE -1.000000   BDH.VOVE 1.000000
+    BBV.DHVE XSU.DHVE 2.500000   XCI.DHVE 7.070000
+    BHH.DHVE BHH...VE -1.000000   BDH.VOVE 1.000000
+    BHH.DHVE XSU.DHVE 1.600000   XCI.DHVE 0.870000
+    BHL.DHVE BHL...VE -1.000000   BDH.VOVE 1.000000
+    BHL.DHVE XSU.DHVE 0.100000   XCI.DHVE 0.870000
+    BKE.DHVE BKE...VE -1.000000   BDH.VOVE 1.000000
+    BKE.DHVE XSU.DHVE 0.150000   XCI.DHVE 0.120000
+    BKH.DHVE BKH...VE -1.000000   BDH.VOVE 1.000000
+    BKH.DHVE XSU.DHVE 0.150000   XCI.DHVE 0.160000
+    BBB.FPVE BBB...VE -1.000000   BFP.VOVE 1.000000
+    BBB.FPVE BFP.WTVE 0.893700   XSU.FPVE 0.178740
+    BBB.FPVE XVI.FPVE 1.028000   NVI.FPVE 1.028000
+    BBD.FPVE BBD...VE -1.000000   BFP.VOVE 1.000000
+    BBD.FPVE BFP.WTVE 0.893100   XSU.FPVE 0.178620
+    BBD.FPVE XVI.FPVE 1.034000   NVI.FPVE 1.034000
+    BBO.FPVE BBO...VE -1.000000   BFP.VOVE 1.000000
+    BBO.FPVE BFP.WTVE 0.820000   XSU.FPVE 0.246000
+    BBO.FPVE XVI.FPVE 0.720000   NVI.FPVE 0.720000
+    BBP.FPVE BBP...VE -1.000000   BFP.VOVE 1.000000
+    BBP.FPVE BFP.WTVE 0.820000   XSU.FPVE 1.230000
+    BBP.FPVE XVI.FPVE 0.720000   NVI.FPVE 0.720000
+    BBW.FPVE BBW...VE -1.000000   BFP.VOVE 1.000000
+    BBW.FPVE BFP.WTVE 0.870000   XSU.FPVE 0.435000
+    BBW.FPVE XVI.FPVE 0.870000   NVI.FPVE 0.870000
+    BBY.FPVE BBY...VE -1.000000   BFP.VOVE 1.000000
+    BBY.FPVE BFP.WTVE 0.870000   XSU.FPVE 1.305000
+    BBY.FPVE XVI.FPVE 0.870000   NVI.FPVE 0.870000
+    BHM.FPVE BHM...VE -1.000000   BFP.VOVE 1.000000
+    BHM.FPVE BFP.WTVE 0.820000   XSU.FPVE 0.246000
+    BHM.FPVE XVI.FPVE 0.720000   NVI.FPVE 0.720000
+    BHN.FPVE BHN...VE -1.000000   BFP.VOVE 1.000000
+    BHN.FPVE BFP.WTVE 0.820000   XSU.FPVE 1.066000
+    BHN.FPVE XVI.FPVE 0.720000   NVI.FPVE 0.720000
+    BJL.FPVE BJL...VE -1.000000   BFP.VOVE 1.000000
+    BJL.FPVE BFP.WTVE 0.955560   XSU.FPVE 1.910920
+    BJL.FPVE XVI.FPVE 1.177000   NVI.FPVE 1.177000
+    BLJ.FPVE BLJ...VE -1.000000   BFP.VOVE 1.000000
+    BLJ.FPVE BFP.WTVE 1.013610   XSU.FPVE 2.784670
+    BLJ.FPVE XVI.FPVE 1.430000   NVI.FPVE 1.430000
+    BMT.FPVE BMT...VE -1.000000   BFP.VOVE 1.000000
+    BMT.FPVE BFP.WTVE 1.039070   XSU.FPVE 3.268510
+    BMT.FPVE XVI.FPVE 1.460000   NVI.FPVE 1.460000
+    BSB.FPVE BSB...VE -1.000000   BFP.VOVE 1.000000
+    BSB.FPVE BFP.WTVE 0.993000   XSU.FPVE 0.566010
+    BSB.FPVE XVI.FPVE 1.145000   NVI.FPVE 1.145000
+    BSJ.FPVE BSJ...VE -1.000000   BFP.VOVE 1.000000
+    BSJ.FPVE BFP.WTVE 0.979200   XSU.FPVE 0.479810
+    BSJ.FPVE XVI.FPVE 1.145000   NVI.FPVE 1.145000
+    BTM.FPVE BTM...VE -1.000000   BFP.VOVE 1.000000
+    BTM.FPVE BFP.WTVE 0.982600   XSU.FPVE 2.416310
+    BTM.FPVE XVI.FPVE 1.251000   NVI.FPVE 1.251000
+    BVY.FPVE BVY...VE -1.000000   BFP.VOVE 1.000000
+    BVY.FPVE BFP.WTVE 1.015800   XSU.FPVE 1.117380
+    BVY.FPVE XVI.FPVE 1.385000   NVI.FPVE 1.385000
+    BYV.FPVE BYV...VE -1.000000   BFP.VOVE 1.000000
+    BYV.FPVE BFP.WTVE 0.969800   XSU.FPVE 0.649770
+    BYV.FPVE XVI.FPVE 1.168000   NVI.FPVE 1.168000
+    B9E.FPVE B9E...VE -1.000000   BFP.VOVE 1.000000
+    B9E.FPVE BFP.WTVE 1.012200   XSU.FPVE 0.415000
+    B9E.FPVE XVI.FPVE 1.152000   NVI.FPVE 1.152000
+    B9F.FPVE B9F...VE -1.000000   BFP.VOVE 1.000000
+    B9F.FPVE BFP.WTVE 0.923600   XSU.FPVE 0.240140
+    B9F.FPVE XVI.FPVE 1.169000   NVI.FPVE 1.169000
+    B9L.FPVE B9L...VE -1.000000   BFP.VOVE 1.000000
+    B9L.FPVE BFP.WTVE 1.034400   XSU.FPVE 0.475820
+    B9L.FPVE XVI.FPVE 1.212000   NVI.FPVE 1.212000
+    B9M.FPVE B9M...VE -1.000000   BFP.VOVE 1.000000
+    B9M.FPVE BFP.WTVE 0.944000   XSU.FPVE 0.368160
+    B9M.FPVE XVI.FPVE 1.188000   NVI.FPVE 1.188000
+    B9S.FPVE B9S...VE -1.000000   BFP.VOVE 1.000000
+    B9S.FPVE BFP.WTVE 1.072800   XSU.FPVE 0.354020
+    B9S.FPVE XVI.FPVE 1.035000   NVI.FPVE 1.035000
+    BBB.FSVE BBB...VE -1.000000   BFS.VOVE 1.000000
+    BBB.FSVE BFS.WTVE 0.893700   XSU.FSVE 0.178740
+    BBB.FSVE XVI.FSVE 1.028000   NVI.FSVE 1.028000
+    BBD.FSVE BBD...VE -1.000000   BFS.VOVE 1.000000
+    BBD.FSVE BFS.WTVE 0.893100   XSU.FSVE 0.178620
+    BBD.FSVE XVI.FSVE 1.034000   NVI.FSVE 1.034000
+    BBO.FSVE BBO...VE -1.000000   BFS.VOVE 1.000000
+    BBO.FSVE BFS.WTVE 0.820000   XSU.FSVE 0.246000
+    BBO.FSVE XVI.FSVE 0.720000   NVI.FSVE 0.720000
+    BBP.FSVE BBP...VE -1.000000   BFS.VOVE 1.000000
+    BBP.FSVE BFS.WTVE 0.820000   XSU.FSVE 1.230000
+    BBP.FSVE XVI.FSVE 0.720000   NVI.FSVE 0.720000
+    BBW.FSVE BBW...VE -1.000000   BFS.VOVE 1.000000
+    BBW.FSVE BFS.WTVE 0.870000   XSU.FSVE 0.435000
+    BBW.FSVE XVI.FSVE 0.870000   NVI.FSVE 0.870000
+    BBY.FSVE BBY...VE -1.000000   BFS.VOVE 1.000000
+    BBY.FSVE BFS.WTVE 0.870000   XSU.FSVE 1.305000
+    BBY.FSVE XVI.FSVE 0.870000   NVI.FSVE 0.870000
+    BHM.FSVE BHM...VE -1.000000   BFS.VOVE 1.000000
+    BHM.FSVE BFS.WTVE 0.820000   XSU.FSVE 0.246000
+    BHM.FSVE XVI.FSVE 0.720000   NVI.FSVE 0.720000
+    BHN.FSVE BHN...VE -1.000000   BFS.VOVE 1.000000
+    BHN.FSVE BFS.WTVE 0.820000   XSU.FSVE 1.066000
+    BHN.FSVE XVI.FSVE 0.720000   NVI.FSVE 0.720000
+    BHV.FSVE BHV...VE -1.000000   BFS.VOVE 1.000000
+    BHV.FSVE BFS.WTVE 1.054570   XSU.FSVE 3.887300
+    BHV.FSVE XVI.FSVE 1.460000   NVI.FSVE 1.460000
+    BJL.FSVE BJL...VE -1.000000   BFS.VOVE 1.000000
+    BJL.FSVE BFS.WTVE 0.955560   XSU.FSVE 1.910920
+    BJL.FSVE XVI.FSVE 1.177000   NVI.FSVE 1.177000
+    BLJ.FSVE BLJ...VE -1.000000   BFS.VOVE 1.000000
+    BLJ.FSVE BFS.WTVE 1.013610   XSU.FSVE 2.784670
+    BLJ.FSVE XVI.FSVE 1.430000   NVI.FSVE 1.430000
+    BMT.FSVE BMT...VE -1.000000   BFS.VOVE 1.000000
+    BMT.FSVE BFS.WTVE 1.039070   XSU.FSVE 3.268510
+    BMT.FSVE XVI.FSVE 1.460000   NVI.FSVE 1.460000
+    BQB.FSVE BQB...VE -1.000000   BFS.VOVE 1.000000
+    BQB.FSVE BFS.WTVE 1.014000   XSU.FSVE 3.315780
+    BQB.FSVE XVI.FSVE 1.175000   NVI.FSVE 1.175000
+    BQJ.FSVE BQJ...VE -1.000000   BFS.VOVE 1.000000
+    BQJ.FSVE BFS.WTVE 1.029000   XSU.FSVE 3.920490
+    BQJ.FSVE XVI.FSVE 1.175000   NVI.FSVE 1.175000
+    BSB.FSVE BSB...VE -1.000000   BFS.VOVE 1.000000
+    BSB.FSVE BFS.WTVE 0.993000   XSU.FSVE 0.566010
+    BSB.FSVE XVI.FSVE 1.145000   NVI.FSVE 1.145000
+    BSJ.FSVE BSJ...VE -1.000000   BFS.VOVE 1.000000
+    BSJ.FSVE BFS.WTVE 0.979200   XSU.FSVE 0.479810
+    BSJ.FSVE XVI.FSVE 1.145000   NVI.FSVE 1.145000
+    BTM.FSVE BTM...VE -1.000000   BFS.VOVE 1.000000
+    BTM.FSVE BFS.WTVE 0.982600   XSU.FSVE 2.416310
+    BTM.FSVE XVI.FSVE 1.251000   NVI.FSVE 1.251000
+    BVH.FSVE BVH...VE -1.000000   BFS.VOVE 1.000000
+    BVH.FSVE BFS.WTVE 1.005950   XSU.FSVE 3.100870
+    BVH.FSVE XVI.FSVE 1.297000   NVI.FSVE 1.297000
+    BVY.FSVE BVY...VE -1.000000   BFS.VOVE 1.000000
+    BVY.FSVE BFS.WTVE 1.015800   XSU.FSVE 1.117380
+    BVY.FSVE XVI.FSVE 1.385000   NVI.FSVE 1.385000
+    BYV.FSVE BYV...VE -1.000000   BFS.VOVE 1.000000
+    BYV.FSVE BFS.WTVE 0.969800   XSU.FSVE 0.649770
+    BYV.FSVE XVI.FSVE 1.168000   NVI.FSVE 1.168000
+    B8B.FSVE B8B...VE -1.000000   BFS.VOVE 1.000000
+    B8B.FSVE BFS.WTVE 1.107000   XSU.FSVE 4.317300
+    B8B.FSVE XVI.FSVE 1.116000   NVI.FSVE 1.116000
+    B8J.FSVE B8J...VE -1.000000   BFS.VOVE 1.000000
+    B8J.FSVE BFS.WTVE 1.107000   XSU.FSVE 3.708450
+    B8J.FSVE XVI.FSVE 1.114000   NVI.FSVE 1.114000
+    B9A.FSVE B9A...VE -1.000000   BFS.VOVE 1.000000
+    B9A.FSVE BFS.WTVE 1.086800   XSU.FSVE 6.520800
+    B9A.FSVE XVI.FSVE 1.228000   NVI.FSVE 1.228000
+    B9C.FSVE B9C...VE -1.000000   BFS.VOVE 1.000000
+    B9C.FSVE BFS.WTVE 1.080600   XSU.FSVE 3.241800
+    B9C.FSVE XVI.FSVE 1.221000   NVI.FSVE 1.221000
+    B9E.FSVE B9E...VE -1.000000   BFS.VOVE 1.000000
+    B9E.FSVE BFS.WTVE 1.012200   XSU.FSVE 0.415000
+    B9E.FSVE XVI.FSVE 1.152000   NVI.FSVE 1.152000
+    B9F.FSVE B9F...VE -1.000000   BFS.VOVE 1.000000
+    B9F.FSVE BFS.WTVE 0.923600   XSU.FSVE 0.240140
+    B9F.FSVE XVI.FSVE 1.169000   NVI.FSVE 1.169000
+    B9G.FSVE B9G...VE -1.000000   BFS.VOVE 1.000000
+    B9G.FSVE BFS.WTVE 0.979200   XSU.FSVE 3.427200
+    B9G.FSVE XVI.FSVE 1.230000   NVI.FSVE 1.230000
+    B9H.FSVE B9H...VE -1.000000   BFS.VOVE 1.000000
+    B9H.FSVE BFS.WTVE 1.140500   XSU.FSVE 7.869450
+    B9H.FSVE XVI.FSVE 1.275000   NVI.FSVE 1.275000
+    B9J.FSVE B9J...VE -1.000000   BFS.VOVE 1.000000
+    B9J.FSVE BFS.WTVE 1.132800   XSU.FSVE 3.964800
+    B9J.FSVE XVI.FSVE 1.281000   NVI.FSVE 1.281000
+    B9L.FSVE B9L...VE -1.000000   BFS.VOVE 1.000000
+    B9L.FSVE BFS.WTVE 1.034400   XSU.FSVE 0.475820
+    B9L.FSVE XVI.FSVE 1.212000   NVI.FSVE 1.212000
+    B9M.FSVE B9M...VE -1.000000   BFS.VOVE 1.000000
+    B9M.FSVE BFS.WTVE 0.944000   XSU.FSVE 0.368160
+    B9M.FSVE XVI.FSVE 1.188000   NVI.FSVE 1.188000
+    B9N.FSVE B9N...VE -1.000000   BFS.VOVE 1.000000
+    B9N.FSVE BFS.WTVE 1.031300   XSU.FSVE 5.259630
+    B9N.FSVE XVI.FSVE 1.276000   NVI.FSVE 1.276000
+    B9O.FSVE B9O...VE -1.000000   BFS.VOVE 1.000000
+    B9O.FSVE BFS.WTVE 1.119500   XSU.FSVE 5.463160
+    B9O.FSVE XVI.FSVE 1.070000   NVI.FSVE 1.070000
+    B9Q.FSVE B9Q...VE -1.000000   BFS.VOVE 1.000000
+    B9Q.FSVE BFS.WTVE 1.114200   XSU.FSVE 2.629510
+    B9Q.FSVE XVI.FSVE 1.060000   NVI.FSVE 1.060000
+    B9S.FSVE B9S...VE -1.000000   BFS.VOVE 1.000000
+    B9S.FSVE BFS.WTVE 1.072800   XSU.FSVE 0.354020
+    B9S.FSVE XVI.FSVE 1.035000   NVI.FSVE 1.035000
+    BBO.FWVE BBO...VE -1.000000   BFW.VOVE 1.000000
+    BBO.FWVE BFW.WTVE 0.820000   XSU.FWVE 0.246000
+    BBO.FWVE XVI.FWVE 0.720000   NVI.FWVE 0.720000
+    BBP.FWVE BBP...VE -1.000000   BFW.VOVE 1.000000
+    BBP.FWVE BFW.WTVE 0.820000   XSU.FWVE 1.230000
+    BBP.FWVE XVI.FWVE 0.720000   NVI.FWVE 0.720000
+    BBW.FWVE BBW...VE -1.000000   BFW.VOVE 1.000000
+    BBW.FWVE BFW.WTVE 0.870000   XSU.FWVE 0.435000
+    BBW.FWVE XVI.FWVE 0.870000   NVI.FWVE 0.870000
+    BBY.FWVE BBY...VE -1.000000   BFW.VOVE 1.000000
+    BBY.FWVE BFW.WTVE 0.870000   XSU.FWVE 1.305000
+    BBY.FWVE XVI.FWVE 0.870000   NVI.FWVE 0.870000
+    BHM.FWVE BHM...VE -1.000000   BFW.VOVE 1.000000
+    BHM.FWVE BFW.WTVE 0.820000   XSU.FWVE 0.246000
+    BHM.FWVE XVI.FWVE 0.720000   NVI.FWVE 0.720000
+    BHN.FWVE BHN...VE -1.000000   BFW.VOVE 1.000000
+    BHN.FWVE BFW.WTVE 0.820000   XSU.FWVE 1.066000
+    BHN.FWVE XVI.FWVE 0.720000   NVI.FWVE 0.720000
+    BHV.FWVE BHV...VE -1.000000   BFW.VOVE 1.000000
+    BHV.FWVE BFW.WTVE 1.054570   XSU.FWVE 3.887300
+    BHV.FWVE XVI.FWVE 1.460000   NVI.FWVE 1.460000
+    BJL.FWVE BJL...VE -1.000000   BFW.VOVE 1.000000
+    BJL.FWVE BFW.WTVE 0.955560   XSU.FWVE 1.910920
+    BJL.FWVE XVI.FWVE 1.177000   NVI.FWVE 1.177000
+    BLJ.FWVE BLJ...VE -1.000000   BFW.VOVE 1.000000
+    BLJ.FWVE BFW.WTVE 1.013610   XSU.FWVE 2.784670
+    BLJ.FWVE XVI.FWVE 1.430000   NVI.FWVE 1.430000
+    BMT.FWVE BMT...VE -1.000000   BFW.VOVE 1.000000
+    BMT.FWVE BFW.WTVE 1.039070   XSU.FWVE 3.268510
+    BMT.FWVE XVI.FWVE 1.460000   NVI.FWVE 1.460000
+    BQB.FWVE BQB...VE -1.000000   BFW.VOVE 1.000000
+    BQB.FWVE BFW.WTVE 1.014000   XSU.FWVE 3.315780
+    BQB.FWVE XVI.FWVE 1.175000   NVI.FWVE 1.175000
+    BQJ.FWVE BQJ...VE -1.000000   BFW.VOVE 1.000000
+    BQJ.FWVE BFW.WTVE 1.029000   XSU.FWVE 3.920490
+    BQJ.FWVE XVI.FWVE 1.175000   NVI.FWVE 1.175000
+    BTM.FWVE BTM...VE -1.000000   BFW.VOVE 1.000000
+    BTM.FWVE BFW.WTVE 0.982600   XSU.FWVE 2.416310
+    BTM.FWVE XVI.FWVE 1.251000   NVI.FWVE 1.251000
+    BVH.FWVE BVH...VE -1.000000   BFW.VOVE 1.000000
+    BVH.FWVE BFW.WTVE 1.005950   XSU.FWVE 3.100870
+    BVH.FWVE XVI.FWVE 1.297000   NVI.FWVE 1.297000
+    BVY.FWVE BVY...VE -1.000000   BFW.VOVE 1.000000
+    BVY.FWVE BFW.WTVE 1.015800   XSU.FWVE 1.117380
+    BVY.FWVE XVI.FWVE 1.385000   NVI.FWVE 1.385000
+    BYV.FWVE BYV...VE -1.000000   BFW.VOVE 1.000000
+    BYV.FWVE BFW.WTVE 0.969800   XSU.FWVE 0.649770
+    BYV.FWVE XVI.FWVE 1.168000   NVI.FWVE 1.168000
+    B8B.FWVE B8B...VE -1.000000   BFW.VOVE 1.000000
+    B8B.FWVE BFW.WTVE 1.107000   XSU.FWVE 4.317300
+    B8B.FWVE XVI.FWVE 1.116000   NVI.FWVE 1.116000
+    B8J.FWVE B8J...VE -1.000000   BFW.VOVE 1.000000
+    B8J.FWVE BFW.WTVE 1.107000   XSU.FWVE 3.708450
+    B8J.FWVE XVI.FWVE 1.114000   NVI.FWVE 1.114000
+    B9A.FWVE B9A...VE -1.000000   BFW.VOVE 1.000000
+    B9A.FWVE BFW.WTVE 1.086800   XSU.FWVE 6.520800
+    B9A.FWVE XVI.FWVE 1.228000   NVI.FWVE 1.228000
+    B9C.FWVE B9C...VE -1.000000   BFW.VOVE 1.000000
+    B9C.FWVE BFW.WTVE 1.080600   XSU.FWVE 3.241800
+    B9C.FWVE XVI.FWVE 1.221000   NVI.FWVE 1.221000
+    B9G.FWVE B9G...VE -1.000000   BFW.VOVE 1.000000
+    B9G.FWVE BFW.WTVE 0.979200   XSU.FWVE 3.427200
+    B9G.FWVE XVI.FWVE 1.230000   NVI.FWVE 1.230000
+    B9H.FWVE B9H...VE -1.000000   BFW.VOVE 1.000000
+    B9H.FWVE BFW.WTVE 1.140500   XSU.FWVE 7.869450
+    B9H.FWVE XVI.FWVE 1.275000   NVI.FWVE 1.275000
+    B9J.FWVE B9J...VE -1.000000   BFW.VOVE 1.000000
+    B9J.FWVE BFW.WTVE 1.132800   XSU.FWVE 3.964800
+    B9J.FWVE XVI.FWVE 1.281000   NVI.FWVE 1.281000
+    B9N.FWVE B9N...VE -1.000000   BFW.VOVE 1.000000
+    B9N.FWVE BFW.WTVE 1.031300   XSU.FWVE 5.259630
+    B9N.FWVE XVI.FWVE 1.276000   NVI.FWVE 1.276000
+    B9O.FWVE B9O...VE -1.000000   BFW.VOVE 1.000000
+    B9O.FWVE BFW.WTVE 1.119500   XSU.FWVE 5.463160
+    B9O.FWVE XVI.FWVE 1.070000   NVI.FWVE 1.070000
+    B9Q.FWVE B9Q...VE -1.000000   BFW.VOVE 1.000000
+    B9Q.FWVE BFW.WTVE 1.114200   XSU.FWVE 2.629510
+    B9Q.FWVE XVI.FWVE 1.060000   NVI.FWVE 1.060000
+    BBO.FYVE BBO...VE -1.000000   BFY.VOVE 1.000000
+    BBO.FYVE BFY.WTVE 0.820000   XSU.FYVE 0.246000
+    BBO.FYVE XVI.FYVE 0.720000   NVI.FYVE 0.720000
+    BBP.FYVE BBP...VE -1.000000   BFY.VOVE 1.000000
+    BBP.FYVE BFY.WTVE 0.820000   XSU.FYVE 1.230000
+    BBP.FYVE XVI.FYVE 0.720000   NVI.FYVE 0.720000
+    BBW.FYVE BBW...VE -1.000000   BFY.VOVE 1.000000
+    BBW.FYVE BFY.WTVE 0.870000   XSU.FYVE 0.435000
+    BBW.FYVE XVI.FYVE 0.870000   NVI.FYVE 0.870000
+    BBY.FYVE BBY...VE -1.000000   BFY.VOVE 1.000000
+    BBY.FYVE BFY.WTVE 0.870000   XSU.FYVE 1.305000
+    BBY.FYVE XVI.FYVE 0.870000   NVI.FYVE 0.870000
+    BHM.FYVE BHM...VE -1.000000   BFY.VOVE 1.000000
+    BHM.FYVE BFY.WTVE 0.820000   XSU.FYVE 0.246000
+    BHM.FYVE XVI.FYVE 0.720000   NVI.FYVE 0.720000
+    BHN.FYVE BHN...VE -1.000000   BFY.VOVE 1.000000
+    BHN.FYVE BFY.WTVE 0.820000   XSU.FYVE 1.066000
+    BHN.FYVE XVI.FYVE 0.720000   NVI.FYVE 0.720000
+    BHV.FYVE BHV...VE -1.000000   BFY.VOVE 1.000000
+    BHV.FYVE BFY.WTVE 1.054570   XSU.FYVE 3.887300
+    BHV.FYVE XVI.FYVE 1.460000   NVI.FYVE 1.460000
+    BJL.FYVE BJL...VE -1.000000   BFY.VOVE 1.000000
+    BJL.FYVE BFY.WTVE 0.955560   XSU.FYVE 1.910920
+    BJL.FYVE XVI.FYVE 1.177000   NVI.FYVE 1.177000
+    BLJ.FYVE BLJ...VE -1.000000   BFY.VOVE 1.000000
+    BLJ.FYVE BFY.WTVE 1.013610   XSU.FYVE 2.784670
+    BLJ.FYVE XVI.FYVE 1.430000   NVI.FYVE 1.430000
+    BMT.FYVE BMT...VE -1.000000   BFY.VOVE 1.000000
+    BMT.FYVE BFY.WTVE 1.039070   XSU.FYVE 3.268510
+    BMT.FYVE XVI.FYVE 1.460000   NVI.FYVE 1.460000
+    BQB.FYVE BQB...VE -1.000000   BFY.VOVE 1.000000
+    BQB.FYVE BFY.WTVE 1.014000   XSU.FYVE 3.315780
+    BQB.FYVE XVI.FYVE 1.175000   NVI.FYVE 1.175000
+    BQJ.FYVE BQJ...VE -1.000000   BFY.VOVE 1.000000
+    BQJ.FYVE BFY.WTVE 1.029000   XSU.FYVE 3.920490
+    BQJ.FYVE XVI.FYVE 1.175000   NVI.FYVE 1.175000
+    BTM.FYVE BTM...VE -1.000000   BFY.VOVE 1.000000
+    BTM.FYVE BFY.WTVE 0.982600   XSU.FYVE 2.416310
+    BTM.FYVE XVI.FYVE 1.251000   NVI.FYVE 1.251000
+    BVH.FYVE BVH...VE -1.000000   BFY.VOVE 1.000000
+    BVH.FYVE BFY.WTVE 1.005950   XSU.FYVE 3.100870
+    BVH.FYVE XVI.FYVE 1.297000   NVI.FYVE 1.297000
+    BVY.FYVE BVY...VE -1.000000   BFY.VOVE 1.000000
+    BVY.FYVE BFY.WTVE 1.015800   XSU.FYVE 1.117380
+    BVY.FYVE XVI.FYVE 1.385000   NVI.FYVE 1.385000
+    BYV.FYVE BYV...VE -1.000000   BFY.VOVE 1.000000
+    BYV.FYVE BFY.WTVE 0.969800   XSU.FYVE 0.649770
+    BYV.FYVE XVI.FYVE 1.168000   NVI.FYVE 1.168000
+    B8B.FYVE B8B...VE -1.000000   BFY.VOVE 1.000000
+    B8B.FYVE BFY.WTVE 1.107000   XSU.FYVE 4.317300
+    B8B.FYVE XVI.FYVE 1.116000   NVI.FYVE 1.116000
+    B8J.FYVE B8J...VE -1.000000   BFY.VOVE 1.000000
+    B8J.FYVE BFY.WTVE 1.107000   XSU.FYVE 3.708450
+    B8J.FYVE XVI.FYVE 1.114000   NVI.FYVE 1.114000
+    B9A.FYVE B9A...VE -1.000000   BFY.VOVE 1.000000
+    B9A.FYVE BFY.WTVE 1.086800   XSU.FYVE 6.520800
+    B9A.FYVE XVI.FYVE 1.228000   NVI.FYVE 1.228000
+    B9C.FYVE B9C...VE -1.000000   BFY.VOVE 1.000000
+    B9C.FYVE BFY.WTVE 1.080600   XSU.FYVE 3.241800
+    B9C.FYVE XVI.FYVE 1.221000   NVI.FYVE 1.221000
+    B9G.FYVE B9G...VE -1.000000   BFY.VOVE 1.000000
+    B9G.FYVE BFY.WTVE 0.979200   XSU.FYVE 3.427200
+    B9G.FYVE XVI.FYVE 1.230000   NVI.FYVE 1.230000
+    B9H.FYVE B9H...VE -1.000000   BFY.VOVE 1.000000
+    B9H.FYVE BFY.WTVE 1.140500   XSU.FYVE 7.869450
+    B9H.FYVE XVI.FYVE 1.275000   NVI.FYVE 1.275000
+    B9J.FYVE B9J...VE -1.000000   BFY.VOVE 1.000000
+    B9J.FYVE BFY.WTVE 1.132800   XSU.FYVE 3.964800
+    B9J.FYVE XVI.FYVE 1.281000   NVI.FYVE 1.281000
+    B9N.FYVE B9N...VE -1.000000   BFY.VOVE 1.000000
+    B9N.FYVE BFY.WTVE 1.031300   XSU.FYVE 5.259630
+    B9N.FYVE XVI.FYVE 1.276000   NVI.FYVE 1.276000
+    B9O.FYVE B9O...VE -1.000000   BFY.VOVE 1.000000
+    B9O.FYVE BFY.WTVE 1.119500   XSU.FYVE 5.463160
+    B9O.FYVE XVI.FYVE 1.070000   NVI.FYVE 1.070000
+    B9Q.FYVE B9Q...VE -1.000000   BFY.VOVE 1.000000
+    B9Q.FYVE BFY.WTVE 1.114200   XSU.FYVE 2.629510
+    B9Q.FYVE XVI.FYVE 1.060000   NVI.FYVE 1.060000
+    B/A.GPVE B/A...VE -1.000000   BGP.VOVE 1.000000
+    B/A.GPVE NRN.GPVE 0.639000   ND2.GPVE 0.281000
+    B/A.GPVE WVP.GPVE 0.380000   WD8.GPVE 0.085000
+    BIP.GPVE BIP...VE -1.000000   BGP.VOVE 1.000000
+    BIP.GPVE NRN.GPVE 0.486000   ND2.GPVE 0.137000
+    BIP.GPVE WVP.GPVE 0.110000   WD8.GPVE -0.016000
+    BLN.GPVE BLN...VE -1.000000   BGP.VOVE 1.000000
+    BLN.GPVE NRN.GPVE 0.555000   ND2.GPVE 1.080000
+    BLN.GPVE WVP.GPVE 1.040000   WD8.GPVE 0.580000
+    BN4.GPVE BN4...VE -1.000000   BGP.VOVE 1.000000
+    BN4.GPVE NRN.GPVE 0.668000   ND2.GPVE 1.000000
+    BN4.GPVE WVP.GPVE 6.500000   WD8.GPVE 1.040000
+    B0A.GPVE B0A...VE -1.000000   BGP.VOVE 1.000000
+    B0A.GPVE NRN.GPVE 0.639000   ND2.GPVE 0.281000
+    B0A.GPVE WVP.GPVE 0.380000   WD8.GPVE 0.085000
+    B4A.GPVE B4A...VE -1.000000   BGP.VOVE 1.000000
+    B4A.GPVE NRN.GPVE 0.643200   ND2.GPVE 0.486000
+    B4A.GPVE WVP.GPVE 0.700000   WD8.GPVE 0.187000
+    B4C.GPVE B4C...VE -1.000000   BGP.VOVE 1.000000
+    B4C.GPVE NRN.GPVE 0.645700   ND2.GPVE 0.551000
+    B4C.GPVE WVP.GPVE 0.790000   WD8.GPVE 0.235000
+    B4E.GPVE B4E...VE -1.000000   BGP.VOVE 1.000000
+    B4E.GPVE NRN.GPVE 0.645200   ND2.GPVE 0.569000
+    B4E.GPVE WVP.GPVE 0.780000   WD8.GPVE 0.226000
+    B4F.GPVE B4F...VE -1.000000   BGP.VOVE 1.000000
+    B4F.GPVE NRN.GPVE 0.644800   ND2.GPVE 0.527000
+    B4F.GPVE WVP.GPVE 0.760000   WD8.GPVE 0.217000
+    B4G.GPVE B4G...VE -1.000000   BGP.VOVE 1.000000
+    B4G.GPVE NRN.GPVE 0.643400   ND2.GPVE 0.492000
+    B4G.GPVE WVP.GPVE 0.710000   WD8.GPVE 0.192000
+    B4H.GPVE B4H...VE -1.000000   BGP.VOVE 1.000000
+    B4H.GPVE NRN.GPVE 0.647500   ND2.GPVE 0.600000
+    B4H.GPVE WVP.GPVE 0.860000   WD8.GPVE 0.271000
+    B4J.GPVE B4J...VE -1.000000   BGP.VOVE 1.000000
+    B4J.GPVE NRN.GPVE 0.640600   ND2.GPVE 0.682000
+    B4J.GPVE WVP.GPVE 0.980000   WD8.GPVE 0.331000
+    B4L.GPVE B4L...VE -1.000000   BGP.VOVE 1.000000
+    B4L.GPVE NRN.GPVE 0.649500   ND2.GPVE 0.654000
+    B4L.GPVE WVP.GPVE 0.940000   WD8.GPVE 0.311000
+    B4M.GPVE B4M...VE -1.000000   BGP.VOVE 1.000000
+    B4M.GPVE NRN.GPVE 0.648900   ND2.GPVE 0.638000
+    B4M.GPVE WVP.GPVE 0.920000   WD8.GPVE 0.299000
+    B4N.GPVE B4N...VE -1.000000   BGP.VOVE 1.000000
+    B4N.GPVE NRN.GPVE 0.647900   ND2.GPVE 0.612000
+    B4N.GPVE WVP.GPVE 0.880000   WD8.GPVE 0.280000
+    B4O.GPVE B4O...VE -1.000000   BGP.VOVE 1.000000
+    B4O.GPVE NRN.GPVE 0.650000   ND2.GPVE 0.462000
+    B4O.GPVE WVP.GPVE 0.580000   WD8.GPVE 0.222000
+    B4Q.GPVE B4Q...VE -1.000000   BGP.VOVE 1.000000
+    B4Q.GPVE NRN.GPVE 0.650000   ND2.GPVE 0.464000
+    B4Q.GPVE WVP.GPVE 0.580000   WD8.GPVE 0.224000
+    B4S.GPVE B4S...VE -1.000000   BGP.VOVE 1.000000
+    B4S.GPVE NRN.GPVE 0.648000   ND2.GPVE 0.489000
+    B4S.GPVE WVP.GPVE 0.600000   WD8.GPVE 0.253000
+    B5A.GPVE B5A...VE -1.000000   BGP.VOVE 1.000000
+    B5A.GPVE NRN.GPVE 0.668000   ND2.GPVE 0.239000
+    B5A.GPVE WVP.GPVE 0.230000   WD8.GPVE -0.040000
+    B5B.GPVE B5B...VE -1.000000   BGP.VOVE 1.000000
+    B5B.GPVE NRN.GPVE 0.672000   ND2.GPVE 0.334000
+    B5B.GPVE WVP.GPVE 0.370000   WD8.GPVE 0.049000
+    B5C.GPVE B5C...VE -1.000000   BGP.VOVE 1.000000
+    B5C.GPVE NRN.GPVE 0.667000   ND2.GPVE 0.191000
+    B5C.GPVE WVP.GPVE 0.220000   WD8.GPVE -0.049000
+    B5D.GPVE B5D...VE -1.000000   BGP.VOVE 1.000000
+    B5D.GPVE NRN.GPVE 0.671000   ND2.GPVE 0.286000
+    B5D.GPVE WVP.GPVE 0.360000   WD8.GPVE 0.040000
+    B5E.GPVE B5E...VE -1.000000   BGP.VOVE 1.000000
+    B5E.GPVE NRN.GPVE 0.701000   ND2.GPVE 0.241000
+    B5E.GPVE WVP.GPVE 0.250000   WD8.GPVE -0.024000
+    B5F.GPVE B5F...VE -1.000000   BGP.VOVE 1.000000
+    B5F.GPVE NRN.GPVE 0.705000   ND2.GPVE 0.336000
+    B5F.GPVE WVP.GPVE 0.390000   WD8.GPVE 0.065000
+    B5G.GPVE B5G...VE -1.000000   BGP.VOVE 1.000000
+    B5G.GPVE NRN.GPVE 0.700000   ND2.GPVE 0.193000
+    B5G.GPVE WVP.GPVE 0.240000   WD8.GPVE -0.033000
+    B5H.GPVE B5H...VE -1.000000   BGP.VOVE 1.000000
+    B5H.GPVE NRN.GPVE 0.704000   ND2.GPVE 0.288000
+    B5H.GPVE WVP.GPVE 0.380000   WD8.GPVE 0.056000
+    CFT.C.VE CFT.C.VE 1.000000   BFR...VE -0.012000
+    CFT.C.VE UPBROW27976 1.000000
+    CTF.D.VE CTF.D.VE 1.000000   KMC0.... -0.220000
+    CTF.D.VE KMC5.... -0.281000   KWC..... 0.836000
+    CTF.D.VE FAT0..J. 0.077000   BFR...VE -0.025000
+    CTF.D.VE UPBROW27977 1.000000
+    CF..F.VE CF..F.VE 1.000000   FAT0..J. 0.114000
+    CF..F.VE BFR...VE -0.015000   BRG...VE -0.006000
+    CF..F.VE UPBROW27978 1.000000
+    CF..G.VE CF..G.VE 1.000000   FAT0..J. 0.233000
+    CF..G.VE BFR...VE -0.024000   BNL...VE -0.022100
+    CF..G.VE UPBROW27979 1.000000
+    CF..P.VE CF..P.VE 1.000000   FAT0..J. 0.372000
+    CF..P.VE BFR...VE -0.044000   UPBROW27980 1.000000
+    QVO5FYEM BFY.VOEM -1.000000   XVI.FYEM -1.117000
+    QVO5FYEM NVI.FYEM -1.095000
+    COH.V.VE COH.V.VE 1.000000   FAT0..J. 0.155000
+    COH.V.VE BFR...VE -0.014000   UPBROW27981 1.000000
+    DDH...VE BDH...VE -1.000000   FAT0..J. -100.000000
+    DDH...VE UPBROW27982 1.000000
+    DDK...VE BDK...VE -1.000000   FAT0..J. -100.000000
+    DDK...VE UPBROW27983 1.000000
+    DDM...VE BDM...VE -1.000000   FAT0..J. -100.000000
+    DDM...VE UPBROW27984 1.000000
+    DFS...VE BFS...VE -1.000000   FAT0..J. -100.000000
+    DFS...VE UPBROW27985 1.000000
+    DFW...VE BFW...VE -1.000000   FAT0..J. -100.000000
+    DFW...VE UPBROW27986 1.000000
+    DFY...VE BFY...VE -1.000000   FAT0..J. -100.000000
+    DFY...VE LOBROW27987 1.000000
+    DGP...VE BGP...VE -1.000000   FAT0..J. -100.000000
+    DGP...VE UPBROW27988 1.000000
+    DLG...VE BLG...VE -1.000000   FAT0..J. -100.000000
+    DLG...VE UPBROW27989 1.000000
+    DNI...VE BNI...VE -1.000000   FAT0..J. -100.000000
+    DNI...VE UPBROW27990 1.000000
+    DNL...VE BNL...VE -1.000000   FAT0..J. -100.000000
+    DNL...VE UPBROW27991 1.000000
+    DOA...VE BOA...VE -1.000000   FAT0..J. -100.000000
+    DOA...VE UPBROW27992 1.000000
+    DOL...VE BOL...VE -1.000000   FAT0..J. -100.000000
+    DOL...VE UPBROW27993 1.000000
+    IFT.C.VE CFT.C.VE 1.000000   FAT0..J. 0.903000
+    IFT.C.VE BFR...VE -0.012000
+    ITF.D.VE CTF.D.VE 1.000000   KMC0.... -0.220000
+    ITF.D.VE KMC5.... -0.281000   KWC..... 0.836000
+    ITF.D.VE FAT0..J. 0.887000   BFR...VE -0.025000
+    IF..F.VE CF..F.VE 1.000000   FAT0..J. 0.343000
+    IF..F.VE BFR...VE -0.015000   BRG...VE -0.006000
+    QWT5FVEM BFV.WTEM -1.000000   XSU.FVEM -1.900000
+    QWT5FVEM BFV...EM 1.052600
+    IF..P.VE CF..P.VE 1.000000   FAT0..J. 0.899000
+    IF..P.VE BFR...VE -0.044000
+    IF..Q.VE CF..Q.VE 1.000000   FAT0..J. 3.322000
+    IF..Q.VE BFR...VE -0.032000   UPBROW27994 1.000000
+    IOH.V.VE COH.V.VE 1.000000   FAT0..J. 0.516000
+    IOH.V.VE BFR...VE -0.014000
+    MBK.BLVE BBL...VE 1.000000   BBK...VE -1.000000
+    MBK.BMVE BBM...VE 1.000000   BBK...VE -1.000000
+    MBL.BNVE BBN...VE 1.000000   BBL...VE -1.000000
+    MBM.BOVE BBL...VE -0.034500   BBN...VE -0.034500
+    MBM.BOVE BBK...VE -0.465500   BBM...VE -0.465500
+    MBM.BOVE BBO...VE 1.000000
+    MBN.BPVE BBL...VE -0.241400   BBN...VE -0.241400
+    MBN.BPVE BBK...VE -0.258600   BBM...VE -0.258600
+    MBN.BPVE BBP...VE 1.000000
+    MBU.BVVE BBV...VE 1.000000   BBU...VE -1.000000
+    MBU.BWVE BBV...VE -0.130400   BBU...VE -0.869600
+    MBU.BWVE BBW...VE 1.000000
+    MBV.BYVE BBV...VE -0.565200   BBU...VE -0.434800
+    MBV.BYVE BBY...VE 1.000000
+    MBC.B4VE BB4...VE 1.000000   BBC...VE -0.576500
+    MBC.B4VE BBA...VE -0.423500
+    MBD.B5VE BB5...VE 1.000000   BBD...VE -0.576500
+    MBD.B5VE BBB...VE -0.423500
+    MKE.DKVE BDK...VE 1.000000   BKE...VE -1.005000
+    MFY.FJVE BFJ...VE 1.000000   BFY...VE -1.000000
+    MFY.FJVE XVI.FYVE 0.034000
+    MFY.FRVE BFR...VE 1.000000   BFY...VE -1.000000
+    MRG.FRVE BFR...VE 1.000000   BRG...VE -1.000000
+    MFS.FTVE BFT...VE 1.000000   BFS...VE -0.937500
+    MFS.FTVE BFW...VE -0.062500
+    MHL.HHVE BHH...VE 1.000000   BHL...VE -1.000000
+    MHL.HMVE BHH...VE -0.133300   BHL...VE -0.866700
+    MHL.HMVE BHM...VE 1.000000
+    MHH.HNVE BHH...VE -0.800000   BHL...VE -0.200000
+    MHH.HNVE BHN...VE 1.000000
+    MIP.IBVE BIP...VE -0.780000   BKE...VE -1.066200
+    MIP.IBVE BIB...VE 1.000000   BKH...VE 0.846200
+    MIN.IGVE BIN...VE -0.780000   BKE...VE -1.066200
+    MIN.IGVE BIG...VE 1.000000   BKH...VE 0.846200
+    MIN.IPVE BIP...VE 1.000000   BIN...VE -1.000000
+    MRG.LGVE BRG...VE -0.657500   BLG...VE 1.000000
+    MIN.NIVE BIN...VE -0.572500   BIP...VE -0.442500
+    MIN.NIVE BNI...VE 1.000000
+    MDK.NJVE BLN...VE -0.111100   BIN...VE -0.175000
+    MDK.NJVE BIP...VE -0.238900   BDK...VE -0.482400
+    MDK.NJVE BNJ...VE 1.000000
+    MI5.NLVE BI5...VE -1.052000   BNL...VE 1.000000
+    MLN.NLVE BNL...VE 1.000000   BLN...VE -1.015000
+    MRG.N4VE BRG...VE -1.000000   BN4...VE 1.414600
+    MFY.OAVE BOA...VE 1.000000   BFY...VE -1.000000
+    MFY.OAVE XVI.FYVE -0.213000   XSU.FYVE -2.490000
+    MBC.OLVE BOL...VE 1.000000   BBC...VE -1.000000
+    MCV.RGVE BRG...VE 0.645000   BCV...VE -1.000000
+    MLG.RGVE BRG...VE 0.657500   BLG...VE -1.000000
+    PBA.C1VE BRG...VE 0.129900   B4A...VE 0.498800
+    PBA.C1VE BBK...VE 0.068800   BBL...VE 0.169900
+    PBA.C1VE BBM...VE 0.036100   BBN...VE 0.089100
+    PBA.C1VE B9A...VE 0.038500   CFT.C.VE -1.756000
+    PBA.C1VE BBA...VE -1.000000
+    PBC.C1VE BRG...VE 0.143700   B4C...VE 0.496400
+    PBC.C1VE BBK...VE 0.151600   BBL...VE 0.075400
+    PBC.C1VE BBM...VE 0.083100   BBN...VE 0.041300
+    PBC.C1VE B9C...VE 0.033900   CFT.C.VE -1.719000
+    PBC.C1VE BBC...VE -1.000000
+    PBE.C1VE BRG...VE 0.141400   BBK...VE 0.130900
+    PBE.C1VE BBL...VE 0.001400   BBM...VE 0.196300
+    PBE.C1VE BBN...VE 0.002000   CFT.C.VE -1.566000
+    PBE.C1VE B4E...VE 0.561300   B9E...VE 0.027500
+    PBE.C1VE BBE...VE -1.000000
+    PBU.C1VE BRG...VE 0.079900   B4F...VE 0.240900
+    PBU.C1VE BBK...VE 0.393300   BBL...VE 0.000900
+    PBU.C1VE BBM...VE 0.289400   BBN...VE 0.000700
+    PBU.C1VE B9F...VE 0.008400   CFT.C.VE -1.330000
+    PBU.C1VE BBU...VE -1.000000
+    PBV.C1VE BBV...VE -1.000000   BRG...VE 0.081200
+    PBV.C1VE B4G...VE 0.265400   BBK...VE -0.004000
+    PBV.C1VE BBL...VE -0.026500   BBM...VE 0.089800
+    PBV.C1VE BBN...VE 0.602900   B9G...VE 0.008600
+    PBV.C1VE CFT.C.VE -1.370000
+    PBA.C3VE BRG...VE 0.217000   BBK...VE 0.049700
+    PBA.C3VE BBL...VE 0.146900   BBM...VE 0.020500
+    PBA.C3VE BBN...VE 0.060600   CFT.C.VE -2.170000
+    PBA.C3VE B4H...VE 0.465000   B9H...VE 0.014000
+    PBA.C3VE BBA...VE -1.000000
+    PBC.C3VE BRG...VE 0.239700   BBK...VE 0.116700
+    PBC.C3VE BBL...VE 0.067800   BBM...VE 0.050900
+    PBC.C3VE BBN...VE 0.029600   CFT.C.VE -2.062000
+    PBC.C3VE B4J...VE 0.458000   B9J...VE 0.012300
+    PBC.C3VE BBC...VE -1.000000
+    PBE.C3VE BRG...VE 0.240700   BBK...VE 0.114300
+    PBE.C3VE BBL...VE 0.001600   BBM...VE 0.131000
+    PBE.C3VE BBN...VE 0.001800   CFT.C.VE -1.506000
+    PBE.C3VE B4L...VE 0.529900   B9L...VE 0.010200
+    PBE.C3VE BBE...VE -1.000000
+    PBU.C3VE BRG...VE 0.161400   BBK...VE 0.356200
+    PBU.C3VE BBL...VE 0.009700   BBM...VE 0.148400
+    PBU.C3VE BBN...VE 0.004100   CFT.C.VE -1.334000
+    PBU.C3VE B4M...VE 0.305400   B9M...VE 0.009600
+    PBU.C3VE BBU...VE -1.000000
+    PBV.C3VE BBV...VE -1.000000   BRG...VE 0.162100
+    PBV.C3VE BBK...VE 0.007300   BBL...VE 0.050700
+    PBV.C3VE BBM...VE 0.056000   BBN...VE 0.386000
+    PBV.C3VE CFT.C.VE -1.368000   B4N...VE 0.334800
+    PBV.C3VE B9N...VE 0.009600
+    PBA.C5VE BRG...VE 0.162300   BBK...VE -0.011800
+    PBA.C5VE BBL...VE 0.125800   BBM...VE -0.001600
+    PBA.C5VE BBN...VE 0.017100   CFT.C.VE -1.521000
+    PBA.C5VE BBA...VE -1.000000   B4O...VE 0.669100
+    PBA.C5VE B9O...VE 0.070500
+    PBC.C5VE BRG...VE 0.160300   BBK...VE 0.054100
+    PBC.C5VE BBL...VE 0.057900   BBM...VE 0.007400
+    PBC.C5VE BBN...VE 0.007900   CFT.C.VE -1.506000
+    PBC.C5VE B4Q...VE 0.672300   B9Q...VE 0.072700
+    PBC.C5VE BBC...VE -1.000000
+    PBE.C5VE BRG...VE 0.146100   BBK...VE 0.050500
+    PBE.C5VE BBL...VE 0.001800   BBM...VE 0.075700
+    PBE.C5VE BBN...VE 0.002700   CFT.C.VE -1.413000
+    PBE.C5VE B4S...VE 0.697200   B9S...VE 0.069300
+    PBE.C5VE BBE...VE -1.000000
+    PQB.C7VE BRG...VE 0.165800   BBK...VE 0.023500
+    PQB.C7VE BBL...VE 0.272300   BBM...VE -0.001300
+    PQB.C7VE BBN...VE -0.015400   CFT.C.VE -2.555000
+    PQB.C7VE BQB...VE -1.000000   B0B...VE 0.345100
+    PQB.C7VE B8B...VE 0.183100
+    PQJ.C7VE BRG...VE 0.120100   BBK...VE 0.061400
+    PQJ.C7VE BBL...VE 0.225700   BBM...VE -0.003500
+    PQJ.C7VE BBN...VE -0.012800   CFT.C.VE -2.139000
+    PQJ.C7VE BQJ...VE -1.000000   B0J...VE 0.441400
+    PQJ.C7VE B8J...VE 0.140900
+    QVO5FVEM BFV.VOEM -1.000000   XVI.FVEM -1.114000
+    QVO5FVEM NVI.FVEM -1.000000
+    PGL.DNVE BRG...VE 0.440500   BLN...VE 0.165000
+    PGL.DNVE BIP...VE 0.165000   UPBROW27995 1.000000
+    PBQ.DVVE CTF.D.VE -1.000000   COH.V.VE -0.324520
+    PBQ.DVVE BCV...VE 0.007590   BI5...VE 0.003180
+    PBQ.DVVE BLN...VE 0.014330   BIN...VE 0.036100
+    PBQ.DVVE BIP...VE 0.005260   BKE...VE 0.100560
+    PBQ.DVVE BHL...VE 0.020970   BHH...VE 0.159280
+    PBQ.DVVE BBU...VE 0.000320   BBV...VE 0.001460
+    PBQ.DVVE BBC...VE 0.168940   BBA...VE 0.155570
+    PBQ.DVVE BHV...VE 0.326430   ABQ..... -1.000000
+    PTL.DVVE CTF.D.VE -1.000000   COH.V.VE -0.257700
+    PTL.DVVE BCV...VE 0.022570   BI5...VE 0.006830
+    PTL.DVVE BLN...VE 0.032450   BIN...VE 0.037750
+    PTL.DVVE BIP...VE 0.091360   BKE...VE 0.170680
+    PTL.DVVE BHL...VE 0.090380   BHH...VE 0.023370
+    PTL.DVVE BBU...VE 0.052830   BBV...VE 0.027800
+    PTL.DVVE BBE...VE 0.036490   BBC...VE 0.221210
+    PTL.DVVE BLJ...VE 0.186280   ATL..... -1.000000
+    PTM.DVVE CTF.D.VE -1.000000   COH.V.VE -0.287020
+    PTM.DVVE BCV...VE 0.013540   BI5...VE 0.005480
+    PTM.DVVE BLN...VE 0.026370   BIN...VE 0.050130
+    PTM.DVVE BIP...VE 0.040830   BKE...VE 0.149310
+    PTM.DVVE BHL...VE 0.065320   BHH...VE 0.095220
+    PTM.DVVE BBU...VE 0.013200   BBV...VE 0.017680
+    PTM.DVVE BBC...VE 0.247960   BBA...VE 0.039060
+    PTM.DVVE BMT...VE 0.235890   ATM..... -1.000000
+    PBQ.D1VE CTF.D.VE -1.000000   BCV...VE 0.007590
+    PBQ.D1VE BI5...VE 0.003180   BLN...VE 0.014330
+    PBQ.D1VE BIN...VE 0.036100   BIP...VE 0.005260
+    PBQ.D1VE BKE...VE 0.100560   BHL...VE 0.020970
+    PBQ.D1VE BHH...VE 0.159270   BBU...VE 0.000320
+    PBQ.D1VE BBV...VE 0.001460   BVH...VE 0.650950
+    PBQ.D1VE ABQ..... -1.000000
+    PTL.D1VE CTF.D.VE -1.000000   BCV...VE 0.022570
+    PTL.D1VE BI5...VE 0.006830   BLN...VE 0.032450
+    PTL.D1VE BIN...VE 0.037750   BIP...VE 0.091350
+    PTL.D1VE BKE...VE 0.170680   BHL...VE 0.090380
+    PTL.D1VE BHH...VE 0.023370   BBU...VE 0.052830
+    PTL.D1VE BBV...VE 0.027800   BJL...VE 0.443980
+    PTL.D1VE ATL..... -1.000000
+    PTM.D1VE CTF.D.VE -1.000000   BCV...VE 0.013540
+    PTM.D1VE BI5...VE 0.005480   BLN...VE 0.026370
+    PTM.D1VE BIN...VE 0.050130   BIP...VE 0.040830
+    PTM.D1VE BKE...VE 0.149310   BHL...VE 0.065320
+    PTM.D1VE BHH...VE 0.095220   BBU...VE 0.013200
+    PTM.D1VE BBV...VE 0.017680   BTM...VE 0.522920
+    PTM.D1VE ATM..... -1.000000
+    PYV.D4VE CTF.D.VE -1.000000   BIN...VE 0.006000
+    PYV.D4VE BHL...VE 0.241700   BHH...VE 0.017300
+    PYV.D4VE BYV...VE 0.735000   AYV..... -1.000000
+    PBL.F1VE BBK...VE 1.000000   CF..F.VE -2.900000
+    PBL.F1VE BBL...VE -1.000000
+    PBN.F1VE BBM...VE 1.000000   CF..F.VE -2.900000
+    PBN.F1VE BBN...VE -1.000000
+    PBV.F1VE BBU...VE 1.000000   CF..F.VE -2.300000
+    PBV.F1VE BBV...VE -1.000000
+    PHH.F1VE BHL...VE 1.000000   CF..F.VE -1.500000
+    PHH.F1VE BHH...VE -1.000000
+    PBA.G2VE BRG...VE 0.003700   BIP...VE 0.003600
+    PBA.G2VE BBB...VE 1.004800   CF..G.VE -1.088400
+    PBA.G2VE BBA...VE -1.000000
+    PBC.G2VE BRG...VE 0.001600   BIP...VE 0.001600
+    PBC.G2VE BBD...VE 1.005500   CF..G.VE -0.933800
+    PBC.G2VE BBC...VE -1.000000
+    PQB.G2VE CF..G.VE -1.150000   BSB...VE 1.000000
+    PQB.G2VE BQB...VE -1.000000
+    PQJ.G2VE CF..G.VE -1.098000   BSJ...VE 1.000000
+    PQJ.G2VE BQJ...VE -1.000000
+    PIB.P2VE BRG...VE 0.180200   B5D...VE 0.770000
+    PIB.P2VE CF..P.VE -0.990000   BIB...VE -1.000000
+    PIG.P2VE BRG...VE 0.106800   B5C...VE 0.893000
+    PIG.P2VE CF..P.VE -0.948700   BIG...VE -1.000000
+    PIN.P2VE BRG...VE 0.109800   B5A...VE 0.883000
+    PIN.P2VE CF..P.VE -0.942000   BIN...VE -1.000000
+    PIP.P2VE BRG...VE 0.189000   B5B...VE 0.760000
+    PIP.P2VE CF..P.VE -0.983300   BIP...VE -1.000000
+    PIB.P3VE BRG...VE 0.206200   B5H...VE 0.739000
+    PIB.P3VE CF..P.VE -1.014700   BIB...VE -1.000000
+    PIG.P3VE BRG...VE 0.133800   B5G...VE 0.862000
+    PIG.P3VE CF..P.VE -0.973300   BIG...VE -1.000000
+    PIN.P3VE BRG...VE 0.144400   B5E...VE 0.852000
+    PIN.P3VE CF..P.VE -0.967700   BIN...VE -1.000000
+    PIP.P3VE BRG...VE 0.214800   B5F...VE 0.729000
+    PIP.P3VE CF..P.VE -1.008000   BIP...VE -1.000000
+    PHV.Q1VE BRG...VE 0.358000   B5T...VE 0.131000
+    PHV.Q1VE BBK...VE 0.047000   BBL...VE 0.166000
+    PHV.Q1VE BQB...VE 0.239000   CF..Q.VE -1.108000
+    PHV.Q1VE BHV...VE -1.000000
+    PMT.Q1VE BRG...VE 0.358000   B5T...VE 0.132000
+    PMT.Q1VE BBK...VE 0.069000   BBL...VE 0.143000
+    PMT.Q1VE BQJ...VE 0.241000   CF..Q.VE -1.112000
+    PMT.Q1VE BMT...VE -1.000000
+    PYV.V1VE COH.V.VE -0.651700   BYV...VE -1.000000
+    PYV.V1VE BBE...VE 0.554000   BBC...VE 0.097700
+    PYV.V1VE BVY...VE 0.348300
+    KLSJPRU1 LFF.C.U1 -0.250000   KFF.C.U1 -1.000000
+    KLSJPRU3 LFF.C.U3 -0.300000   KFF.C.U3 -1.000000
+    KLSJPRU5 LFF.C.U5 -0.250000   KFF.C.U5 -1.000000
+    KLSPPRU1 KFF.C.U1 -1.000000
+    KLSPPRU3 LFF.C.U3 -0.180000   KFF.C.U3 -1.000000
+    KLSPPRU5 KFF.C.U5 -1.000000
+    PGL0DNAN BNL...AN 0.395600   BNP...AN 0.395600
+    PGL0DNAN UPBROW27996 1.000000
+    QWT5FTEM BFT.WTEM -1.000000   XSU.FTEM -0.900000
+    QWT5FTEM BFT...EM 1.052600
+    QVO0DHBA BDH...BA 0.995000   BDH.VOBA -1.000000
+    QVO0DHBA XSU.DHBA -0.300000   XCI.DHBA -0.830000
+    QVO0DMBA BDH.VOBA -1.000000   BDM...BA 0.995000
+    QVO0DMBA XSU.DHBA -1.160000   XCI.DHBA -2.830000
+    QVO0FPBA BFP...BA 1.000000   BFP.VOBA -1.000000
+    QVO0FPBA XVI.FPBA -1.152000   NVI.FPBA -0.860000
+    QWT0FPBA BFP.WTBA -1.000000   XSU.FPBA -0.360000
+    QVO0FSBA BFS...BA 1.000000   BFS.VOBA -1.000000
+    QVO0FSBA XVI.FSBA -1.152000   NVI.FSBA -0.860000
+    QWT0FSBA BFS.WTBA -1.000000   XSU.FSBA -0.810000
+    QVO0FWBA BFW...BA 1.000000   BFW.VOBA -1.000000
+    QVO0FWBA XVI.FWBA -1.152000   NVI.FWBA -1.095000
+    QWT0FWBA BFW.WTBA -1.000000   XSU.FWBA -2.250000
+    QVO0FYBA BFY...BA 1.000000   BFY.VOBA -1.000000
+    QVO0FYBA XVI.FYBA -1.152000   NVI.FYBA -1.095000
+    QWT0FYBA BFY.WTBA -1.000000   XSU.FYBA -3.400000
+    QVO0GPBA BGP...BA 0.985000   BGP.VOBA -1.000000
+    QVO0GPBA NRN.GPBA -0.624000   ND2.GPBA -0.500000
+    QVO0GPBA XVL.GPBA -1.700000   FAT0..J. 0.220000
+    QVO0GUBA BGP.VOBA -1.000000   BGU...BA 0.985000
+    QVO0GUBA NRN.GPBA -0.655000   ND2.GPBA -0.500000
+    QVO0GUBA XVL.GPBA -1.850000   BGU.VOBA -1.000000
+    QVO0GUBA NRN.GUBA -0.655000   ND2.GUBA -0.500000
+    QVO0GUBA XVL.GUBA -1.850000   FAT0..J. 0.067000
+    WD80GPBA WD8.GPBA -0.010000   XVL.GPBA 0.020000
+    WVP0GPBA WVP.GPBA -0.100000   XVL.GPBA 0.100000
+    WD80GUBA WD8.GUBA -0.010000   XVL.GUBA 0.020000
+    WVP0GUBA WVP.GUBA -0.100000   XVL.GUBA 0.100000
+    QVO0DHEH BDH...EH 0.995000   BDH.VOEH -1.000000
+    QVO0DHEH XSU.DHEH -0.300000   XCI.DHEH -1.770000
+    QVO0FTEH BFT.VOEH -1.000000   XVI.FTEH -1.147000
+    QVO0FTEH NVI.FTEH -1.000000
+    QWT0FTEH BFT.WTEH -1.000000   XSU.FTEH -0.900000
+    QWT0FTEH BFT...EH 1.052600
+    QVO0FVEH BFV.VOEH -1.000000   XVI.FVEH -1.147000
+    QVO0FVEH NVI.FVEH -1.000000
+    QWT0FVEH BFV.WTEH -1.000000   XSU.FVEH -1.900000
+    QWT0FVEH BFV...EH 1.052600
+    QVO0FYEH BFY.VOEH -1.000000   XVI.FYEH -1.118000
+    QVO0FYEH NVI.FYEH -1.095000
+    QWT0FYEH BFY.WTEH -1.000000   XSU.FYEH -3.400000
+    QWT0FYEH BFY...EH 1.052600
+    QVO0GPEH BGP...EH 0.985000   BGP.VOEH -1.000000
+    QVO0GPEH NRN.GPEH -0.652000   ND2.GPEH -0.500000
+    QVO0GPEH XVL.GPEH -1.700000   FAT0..J. 0.126800
+    WD80GPEH WD8.GPEH -0.010000   XVL.GPEH 0.020000
+    WVP0GPEH WVP.GPEH -0.100000   XVL.GPEH 0.100000
+    QVO0DHEM BDH...EM 0.995000   BDH.VOEM -1.000000
+    QVO0DHEM XSU.DHEM -0.300000   XCI.DHEM -1.770000
+    QVO0FTEM BFT.VOEM -1.000000   XVI.FTEM -1.114000
+    QVO0FTEM NVI.FTEM -1.000000
+    QWT0FTEM BFT.WTEM -1.000000   XSU.FTEM -0.900000
+    QWT0FTEM BFT...EM 1.052600
+    QVO0FVEM BFV.VOEM -1.000000   XVI.FVEM -1.114000
+    QVO0FVEM NVI.FVEM -1.000000
+    QWT0FVEM BFV.WTEM -1.000000   XSU.FVEM -1.900000
+    QWT0FVEM BFV...EM 1.052600
+    QVO0FYEM BFY.VOEM -1.000000   XVI.FYEM -1.117000
+    QVO0FYEM NVI.FYEM -1.095000
+    QWT0FYEM BFY.WTEM -1.000000   XSU.FYEM -3.400000
+    QWT0FYEM BFY...EM 1.052600
+    QVO0GPEM BGP...EM 0.985000   BGP.VOEM -1.000000
+    QVO0GPEM NRN.GPEM -0.652000   ND2.GPEM -0.500000
+    QVO0GPEM XVL.GPEM -1.700000   FAT0..J. 0.126800
+    QVO0GUEM BGP.VOEM -1.000000   BGU...EM 0.985000
+    QVO0GUEM NRN.GPEM -0.655000   ND2.GPEM -0.500000
+    QVO0GUEM XVL.GPEM -1.850000   FAT0..J. 0.067000
+    WD80GPEM WD8.GPEM -0.010000   XVL.GPEM 0.020000
+    WVP0GPEM WVP.GPEM -0.100000   XVL.GPEM 0.100000
+    QVO0DHEZ BDH...EZ 0.995000   BDH.VOEZ -1.000000
+    QVO0DHEZ XSU.DHEZ -0.300000   XCI.DHEZ -1.770000
+    QVO0FTEZ BFT.VOEZ -1.000000   XVI.FTEZ -1.140000
+    QVO0FTEZ NVI.FTEZ -1.000000
+    QWT0FTEZ BFT.WTEZ -1.000000   XSU.FTEZ -0.900000
+    QWT0FTEZ BFT...EZ 1.052600
+    QVO0FVEZ BFV.VOEZ -1.000000   XVI.FVEZ -1.140000
+    QVO0FVEZ NVI.FVEZ -1.000000
+    QWT0FVEZ BFV.WTEZ -1.000000   XSU.FVEZ -1.900000
+    QWT0FVEZ BFV...EZ 1.052600
+    QVO0FYEZ BFY.VOEZ -1.000000   XVI.FYEZ -1.120000
+    QVO0FYEZ NVI.FYEZ -1.095000
+    QWT0FYEZ BFY.WTEZ -1.000000   XSU.FYEZ -3.400000
+    QWT0FYEZ BFY...EZ 1.052600
+    QVO0GPEZ BGP...EZ 0.985000   BGP.VOEZ -1.000000
+    QVO0GPEZ NRN.GPEZ -0.652000   ND2.GPEZ -0.500000
+    QVO0GPEZ XVL.GPEZ -1.700000   FAT0..J. 0.126800
+    QVO0GUEZ BGP.VOEZ -1.000000   BGU...EZ 0.985000
+    QVO0GUEZ NRN.GPEZ -0.655000   ND2.GPEZ -0.500000
+    QVO0GUEZ XVL.GPEZ -1.850000   FAT0..J. 0.067000
+    WD80GPEZ WD8.GPEZ -0.010000   XVL.GPEZ 0.020000
+    WVP0GPEZ WVP.GPEZ -0.100000   XVL.GPEZ 0.100000
+    QVO0DHJP BDH...JP 0.995000   BDH.VOJP -1.000000
+    QVO0DHJP XSU.DHJP -0.300000   XCI.DHJP -1.300000
+    QVO0FOJP BFO...JP 1.000000   BFO.VOJP -1.000000
+    QVO0FOJP XVI.FOJP -1.132000   NVI.FOJP -0.800000
+    QWT0FOJP BFO.WTJP -1.000000   XSU.FOJP -0.180000
+    QVO0FQJP BFQ...JP 1.000000   BFQ.VOJP -1.000000
+    QVO0FQJP XVI.FQJP -1.132000   NVI.FQJP -0.800000
+    QWT0FQJP BFQ.WTJP -1.000000   XSU.FQJP -0.630000
+    QVO0FYJP BFY...JP 1.000000   BFY.VOJP -1.000000
+    QVO0FYJP XVI.FYJP -1.132000   NVI.FYJP -1.095000
+    QWT0FYJP BFY.WTJP -1.000000   XSU.FYJP -3.400000
+    QVO0GPJP BGP...JP 0.985000   BGP.VOJP -1.000000
+    QVO0GPJP NRN.GPJP -0.633000   ND2.GPJP -0.500000
+    QVO0GPJP XVL.GPJP -1.700000
+    WD80GPJP WD8.GPJP -0.010000   XVL.GPJP 0.020000
+    WVP0GPJP WVP.GPJP -0.100000   XVL.GPJP 0.100000
+    PGL0DNPG BLG...PG 0.710800   BLN...PG 0.144600
+    PGL0DNPG BIP...PG 0.144600   UPBROW27997 1.000000
+    QVO0DHPG BDH...PG 0.995000   BDH.VOPG -1.000000
+    QVO0DHPG XSU.DHPG -0.300000   XCI.DHPG -1.300000
+    QVO0DLPG BDH.VOPG -1.000000   BDL...PG 0.995000
+    QVO0DLPG XSU.DHPG -1.500000   XCI.DHPG -1.300000
+    QVO0FOPG BFO...PG 1.000000   BFO.VOPG -1.000000
+    QVO0FOPG XVI.FOPG -1.152000   NVI.FOPG -0.800000
+    QWT0FOPG BFO.WTPG -1.000000   XSU.FOPG -0.180000
+    QVO0FQPG BFQ...PG 1.000000   BFQ.VOPG -1.000000
+    QVO0FQPG XVI.FQPG -1.152000   NVI.FQPG -0.800000
+    QWT0FQPG BFQ.WTPG -1.000000   XSU.FQPG -0.630000
+    QVO0FYPG BFY...PG 1.000000   BFY.VOPG -1.000000
+    QVO0FYPG XVI.FYPG -1.152000   NVI.FYPG -1.095000
+    QWT0FYPG BFY.WTPG -1.000000   XSU.FYPG -3.400000
+    QVO0FZPG BFZ...PG 1.000000   BFZ.VOPG -1.000000
+    QVO0FZPG XVI.FZPG -1.152000
+    QVO0GEPG BGP.VOPG -1.000000   BGE...PG 0.985000
+    QVO0GEPG NRN.GPPG -0.652000   ND2.GPPG -0.500000
+    QVO0GEPG XVL.GPPG -1.700000
+    QVO0GJPG BGP.VOPG -1.000000   BGJ...PG 0.985000
+    QVO0GJPG NRN.GPPG -0.633000   ND2.GPPG -0.500000
+    QVO0GJPG XVL.GPPG -1.700000
+    QVO0GPPG BGP...PG 0.985000   BGP.VOPG -1.000000
+    QVO0GPPG NRN.GPPG -0.597000   ND2.GPPG -0.500000
+    QVO0GPPG XVL.GPPG -1.700000   FAT0..J. 0.220000
+    QVO0GSPG BGP.VOPG -1.000000   BGS...PG 0.985000
+    QVO0GSPG NRN.GPPG -0.660000   ND2.GPPG -0.500000
+    QVO0GSPG XVL.GPPG -1.700000   FAT0..J. 0.220000
+    QVO0GUPG BGP.VOPG -1.000000   BGU...PG 0.985000
+    QVO0GUPG NRN.GPPG -0.655000   ND2.GPPG -0.500000
+    QVO0GUPG XVL.GPPG -1.850000   FAT0..J. 0.067000
+    WD80GPPG WD8.GPPG -0.010000   XVL.GPPG 0.020000
+    WVP0GPPG WVP.GPPG -0.100000   XVL.GPPG 0.100000
+    QVO0DHSG BDH...SG 0.995000   BDH.VOSG -1.000000
+    QVO0DHSG XSU.DHSG -0.300000   XCI.DHSG -1.300000
+    QVO0FOSG BFO...SG 1.000000   BFO.VOSG -1.000000
+    QVO0FOSG XVI.FOSG -1.132000   NVI.FOSG -0.800000
+    QWT0FOSG BFO.WTSG -1.000000   XSU.FOSG -0.180000
+    QVO0FQSG BFQ...SG 1.000000   BFQ.VOSG -1.000000
+    QVO0FQSG XVI.FQSG -1.132000   NVI.FQSG -0.800000
+    QWT0FQSG BFQ.WTSG -1.000000   XSU.FQSG -0.630000
+    QVO0FYSG BFY...SG 1.000000   BFY.VOSG -1.000000
+    QVO0FYSG XVI.FYSG -1.132000   NVI.FYSG -1.095000
+    QWT0FYSG BFY.WTSG -1.000000   XSU.FYSG -3.400000
+    QVO0GJSG BGP.VOSG -1.000000   BGJ...SG 0.985000
+    QVO0GJSG NRN.GPSG -0.633000   ND2.GPSG -0.500000
+    QVO0GJSG XVL.GPSG -1.700000
+    QVO0GPSG BGP...SG 0.985000   BGP.VOSG -1.000000
+    QVO0GPSG NRN.GPSG -0.660000   ND2.GPSG -0.500000
+    QVO0GPSG XVL.GPSG -1.700000   FAT0..J. 0.220000
+    QVO0GUSG BGP.VOSG -1.000000   BGU...SG 0.985000
+    QVO0GUSG NRN.GPSG -0.655000   ND2.GPSG -0.500000
+    QVO0GUSG XVL.GPSG -1.850000   FAT0..J. 0.067000
+    WD80GPSG WD8.GPSG -0.010000   XVL.GPSG 0.020000
+    WVP0GPSG WVP.GPSG -0.100000   XVL.GPSG 0.100000
+    KLS0PRU1 LFF.C.U1 -0.200000   KFF.C.U1 -1.000000
+    QVO0DHU1 BDH...U1 0.995000   BDH.VOU1 -1.000000
+    QVO0DHU1 XSU.DHU1 -0.300000
+    QVO0DKU1 BDK...U1 0.995000   BDK.VOU1 -1.000000
+    QVO0DKU1 NLI.DKU1 -0.510000
+    QVO0FPU1 BFP...U1 1.000000   BFP.VOU1 -1.000000
+    QVO0FPU1 XVI.FPU1 -1.152000   NVI.FPU1 -0.860000
+    QWT0FPU1 BFP.WTU1 -1.000000   XSU.FPU1 -0.360000
+    QVO0FSU1 BFS...U1 1.000000   BFS.VOU1 -1.000000
+    QVO0FSU1 XVI.FSU1 -1.152000   NVI.FSU1 -0.860000
+    QWT0FSU1 BFS.WTU1 -1.000000   XSU.FSU1 -0.810000
+    QVO0FWU1 BFW...U1 1.000000   BFW.VOU1 -1.000000
+    QVO0FWU1 XVI.FWU1 -1.152000   NVI.FWU1 -1.095000
+    QWT0FWU1 BFW.WTU1 -1.000000   XSU.FWU1 -2.250000
+    QVO0FYU1 BFY...U1 1.000000   BFY.VOU1 -1.000000
+    QVO0FYU1 XVI.FYU1 -1.152000   NVI.FYU1 -1.095000
+    QWT0FYU1 BFY.WTU1 -1.000000   XSU.FYU1 -3.400000
+    QVO0GPU1 BGP...U1 0.985000   BGP.VOU1 -1.000000
+    QVO0GPU1 NRN.GPU1 -0.655000   ND2.GPU1 -0.500000
+    QVO0GPU1 XVU.GPU1 -1.550000   FAT0..J. 0.067000
+    WD80GPU1 WD8.GPU1 -0.010000   XVU.GPU1 0.013000
+    WVP0GPU1 WVP.GPU1 -0.100000   XVU.GPU1 0.100000
+    KLS0PRU3 LFF.C.U3 -0.260000   KFF.C.U3 -1.000000
+    QVO0DHU3 BDH...U3 0.995000   BDH.VOU3 -1.000000
+    QVO0DHU3 XSU.DHU3 -0.300000
+    QVO0DKU3 BDK...U3 0.995000   BDK.VOU3 -1.000000
+    QVO0DKU3 NLI.DKU3 -0.510000
+    QVO0FPU3 BFP...U3 1.000000   BFP.VOU3 -1.000000
+    QVO0FPU3 XVI.FPU3 -1.152000   NVI.FPU3 -0.860000
+    QWT0FPU3 BFP.WTU3 -1.000000   XSU.FPU3 -0.360000
+    QVO0FSU3 BFS...U3 1.000000   BFS.VOU3 -1.000000
+    QVO0FSU3 XVI.FSU3 -1.152000   NVI.FSU3 -0.860000
+    QWT0FSU3 BFS.WTU3 -1.000000   XSU.FSU3 -0.810000
+    QVO0FYU3 BFY...U3 1.000000   BFY.VOU3 -1.000000
+    QVO0FYU3 XVI.FYU3 -1.152000   NVI.FYU3 -1.095000
+    QWT0FYU3 BFY.WTU3 -1.000000   XSU.FYU3 -3.400000
+    QVO0GPU3 BGP...U3 0.985000   BGP.VOU3 -1.000000
+    QVO0GPU3 NRN.GPU3 -0.655000   ND2.GPU3 -0.500000
+    QVO0GPU3 XVU.GPU3 -1.550000   FAT0..J. 0.067000
+    WD80GPU3 WD8.GPU3 -0.010000   XVU.GPU3 0.013000
+    WVP0GPU3 WVP.GPU3 -0.100000   XVU.GPU3 0.100000
+    KLS0PRU5 LFF.C.U5 -0.200000   KFF.C.U5 -1.000000
+    QVO0DHU5 BDH...U5 0.995000   BDH.VOU5 -1.000000
+    QVO0DHU5 XSU.DHU5 -0.300000
+    QVO0DKU5 BDK...U5 0.995000   BDK.VOU5 -1.000000
+    QVO0DKU5 NLI.DKU5 -0.460000
+    QVO0FPU5 BFP...U5 1.000000   BFP.VOU5 -1.000000
+    QVO0FPU5 XVI.FPU5 -1.152000   NVI.FPU5 -0.860000
+    QWT0FPU5 BFP.WTU5 -1.000000   XSU.FPU5 -0.360000
+    QVO0FSU5 BFS...U5 1.000000   BFS.VOU5 -1.000000
+    QVO0FSU5 XVI.FSU5 -1.152000   NVI.FSU5 -0.860000
+    QWT0FSU5 BFS.WTU5 -1.000000   XSU.FSU5 -0.810000
+    QVO0FYU5 BFY...U5 1.000000   BFY.VOU5 -1.000000
+    QVO0FYU5 XVI.FYU5 -1.152000   NVI.FYU5 -1.095000
+    QWT0FYU5 BFY.WTU5 -1.000000   XSU.FYU5 -3.400000
+    QVO0GPU5 BGP...U5 0.985000   BGP.VOU5 -1.000000
+    QVO0GPU5 NRN.GPU5 -0.655000   ND2.GPU5 -0.500000
+    QVO0GPU5 XVU.GPU5 -1.550000   FAT0..J. 0.067000
+    WD80GPU5 WD8.GPU5 -0.010000   XVU.GPU5 0.013000
+    WVP0GPU5 WVP.GPU5 -0.100000   XVU.GPU5 0.100000
+    QVO0DHVE BDH...VE 0.995000   BDH.VOVE -1.000000
+    QVO0DHVE XSU.DHVE -0.300000   XCI.DHVE -0.830000
+    QVO0DMVE BDH.VOVE -1.000000   BDM...VE 0.995000
+    QVO0DMVE XSU.DHVE -1.160000   XCI.DHVE -2.830000
+    QVO0FPVE BFP...VE 1.000000   BFP.VOVE -1.000000
+    QVO0FPVE XVI.FPVE -1.152000   NVI.FPVE -0.860000
+    QWT0FPVE BFP.WTVE -1.000000   XSU.FPVE -0.360000
+    QVO0FSVE BFS...VE 1.000000   BFS.VOVE -1.000000
+    QVO0FSVE XVI.FSVE -1.152000   NVI.FSVE -0.860000
+    QWT0FSVE BFS.WTVE -1.000000   XSU.FSVE -0.810000
+    QVO0FWVE BFW...VE 1.000000   BFW.VOVE -1.000000
+    QVO0FWVE XVI.FWVE -1.152000   NVI.FWVE -1.095000
+    QWT0FWVE BFW.WTVE -1.000000   XSU.FWVE -2.250000
+    QVO0FYVE BFY...VE 1.000000   BFY.VOVE -1.000000
+    QVO0FYVE XVI.FYVE -1.152000   NVI.FYVE -1.095000
+    QWT0FYVE BFY.WTVE -1.000000   XSU.FYVE -3.400000
+    QVO0GPVE BGP...VE 0.985000   BGP.VOVE -1.000000
+    QVO0GPVE NRN.GPVE -0.597000   ND2.GPVE -0.450000
+    QVO0GPVE XVL.GPVE -1.700000   FAT0..J. 0.220000
+    QVO0GUVE BGP.VOVE -1.000000   BGU...VE 0.985000
+    QVO0GUVE NRN.GPVE -0.655000   ND2.GPVE -0.500000
+    QVO0GUVE XVL.GPVE -1.850000   FAT0..J. 0.067000
+    WD80GPVE WD8.GPVE -0.010000   XVL.GPVE 0.020000
+    WVP0GPVE WVP.GPVE -0.100000   XVL.GPVE 0.100000
+    KLS1PRU1 LFF.C.U1 -0.200000   KFF.C.U1 -1.000000
+    KLS1PRU3 LFF.C.U3 -0.260000   KFF.C.U3 -1.000000
+    KLS1PRU5 LFF.C.U5 -0.200000   KFF.C.U5 -1.000000
+    KLS3PRU1 LFF.C.U1 -0.140000   KFF.C.U1 -1.000000
+    KLS3PRU3 LFF.C.U3 -0.260000   KFF.C.U3 -1.000000
+    KLS3PRU5 LFF.C.U5 -0.140000   KFF.C.U5 -1.000000
+    PGL5DNAN BNL...AN 0.365600   BNP...AN 0.365600
+    PGL5DNAN LOBROW27998 1.000000
+    PGL5DNAW BLG...AW 0.333400   BNL...AW 0.333300
+    PGL5DNAW BNP...AW 0.333300   LOBROW27999 1.000000
+    QVO5DHBA BDH...BA 0.995000   BDH.VOBA -1.000000
+    QVO5DHBA XSU.DHBA -0.300000   XCI.DHBA -0.830000
+    QVO5DMBA BDH.VOBA -1.000000   BDM...BA 0.995000
+    QVO5DMBA XSU.DHBA -1.160000   XCI.DHBA -2.830000
+    QVO5FPBA BFP...BA 1.000000   BFP.VOBA -1.000000
+    QVO5FPBA XVI.FPBA -1.152000   NVI.FPBA -0.860000
+    QWT5FPBA BFP.WTBA -1.000000   XSU.FPBA -0.360000
+    QVO5FSBA BFS...BA 1.000000   BFS.VOBA -1.000000
+    QVO5FSBA XVI.FSBA -1.152000   NVI.FSBA -0.860000
+    QWT5FSBA BFS.WTBA -1.000000   XSU.FSBA -0.810000
+    QVO5FWBA BFW...BA 1.000000   BFW.VOBA -1.000000
+    QVO5FWBA XVI.FWBA -1.152000   NVI.FWBA -1.095000
+    QWT5FWBA BFW.WTBA -1.000000   XSU.FWBA -2.250000
+    QVO5FYBA BFY...BA 1.000000   BFY.VOBA -1.000000
+    QVO5FYBA XVI.FYBA -1.152000   NVI.FYBA -1.095000
+    QWT5FYBA BFY.WTBA -1.000000   XSU.FYBA -3.400000
+    QVO5GPBA BGP...BA 0.985000   BGP.VOBA -1.000000
+    QVO5GPBA NRN.GPBA -0.624000   ND2.GPBA -0.500000
+    QVO5GPBA XVL.GPBA -1.700000
+    QVO5GUBA BGP.VOBA -1.000000   BGU...BA 0.985000
+    QVO5GUBA NRN.GPBA -0.668000   ND2.GPBA -0.500000
+    QVO5GUBA XVL.GPBA -1.850000   BGU.VOBA -1.000000
+    QVO5GUBA NRN.GUBA -0.668000   ND2.GUBA -0.500000
+    QVO5GUBA XVL.GUBA -1.850000
+    WD85GPBA WD8.GPBA -0.010000   XVL.GPBA 0.020000
+    WVP5GPBA WVP.GPBA -0.100000   XVL.GPBA 0.100000
+    WD85GUBA WD8.GUBA -0.010000   XVL.GUBA 0.020000
+    WVP5GUBA WVP.GUBA -0.100000   XVL.GUBA 0.100000
+    QVO5DHEH BDH...EH 0.995000   BDH.VOEH -1.000000
+    QVO5DHEH XSU.DHEH -0.300000   XCI.DHEH -1.770000
+    QVO5FTEH BFT.VOEH -1.000000   XVI.FTEH -1.147000
+    QVO5FTEH NVI.FTEH -1.000000
+    QWT5FTEH BFT.WTEH -1.000000   XSU.FTEH -0.900000
+    QWT5FTEH BFT...EH 1.052600
+    QVO5FVEH BFV.VOEH -1.000000   XVI.FVEH -1.147000
+    QVO5FVEH NVI.FVEH -1.000000
+    QWT5FVEH BFV.WTEH -1.000000   XSU.FVEH -1.900000
+    QWT5FVEH BFV...EH 1.052600
+    QVO5FYEH BFY.VOEH -1.000000   XVI.FYEH -1.118000
+    QVO5FYEH NVI.FYEH -1.095000
+    QWT5FYEH BFY.WTEH -1.000000   XSU.FYEH -3.400000
+    QWT5FYEH BFY...EH 1.052600
+    QVO5GPEH BGP...EH 0.985000   BGP.VOEH -1.000000
+    QVO5GPEH NRN.GPEH -0.652000   ND2.GPEH -0.500000
+    QVO5GPEH XVL.GPEH -1.700000
+    WD85GPEH WD8.GPEH -0.010000   XVL.GPEH 0.020000
+    WVP5GPEH WVP.GPEH -0.100000   XVL.GPEH 0.100000
+    QVO5DHEM BDH...EM 0.995000   BDH.VOEM -1.000000
+    QVO5DHEM XSU.DHEM -0.300000   XCI.DHEM -1.770000
+    QVO5FTEM BFT.VOEM -1.000000   XVI.FTEM -1.114000
+    QVO5FTEM NVI.FTEM -1.000000
+    SLACK36940 BDH...AN -1.000000
+    SLACK36941 NVI.FPBA -1.000000
+    SLACK36942 NVI.FSBA -1.000000
+    SLACK36943 NVI.FWBA -1.000000
+    SLACK36944 NVI.FYBA -1.000000
+    SLACK36945 ND2.GPBA -1.000000
+    SLACK36946 NRN.GPBA -1.000000
+    SLACK36947 ND2.GUBA -1.000000
+    SLACK36948 NRN.GUBA -1.000000
+    SLACK36949 XCI.DHBA 1.000000
+    SLACK36950 XSU.DHBA 1.000000
+    SLACK36951 XSU.FPBA 1.000000
+    SLACK36952 XVI.FPBA 1.000000
+    SLACK36953 XSU.FSBA 1.000000
+    SLACK36954 XVI.FSBA 1.000000
+    SLACK36955 XSU.FWBA 1.000000
+    SLACK36956 XVI.FWBA 1.000000
+    SLACK36957 XSU.FYBA 1.000000
+    SLACK36958 XVI.FYBA 1.000000
+    SLACK36959 XVL.GPBA 1.000000
+    SLACK36960 XVL.GUBA 1.000000
+    SLACK36961 NVI.FTEH -1.000000
+    SLACK36962 NVI.FVEH -1.000000
+    SLACK36963 NVI.FYEH -1.000000
+    SLACK36964 ND2.GPEH -1.000000
+    SLACK36965 NRN.GPEH -1.000000
+    SLACK36966 XCI.DHEH 1.000000
+    SLACK36967 XSU.DHEH 1.000000
+    SLACK36968 XSU.FTEH 1.000000
+    SLACK36969 XVI.FTEH 1.000000
+    SLACK36970 XSU.FVEH 1.000000
+    SLACK36971 XVI.FVEH 1.000000
+    SLACK36972 XSU.FYEH 1.000000
+    SLACK36973 XVI.FYEH 1.000000
+    SLACK36974 XVL.GPEH 1.000000
+    SLACK36975 NVI.FTEM -1.000000
+    SLACK36976 NVI.FVEM -1.000000
+    SLACK36977 NVI.FYEM -1.000000
+    SLACK36978 ND2.GPEM -1.000000
+    SLACK36979 NRN.GPEM -1.000000
+    SLACK36980 XCI.DHEM 1.000000
+    SLACK36981 XSU.DHEM 1.000000
+    SLACK36982 XSU.FTEM 1.000000
+    SLACK36983 XVI.FTEM 1.000000
+    SLACK36984 XSU.FVEM 1.000000
+    SLACK36985 XVI.FVEM 1.000000
+    SLACK36986 XSU.FYEM 1.000000
+    SLACK36987 XVI.FYEM 1.000000
+    SLACK36988 XVL.GPEM 1.000000
+    SLACK36989 NVI.FTEZ -1.000000
+    SLACK36990 NVI.FVEZ -1.000000
+    SLACK36991 NVI.FYEZ -1.000000
+    SLACK36992 ND2.GPEZ -1.000000
+    SLACK36993 NRN.GPEZ -1.000000
+    SLACK36994 XCI.DHEZ 1.000000
+    SLACK36995 XSU.DHEZ 1.000000
+    SLACK36996 XSU.FTEZ 1.000000
+    SLACK36997 XVI.FTEZ 1.000000
+    SLACK36998 XSU.FVEZ 1.000000
+    SLACK36999 XVI.FVEZ 1.000000
+    SLACK37000 XSU.FYEZ 1.000000
+    SLACK37001 XVI.FYEZ 1.000000
+    SLACK37002 XVL.GPEZ 1.000000
+    SLACK37003 NVI.FOJP -1.000000
+    SLACK37004 NVI.FQJP -1.000000
+    SLACK37005 NVI.FYJP -1.000000
+    SLACK37006 ND2.GPJP -1.000000
+    SLACK37007 NRN.GPJP -1.000000
+    SLACK37008 XCI.DHJP 1.000000
+    SLACK37009 XSU.DHJP 1.000000
+    SLACK37010 XSU.FOJP 1.000000
+    SLACK37011 XVI.FOJP 1.000000
+    SLACK37012 XSU.FQJP 1.000000
+    SLACK37013 XVI.FQJP 1.000000
+    SLACK37014 XSU.FYJP 1.000000
+    SLACK37015 XVI.FYJP 1.000000
+    SLACK37016 XVL.GPJP 1.000000
+    SLACK37017 NVI.FOPG -1.000000
+    SLACK37018 NVI.FQPG -1.000000
+    SLACK37019 NVI.FYPG -1.000000
+    SLACK37020 ND2.GPPG -1.000000
+    SLACK37021 NRN.GPPG -1.000000
+    SLACK37022 XCI.DHPG 1.000000
+    SLACK37023 XSU.DHPG 1.000000
+    SLACK37024 XSU.FOPG 1.000000
+    SLACK37025 XVI.FOPG 1.000000
+    SLACK37026 XSU.FQPG 1.000000
+    SLACK37027 XVI.FQPG 1.000000
+    SLACK37028 XSU.FYPG 1.000000
+    SLACK37029 XVI.FYPG 1.000000
+    SLACK37030 XVI.FZPG 1.000000
+    SLACK37031 XVL.GPPG 1.000000
+    SLACK37032 NVI.FOSG -1.000000
+    SLACK37033 NVI.FQSG -1.000000
+    SLACK37034 NVI.FYSG -1.000000
+    SLACK37035 ND2.GPSG -1.000000
+    SLACK37036 NRN.GPSG -1.000000
+    SLACK37037 XCI.DHSG 1.000000
+    SLACK37038 XSU.DHSG 1.000000
+    SLACK37039 XSU.FOSG 1.000000
+    SLACK37040 XVI.FOSG 1.000000
+    SLACK37041 XSU.FQSG 1.000000
+    SLACK37042 XVI.FQSG 1.000000
+    SLACK37043 XSU.FYSG 1.000000
+    SLACK37044 XVI.FYSG 1.000000
+    SLACK37045 XVL.GPSG 1.000000
+    SLACK37046 KTX.CPU. -1.000000
+    SLACK37047 GB1...U1 -1.000000
+    SLACK37048 GB2...U1 -1.000000
+    SLACK37049 GB3...U1 -1.000000
+    SLACK37050 GU5...U1 -1.000000
+    SLACK37051 GV1...U1 -1.000000
+    SLACK37052 GV2...U1 -1.000000
+    SLACK37053 GV3...U1 -1.000000
+    SLACK37054 LFF.C.U1 1.000000
+    SLACK37055 NLI.DKU1 -1.000000
+    SLACK37056 NVI.FPU1 -1.000000
+    SLACK37057 NVI.FSU1 -1.000000
+    SLACK37058 NVI.FWU1 -1.000000
+    SLACK37059 NVI.FYU1 -1.000000
+    SLACK37060 ND2.GPU1 -1.000000
+    SLACK37061 NRN.GPU1 -1.000000
+    SLACK37062 XSU.DHU1 1.000000
+    SLACK37063 XSU.FPU1 1.000000
+    SLACK37064 XVI.FPU1 1.000000
+    SLACK37065 XSU.FSU1 1.000000
+    SLACK37066 XVI.FSU1 1.000000
+    SLACK37067 XSU.FWU1 1.000000
+    SLACK37068 XVI.FWU1 1.000000
+    SLACK37069 XSU.FYU1 1.000000
+    SLACK37070 XVI.FYU1 1.000000
+    SLACK37071 XVU.GPU1 1.000000
+    SLACK37072 GB1...U3 -1.000000
+    SLACK37073 GB2...U3 -1.000000
+    SLACK37074 GB3...U3 -1.000000
+    SLACK37075 GU5...U3 -1.000000
+    SLACK37076 GV1...U3 -1.000000
+    SLACK37077 GV2...U3 -1.000000
+    SLACK37078 GV3...U3 -1.000000
+    SLACK37079 LFF.C.U3 1.000000
+    SLACK37080 NLI.DKU3 -1.000000
+    SLACK37081 NVI.FPU3 -1.000000
+    SLACK37082 NVI.FSU3 -1.000000
+    SLACK37083 NVI.FYU3 -1.000000
+    SLACK37084 ND2.GPU3 -1.000000
+    SLACK37085 NRN.GPU3 -1.000000
+    SLACK37086 XSU.DHU3 1.000000
+    SLACK37087 XSU.FPU3 1.000000
+    SLACK37088 XVI.FPU3 1.000000
+    SLACK37089 XSU.FSU3 1.000000
+    SLACK37090 XVI.FSU3 1.000000
+    SLACK37091 XSU.FYU3 1.000000
+    SLACK37092 XVI.FYU3 1.000000
+    SLACK37093 XVU.GPU3 1.000000
+    SLACK37094 GB1...U5 -1.000000
+    SLACK37095 GB2...U5 -1.000000
+    SLACK37096 GB3...U5 -1.000000
+    SLACK37097 GU5...U5 -1.000000
+    SLACK37098 GV1...U5 -1.000000
+    SLACK37099 GV2...U5 -1.000000
+    SLACK37100 GV3...U5 -1.000000
+    SLACK37101 LFF.C.U5 1.000000
+    SLACK37102 NLI.DKU5 -1.000000
+    SLACK37103 NVI.FPU5 -1.000000
+    SLACK37104 NVI.FSU5 -1.000000
+    SLACK37105 NVI.FYU5 -1.000000
+    SLACK37106 ND2.GPU5 -1.000000
+    SLACK37107 NRN.GPU5 -1.000000
+    SLACK37108 XSU.DHU5 1.000000
+    SLACK37109 XSU.FPU5 1.000000
+    SLACK37110 XVI.FPU5 1.000000
+    SLACK37111 XSU.FSU5 1.000000
+    SLACK37112 XVI.FSU5 1.000000
+    SLACK37113 XSU.FYU5 1.000000
+    SLACK37114 XVI.FYU5 1.000000
+    SLACK37115 XVU.GPU5 1.000000
+    SLACK37116 NVI.FPVE -1.000000
+    SLACK37117 NVI.FSVE -1.000000
+    SLACK37118 NVI.FWVE -1.000000
+    SLACK37119 NVI.FYVE -1.000000
+    SLACK37120 ND2.GPVE -1.000000
+    SLACK37121 NRN.GPVE -1.000000
+    SLACK37122 XCI.DHVE 1.000000
+    SLACK37123 XSU.DHVE 1.000000
+    SLACK37124 XSU.FPVE 1.000000
+    SLACK37125 XVI.FPVE 1.000000
+    SLACK37126 XSU.FSVE 1.000000
+    SLACK37127 XVI.FSVE 1.000000
+    SLACK37128 XSU.FWVE 1.000000
+    SLACK37129 XVI.FWVE 1.000000
+    SLACK37130 XSU.FYVE 1.000000
+    SLACK37131 XVI.FYVE 1.000000
+    SLACK37132 XVL.GPVE 1.000000
+    SLACK37133 UPBROW27684 1.000000
+    SLACK37134 UPBROW27685 1.000000
+    SLACK37135 UPBROW27686 1.000000
+    SLACK37136 UPBROW27687 1.000000
+    SLACK37137 UPBROW27688 1.000000
+    SLACK37138 UPBROW27689 1.000000
+    SLACK37139 UPBROW27690 1.000000
+    SLACK37140 UPBROW27691 1.000000
+    SLACK37141 UPBROW27692 1.000000
+    SLACK37142 UPBROW27693 1.000000
+    SLACK37143 UPBROW27694 1.000000
+    SLACK37144 UPBROW27695 1.000000
+    SLACK37145 UPBROW27696 1.000000
+    SLACK37146 UPBROW27697 1.000000
+    SLACK37147 UPBROW27698 1.000000
+    SLACK37148 UPBROW27699 1.000000
+    SLACK37149 UPBROW27700 1.000000
+    SLACK37150 UPBROW27701 1.000000
+    SLACK37151 UPBROW27702 1.000000
+    SLACK37152 UPBROW27703 1.000000
+    SLACK37153 UPBROW27704 1.000000
+    SLACK37154 UPBROW27705 1.000000
+    SLACK37155 UPBROW27706 1.000000
+    SLACK37156 UPBROW27707 1.000000
+    SLACK37157 UPBROW27708 1.000000
+    SLACK37158 UPBROW27709 1.000000
+    SLACK37159 LOBROW27710 -1.000000
+    SLACK37160 LOBROW27711 -1.000000
+    SLACK37161 LOBROW27712 -1.000000
+    SLACK37162 UPBROW27713 1.000000
+    SLACK37163 UPBROW27714 1.000000
+    SLACK37164 UPBROW27715 1.000000
+    SLACK37165 UPBROW27716 1.000000
+    SLACK37166 UPBROW27717 1.000000
+    SLACK37167 UPBROW27718 1.000000
+    SLACK37168 UPBROW27719 1.000000
+    SLACK37169 UPBROW27720 1.000000
+    SLACK37170 UPBROW27721 1.000000
+    SLACK37171 UPBROW27722 1.000000
+    SLACK37172 UPBROW27723 1.000000
+    SLACK37173 UPBROW27724 1.000000
+    SLACK37174 UPBROW27725 1.000000
+    SLACK37175 UPBROW27726 1.000000
+    SLACK37176 UPBROW27727 1.000000
+    SLACK37177 UPBROW27728 1.000000
+    SLACK37178 UPBROW27729 1.000000
+    SLACK37179 UPBROW27730 1.000000
+    SLACK37180 UPBROW27731 1.000000
+    SLACK37181 LOBROW27732 -1.000000
+    SLACK37182 UPBROW27733 1.000000
+    SLACK37183 UPBROW27734 1.000000
+    SLACK37184 UPBROW27735 1.000000
+    SLACK37185 LOBROW27736 -1.000000
+    SLACK37186 LOBROW27737 -1.000000
+    SLACK37187 UPBROW27738 1.000000
+    SLACK37188 UPBROW27739 1.000000
+    SLACK37189 UPBROW27740 1.000000
+    SLACK37190 UPBROW27741 1.000000
+    SLACK37191 UPBROW27742 1.000000
+    SLACK37192 UPBROW27743 1.000000
+    SLACK37193 UPBROW27744 1.000000
+    SLACK37194 UPBROW27745 1.000000
+    SLACK37195 UPBROW27746 1.000000
+    SLACK37196 UPBROW27747 1.000000
+    SLACK37197 UPBROW27748 1.000000
+    SLACK37198 UPBROW27749 1.000000
+    SLACK37199 UPBROW27750 1.000000
+    SLACK37200 UPBROW27751 1.000000
+    SLACK37201 UPBROW27752 1.000000
+    SLACK37202 UPBROW27753 1.000000
+    SLACK37203 LOBROW27754 -1.000000
+    SLACK37204 UPBROW27755 1.000000
+    SLACK37205 UPBROW27756 1.000000
+    SLACK37206 UPBROW27757 1.000000
+    SLACK37207 UPBROW27758 1.000000
+    SLACK37208 UPBROW27759 1.000000
+    SLACK37209 UPBROW27760 1.000000
+    SLACK37210 UPBROW27761 1.000000
+    SLACK37211 UPBROW27762 1.000000
+    SLACK37212 UPBROW27763 1.000000
+    SLACK37213 UPBROW27764 1.000000
+    SLACK37214 UPBROW27765 1.000000
+    SLACK37215 LOBROW27766 -1.000000
+    SLACK37216 LOBROW27767 -1.000000
+    SLACK37217 UPBROW27768 1.000000
+    SLACK37218 UPBROW27769 1.000000
+    SLACK37219 UPBROW27770 1.000000
+    SLACK37220 UPBROW27771 1.000000
+    SLACK37221 UPBROW27772 1.000000
+    SLACK37222 UPBROW27773 1.000000
+    SLACK37223 UPBROW27774 1.000000
+    SLACK37224 UPBROW27775 1.000000
+    SLACK37225 UPBROW27776 1.000000
+    SLACK37226 UPBROW27777 1.000000
+    SLACK37227 UPBROW27778 1.000000
+    SLACK37228 UPBROW27779 1.000000
+    SLACK37229 UPBROW27780 1.000000
+    SLACK37230 UPBROW27781 1.000000
+    SLACK37231 UPBROW27782 1.000000
+    SLACK37232 UPBROW27783 1.000000
+    SLACK37233 UPBROW27784 1.000000
+    SLACK37234 UPBROW27785 1.000000
+    SLACK37235 UPBROW27786 1.000000
+    SLACK37236 UPBROW27787 1.000000
+    SLACK37237 UPBROW27788 1.000000
+    SLACK37238 UPBROW27789 1.000000
+    SLACK37239 UPBROW27790 1.000000
+    SLACK37240 UPBROW27791 1.000000
+    SLACK37241 UPBROW27792 1.000000
+    SLACK37242 UPBROW27793 1.000000
+    SLACK37243 UPBROW27794 1.000000
+    SLACK37244 UPBROW27795 1.000000
+    SLACK37245 UPBROW27796 1.000000
+    SLACK37246 UPBROW27797 1.000000
+    SLACK37247 UPBROW27798 1.000000
+    SLACK37248 UPBROW27799 1.000000
+    SLACK37249 LOBROW27800 -1.000000
+    SLACK37250 LOBROW27801 -1.000000
+    SLACK37251 UPBROW27802 1.000000
+    SLACK37252 UPBROW27803 1.000000
+    SLACK37253 UPBROW27804 1.000000
+    SLACK37254 UPBROW27805 1.000000
+    SLACK37255 UPBROW27806 1.000000
+    SLACK37256 UPBROW27807 1.000000
+    SLACK37257 UPBROW27808 1.000000
+    SLACK37258 UPBROW27809 1.000000
+    SLACK37259 UPBROW27810 1.000000
+    SLACK37260 UPBROW27811 1.000000
+    SLACK37261 UPBROW27812 1.000000
+    SLACK37262 UPBROW27813 1.000000
+    SLACK37263 UPBROW27814 1.000000
+    SLACK37264 UPBROW27815 1.000000
+    SLACK37265 UPBROW27816 1.000000
+    SLACK37266 UPBROW27817 1.000000
+    SLACK37267 UPBROW27818 1.000000
+    SLACK37268 UPBROW27819 1.000000
+    SLACK37269 UPBROW27820 1.000000
+    SLACK37270 UPBROW27821 1.000000
+    SLACK37271 UPBROW27822 1.000000
+    SLACK37272 UPBROW27823 1.000000
+    SLACK37273 UPBROW27824 1.000000
+    SLACK37274 UPBROW27825 1.000000
+    SLACK37275 LOBROW27826 -1.000000
+    SLACK37276 LOBROW27827 -1.000000
+    SLACK37277 UPBROW27828 1.000000
+    SLACK37278 UPBROW27829 1.000000
+    SLACK37279 UPBROW27830 1.000000
+    SLACK37280 UPBROW27831 1.000000
+    SLACK37281 UPBROW27832 1.000000
+    SLACK37282 UPBROW27833 1.000000
+    SLACK37283 UPBROW27834 1.000000
+    SLACK37284 UPBROW27835 1.000000
+    SLACK37285 UPBROW27836 1.000000
+    SLACK37286 UPBROW27837 1.000000
+    SLACK37287 UPBROW27838 1.000000
+    SLACK37288 UPBROW27839 1.000000
+    SLACK37289 UPBROW27840 1.000000
+    SLACK37290 UPBROW27841 1.000000
+    SLACK37291 UPBROW27842 1.000000
+    SLACK37292 UPBROW27843 1.000000
+    SLACK37293 UPBROW27844 1.000000
+    SLACK37294 UPBROW27845 1.000000
+    SLACK37295 UPBROW27846 1.000000
+    SLACK37296 UPBROW27847 1.000000
+    SLACK37297 UPBROW27848 1.000000
+    SLACK37298 UPBROW27849 1.000000
+    SLACK37299 UPBROW27850 1.000000
+    SLACK37300 UPBROW27851 1.000000
+    SLACK37301 UPBROW27852 1.000000
+    SLACK37302 UPBROW27853 1.000000
+    SLACK37303 UPBROW27854 1.000000
+    SLACK37304 LOBROW27855 -1.000000
+    SLACK37305 LOBROW27856 -1.000000
+    SLACK37306 LOBROW27857 -1.000000
+    SLACK37307 LOBROW27858 -1.000000
+    SLACK37308 UPBROW27859 1.000000
+    SLACK37309 UPBROW27860 1.000000
+    SLACK37310 UPBROW27861 1.000000
+    SLACK37311 UPBROW27862 1.000000
+    SLACK37312 UPBROW27863 1.000000
+    SLACK37313 UPBROW27864 1.000000
+    SLACK37314 UPBROW27865 1.000000
+    SLACK37315 UPBROW27866 1.000000
+    SLACK37316 UPBROW27867 1.000000
+    SLACK37317 UPBROW27868 1.000000
+    SLACK37318 UPBROW27869 1.000000
+    SLACK37319 LOBROW27870 -1.000000
+    SLACK37320 UPBROW27871 1.000000
+    SLACK37321 UPBROW27872 1.000000
+    SLACK37322 UPBROW27873 1.000000
+    SLACK37323 UPBROW27874 1.000000
+    SLACK37324 UPBROW27875 1.000000
+    SLACK37325 UPBROW27876 1.000000
+    SLACK37326 UPBROW27877 1.000000
+    SLACK37327 UPBROW27878 1.000000
+    SLACK37328 UPBROW27879 1.000000
+    SLACK37329 UPBROW27880 1.000000
+    SLACK37330 UPBROW27881 1.000000
+    SLACK37331 UPBROW27882 1.000000
+    SLACK37332 UPBROW27883 1.000000
+    SLACK37333 UPBROW27884 1.000000
+    SLACK37334 UPBROW27885 1.000000
+    SLACK37335 UPBROW27886 1.000000
+    SLACK37336 UPBROW27887 1.000000
+    SLACK37337 UPBROW27888 1.000000
+    SLACK37338 UPBROW27889 1.000000
+    SLACK37339 UPBROW27890 1.000000
+    SLACK37340 UPBROW27891 1.000000
+    SLACK37341 UPBROW27892 1.000000
+    SLACK37342 UPBROW27893 1.000000
+    SLACK37343 UPBROW27894 1.000000
+    SLACK37344 UPBROW27895 1.000000
+    SLACK37345 UPBROW27896 1.000000
+    SLACK37346 UPBROW27897 1.000000
+    SLACK37347 UPBROW27898 1.000000
+    SLACK37348 UPBROW27899 1.000000
+    SLACK37349 UPBROW27900 1.000000
+    SLACK37350 UPBROW27901 1.000000
+    SLACK37351 UPBROW27902 1.000000
+    SLACK37352 UPBROW27903 1.000000
+    SLACK37353 UPBROW27904 1.000000
+    SLACK37354 UPBROW27905 1.000000
+    SLACK37355 UPBROW27906 1.000000
+    SLACK37356 UPBROW27907 1.000000
+    SLACK37357 UPBROW27908 1.000000
+    SLACK37358 LOBROW27909 -1.000000
+    SLACK37359 LOBROW27910 -1.000000
+    SLACK37360 LOBROW27911 -1.000000
+    SLACK37361 LOBROW27912 -1.000000
+    SLACK37362 UPBROW27913 1.000000
+    SLACK37363 UPBROW27914 1.000000
+    SLACK37364 UPBROW27915 1.000000
+    SLACK37365 UPBROW27916 1.000000
+    SLACK37366 UPBROW27917 1.000000
+    SLACK37367 UPBROW27918 1.000000
+    SLACK37368 UPBROW27919 1.000000
+    SLACK37369 UPBROW27920 1.000000
+    SLACK37370 UPBROW27921 1.000000
+    SLACK37371 UPBROW27922 1.000000
+    SLACK37372 UPBROW27923 1.000000
+    SLACK37373 UPBROW27924 1.000000
+    SLACK37374 UPBROW27925 1.000000
+    SLACK37375 UPBROW27926 1.000000
+    SLACK37376 UPBROW27927 1.000000
+    SLACK37377 UPBROW27928 1.000000
+    SLACK37378 UPBROW27929 1.000000
+    SLACK37379 UPBROW27930 1.000000
+    SLACK37380 UPBROW27931 1.000000
+    SLACK37381 UPBROW27932 1.000000
+    SLACK37382 UPBROW27933 1.000000
+    SLACK37383 UPBROW27934 1.000000
+    SLACK37384 UPBROW27935 1.000000
+    SLACK37385 UPBROW27936 1.000000
+    SLACK37386 UPBROW27937 1.000000
+    SLACK37387 UPBROW27938 1.000000
+    SLACK37388 UPBROW27939 1.000000
+    SLACK37389 UPBROW27940 1.000000
+    SLACK37390 UPBROW27941 1.000000
+    SLACK37391 UPBROW27942 1.000000
+    SLACK37392 UPBROW27943 1.000000
+    SLACK37393 UPBROW27944 1.000000
+    SLACK37394 UPBROW27945 1.000000
+    SLACK37395 UPBROW27946 1.000000
+    SLACK37396 UPBROW27947 1.000000
+    SLACK37397 UPBROW27948 1.000000
+    SLACK37398 UPBROW27949 1.000000
+    SLACK37399 UPBROW27950 1.000000
+    SLACK37400 UPBROW27951 1.000000
+    SLACK37401 UPBROW27952 1.000000
+    SLACK37402 UPBROW27953 1.000000
+    SLACK37403 UPBROW27954 1.000000
+    SLACK37404 UPBROW27955 1.000000
+    SLACK37405 UPBROW27956 1.000000
+    SLACK37406 UPBROW27957 1.000000
+    SLACK37407 UPBROW27958 1.000000
+    SLACK37408 UPBROW27959 1.000000
+    SLACK37409 UPBROW27960 1.000000
+    SLACK37410 UPBROW27961 1.000000
+    SLACK37411 UPBROW27962 1.000000
+    SLACK37412 UPBROW27963 1.000000
+    SLACK37413 UPBROW27964 1.000000
+    SLACK37414 UPBROW27965 1.000000
+    SLACK37415 UPBROW27966 1.000000
+    SLACK37416 UPBROW27967 1.000000
+    SLACK37417 UPBROW27968 1.000000
+    SLACK37418 UPBROW27969 1.000000
+    SLACK37419 UPBROW27970 1.000000
+    SLACK37420 UPBROW27971 1.000000
+    SLACK37421 UPBROW27972 1.000000
+    SLACK37422 UPBROW27973 1.000000
+    SLACK37423 UPBROW27974 1.000000
+    SLACK37424 UPBROW27975 1.000000
+    SLACK37425 UPBROW27976 1.000000
+    SLACK37426 UPBROW27977 1.000000
+    SLACK37427 UPBROW27978 1.000000
+    SLACK37428 UPBROW27979 1.000000
+    SLACK37429 UPBROW27980 1.000000
+    SLACK37430 UPBROW27981 1.000000
+    SLACK37431 UPBROW27982 1.000000
+    SLACK37432 UPBROW27983 1.000000
+    SLACK37433 UPBROW27984 1.000000
+    SLACK37434 UPBROW27985 1.000000
+    SLACK37435 UPBROW27986 1.000000
+    SLACK37436 LOBROW27987 -1.000000
+    SLACK37437 UPBROW27988 1.000000
+    SLACK37438 UPBROW27989 1.000000
+    SLACK37439 UPBROW27990 1.000000
+    SLACK37440 UPBROW27991 1.000000
+    SLACK37441 UPBROW27992 1.000000
+    SLACK37442 UPBROW27993 1.000000
+    SLACK37443 UPBROW27994 1.000000
+    SLACK37444 UPBROW27995 1.000000
+    SLACK37445 UPBROW27996 1.000000
+    SLACK37446 UPBROW27997 1.000000
+    SLACK37447 LOBROW27998 -1.000000
+    SLACK37448 LOBROW27999 -1.000000
+    SLACK37449 LOBROW28000 -1.000000
+RHS
+    FXIMPLICITRHS AAG..... -278.000000
+    FXIMPLICITRHS KWC..... 10562.799500
+    FXIMPLICITRHS AAH..... -1446.000000
+    FXIMPLICITRHS KWC.AF.. -6090.011000
+    FXIMPLICITRHS AAM..... -1130.000000
+    FXIMPLICITRHS AAL..... -1600.000000
+    FXIMPLICITRHS AAW..... -603.000000
+    FXIMPLICITRHS AAX..... -650.000000
+    FXIMPLICITRHS ABA..... -1800.000000
+    FXIMPLICITRHS ABQ..... -814.000000
+    FXIMPLICITRHS ABR..... -405.000000
+    FXIMPLICITRHS ACA..... -553.000000
+    FXIMPLICITRHS AS1..... -389.000000
+    FXIMPLICITRHS ADA..... -501.000000
+    FXIMPLICITRHS AEL..... -370.000000
+    FXIMPLICITRHS AEO..... -109.000000
+    FXIMPLICITRHS AES..... -477.000000
+    FXIMPLICITRHS AIH..... -3427.000000
+    FXIMPLICITRHS AIL..... -2472.000000
+    FXIMPLICITRHS AKK..... -2100.000000
+    FXIMPLICITRHS AKU..... -1900.000000
+    FXIMPLICITRHS AMI..... -906.000000
+    FXIMPLICITRHS AMU..... -1734.000000
+    FXIMPLICITRHS ANF..... -875.000000
+    FXIMPLICITRHS ANL..... -1289.000000
+    FXIMPLICITRHS ANM..... -239.000000
+    FXIMPLICITRHS AN5..... -1142.000000
+    FXIMPLICITRHS AOM..... -850.000000
+    FXIMPLICITRHS AON..... -50.000000
+    FXIMPLICITRHS AQA..... -470.000000
+    FXIMPLICITRHS ASA..... -980.000000
+    FXIMPLICITRHS ASE..... -1411.000000
+    FXIMPLICITRHS ATL..... -673.000000
+    FXIMPLICITRHS ATM..... -673.000000
+    FXIMPLICITRHS ATR..... -260.000000
+    FXIMPLICITRHS AUH..... -1386.000000
+    FXIMPLICITRHS AUL..... -1385.000000
+    FXIMPLICITRHS AYV..... -0.000000
+    FXIMPLICITRHS AZA..... -217.000000
+    BOUNDRHS UPBROW27684 1297.943390
+    BOUNDRHS UPBROW27685 34.156400
+    BOUNDRHS UPBROW27686 519.000000
+    BOUNDRHS UPBROW27687 44.000000
+    BOUNDRHS UPBROW27688 85.000000
+    BOUNDRHS UPBROW27689 355.000000
+    BOUNDRHS UPBROW27690 187.000000
+    BOUNDRHS UPBROW27691 2735.000000
+    BOUNDRHS UPBROW27692 264.000000
+    BOUNDRHS UPBROW27693 500.000000
+    BOUNDRHS UPBROW27694 195.000000
+    FXIMPLICITRHS CF..R.BA -0.000000
+    FXIMPLICITRHS FAT0..J. -209.000000
+    FXIMPLICITRHS BFR...BA 0.000000
+    FXIMPLICITRHS BNL...BA 0.000000
+    BOUNDRHS UPBROW27695 525.000000
+    BOUNDRHS UPBROW27696 69.000000
+    BOUNDRHS UPBROW27697 66.000000
+    BOUNDRHS UPBROW27698 14.000000
+    BOUNDRHS UPBROW27699 56.000000
+    BOUNDRHS UPBROW27700 239.000000
+    BOUNDRHS UPBROW27701 75.000000
+    BOUNDRHS UPBROW27702 121.000000
+    BOUNDRHS UPBROW27703 12.000000
+    BOUNDRHS UPBROW27704 37.000000
+    BOUNDRHS UPBROW27705 2.000000
+    BOUNDRHS UPBROW27706 36.000000
+    BOUNDRHS UPBROW27707 36.000000
+    BOUNDRHS UPBROW27708 6.000000
+    BOUNDRHS UPBROW27709 150.000000
+    BOUNDRHS LOBROW27710 385.000000
+    BOUNDRHS LOBROW27711 0.000000
+    FXIMPLICITRHS BDH...BA 2.000000
+    FXIMPLICITRHS BFY...BA 54.000000
+    FXIMPLICITRHS BNI...BA 4.000000
+    FXIMPLICITRHS BOL...U3 165.000000
+    BOUNDRHS LOBROW27712 0.000000
+    FXIMPLICITRHS BOL...EZ 19.000000
+    BOUNDRHS UPBROW27713 75.000000
+    BOUNDRHS UPBROW27714 235.000000
+    BOUNDRHS UPBROW27715 1850.000000
+    FXIMPLICITRHS CF..G.EH -0.000000
+    FXIMPLICITRHS BFR...EH 0.000000
+    FXIMPLICITRHS BNL...EH 0.000000
+    BOUNDRHS UPBROW27716 270.000000
+    BOUNDRHS UPBROW27717 25.000000
+    BOUNDRHS UPBROW27718 225.000000
+    BOUNDRHS UPBROW27719 5.000000
+    BOUNDRHS UPBROW27720 782.000000
+    BOUNDRHS UPBROW27721 46.000000
+    BOUNDRHS UPBROW27722 78.000000
+    BOUNDRHS UPBROW27723 175.000000
+    BOUNDRHS UPBROW27724 43.000000
+    BOUNDRHS UPBROW27725 334.000000
+    BOUNDRHS UPBROW27726 32.000000
+    BOUNDRHS UPBROW27727 60.000000
+    BOUNDRHS UPBROW27728 4.000000
+    BOUNDRHS UPBROW27729 118.000000
+    BOUNDRHS UPBROW27730 42.000000
+    BOUNDRHS UPBROW27731 16.000000
+    BOUNDRHS LOBROW27732 0.000000
+    BOUNDRHS UPBROW27733 22.000000
+    BOUNDRHS UPBROW27734 34.000000
+    FXIMPLICITRHS BDH...EH -56.000000
+    FXIMPLICITRHS BFV...EH -35.000000
+    FXIMPLICITRHS BGP...EH -8.000000
+    BOUNDRHS UPBROW27735 150.000000
+    BOUNDRHS LOBROW27736 20.000000
+    BOUNDRHS LOBROW27737 27.000000
+    BOUNDRHS UPBROW27738 115.000000
+    BOUNDRHS UPBROW27739 501.000000
+    BOUNDRHS UPBROW27740 6715.000000
+    BOUNDRHS UPBROW27741 55.000000
+    BOUNDRHS UPBROW27742 710.000000
+    BOUNDRHS UPBROW27743 25.000000
+    FXIMPLICITRHS CF..R.EM -0.000000
+    FXIMPLICITRHS BFR...EM 0.000000
+    FXIMPLICITRHS BNL...EM 0.000000
+    BOUNDRHS UPBROW27744 700.000000
+    BOUNDRHS UPBROW27745 13.000000
+    BOUNDRHS UPBROW27746 1384.000000
+    BOUNDRHS UPBROW27747 218.000000
+    BOUNDRHS UPBROW27748 185.000000
+    BOUNDRHS UPBROW27749 29.000000
+    BOUNDRHS UPBROW27750 1192.000000
+    BOUNDRHS UPBROW27751 362.000000
+    BOUNDRHS UPBROW27752 748.000000
+    BOUNDRHS UPBROW27753 222.000000
+    BOUNDRHS LOBROW27754 0.000000
+    BOUNDRHS UPBROW27755 98.000000
+    BOUNDRHS UPBROW27756 1.000000
+    BOUNDRHS UPBROW27757 18.000000
+    BOUNDRHS UPBROW27758 244.000000
+    BOUNDRHS UPBROW27759 1.000000
+    BOUNDRHS UPBROW27760 93.000000
+    BOUNDRHS UPBROW27761 42.000000
+    BOUNDRHS UPBROW27762 4.000000
+    BOUNDRHS UPBROW27763 61.000000
+    BOUNDRHS UPBROW27764 96.000000
+    FXIMPLICITRHS BDH...EM -65.000000
+    FXIMPLICITRHS BFV...EM -65.000000
+    FXIMPLICITRHS BGP...EM -19.000000
+    BOUNDRHS UPBROW27765 46.000000
+    BOUNDRHS LOBROW27766 45.000000
+    BOUNDRHS LOBROW27767 60.000000
+    FXIMPLICITRHS BLG...EM -22.000000
+    FXIMPLICITRHS BOL...EM -18.000000
+    BOUNDRHS UPBROW27768 430.000000
+    BOUNDRHS UPBROW27769 1098.000000
+    BOUNDRHS UPBROW27770 9820.000000
+    BOUNDRHS UPBROW27771 130.000000
+    BOUNDRHS UPBROW27772 65.000000
+    BOUNDRHS UPBROW27773 1380.000000
+    BOUNDRHS UPBROW27774 75.000000
+    BOUNDRHS UPBROW27775 5.000000
+    BOUNDRHS UPBROW27776 1135.000000
+    BOUNDRHS UPBROW27777 22.000000
+    BOUNDRHS UPBROW27778 2758.000000
+    BOUNDRHS UPBROW27779 345.000000
+    BOUNDRHS UPBROW27780 488.000000
+    BOUNDRHS UPBROW27781 602.000000
+    BOUNDRHS UPBROW27782 733.000000
+    BOUNDRHS UPBROW27783 413.000000
+    BOUNDRHS UPBROW27784 1401.000000
+    BOUNDRHS UPBROW27785 250.000000
+    BOUNDRHS UPBROW27786 224.000000
+    BOUNDRHS UPBROW27787 1.000000
+    BOUNDRHS UPBROW27788 22.000000
+    BOUNDRHS UPBROW27789 473.000000
+    BOUNDRHS UPBROW27790 1.000000
+    BOUNDRHS UPBROW27791 158.000000
+    BOUNDRHS UPBROW27792 74.000000
+    BOUNDRHS UPBROW27793 3.000000
+    BOUNDRHS UPBROW27794 102.000000
+    BOUNDRHS UPBROW27795 159.000000
+    FXIMPLICITRHS BDH...EZ -262.000000
+    FXIMPLICITRHS BFV...EZ -161.000000
+    FXIMPLICITRHS BGP...EZ -39.000000
+    BOUNDRHS UPBROW27796 100.000000
+    BOUNDRHS UPBROW27797 150.000000
+    BOUNDRHS UPBROW27798 95.000000
+    BOUNDRHS UPBROW27799 181.000000
+    BOUNDRHS LOBROW27800 77.000000
+    BOUNDRHS LOBROW27801 101.000000
+    BOUNDRHS UPBROW27802 437.000000
+    BOUNDRHS UPBROW27803 5610.000000
+    BOUNDRHS UPBROW27804 815.000000
+    BOUNDRHS UPBROW27805 535.000000
+    BOUNDRHS UPBROW27806 35.000000
+    BOUNDRHS UPBROW27807 385.000000
+    BOUNDRHS UPBROW27808 1120.000000
+    BOUNDRHS UPBROW27809 78.000000
+    BOUNDRHS UPBROW27810 750.000000
+    BOUNDRHS UPBROW27811 557.000000
+    BOUNDRHS UPBROW27812 866.000000
+    BOUNDRHS UPBROW27813 257.000000
+    BOUNDRHS UPBROW27814 577.000000
+    BOUNDRHS UPBROW27815 502.000000
+    BOUNDRHS UPBROW27816 322.000000
+    BOUNDRHS UPBROW27817 610.000000
+    BOUNDRHS UPBROW27818 470.000000
+    BOUNDRHS UPBROW27819 35.000000
+    BOUNDRHS UPBROW27820 533.000000
+    BOUNDRHS UPBROW27821 267.000000
+    BOUNDRHS UPBROW27822 90.000000
+    BOUNDRHS UPBROW27823 38.000000
+    BOUNDRHS UPBROW27824 21.000000
+    BOUNDRHS UPBROW27825 25.000000
+    FXIMPLICITRHS BLG...JP -372.000000
+    FXIMPLICITRHS BFO...JP -403.008000
+    FXIMPLICITRHS BNL...JP -29.000000
+    FXIMPLICITRHS BNP...JP -57.000000
+    BOUNDRHS LOBROW27826 44.000000
+    BOUNDRHS LOBROW27827 58.000000
+    FXIMPLICITRHS BLG...PG 290.000000
+    BOUNDRHS UPBROW27828 50.000000
+    BOUNDRHS UPBROW27829 20.000000
+    BOUNDRHS UPBROW27830 38.000000
+    BOUNDRHS UPBROW27831 20.000000
+    FXIMPLICITRHS BLG...U3 -164.000000
+    BOUNDRHS UPBROW27832 50.000000
+    BOUNDRHS UPBROW27833 18.000000
+    BOUNDRHS UPBROW27834 18.000000
+    BOUNDRHS UPBROW27835 36.000000
+    FXIMPLICITRHS BGP...PG 18.000000
+    BOUNDRHS UPBROW27836 53.000000
+    FXIMPLICITRHS BDH...PG 115.000000
+    FXIMPLICITRHS BDP...PG 28.000000
+    FXIMPLICITRHS BFY...PG 0.000000
+    FXIMPLICITRHS BNJ...PG 24.000000
+    FXIMPLICITRHS BNP...PG 17.000000
+    BOUNDRHS UPBROW27837 243.000000
+    BOUNDRHS UPBROW27838 3285.000000
+    BOUNDRHS UPBROW27839 122.000000
+    BOUNDRHS UPBROW27840 55.000000
+    BOUNDRHS UPBROW27841 215.000000
+    BOUNDRHS UPBROW27842 330.000000
+    BOUNDRHS UPBROW27843 15.000000
+    BOUNDRHS UPBROW27844 25.000000
+    BOUNDRHS UPBROW27845 620.000000
+    BOUNDRHS UPBROW27846 100.000000
+    BOUNDRHS UPBROW27847 383.000000
+    BOUNDRHS UPBROW27848 661.000000
+    BOUNDRHS UPBROW27849 1209.000000
+    BOUNDRHS UPBROW27850 460.000000
+    BOUNDRHS UPBROW27851 87.000000
+    BOUNDRHS UPBROW27852 42.000000
+    BOUNDRHS UPBROW27853 126.000000
+    BOUNDRHS UPBROW27854 10.000000
+    BOUNDRHS LOBROW27855 1141.000000
+    BOUNDRHS LOBROW27856 979.000000
+    BOUNDRHS LOBROW27857 525.000000
+    BOUNDRHS LOBROW27858 15.000000
+    BOUNDRHS UPBROW27859 54.000000
+    BOUNDRHS UPBROW27860 930.000000
+    BOUNDRHS UPBROW27861 21.000000
+    BOUNDRHS UPBROW27862 30.000000
+    BOUNDRHS UPBROW27863 55.000000
+    BOUNDRHS UPBROW27864 160.000000
+    BOUNDRHS UPBROW27865 77.000000
+    BOUNDRHS UPBROW27866 30.000000
+    BOUNDRHS UPBROW27867 235.000000
+    BOUNDRHS UPBROW27868 41.000000
+    BOUNDRHS UPBROW27869 5.000000
+    BOUNDRHS LOBROW27870 0.000000
+    BOUNDRHS UPBROW27871 7.000000
+    BOUNDRHS UPBROW27872 7.000000
+    BOUNDRHS UPBROW27873 7.000000
+    BOUNDRHS UPBROW27874 8.000000
+    BOUNDRHS UPBROW27875 143.000000
+    BOUNDRHS UPBROW27876 50.000000
+    BOUNDRHS UPBROW27877 141.000000
+    BOUNDRHS UPBROW27878 47.000000
+    BOUNDRHS UPBROW27879 34.000000
+    BOUNDRHS UPBROW27880 650.000000
+    BOUNDRHS UPBROW27881 1738.000000
+    BOUNDRHS UPBROW27882 150.000000
+    BOUNDRHS UPBROW27883 60.000000
+    BOUNDRHS UPBROW27884 84.000000
+    BOUNDRHS UPBROW27885 375.000000
+    FXIMPLICITRHS CF..R.U1 -0.000000
+    FXIMPLICITRHS BFR...U1 0.000000
+    FXIMPLICITRHS BNL...U1 0.000000
+    BOUNDRHS UPBROW27886 530.000000
+    BOUNDRHS UPBROW27887 9.000000
+    BOUNDRHS UPBROW27888 1697.000000
+    BOUNDRHS UPBROW27889 463.000000
+    BOUNDRHS UPBROW27890 540.000000
+    BOUNDRHS UPBROW27891 689.000000
+    BOUNDRHS UPBROW27892 452.000000
+    BOUNDRHS UPBROW27893 91.000000
+    BOUNDRHS UPBROW27894 2469.000000
+    BOUNDRHS UPBROW27895 190.000000
+    BOUNDRHS UPBROW27896 32.000000
+    BOUNDRHS UPBROW27897 49.000000
+    BOUNDRHS UPBROW27898 86.000000
+    BOUNDRHS UPBROW27899 1.000000
+    BOUNDRHS UPBROW27900 124.000000
+    BOUNDRHS UPBROW27901 75.000000
+    BOUNDRHS UPBROW27902 4.000000
+    BOUNDRHS UPBROW27903 4.000000
+    BOUNDRHS UPBROW27904 104.000000
+    FXIMPLICITRHS BDH...U1 -21.000000
+    FXIMPLICITRHS BDK...U1 -17.000000
+    FXIMPLICITRHS KDK...U1 -17.000000
+    FXIMPLICITRHS BGP...U1 -17.000000
+    FXIMPLICITRHS BFS...U1 -25.000000
+    FXIMPLICITRHS CFT.C.U1 -0.000000
+    FXIMPLICITRHS CTF.D.U1 -0.000000
+    FXIMPLICITRHS KMC0.... 0.000000
+    FXIMPLICITRHS KMC5.... 0.000000
+    FXIMPLICITRHS KHS...U1 0.000000
+    FXIMPLICITRHS CF..K.U1 -0.000000
+    BOUNDRHS UPBROW27905 50.000000
+    BOUNDRHS UPBROW27906 1081.000000
+    BOUNDRHS UPBROW27907 185.000000
+    BOUNDRHS UPBROW27908 26.000000
+    BOUNDRHS LOBROW27909 30.000000
+    BOUNDRHS LOBROW27910 37.000000
+    FXIMPLICITRHS BLG...U1 -75.000000
+    BOUNDRHS LOBROW27911 160.000000
+    BOUNDRHS LOBROW27912 60.000000
+    BOUNDRHS UPBROW27913 31.000000
+    FXIMPLICITRHS BLG...EZ 50.000000
+    FXIMPLICITRHS BLG...VE 28.000000
+    BOUNDRHS UPBROW27914 384.000000
+    BOUNDRHS UPBROW27915 4355.000000
+    BOUNDRHS UPBROW27916 11889.000000
+    BOUNDRHS UPBROW27917 485.000000
+    BOUNDRHS UPBROW27918 415.000000
+    BOUNDRHS UPBROW27919 732.000000
+    BOUNDRHS UPBROW27920 2575.000000
+    BOUNDRHS UPBROW27921 115.000000
+    BOUNDRHS UPBROW27922 2580.000000
+    BOUNDRHS UPBROW27923 71.000000
+    BOUNDRHS UPBROW27924 500.000000
+    BOUNDRHS UPBROW27925 2202.000000
+    BOUNDRHS UPBROW27926 398.000000
+    BOUNDRHS UPBROW27927 112.000000
+    BOUNDRHS UPBROW27928 363.000000
+    BOUNDRHS UPBROW27929 269.000000
+    BOUNDRHS UPBROW27930 3789.000000
+    BOUNDRHS UPBROW27931 1333.000000
+    BOUNDRHS UPBROW27932 179.000000
+    BOUNDRHS UPBROW27933 72.000000
+    BOUNDRHS UPBROW27934 246.000000
+    BOUNDRHS UPBROW27935 1.000000
+    BOUNDRHS UPBROW27936 306.000000
+    BOUNDRHS UPBROW27937 96.000000
+    BOUNDRHS UPBROW27938 46.000000
+    BOUNDRHS UPBROW27939 38.000000
+    BOUNDRHS UPBROW27940 142.000000
+    FXIMPLICITRHS BFY...U3 -88.000000
+    FXIMPLICITRHS BNI...U3 -36.000000
+    FXIMPLICITRHS CFT.C.U3 -0.000000
+    FXIMPLICITRHS BFR...U3 0.000000
+    FXIMPLICITRHS CTF.D.U3 -0.000000
+    FXIMPLICITRHS KHS...U3 0.000000
+    FXIMPLICITRHS CF..K.U3 -0.000000
+    BOUNDRHS UPBROW27941 50.000000
+    BOUNDRHS UPBROW27942 5350.000000
+    FXIMPLICITRHS KLX...U3 220.000000
+    FXIMPLICITRHS BCR...U3 -175.000000
+    BOUNDRHS UPBROW27943 1174.000000
+    BOUNDRHS UPBROW27944 2480.000000
+    BOUNDRHS UPBROW27945 62.000000
+    BOUNDRHS UPBROW27946 675.000000
+    BOUNDRHS UPBROW27947 2628.000000
+    BOUNDRHS UPBROW27948 185.000000
+    BOUNDRHS UPBROW27949 330.000000
+    BOUNDRHS UPBROW27950 388.000000
+    BOUNDRHS UPBROW27951 580.000000
+    BOUNDRHS UPBROW27952 20.000000
+    BOUNDRHS UPBROW27953 800.000000
+    BOUNDRHS UPBROW27954 7.000000
+    BOUNDRHS UPBROW27955 360.000000
+    BOUNDRHS UPBROW27956 300.000000
+    BOUNDRHS UPBROW27957 509.000000
+    BOUNDRHS UPBROW27958 61.000000
+    BOUNDRHS UPBROW27959 80.000000
+    BOUNDRHS UPBROW27960 1109.000000
+    BOUNDRHS UPBROW27961 60.000000
+    BOUNDRHS UPBROW27962 22.000000
+    BOUNDRHS UPBROW27963 49.000000
+    BOUNDRHS UPBROW27964 11.000000
+    BOUNDRHS UPBROW27965 1.000000
+    BOUNDRHS UPBROW27966 70.000000
+    BOUNDRHS UPBROW27967 17.000000
+    BOUNDRHS UPBROW27968 1.000000
+    BOUNDRHS UPBROW27969 6.000000
+    BOUNDRHS UPBROW27970 40.000000
+    FXIMPLICITRHS CTF.D.U5 -0.000000
+    FXIMPLICITRHS BFR...U5 0.000000
+    FXIMPLICITRHS KHS...U5 0.000000
+    FXIMPLICITRHS CF..K.U5 -0.000000
+    BOUNDRHS UPBROW27971 50.000000
+    BOUNDRHS UPBROW27972 1939.000000
+    BOUNDRHS UPBROW27973 87.000000
+    BOUNDRHS UPBROW27974 20.000000
+    BOUNDRHS UPBROW27975 486.000000
+    FXIMPLICITRHS BDH...U5 -42.000000
+    FXIMPLICITRHS BDH...U3 42.000000
+    FXIMPLICITRHS BDK...U5 -42.000000
+    FXIMPLICITRHS BDK...U3 42.000000
+    FXIMPLICITRHS BGP...U5 -42.000000
+    FXIMPLICITRHS BGP...U3 42.000000
+    BOUNDRHS UPBROW27976 111.000000
+    BOUNDRHS UPBROW27977 1370.000000
+    BOUNDRHS UPBROW27978 94.000000
+    BOUNDRHS UPBROW27979 205.000000
+    BOUNDRHS UPBROW27980 20.000000
+    FXIMPLICITRHS CF..Q.VE -0.000000
+    FXIMPLICITRHS BFR...VE 0.000000
+    BOUNDRHS UPBROW27981 315.000000
+    BOUNDRHS UPBROW27982 70.000000
+    BOUNDRHS UPBROW27983 20.000000
+    BOUNDRHS UPBROW27984 1.000000
+    BOUNDRHS UPBROW27985 3.000000
+    BOUNDRHS UPBROW27986 78.000000
+    BOUNDRHS LOBROW27987 0.000000
+    BOUNDRHS UPBROW27988 154.000000
+    BOUNDRHS UPBROW27989 23.000000
+    BOUNDRHS UPBROW27990 15.000000
+    BOUNDRHS UPBROW27991 7.000000
+    BOUNDRHS UPBROW27992 12.000000
+    BOUNDRHS UPBROW27993 3.000000
+    FXIMPLICITRHS CF..G.VE -0.000000
+    FXIMPLICITRHS BNL...VE 0.000000
+    BOUNDRHS UPBROW27994 50.000000
+    FXIMPLICITRHS BFY...VE -0.000000
+    BOUNDRHS UPBROW27995 80.000000
+    BOUNDRHS UPBROW27996 230.000000
+    FXIMPLICITRHS BLG...AW -0.000000
+    FXIMPLICITRHS BNL...AW -0.000000
+    FXIMPLICITRHS BNP...AW -0.000000
+    BOUNDRHS UPBROW27997 664.000000
+    BOUNDRHS LOBROW27998 0.000000
+    BOUNDRHS LOBROW27999 0.000000
+    BOUNDRHS LOBROW28000 0.000000
+BOUNDS
+ENDATA
